@@ -1,32 +1,45 @@
 {
   "main": {
-    "id": "00d26a5a4404f8f6",
+    "id": "19d0b5bd23710cf5",
     "type": "split",
     "children": [
       {
-        "id": "ddbe00cec010c8ca",
+        "id": "e48e8b5cbca1e86e",
         "type": "leaf",
         "state": {
-          "type": "markdown",
-          "state": {
-            "file": "WHALECUM💦.md",
-            "mode": "source"
-          }
+          "type": "graph",
+          "state": {}
         }
       }
     ],
     "direction": "vertical"
   },
   "left": {
-    "id": "44fa08af01d1e1f2",
+    "id": "81a34302c38be59b",
     "type": "split",
     "children": [
       {
-        "id": "8d3839b2caf595f9",
+        "id": "48c753e4f03d5a9d",
         "type": "tabs",
+        "dimension": 52.3972602739726,
         "children": [
           {
-            "id": "17b4489c7a4ab860",
+            "id": "dba9270d72de1768",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {}
+            }
+          }
+        ]
+      },
+      {
+        "id": "e3760d246d66ab13",
+        "type": "tabs",
+        "dimension": 47.6027397260274,
+        "children": [
+          {
+            "id": "d60950a7e805e694",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -34,7 +47,7 @@
             }
           },
           {
-            "id": "1625584834bf44de",
+            "id": "81ed671b4a9410ee",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -52,23 +65,22 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 338
   },
   "right": {
-    "id": "d6f61973bf5b2b3f",
+    "id": "c6f76388cf462d35",
     "type": "split",
     "children": [
       {
-        "id": "fead437a7692e7a1",
+        "id": "07ba8e99a3da7f26",
         "type": "tabs",
         "children": [
           {
-            "id": "b485ac72742aa20c",
+            "id": "bca715727b1baabb",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "WHALECUM💦.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -80,7 +92,7 @@
             }
           },
           {
-            "id": "badbf43f0b25c9fb",
+            "id": "de3a3985bc5fd0b4",
             "type": "leaf",
             "state": {
               "type": "calendar",
@@ -94,17 +106,12 @@
     "direction": "horizontal",
     "width": 300
   },
-  "active": "ddbe00cec010c8ca",
+  "active": "e48e8b5cbca1e86e",
   "lastOpenFiles": [
-    "WHALECUM💦.md",
-    "Plugin Tips/Plugins & Features.md",
-    "Plugin Tips/Admonition Demonstration.md",
-    "Calender/Weekly Notes.md",
-    "Calender/2021-10-29.md",
-    "Life/Life in general.md",
-    "Calender/2021-W45.md",
-    "CAS/CAS.md",
-    "DP Physics/Physics Placeholder.md",
-    "DP Economics/Econ Placeholder.md"
+    "School Notes/WHALECUM💦.md",
+    "README.md",
+    "School Notes/Calender/Weekly Notes.md",
+    "School Notes/Calender/2021-W45.md",
+    "School Notes/Calender/2021-10-29.md"
   ]
 }
