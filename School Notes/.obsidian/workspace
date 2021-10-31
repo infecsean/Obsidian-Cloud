@@ -13,6 +13,17 @@
             "mode": "source"
           }
         }
+      },
+      {
+        "id": "7534f409f0a9e1f9",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "DP Physics/Mechanics/3. Work, Energy, Power/Energy.md",
+            "mode": "preview"
+          }
+        }
       }
     ],
     "direction": "vertical"
@@ -52,7 +63,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "d6f61973bf5b2b3f",
@@ -92,15 +104,16 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "active": "ddbe00cec010c8ca",
   "lastOpenFiles": [
     "DP Physics/Mechanics/3. Work, Energy, Power/Energy.md",
-    "DP Physics/Mechanics/Physics Overview.md",
-    "WHALECUM💦.md",
     "DP Physics/Mechanics/SYMBOLS.md",
     "DP Physics/Mechanics/3. Work, Energy, Power/Work.md",
+    "DP Physics/Mechanics/Physics Overview.md",
+    "WHALECUM💦.md",
     "Life/Life in general.md",
     "CAS/CAS.md",
     "DP Physics/Measurements/Measurements.md",
