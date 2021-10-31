@@ -1,7 +1,7 @@
 # Energy
 ---
 ### Kinetic Energy 
-- The **Kinetic energy** of a rigid object is its energy of motion and is defined as EK=1/2mv^2, where m is its mass and v its speed.
+- The **Kinetic energy** of a rigid object is its energy of motion and is defined as $KE=\frac 12 mv^2$, where m is its mass and v its speed.
 ```ad-example
 title: Example
 An object going from 5 to 7 m.s and from 9 to 11 m.s has different kinetic energy, since $$\frac 12 * m * (7^2 - 5^2)$$ is less than $$\frac 12 * m * (11^2 - 9^2)$$
