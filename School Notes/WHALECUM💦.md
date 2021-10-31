@@ -11,7 +11,7 @@ Hello cumrats this is my mind map
 - [[Econ Placeholder]]
  <br>
 ### DP Physics 💧
-- [[Physics Placeholder]]
+- [[Physics Overview]]
  <br>
 ### DP English LL 🙂
 - [[English Placeholder]]
