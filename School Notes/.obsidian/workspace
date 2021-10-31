@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "DP Physics/Mechanics/Work, Energy, Power/Work.md",
+            "file": "DP Physics/Mechanics/3. Work, Energy, Power/Energy.md",
             "mode": "source"
           }
         }
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "DP Physics/Mechanics/Work, Energy, Power/Work.md",
+                "file": "DP Physics/Mechanics/3. Work, Energy, Power/Energy.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -96,15 +96,15 @@
   },
   "active": "ddbe00cec010c8ca",
   "lastOpenFiles": [
-    "DP Physics/Mechanics/Work, Energy, Power/Work.md",
-    "WHALECUM💦.md",
+    "DP Physics/Mechanics/3. Work, Energy, Power/Energy.md",
     "DP Physics/Mechanics/Physics Overview.md",
+    "WHALECUM💦.md",
+    "DP Physics/Mechanics/SYMBOLS.md",
+    "DP Physics/Mechanics/3. Work, Energy, Power/Work.md",
     "Life/Life in general.md",
     "CAS/CAS.md",
     "DP Physics/Measurements/Measurements.md",
     "Plugin Tips/Plugins & Features.md",
-    "Plugin Tips/Admonition Demonstration.md",
-    "Calender/Weekly Notes.md",
-    "Calender/2021-10-29.md"
+    "Plugin Tips/Admonition Demonstration.md"
   ]
 }

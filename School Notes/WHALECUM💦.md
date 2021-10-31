@@ -24,6 +24,11 @@ Hello cumrats this is my mind map
 <br>
 
 # Obsidian
+### Tools 🔨
+- [Mermaid](https://mermaid-js.github.io/mermaid-live-editor/edit)
+	- Mermaid is for diagrams and charts
+	- 
+
 ### Plugin Tips
 - ##### Admonition Plugin
 ```ad-note
@@ -34,4 +39,4 @@ this shit right here
 ### Other Shit
 - ##### idk
 - what the fuck test
-- cun
+
