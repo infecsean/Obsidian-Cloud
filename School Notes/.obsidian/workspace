@@ -80,15 +80,14 @@
             }
           },
           {
-            "id": "c11eeb8a3e136177",
+            "id": "6e7cd65551f3d900",
             "type": "leaf",
             "state": {
               "type": "calendar",
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
