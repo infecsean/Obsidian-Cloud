@@ -63,8 +63,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "d6f61973bf5b2b3f",
@@ -110,8 +109,8 @@
   "active": "ddbe00cec010c8ca",
   "lastOpenFiles": [
     "DP Physics/Mechanics/3. Work, Energy, Power/Energy.md",
-    "DP Physics/Mechanics/SYMBOLS.md",
     "DP Physics/Mechanics/3. Work, Energy, Power/Work.md",
+    "DP Physics/Mechanics/SYMBOLS.md",
     "DP Physics/Mechanics/Physics Overview.md",
     "WHALECUM💦.md",
     "Life/Life in general.md",

@@ -11,4 +11,14 @@ An object going from 5 to 7 m.s and from 9 to 11 m.s has different kinetic energ
 
 ### Potential Energy
 - Gravitational Potential Energy: Assuming that up is positive, the gravitational potential energy of an object will be -mgΔh, where m is the mass, g is the magnitude of the gravitational field strength (9.81 N.kg^-1) 
-- Elastic Potential Energy: 
+
+
+- Elastic Potential Energy: W = ΔEPE
+```ad-warning
+title: Assumptions
+1. Height is constant
+2. Frictionless
+3. Constant Speed (No change in KE)
+```
+```ad-info
+title: Hooke's Law
