@@ -1,7 +1,7 @@
 # Work
 ```ad-note
 title: Definition
-### Work is the amount of [[energy]] transferred when a force moves an object a certain amount of distance
+Work is the amount of [[energy]] transferred when a force moves an object a certain amount of distance
 
 Unit: Joules, N.m
 ```
