@@ -1,0 +1,110 @@
+{
+  "main": {
+    "id": "00d26a5a4404f8f6",
+    "type": "split",
+    "children": [
+      {
+        "id": "ddbe00cec010c8ca",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "WHALECUM💦.md",
+            "mode": "source"
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "44fa08af01d1e1f2",
+    "type": "split",
+    "children": [
+      {
+        "id": "8d3839b2caf595f9",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "17b4489c7a4ab860",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "1625584834bf44de",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "d6f61973bf5b2b3f",
+    "type": "split",
+    "children": [
+      {
+        "id": "fead437a7692e7a1",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "b485ac72742aa20c",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "WHALECUM💦.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "c11eeb8a3e136177",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "active": "ddbe00cec010c8ca",
+  "lastOpenFiles": [
+    "WHALECUM💦.md",
+    "Plugin Tips/Plugins & Features.md",
+    "Plugin Tips/Admonition Demonstration.md",
+    "Calender/Weekly Notes.md",
+    "Calender/2021-10-29.md",
+    "Life/Life in general.md",
+    "Calender/2021-W45.md",
+    "CAS/CAS.md",
+    "DP Physics/Physics Placeholder.md",
+    "DP Economics/Econ Placeholder.md"
+  ]
+}

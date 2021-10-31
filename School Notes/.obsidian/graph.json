@@ -1,0 +1,72 @@
+{
+  "collapse-filter": true,
+  "search": "",
+  "showTags": false,
+  "showAttachments": false,
+  "hideUnresolved": false,
+  "showOrphans": true,
+  "collapse-color-groups": true,
+  "colorGroups": [
+    {
+      "query": "path:\"DP Economics\"",
+      "color": {
+        "a": 1,
+        "rgb": 14725458
+      }
+    },
+    {
+      "query": "path:\"DP Physics\"",
+      "color": {
+        "a": 1,
+        "rgb": 2219619
+      }
+    },
+    {
+      "query": "path:\"DP Computer Science\"",
+      "color": {
+        "a": 1,
+        "rgb": 16711680
+      }
+    },
+    {
+      "query": "path:\"DP English LL\"",
+      "color": {
+        "a": 1,
+        "rgb": 3292903
+      }
+    },
+    {
+      "query": "path:\"DP Math\"",
+      "color": {
+        "a": 1,
+        "rgb": 16711867
+      }
+    },
+    {
+      "query": "path:\"Day Planners\"",
+      "color": {
+        "a": 1,
+        "rgb": 5395168
+      }
+    },
+    {
+      "query": "path:Life",
+      "color": {
+        "a": 1,
+        "rgb": 5431473
+      }
+    }
+  ],
+  "collapse-display": true,
+  "showArrow": false,
+  "textFadeMultiplier": -0.2,
+  "nodeSizeMultiplier": 1.71304754273504,
+  "lineSizeMultiplier": 1.5213141025641,
+  "collapse-forces": true,
+  "centerStrength": 0.775719803370787,
+  "repelStrength": 9.43293539325843,
+  "linkStrength": 1,
+  "linkDistance": 500,
+  "scale": 1.5204108763401312,
+  "close": false
+}
