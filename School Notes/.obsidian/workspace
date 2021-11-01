@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "DP Physics/Mechanics/1. Motion/Velocity and Speed.md",
+            "file": "DP Physics/Mechanics/1. Motion/Acceleration.md",
             "mode": "source"
           }
         },
@@ -21,7 +21,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "DP Physics/Mechanics/1. Motion/Velocity and Speed.md",
+            "file": "DP Physics/Mechanics/1. Motion/Acceleration.md",
             "mode": "preview"
           }
         },
@@ -81,7 +81,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "DP Physics/Mechanics/1. Motion/Velocity and Speed.md",
+                "file": "DP Physics/Mechanics/1. Motion/Acceleration.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -109,15 +109,15 @@
   },
   "active": "ddbe00cec010c8ca",
   "lastOpenFiles": [
-    "DP Physics/Mechanics/1. Motion/Velocity and Speed.md",
+    "DP Physics/Mechanics/1. Motion/Acceleration.md",
+    "DP Physics/Mechanics/SYMBOLS.md",
     "DP Physics/Mechanics/1. Motion/Displacement and Distance.md",
+    "DP Physics/Mechanics/1. Motion/Velocity and Speed.md",
+    "DP Physics/Mechanics/Physics Overview.md",
     "DP Physics/Mechanics/3. Work, Energy, Power/Energy.md",
     "DP Physics/Mechanics/3. Work, Energy, Power/Work.md",
     "DP Physics/Mechanics/4. Momentum and Impulse/Conservation of energy.md",
     "Day Planners/Day Planner-20211101.md",
-    "DP Physics/Mechanics/4. Momentum and Impulse/Momentum.md",
-    "DP Physics/Mechanics/Attachments/Screenshot 2021-10-31 205336.png",
-    "WHALECUM💦.md",
-    "Plugin Tips/Plugins & Features.md"
+    "DP Physics/Mechanics/4. Momentum and Impulse/Momentum.md"
   ]
 }
