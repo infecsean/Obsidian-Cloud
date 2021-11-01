@@ -5,3 +5,4 @@ What | Symbol|Definition
 -----|-----|----
 Delta | Δ | Change
 Theta | θ | The angle
+Mu | μ | Varies

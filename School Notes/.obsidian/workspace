@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Day Planners/Day Planner-20211101.md",
+            "file": "DP Physics/Mechanics/2. Forces/Friction.md",
             "mode": "source"
           }
         },
@@ -21,7 +21,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Day Planners/Day Planner-20211101.md",
+            "file": "DP Physics/Mechanics/2. Forces/Friction.md",
             "mode": "preview"
           }
         },
@@ -81,7 +81,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Day Planners/Day Planner-20211101.md",
+                "file": "DP Physics/Mechanics/2. Forces/Friction.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -109,15 +109,15 @@
   },
   "active": "ddbe00cec010c8ca",
   "lastOpenFiles": [
-    "Day Planners/Day Planner-20211101.md",
+    "DP Physics/Mechanics/2. Forces/Friction.md",
     "DP Physics/Mechanics/2. Forces/Newton's First Law.md",
     "DP Physics/Mechanics/2. Forces/Newton's second Law.md",
+    "DP Physics/Mechanics/SYMBOLS.md",
     "DP Physics/Mechanics/2. Forces/Force.md",
-    "DP Physics/Mechanics/1. Motion/Acceleration.md",
+    "DP Physics/Mechanics/3. Work, Energy, Power/Energy.md",
+    "DP Physics/Mechanics/4. Momentum and Impulse/Conservation of energy.md",
+    "DP Physics/Mechanics/4. Momentum and Impulse/Momentum.md",
     "DP Physics/Mechanics/1. Motion/Velocity and Speed.md",
-    "DP Physics/Mechanics/1. Motion/Displacement and Distance.md",
-    "DP Physics/Mechanics/3. Work, Energy, Power/Work.md",
-    "WHALECUM💦.md",
-    "Plugin Tips/Admonition Demonstration.md"
+    "DP Physics/Mechanics/1. Motion/Displacement and Distance.md"
   ]
 }
