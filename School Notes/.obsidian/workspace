@@ -7,11 +7,25 @@
         "id": "ddbe00cec010c8ca",
         "type": "leaf",
         "state": {
-          "type": "image",
+          "type": "markdown",
           "state": {
-            "file": "DP Physics/Mechanics/Attachments/Screenshot 2021-10-31 205336.png"
+            "file": "DP Physics/Mechanics/2. Forces/Friction.md",
+            "mode": "source"
           }
-        }
+        },
+        "group": "71f7e8530f8fabc8"
+      },
+      {
+        "id": "7b3683c5e16f06e0",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "DP Physics/Mechanics/2. Forces/Friction.md",
+            "mode": "preview"
+          }
+        },
+        "group": "71f7e8530f8fabc8"
       }
     ],
     "direction": "vertical"
@@ -67,7 +81,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "DP Physics/Mechanics/Attachments/Screenshot 2021-10-31 205336.png",
+                "file": "DP Physics/Mechanics/2. Forces/Friction.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -95,15 +109,15 @@
   },
   "active": "ddbe00cec010c8ca",
   "lastOpenFiles": [
-    "DP Physics/Mechanics/Attachments/Screenshot 2021-10-31 205336.png",
-    "WHALECUM💦.md",
-    "Plugin Tips/Plugins & Features.md",
-    "Plugin Tips/Admonition Demonstration.md",
-    "Calender/Weekly Notes.md",
-    "Calender/2021-10-29.md",
-    "Life/Life in general.md",
-    "Calender/2021-W45.md",
-    "CAS/CAS.md",
-    "DP Physics/Physics Placeholder.md"
+    "DP Physics/Mechanics/2. Forces/Friction.md",
+    "DP Physics/Mechanics/2. Forces/Newton's First Law.md",
+    "DP Physics/Mechanics/2. Forces/Newton's second Law.md",
+    "DP Physics/Mechanics/SYMBOLS.md",
+    "DP Physics/Mechanics/2. Forces/Force.md",
+    "DP Physics/Mechanics/3. Work, Energy, Power/Energy.md",
+    "DP Physics/Mechanics/4. Momentum and Impulse/Conservation of energy.md",
+    "DP Physics/Mechanics/4. Momentum and Impulse/Momentum.md",
+    "DP Physics/Mechanics/1. Motion/Velocity and Speed.md",
+    "DP Physics/Mechanics/1. Motion/Displacement and Distance.md"
   ]
 }

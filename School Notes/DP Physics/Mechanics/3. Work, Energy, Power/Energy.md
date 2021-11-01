@@ -20,8 +20,10 @@ title: Assumptions
 2. Frictionless
 3. Constant Speed (No change in $E_K$)
 ```
+Elastic Potential Energy Calculated with Hooke's Law
 ```ad-info
 title: Hooke's Law
+collapse: open
 
 The magnitude of the displacement of the spring when stretched or compressed, is proportional to the magnitude of the force.
 Can be written as $$|\vec{F}| = k |Δ\vec{x}|$$, K is the spring constant. Which is its stiffness (measured in N/cm)
@@ -29,3 +31,4 @@ Can be written as $$|\vec{F}| = k |Δ\vec{x}|$$, K is the spring constant. Which
 $$EPE =\frac 12 k |Δ\vec{x}|^2 $$
 
 ![[Screenshot 2021-10-31 205336.png]]
+
