@@ -1,4 +1,5 @@
 ## Day Planner
 - [ ] Finish with English LL oral
-- [ ] Do Physics
+- [ ] Do Physics review
+- [ ] Math
 - [ ] 
