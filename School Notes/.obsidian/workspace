@@ -4,28 +4,12 @@
     "type": "split",
     "children": [
       {
-        "id": "a1cfba3b1a05db4d",
+        "id": "b7945538eac3c767",
         "type": "leaf",
         "state": {
-          "type": "markdown",
-          "state": {
-            "file": "DP Physics/Mechanics/1. Motion/Acceleration.md",
-            "mode": "source"
-          }
-        },
-        "group": "5a3a0e4841249123"
-      },
-      {
-        "id": "b3649164bd5aad9a",
-        "type": "leaf",
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "DP Physics/Mechanics/1. Motion/Acceleration.md",
-            "mode": "preview"
-          }
-        },
-        "group": "5a3a0e4841249123"
+          "type": "empty",
+          "state": {}
+        }
       }
     ],
     "direction": "vertical"
@@ -81,7 +65,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "DP Physics/Mechanics/1. Motion/Acceleration.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -93,32 +76,31 @@
             }
           },
           {
-            "id": "badbf43f0b25c9fb",
+            "id": "6e7cd65551f3d900",
             "type": "leaf",
             "state": {
               "type": "calendar",
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
     "width": 300,
     "collapsed": true
   },
-  "active": "b3649164bd5aad9a",
+  "active": "b7945538eac3c767",
   "lastOpenFiles": [
-    "DP Physics/Mechanics/1. Motion/Acceleration.md",
-    "DP Physics/Measurements/Significant Figures.md",
-    "Day Planners/Day Planner-20211102.md",
     "Day Planners/Day Planner-20211101.md",
-    "DP Computer Science/Computer Science Placeholder.md",
-    "DP Physics/Mechanics/3. Work, Energy, Power/Work.md",
-    "DP Physics/Mechanics/1. Motion/Displacement and Distance.md",
-    "DP Physics/Mechanics/1. Motion/Velocity and Speed.md",
-    "DP Physics/Measurements/Measurements.md",
-    "DP Physics/Mechanics/2. Forces/Newton's First Law.md"
+    "DP Physics/Mechanics/2. Forces/Friction.md",
+    "DP Physics/Mechanics/2. Forces/Newton's First Law.md",
+    "DP Physics/Mechanics/2. Forces/Newton's second Law.md",
+    "DP Physics/Mechanics/SYMBOLS.md",
+    "DP Physics/Mechanics/2. Forces/Force.md",
+    "DP Physics/Mechanics/3. Work, Energy, Power/Energy.md",
+    "DP Physics/Mechanics/4. Momentum and Impulse/Conservation of energy.md",
+    "DP Physics/Mechanics/4. Momentum and Impulse/Momentum.md",
+    "DP Physics/Mechanics/1. Motion/Velocity and Speed.md"
   ]
 }
