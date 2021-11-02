@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Life/Game Dev/General/Enemies.md",
+            "file": "Day Planners/Day Planner-20211102.md",
             "mode": "source"
           }
         },
@@ -21,7 +21,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Life/Game Dev/General/Enemies.md",
+            "file": "Day Planners/Day Planner-20211102.md",
             "mode": "preview"
           }
         },
@@ -81,7 +81,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Life/Game Dev/General/Enemies.md",
+                "file": "Day Planners/Day Planner-20211102.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -107,8 +107,9 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "b7945538eac3c767",
+  "active": "a6fe70e11720203a",
   "lastOpenFiles": [
+    "Day Planners/Day Planner-20211102.md",
     "Life/Game Dev/General/Enemies.md",
     "Life/Game Dev/General/Flow State.md",
     "Life/Life in general.md",
@@ -117,7 +118,6 @@
     "DP Physics/Mechanics/2. Forces/Friction.md",
     "DP Physics/Mechanics/2. Forces/Newton's First Law.md",
     "DP Physics/Mechanics/1. Motion/Velocity and Speed.md",
-    "DP Physics/Mechanics/1. Motion/Acceleration.md",
-    "DP Physics/Mechanics/1. Motion/Displacement and Distance.md"
+    "DP Physics/Mechanics/1. Motion/Acceleration.md"
   ]
 }
