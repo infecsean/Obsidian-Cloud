@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Life/Life in general.md",
+            "file": "Life/Game Dev/General/Enemies.md",
             "mode": "source"
           }
         },
@@ -21,7 +21,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Life/Life in general.md",
+            "file": "Life/Game Dev/General/Enemies.md",
             "mode": "preview"
           }
         },
@@ -81,7 +81,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Life/Life in general.md",
+                "file": "Life/Game Dev/General/Enemies.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,6 +110,7 @@
   },
   "active": "b3649164bd5aad9a",
   "lastOpenFiles": [
+    "Life/Game Dev/General/Enemies.md",
     "Life/Life in general.md",
     "Life/Game Dev/General/Flow State.md",
     "WHALECUM💦.md",
@@ -118,7 +119,6 @@
     "Day Planners/Day Planner-20211102.md",
     "DP Physics/Mechanics/1. Motion/Acceleration.md",
     "DP Physics/Measurements/Significant Figures.md",
-    "Day Planners/Day Planner-20211101.md",
-    "DP Computer Science/Computer Science Placeholder.md"
+    "Day Planners/Day Planner-20211101.md"
   ]
 }
