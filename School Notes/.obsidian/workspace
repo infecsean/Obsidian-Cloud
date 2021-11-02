@@ -9,10 +9,23 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "DP Physics/Mechanics/1. Motion/Velocity and Speed.md",
+            "file": "Life/Game Dev/General/Diegesis.md",
+            "mode": "source"
+          }
+        },
+        "group": "1f880f7d9ea99fdf"
+      },
+      {
+        "id": "a6fe70e11720203a",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Life/Game Dev/General/Diegesis.md",
             "mode": "preview"
           }
-        }
+        },
+        "group": "1f880f7d9ea99fdf"
       }
     ],
     "direction": "vertical"
@@ -68,7 +81,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "DP Physics/Mechanics/1. Motion/Velocity and Speed.md",
+                "file": "Life/Game Dev/General/Diegesis.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -96,15 +109,15 @@
   },
   "active": "b7945538eac3c767",
   "lastOpenFiles": [
+    "Life/Game Dev/General/Diegesis.md",
+    "Life/Life in general.md",
+    "DP Physics/Mechanics/2. Forces/Newton's second Law.md",
+    "DP Physics/Mechanics/2. Forces/Friction.md",
+    "DP Physics/Mechanics/2. Forces/Newton's First Law.md",
     "DP Physics/Mechanics/1. Motion/Velocity and Speed.md",
     "DP Physics/Mechanics/1. Motion/Acceleration.md",
     "DP Physics/Mechanics/1. Motion/Displacement and Distance.md",
     "DP Physics/Measurements/Significant Figures.md",
-    "Day Planners/Day Planner-20211102.md",
-    "Day Planners/Day Planner-20211101.md",
-    "DP Physics/Mechanics/2. Forces/Friction.md",
-    "DP Physics/Mechanics/2. Forces/Newton's First Law.md",
-    "DP Physics/Mechanics/2. Forces/Newton's second Law.md",
-    "DP Physics/Mechanics/SYMBOLS.md"
+    "Day Planners/Day Planner-20211102.md"
   ]
 }
