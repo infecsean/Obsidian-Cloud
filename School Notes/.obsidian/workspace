@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Life/Game Dev/General/Enemies.md",
+            "file": "Life/Game Dev/General/Bad Beginnings.md",
             "mode": "source"
           }
         },
@@ -21,7 +21,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Life/Game Dev/General/Enemies.md",
+            "file": "Life/Game Dev/General/Bad Beginnings.md",
             "mode": "preview"
           }
         },
@@ -81,7 +81,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Life/Game Dev/General/Enemies.md",
+                "file": "Life/Game Dev/General/Bad Beginnings.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -108,8 +108,9 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "b3649164bd5aad9a",
+  "active": "a1cfba3b1a05db4d",
   "lastOpenFiles": [
+    "Life/Game Dev/General/Bad Beginnings.md",
     "Life/Game Dev/General/Enemies.md",
     "Life/Life in general.md",
     "Life/Game Dev/General/Flow State.md",
@@ -118,7 +119,6 @@
     "DP Physics/Mechanics/2. Forces/Newton's second Law.md",
     "Day Planners/Day Planner-20211102.md",
     "DP Physics/Mechanics/1. Motion/Acceleration.md",
-    "DP Physics/Measurements/Significant Figures.md",
-    "Day Planners/Day Planner-20211101.md"
+    "DP Physics/Measurements/Significant Figures.md"
   ]
 }
