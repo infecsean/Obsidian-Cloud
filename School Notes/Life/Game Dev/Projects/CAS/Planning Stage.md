@@ -6,4 +6,7 @@
 - [ ] Global Issue connections
 - [ ] IDK MAYBE COLLABORATIVE
 - [ ] But first ask jonathan
-- [ ] 
+
+
+### Ideas
+- Play papers, please
