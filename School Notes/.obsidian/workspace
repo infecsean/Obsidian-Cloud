@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "CAS/3. Activity.md",
+            "file": "CAS/2. Creativity.md",
             "mode": "source"
           }
         },
@@ -21,7 +21,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "CAS/3. Activity.md",
+            "file": "CAS/2. Creativity.md",
             "mode": "preview"
           }
         },
@@ -81,7 +81,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CAS/3. Activity.md",
+                "file": "CAS/2. Creativity.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -109,15 +109,15 @@
   },
   "active": "4668705ab45fbf12",
   "lastOpenFiles": [
-    "CAS/3. Activity.md",
     "CAS/2. Creativity.md",
+    "CAS/3. Activity.md",
     "CAS/4. Service.md",
-    "DP Physics/Mechanics/4. Momentum and Impulse/Conservation of energy.md",
-    "DP Physics/Physics Overview.md",
-    "Life/Game Dev/General/Bad Beginnings.md",
     "CAS/1. CAS.md",
+    "Life/Game Dev/General/Bad Beginnings.md",
+    "Life/Game Dev/General/Barriers.md",
     "Life/Game Dev/General/Diegesis.md",
-    "Life/Game Dev/Projects/CAS/Planning Stage.md",
-    "Life/Game Dev/Projects/CAS/Prototype.md"
+    "Life/Game Dev/General/Enemies.md",
+    "Life/Game Dev/General/Flow State.md",
+    "Life/Game Dev/Projects/CAS/Planning Systems.md"
   ]
 }
