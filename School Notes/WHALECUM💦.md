@@ -17,7 +17,7 @@ Hello cumrats this is my mind map
 - [[English Placeholder]]
  <br>
 ### CAS 🧠
-- [[CAS]]
+- [[1. CAS]]
  <br>
 ### Math 🔢
 - [[Maths Placeholder]]
