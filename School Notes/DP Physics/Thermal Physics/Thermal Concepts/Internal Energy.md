@@ -5,3 +5,5 @@
 2. Translational Kinetic Energy
 3. Rotational Kinetic Energy
 4. Potential Energy
+
+Lennard-Jones potential wtf
