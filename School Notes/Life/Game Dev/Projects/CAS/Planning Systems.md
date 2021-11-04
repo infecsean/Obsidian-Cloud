@@ -6,3 +6,4 @@ Sex system for sure
 - [ ] Movement system
 - [ ] Inventory system
 - [ ] Player System
+- [ ] Dialogue System

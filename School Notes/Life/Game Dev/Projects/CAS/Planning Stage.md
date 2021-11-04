@@ -33,7 +33,7 @@
 -   Genre
 -   Story and characters
 -   Core game mechanics 
--   Gameplay
+-   Gameplay Loop
 -   Level and world design
 -   Art and/or sketches
 -   Monetization strategy

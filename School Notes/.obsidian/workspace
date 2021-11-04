@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Life/Game Dev/Projects/CAS/Planning Stage.md",
+            "file": "CAS/2. Creativity.md",
             "mode": "source"
           }
         },
@@ -21,7 +21,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Life/Game Dev/Projects/CAS/Planning Stage.md",
+            "file": "CAS/2. Creativity.md",
             "mode": "preview"
           }
         },
@@ -81,7 +81,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Life/Game Dev/Projects/CAS/Planning Stage.md",
+                "file": "CAS/2. Creativity.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -109,15 +109,15 @@
   },
   "active": "4668705ab45fbf12",
   "lastOpenFiles": [
-    "Life/Game Dev/Projects/CAS/Planning Stage.md",
-    "Life/Game Dev/Projects/CAS/Planning Systems.md",
-    "Life/Game Dev/Projects/CAS/Art Style.md",
-    "Life/Game Dev/General/Flow State.md",
-    "Life/Game Dev/Projects/CAS/Cumrats.md",
     "CAS/2. Creativity.md",
     "CAS/4. Service.md",
     "CAS/3. Activity.md",
+    "Life/Game Dev/Projects/CAS/Planning Stage.md",
     "Life/Game Dev/Projects/CAS/Prototype Stage.md",
+    "Life/Game Dev/Projects/CAS/Art Style.md",
+    "Life/Game Dev/Projects/CAS/Planning Systems.md",
+    "Life/Game Dev/General/Flow State.md",
+    "Life/Game Dev/Projects/CAS/Cumrats.md",
     "Life/Game Dev/General/Enemies.md"
   ]
 }
