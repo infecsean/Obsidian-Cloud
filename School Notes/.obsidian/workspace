@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Life/Game Dev/Projects/CAS/Planning Systems.md",
+            "file": "DP Physics/Thermal Physics/Thermal Concepts/Internal Energy.md",
             "mode": "source"
           }
         },
@@ -21,7 +21,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Life/Game Dev/Projects/CAS/Planning Systems.md",
+            "file": "DP Physics/Thermal Physics/Thermal Concepts/Internal Energy.md",
             "mode": "preview"
           }
         },
@@ -81,7 +81,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Life/Game Dev/Projects/CAS/Planning Systems.md",
+                "file": "DP Physics/Thermal Physics/Thermal Concepts/Internal Energy.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -109,6 +109,7 @@
   },
   "active": "4668705ab45fbf12",
   "lastOpenFiles": [
+    "DP Physics/Thermal Physics/Thermal Concepts/Internal Energy.md",
     "Life/Game Dev/Projects/CAS/Planning Systems.md",
     "Life/Game Dev/Projects/CAS/Planning Stage.md",
     "CAS/3. Activity.md",
@@ -117,7 +118,6 @@
     "Life/Game Dev/Projects/CAS/Prototype Stage.md",
     "Life/Game Dev/Projects/CAS/Art Style.md",
     "Life/Game Dev/General/Flow State.md",
-    "Life/Game Dev/Projects/CAS/Cumrats.md",
-    "Life/Game Dev/General/Enemies.md"
+    "Life/Game Dev/Projects/CAS/Cumrats.md"
   ]
 }
