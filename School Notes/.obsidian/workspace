@@ -12,7 +12,20 @@
             "file": "Day Planners/Day Planner-20211106.md",
             "mode": "source"
           }
-        }
+        },
+        "group": "bb37ed81284b5d49"
+      },
+      {
+        "id": "e5b638fb58cb3b25",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Day Planners/Day Planner-20211106.md",
+            "mode": "preview"
+          }
+        },
+        "group": "bb37ed81284b5d49"
       }
     ],
     "direction": "vertical"
@@ -98,14 +111,14 @@
   "active": "dbfdcaae033483a2",
   "lastOpenFiles": [
     "Day Planners/Day Planner-20211106.md",
+    "Day Planners/Day Planner-20211105.md",
+    "Day Planners/Day Planner-20211107.md",
+    "CAS/3. Activity.md",
+    "DP Physics/SYMBOLS.md",
+    "DP Physics/Physics Overview.md",
     "Day Planners/Day Planner-20211104.md",
     "Day Planners/Day Planner-20211103.md",
-    "Day Planners/Day Planner-20211105.md",
     "Life/Game Dev/General/Diegesis.md",
-    "Life/Game Dev/General/Barriers.md",
-    "Life/Game Dev/General/Bad Beginnings.md",
-    "Life/Game Dev/General/Enemies.md",
-    "Life/Life in general.md",
-    "Life/Game Dev/General/Flow State.md"
+    "Life/Game Dev/General/Barriers.md"
   ]
 }
