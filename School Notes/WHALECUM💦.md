@@ -8,7 +8,7 @@ Hello cumrats this is my mind map
 - [[Computer Science Placeholder]]
  <br>
 ### DP Economics 💰
-- [[Econ Placeholder]]
+- [[Econ Resourcse]]
  <br>
 ### DP Physics 💧
 - [[Physics Overview]]
