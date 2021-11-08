@@ -1,5 +1,5 @@
 ## Day Planner
-- [ ] English Conceptual questions
+- [x] English Conceptual questions
 - [ ] Econ notes
 - [ ] Physics notes
 - [ ] math textbook homework
