@@ -4,28 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "4668705ab45fbf12",
+        "id": "36c2025036fbddc1",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Day Planners/Day Planner-20211106.md",
+            "file": "Day Planners/Day Planner-20211109.md",
             "mode": "source"
           }
-        },
-        "group": "d0942269fded32de"
-      },
-      {
-        "id": "2259916c6dca39c9",
-        "type": "leaf",
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "Day Planners/Day Planner-20211106.md",
-            "mode": "preview"
-          }
-        },
-        "group": "d0942269fded32de"
+        }
       }
     ],
     "direction": "vertical"
@@ -81,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Day Planners/Day Planner-20211106.md",
+                "file": "Day Planners/Day Planner-20211109.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -100,32 +87,25 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
     "width": 300,
     "collapsed": true
   },
-  "active": "4668705ab45fbf12",
+  "active": "36c2025036fbddc1",
   "lastOpenFiles": [
+    "Day Planners/Day Planner-20211109.md",
     "Day Planners/Day Planner-20211106.md",
-    "Day Planners/Day Planner-20211107.md",
+    "2021-11-13.md",
     "Day Planners/Day Planner-20211108.md",
+    "Day Planners/Day Planner-20211107.md",
+    "Day Planners/Day Planner-20211105.md",
     "Life/Game Dev/Projects/CAS/Planning Stage.md",
     "Life/Game Dev/Projects/CAS/Planning Systems.md",
     "Life/Game Dev/Projects/CAS/Cumrats.md",
-    "Life/Game Dev/Projects/CAS/Art Style.md",
-    "Life/Game Dev/General/Flow State.md",
-    "Life/Game Dev/General/RNG.md",
-    "Life/Game Dev/General/Barriers.md"
-    "Life/Game Dev/Projects/CAS/Planning Stage.md",
-    "Life/Game Dev/Projects/CAS/Cumrats.md",
-    "Life/Game Dev/Projects/CAS/Art Style.md",
-    "CAS/2. Creativity.md",
-    "CAS/4. Service.md",
-    "DP Economics/Econ Resourcse.md",
-    "Day Planners/Day Planner-20211105.md",
-    "CAS/3. Activity.md"
+    "Life/Game Dev/Projects/CAS/Art Style.md"
   ]
 }
