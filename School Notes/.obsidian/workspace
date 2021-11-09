@@ -12,7 +12,20 @@
             "file": "Day Planners/Day Planner-20211109.md",
             "mode": "source"
           }
-        }
+        },
+        "group": "d70f005adea9348f"
+      },
+      {
+        "id": "9839ef0206a18fbf",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Day Planners/Day Planner-20211109.md",
+            "mode": "preview"
+          }
+        },
+        "group": "d70f005adea9348f"
       }
     ],
     "direction": "vertical"
@@ -95,7 +108,7 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "36c2025036fbddc1",
+  "active": "9839ef0206a18fbf",
   "lastOpenFiles": [
     "Day Planners/Day Planner-20211109.md",
     "Day Planners/Day Planner-20211106.md",

@@ -1,6 +1,8 @@
 ## Day Planner
 - [ ] Chinese PPT
-- [ ] Math review
+- [ ] Math question of the day workshits
+- [ ] Math textbook questions
+- [ ] Physics cum
 - [ ] continue with cas maybe
 
 # Weekend
