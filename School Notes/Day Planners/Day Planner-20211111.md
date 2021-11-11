@@ -1,9 +1,13 @@
 ## Day Planner
-- [ ] Math question of the day workshits 10 - 11
-- [ ] Math textbook questions 9-10
+- [ ] screenshot notes to kk
+- [ ] QOTD 83
+- [ ] QOTD 84
+- [ ] QOTD 137
+- [ ] QOTD 190
+- [ ] TEST 7
+- [ ] TEST 6
 - [ ] Correct the paper 1
-- [ ] Sleep at 12:30 dont be fucking sleep deprived like fuckin aaron or albert or somethin
-
+- [ ] Sleep at 12:00 dont be fucking sleep deprived
 
 # Weekend
 - [ ] Econ notes saturday
