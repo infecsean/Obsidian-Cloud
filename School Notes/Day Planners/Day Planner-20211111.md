@@ -1,12 +1,12 @@
 ## Day Planner
-- [ ] screenshot notes to kk
-- [ ] QOTD 83
-- [ ] QOTD 84
-- [ ] QOTD 137
-- [ ] QOTD 190
-- [ ] TEST 7
-- [ ] TEST 6
-- [ ] Correct the paper 1
+- [x] screenshot notes to kk
+- [ ] QOTD 83 (20m)
+- [ ] QOTD 84 (20m)
+- [ ] QOTD 137 (20m)
+- [ ] QOTD 190 (20m)
+- [x] TEST 7 (60m)
+- [x] TEST 6 (60m)
+- [ ] Correct the paper 1 (10m)
 - [ ] Sleep at 12:00 dont be fucking sleep deprived
 
 # Weekend
