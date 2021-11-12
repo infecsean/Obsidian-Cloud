@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Day Planners/Day Planner-20211111.md",
+            "file": "Life/Game Dev/Unity/HLSL/Why is vertex position a float4?.md",
             "mode": "source"
           }
         },
@@ -21,7 +21,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Day Planners/Day Planner-20211111.md",
+            "file": "Life/Game Dev/Unity/HLSL/Why is vertex position a float4?.md",
             "mode": "preview"
           }
         },
@@ -81,7 +81,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Day Planners/Day Planner-20211111.md",
+                "file": "Life/Game Dev/Unity/HLSL/Why is vertex position a float4?.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,6 +110,7 @@
   },
   "active": "52a7c484356be0ff",
   "lastOpenFiles": [
+    "Life/Game Dev/Unity/HLSL/Why is vertex position a float4?.md",
     "Day Planners/Day Planner-20211111.md",
     "Day Planners/Day Planner-20211112.md",
     "DP Economics/4. Government Intervention.md",
@@ -118,7 +119,6 @@
     "DP Economics/Econ Resourcse.md",
     "DP Economics/Fundamentals/Market.md",
     "DP Computer Science/Computer Science Placeholder.md",
-    "TOK/DID.md",
-    "CAS/4. Service.md"
+    "TOK/DID.md"
   ]
 }
