@@ -1,10 +1,10 @@
 {
   "main": {
-    "id": "00d26a5a4404f8f6",
+    "id": "df78cf551fed9862",
     "type": "split",
     "children": [
       {
-        "id": "6a4ef2a9d663dfb1",
+        "id": "88d55af78edebf0c",
         "type": "leaf",
         "state": {
           "type": "markdown",
@@ -80,32 +80,31 @@
             }
           },
           {
-            "id": "6e7cd65551f3d900",
+            "id": "8cb3e8500d7c6bc2",
             "type": "leaf",
             "state": {
               "type": "calendar",
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
     "width": 300,
     "collapsed": true
   },
-  "active": "6a4ef2a9d663dfb1",
+  "active": "88d55af78edebf0c",
   "lastOpenFiles": [
     "Life/Game Dev/Unity/HLSL/Why is vertex position a float4.md",
-    "Day Planners/Day Planner-20211111.md",
-    "Day Planners/Day Planner-20211112.md",
-    "DP Economics/4. Government Intervention.md",
-    "Life/Game Dev/Projects/CAS/Planning Stage.md",
-    "WHALECUM💦.md",
-    "DP Economics/Econ Resourcse.md",
-    "DP Economics/Fundamentals/Market.md",
-    "DP Computer Science/Computer Science Placeholder.md",
-    "TOK/DID.md"
+    "Day Planners/Day Planner-20211113.md",
+    "Life/Game Dev/Unity/Unity ToDo.md",
+    "Day Planners/Day Planner-20211109.md",
+    "Day Planners/Day Planner-20211106.md",
+    "2021-11-13.md",
+    "Day Planners/Day Planner-20211108.md",
+    "Day Planners/Day Planner-20211107.md",
+    "Day Planners/Day Planner-20211105.md",
+    "Life/Game Dev/Projects/CAS/Planning Stage.md"
   ]
 }
