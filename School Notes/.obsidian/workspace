@@ -81,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Life/Game Dev/Unity/HLSL/Why is vertex position a float4?.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -108,7 +107,7 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "52a7c484356be0ff",
+  "active": "6a4ef2a9d663dfb1",
   "lastOpenFiles": [
     "Life/Game Dev/Unity/HLSL/Why is vertex position a float4?.md",
     "Day Planners/Day Planner-20211111.md",
