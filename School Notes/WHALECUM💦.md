@@ -3,12 +3,32 @@ Hello cumrats this is my mind map
 <br><br>
 ### Life 🤨
 - [[Life in general]]
- <br>
+- Game Dev
+	- Blender
+		- [[Blender ToDo]]
+	- General
+		- [[Bad Beginnings]]
+		- [[Barriers]]
+		- [[Diegesis]]
+		- [[Enemies]]
+		- [[Flow State]]
+		- [[RNG]]
+	- Projects
+		- CAS
+			- [[Art Style]]
+			- [[Cumrats]]
+			- [[Planning Stage]]
+			- [[Planning Systems]]
+			- [[Prototype Stage]]
+	- Unity
+		- HLSL
+			- [[Why is vertex position a float4]]
+			 <br>
 ### DP Computer Science 🖥️
 - [[Computer Science Placeholder]]
  <br>
 ### DP Economics 💰
-- [[Econ Resourcse]]
+- [[Econ Resources]]
  <br>
 ### DP Physics 💧
 - [[Physics Overview]]
@@ -18,6 +38,9 @@ Hello cumrats this is my mind map
  <br>
 ### CAS 🧠
 - [[1. CAS]]
+- [[2. Creativity]]
+- [[3. Activity]]
+- [[4. Service]]
  <br>
 ### Math 🔢
 - [[Maths Placeholder]]
