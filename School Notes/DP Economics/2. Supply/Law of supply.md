@@ -1,6 +1,6 @@
 # Law of Supply
 ---
--   "As the price of a product rises, the quantity supplied of the product will increase, [[ceteris paribus]]."
+-   "As the price of a product rises, the quantity supplied of the product will increase, [[Ceteris Paribus]]."
 -   The change in the price of a product will lead to a change in the quantity supplied of the product.
 
 Vertical Supply Curve: In some situations, you can't produce more of a product even with more time.
