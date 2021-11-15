@@ -1,31 +1,18 @@
 {
   "main": {
-    "id": "00d26a5a4404f8f6",
+    "id": "df78cf551fed9862",
     "type": "split",
     "children": [
       {
-        "id": "c5284b05ce5aba9e",
+        "id": "0ef6b769fc898d00",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "TOK/DID.md",
+            "file": "Day Planners/Day Planner-20211115.md",
             "mode": "source"
           }
-        },
-        "group": "be44fb95a99e6f33"
-      },
-      {
-        "id": "1c15420a84c7d760",
-        "type": "leaf",
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "TOK/DID.md",
-            "mode": "preview"
-          }
-        },
-        "group": "be44fb95a99e6f33"
+        }
       }
     ],
     "direction": "vertical"
@@ -81,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "TOK/DID.md",
+                "file": "Day Planners/Day Planner-20211115.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -93,32 +80,31 @@
             }
           },
           {
-            "id": "6e7cd65551f3d900",
+            "id": "8cb3e8500d7c6bc2",
             "type": "leaf",
             "state": {
               "type": "calendar",
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
     "width": 300,
     "collapsed": true
   },
-  "active": "c5284b05ce5aba9e",
+  "active": "0ef6b769fc898d00",
   "lastOpenFiles": [
-    "TOK/DID.md",
-    "Plugin Tips/Admonition Demonstration.md",
-    "DP Economics/3. Elasticities/2.2 Determinants of PED.md",
     "Day Planners/Day Planner-20211115.md",
-    "DP Economics/3. Elasticities/Government Intervention.md",
-    "canban/what kanban.md",
-    "DP Economics/3. Elasticities/2.1 Range of values of PED.md",
-    "DP Physics/1. Mechanics/4. Momentum and Impulse/5.2. Inelastic Collisions.md",
-    "DP Physics/1. Mechanics/4. Momentum and Impulse/5.1. Elastic Collisions.md",
-    "DP Physics/1. Mechanics/4. Momentum and Impulse/5. Collision.md"
+    "DP Economics/3. Elasticities/2.2 Determinants of PED.md",
+    "Day Planners/Day Planner-20211111.md",
+    "Day Planners/Day Planner-20211112.md",
+    "Day Planners/Day Planner-20211113.md",
+    "Day Planners/Day Planner-20211114.md",
+    "DP Economics/3. Elasticities/2.1 Range of values.md",
+    "DP Economics/3. Elasticities/2. PED.md",
+    "DP Economics/3. Elasticities/1. Elasticity.md",
+    "DP Economics/3. Elasticities/Government Intervention.md"
   ]
 }
