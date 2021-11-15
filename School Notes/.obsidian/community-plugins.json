@@ -1,9 +1,12 @@
 [
   "obsidian-admonition",
   "calendar",
+  "obsidian-day-planner",
   "obsidian-emoji-toolbar",
   "sliding-panes-obsidian",
   "periodic-notes",
   "obsidian-git",
-  "obsidian-day-planner"
+  "obsidian-outliner",
+  "obsidian-kanban",
+  "templater-obsidian"
 ]

@@ -24,3 +24,8 @@ Legislation/Regulation (Command and control)
 
 ### Price Control
 1. Price Ceiling: Legal Max Price set by Gov
+
+
+### Solution to shortage
+D↓: But consumption ↓
+S⬆- subsidy to industry, government provision, release storage
