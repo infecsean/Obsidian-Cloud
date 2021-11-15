@@ -1,8 +1,9 @@
 # Force
 ---
-Force is a push or pull
-A vector quantity, Newtons.
+F = ma
+A vector quantity, Newtons (N).
 
+Force is a push or pull
 ### Types of Force
 1. Tension
 2. Normal reaction

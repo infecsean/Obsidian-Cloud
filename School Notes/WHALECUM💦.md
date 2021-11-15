@@ -29,7 +29,24 @@ Hello cumrats this is my mind map
  <br>
 ### DP Economics 💰
 - [[Econ Resources]]
- <br>
+- 1. Demand
+	- [[Demand]]
+	- [[Law of Demand]]
+	- [[Individual and Market demand]]
+	- [[Movement of Demand curve]]
+	- [[Non-Price Determinants of Demand]]
+- 2. Supply
+	- [[Supply]]
+	- [[Law of supply]]
+	- [[Individual Supply and Market supply]]
+	- [[Movement Supply Curve]]
+	- [[Non-Price Determinants of Supply]]
+- 3. Elasticities
+	- [[0.1 Total Revenue]]
+	- [[1. Elasticity]]
+	- [[2. PED]]
+	- [[2.1 Range of values]]
+	 <br>
 ### DP Physics 💧
 - [[Physics Overview]]
  <br>
