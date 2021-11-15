@@ -1,5 +1,7 @@
 # Energy
 ---
+The number representing how much work can be done
+
 ### Kinetic Energy 
 - The **Kinetic energy** of a rigid object is its energy of motion and is defined as $E_K=\frac 12 mv^2$, where m is its mass and v its speed.
 ```ad-example
@@ -30,5 +32,5 @@ Can be written as $$|\vec{F}| = k |Δ\vec{x}|$$, K is the spring constant. Which
 ```
 $$EPE =\frac 12 k |Δ\vec{x}|^2 $$
 
-![[Screenshot 2021-10-31 205336.png]]
+![[energytypes.png]]
 

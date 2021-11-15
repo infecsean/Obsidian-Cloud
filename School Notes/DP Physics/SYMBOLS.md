@@ -7,3 +7,4 @@ Delta | Δ | Change
 Theta | θ | The angle
 Mu | μ | coefficient of friction
 Inf | ∞ | my love for physics
+proportional | ∝ | my love for physics to my mental health

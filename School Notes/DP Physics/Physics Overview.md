@@ -16,5 +16,5 @@ Symbols for ctrl+c ctrl+v: [[SYMBOLS]]
 	- 1. [[Work]]
 	- 2. [[Energy]]
 - #### 2.4 Momentum and Impulse
-	- 1. [[Conservation of energy]]
-	- 2. [[Momentum]]
+	- 1. [[1. Conservation of energy]]
+	- 2. [[2. Momentum]]

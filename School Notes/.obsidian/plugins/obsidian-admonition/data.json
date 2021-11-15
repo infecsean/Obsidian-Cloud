@@ -1,5 +1,16 @@
 {
-  "userAdmonitions": {},
+  "userAdmonitions": {
+    "definition": {
+      "type": "definition",
+      "color": "225, 177, 45",
+      "icon": {
+        "name": "book-open",
+        "type": "font-awesome"
+      },
+      "command": false,
+      "title": "Definition"
+    }
+  },
   "syntaxHighlight": false,
   "copyButton": true,
   "version": "6.4.1",
