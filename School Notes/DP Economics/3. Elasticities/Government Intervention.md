@@ -28,4 +28,4 @@ Legislation/Regulation (Command and control)
 
 ### Solution to shortage
 D↓: But consumption ↓
-S⬆- subsidy to industry, government provision, release storage
+S↑- subsidy to industry, government provision, release storage
