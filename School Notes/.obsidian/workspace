@@ -4,28 +4,28 @@
     "type": "split",
     "children": [
       {
-        "id": "c5284b05ce5aba9e",
+        "id": "ece5d917ae0c94bd",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "TOK/DID.md",
+            "file": "Day Planners/Day Planner-20211116.md",
             "mode": "source"
           }
         },
-        "group": "be44fb95a99e6f33"
+        "group": "14d887f5473ff7ac"
       },
       {
-        "id": "1c15420a84c7d760",
+        "id": "ed3e9f2f96bdf71b",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "TOK/DID.md",
+            "file": "Day Planners/Day Planner-20211116.md",
             "mode": "preview"
           }
         },
-        "group": "be44fb95a99e6f33"
+        "group": "14d887f5473ff7ac"
       }
     ],
     "direction": "vertical"
@@ -81,7 +81,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "TOK/DID.md",
+                "file": "Day Planners/Day Planner-20211116.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -108,17 +108,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "c5284b05ce5aba9e",
+  "active": "ece5d917ae0c94bd",
   "lastOpenFiles": [
-    "TOK/DID.md",
-    "Plugin Tips/Admonition Demonstration.md",
+    "Day Planners/Day Planner-20211116.md",
+    "Life/Game Dev/Unity/HLSL/2. What are shaders.md",
+    "Life/Game Dev/Unity/HLSL/1. Render Pipelines.md",
     "DP Economics/3. Elasticities/2.2 Determinants of PED.md",
     "Day Planners/Day Planner-20211115.md",
     "DP Economics/3. Elasticities/Government Intervention.md",
-    "canban/what kanban.md",
-    "DP Economics/3. Elasticities/2.1 Range of values of PED.md",
-    "DP Physics/1. Mechanics/4. Momentum and Impulse/5.2. Inelastic Collisions.md",
-    "DP Physics/1. Mechanics/4. Momentum and Impulse/5.1. Elastic Collisions.md",
-    "DP Physics/1. Mechanics/4. Momentum and Impulse/5. Collision.md"
+    "Symbols/Up.md",
+    "Symbols/Down.md",
+    "DP Economics/3. Elasticities/1. Elasticity.md",
+    "DP Economics/3. Elasticities/2. PED.md"
   ]
 }
