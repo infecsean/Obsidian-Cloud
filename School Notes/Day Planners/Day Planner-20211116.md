@@ -3,9 +3,9 @@
 - [ ] Chinese shit notes 11-12
 - [ ] Math hws 9-11
 - [ ] Physics report
-- [ ] Econ Notes
-- [ ] Physics Notes
+- [ ] Econ Notes 5
+- [ ] Physics Notes 5
 
-## This week cunt
+## This week 
 - [ ] CAS reflection
 - [ ] cas progress

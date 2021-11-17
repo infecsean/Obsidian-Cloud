@@ -4,26 +4,28 @@
     "type": "split",
     "children": [
       {
-        "id": "ece5d917ae0c94bd",
+        "id": "5dfc3fba06ac222e",
         "type": "leaf",
         "state": {
-          "type": "kanban",
+          "type": "markdown",
           "state": {
-            "file": "canban/what kanban.md"
+            "file": "DP Economics/3. Elasticities/2.2 Determinants of PED.md",
+            "mode": "source"
           }
         },
-        "group": "14d887f5473ff7ac"
+        "group": "9c7e49fd2bdc2e06"
       },
       {
-        "id": "ed3e9f2f96bdf71b",
+        "id": "08a1af0a995d0b09",
         "type": "leaf",
         "state": {
-          "type": "kanban",
+          "type": "markdown",
           "state": {
-            "file": "canban/what kanban.md"
+            "file": "DP Economics/3. Elasticities/2.2 Determinants of PED.md",
+            "mode": "preview"
           }
         },
-        "group": "14d887f5473ff7ac"
+        "group": "9c7e49fd2bdc2e06"
       }
     ],
     "direction": "vertical"
@@ -79,7 +81,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "canban/what kanban.md",
+                "file": "DP Economics/3. Elasticities/2.2 Determinants of PED.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -106,17 +108,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "ece5d917ae0c94bd",
+  "active": "5dfc3fba06ac222e",
   "lastOpenFiles": [
-    "canban/what kanban.md",
-    "Calender/Weekly Notes.md",
-    "Life/Game Dev/Projects/CAS/Planning Stage.md",
-    "Life/Game Dev/Projects/CAS/Cumrats.md",
-    "Life/Game Dev/Projects/CAS/Art Style.md",
+    "DP Economics/3. Elasticities/2.2 Determinants of PED.md",
+    "DP Economics/2. Supply/Law of supply.md",
     "Day Planners/Day Planner-20211116.md",
-    "DP Economics/3. Elasticities/2. PED.md",
-    "Life/Game Dev/Unity/HLSL/2. What are shaders.md",
+    "Life/Game Dev/Projects/CAS/Planning Stage.md",
+    "Life/Game Dev/Projects/CAS/Prototype Stage.md",
+    "Life/Game Dev/Projects/CAS/Timeline.md",
+    "canban/game kanban.md",
     "Life/Game Dev/Unity/HLSL/1. Render Pipelines.md",
-    "DP Economics/3. Elasticities/2.2 Determinants of PED.md"
+    "Calender/Weekly Notes.md",
+    "Life/Game Dev/Projects/CAS/Cumrats.md"
   ]
 }

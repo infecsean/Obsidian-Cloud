@@ -1,6 +1,6 @@
 # Fucking do something
 ---
-[[what kanban|kanban]]
+[[game kanban|kanban]]
 
 ## Checklist
 - [ ] Cannot make money
@@ -22,6 +22,8 @@
 
 ### Pre-production
 -   What is the game about?
+your mom
+
 -   Who is the audience?
 -   Is there a market for it? What’s the competition like?
 -   Which platform will it be published on?
