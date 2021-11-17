@@ -7,10 +7,9 @@
         "id": "ece5d917ae0c94bd",
         "type": "leaf",
         "state": {
-          "type": "markdown",
+          "type": "kanban",
           "state": {
-            "file": "Day Planners/Day Planner-20211116.md",
-            "mode": "source"
+            "file": "canban/what kanban.md"
           }
         },
         "group": "14d887f5473ff7ac"
@@ -19,10 +18,9 @@
         "id": "ed3e9f2f96bdf71b",
         "type": "leaf",
         "state": {
-          "type": "markdown",
+          "type": "kanban",
           "state": {
-            "file": "Day Planners/Day Planner-20211116.md",
-            "mode": "preview"
+            "file": "canban/what kanban.md"
           }
         },
         "group": "14d887f5473ff7ac"
@@ -81,7 +79,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Day Planners/Day Planner-20211116.md",
+                "file": "canban/what kanban.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,15 +108,15 @@
   },
   "active": "ece5d917ae0c94bd",
   "lastOpenFiles": [
+    "canban/what kanban.md",
+    "Calender/Weekly Notes.md",
+    "Life/Game Dev/Projects/CAS/Planning Stage.md",
+    "Life/Game Dev/Projects/CAS/Cumrats.md",
+    "Life/Game Dev/Projects/CAS/Art Style.md",
     "Day Planners/Day Planner-20211116.md",
     "DP Economics/3. Elasticities/2. PED.md",
-    "Calender/Weekly Notes.md",
     "Life/Game Dev/Unity/HLSL/2. What are shaders.md",
     "Life/Game Dev/Unity/HLSL/1. Render Pipelines.md",
-    "DP Economics/3. Elasticities/2.2 Determinants of PED.md",
-    "Day Planners/Day Planner-20211115.md",
-    "DP Economics/3. Elasticities/Government Intervention.md",
-    "Symbols/Up.md",
-    "Symbols/Down.md"
+    "DP Economics/3. Elasticities/2.2 Determinants of PED.md"
   ]
 }

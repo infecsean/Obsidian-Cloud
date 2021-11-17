@@ -1,5 +1,7 @@
 # Fucking do something
 ---
+[[what kanban|kanban]]
+
 ## Checklist
 - [ ] Cannot make money
 - [ ] ATL Skills
