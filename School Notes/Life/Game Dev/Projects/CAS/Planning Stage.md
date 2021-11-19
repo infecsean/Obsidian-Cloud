@@ -1,7 +1,7 @@
 # Fucking do something
 ---
 [[game kanban|kanban]]
-
+40 weeks
 ## Checklist
 - [ ] Cannot make money
 - [ ] ATL Skills
@@ -34,12 +34,23 @@ your mom
 
 ### Game design document
 -   The idea or concept
--   Genre
+	- Since im gonna make a story based game, the hook or the selling point of my game should be the artstyle, not "Cool game mechanics"
+	- through progression and the choices you make, you become one of "them"
+	- Mental enemies if you defeat them once, you overcome them
+-   Genre and setting
+	- horror idk
+	- could also be open world (but then would have to encourage exploration)
+	- Need to be set in a school (Where player will spend most of the time)
+	- Could be mingdao inspired (Racks become a football field or smthn, )
 -   Story and characters
--   Core game mechanics 
+	-   player is maybe transfer student or something idk
+-   Core game mechanics
+	-   Progression system: 
 -   Gameplay Loop
 -   Level and world design
 -   Art and/or sketches
 -   Monetization strategy
+-   Player enemy interaction
+-   Player environment interaction
 
 

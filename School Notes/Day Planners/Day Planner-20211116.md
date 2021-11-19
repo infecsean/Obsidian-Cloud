@@ -1,11 +1,23 @@
 ## Day Planner
-- [ ] Persepolis 8-9 idk
-- [ ] Chinese shit notes 11-12
-- [ ] Math hws 9-11
-- [ ] Physics report
-- [ ] Econ Notes 5
-- [ ] Physics Notes 5
+- [ ] Econ Notes Finish PED
 
 ## This week 
+- [ ] [This shit](https://www.youtube.com/watch?v=84A1FcQt9v4&ab_channel=DanielIlett)
+- [ ] English Fucking shakes ass
+- [ ] Econ Notes sat: 3-5, 8-9, 10-11
+- [ ] Physics Notes sun: 3-5, 8-9, 10-11
 - [ ] CAS reflection
 - [ ] cas progress
+
+## umwhat
+- [ ] Physics report
+
+
+<br>
+<br>
+
+### November 25th
+- [ ] Chinese PPT
+
+### December 5
+- [ ] Physics ppt
