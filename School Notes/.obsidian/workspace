@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "DP Economics/3. Elasticities/2.4 PED Relation to stuff (HL).md",
+            "file": "DP Economics/3. Elasticities/3.1 Range of Values of YED.md",
             "mode": "source"
           }
         },
@@ -21,8 +21,8 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "DP Economics/3. Elasticities/2.4 PED Relation to stuff (HL).md",
-            "mode": "source"
+            "file": "DP Economics/3. Elasticities/3.1 Range of Values of YED.md",
+            "mode": "preview"
           }
         },
         "group": "cb8a94be3275be3b"
@@ -81,7 +81,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "DP Economics/3. Elasticities/2.4 PED Relation to stuff (HL).md",
+                "file": "DP Economics/3. Elasticities/3.1 Range of Values of YED.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -109,15 +109,15 @@
   },
   "active": "c7b7b08d72727f5b",
   "lastOpenFiles": [
-    "DP Economics/3. Elasticities/2.4 PED Relation to stuff (HL).md",
+    "DP Economics/3. Elasticities/3.1 Range of Values of YED.md",
     "DP Economics/3. Elasticities/Government Intervention.md",
+    "DP Economics/3. Elasticities/3. YED.md",
+    "DP Economics/3. Elasticities/2.4 PED Relation to stuff (HL).md",
     "Calender/Weekly Notes.md",
     "canban/game kanban.md",
     "Day Planners/Day Planner-20211116.md",
     "DP Economics/3. Elasticities/2.3.1 PED and Decision Making.md",
     "Plugin Tips/Admonition Demonstration.md",
-    "Symbols/Delta.md",
-    "DP Economics/3. Elasticities/3.1 Range of Values of YED.md",
-    "DP Economics/3. Elasticities/3. YED.md"
+    "Symbols/Delta.md"
   ]
 }
