@@ -1,5 +1,6 @@
 ## Day Planner
-- [ ] Econ Notes Finish PED
+- [ ] Math HW
+- [ ] Chinese ppt
 
 ## This week 
 - [ ] [This shit](https://www.youtube.com/watch?v=84A1FcQt9v4&ab_channel=DanielIlett)

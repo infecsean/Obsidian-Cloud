@@ -4,28 +4,28 @@
     "type": "split",
     "children": [
       {
-        "id": "c7b7b08d72727f5b",
+        "id": "8599c7c5ea9a333d",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "DP Economics/3. Elasticities/3.1 Range of Values of YED.md",
+            "file": "DP Economics/3. Elasticities/3.2 Applications of YED (HL).md",
             "mode": "source"
           }
         },
-        "group": "cb8a94be3275be3b"
+        "group": "cd4a040b499c4c30"
       },
       {
-        "id": "a3d6fec62b54dbfb",
+        "id": "6370621418c5fd97",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "DP Economics/3. Elasticities/3.1 Range of Values of YED.md",
+            "file": "DP Economics/3. Elasticities/3.2 Applications of YED (HL).md",
             "mode": "preview"
           }
         },
-        "group": "cb8a94be3275be3b"
+        "group": "cd4a040b499c4c30"
       }
     ],
     "direction": "vertical"
@@ -81,7 +81,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "DP Economics/3. Elasticities/3.1 Range of Values of YED.md",
+                "file": "DP Economics/3. Elasticities/3.2 Applications of YED (HL).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -107,17 +107,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "c7b7b08d72727f5b",
+  "active": "8599c7c5ea9a333d",
   "lastOpenFiles": [
+    "DP Economics/3. Elasticities/3.2 Applications of YED (HL).md",
+    "Day Planners/Day Planner-20211116.md",
     "DP Economics/3. Elasticities/3.1 Range of Values of YED.md",
+    "DP Economics/3. Elasticities/2.2 Determinants of PED.md",
+    "DP Economics/3. Elasticities/2.4 PED Relation to stuff (HL).md",
+    "DP Economics/3. Elasticities/3. YED.md",
     "DP Economics/3. Elasticities/Government Intervention.md",
-    "DP Physics/1. Mechanics/3. Work, Energy, Power/Energy.md",
-    "DP Economics/3. Elasticities/Subsidy.md",
-    "DP Economics/Attachments/Second Term/unitelasticPED.png",
-    "DP Economics/Attachments/Second Term/volatilePED.png",
-    "DP Economics/Attachments/Second Term/yedvalues.png",
-    "DP Economics/Attachments/Second Term/ROVPED.png",
-    "DP Economics/Attachments/Second Term/Screen Shot 2021-11-19 at 4.53.53 PM.png",
-    "DP Economics/3. Elasticities/2.4 PED Relation to stuff (HL).md"
+    "yedengelcurve1.png",
+    "DP Economics/Attachments/Second Term/yedengelcurve1.png",
+    "DP Economics/Attachments/Second Term/yedengelcurvegraph.png"
   ]
 }
