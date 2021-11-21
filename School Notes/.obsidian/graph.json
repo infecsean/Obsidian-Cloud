@@ -5,7 +5,7 @@
   "showAttachments": false,
   "hideUnresolved": false,
   "showOrphans": true,
-  "collapse-color-groups": true,
+  "collapse-color-groups": false,
   "colorGroups": [
     {
       "query": "path:\"DP Economics\"",
@@ -55,6 +55,13 @@
         "a": 1,
         "rgb": 5431473
       }
+    },
+    {
+      "query": "path:Symbols",
+      "color": {
+        "a": 1,
+        "rgb": 11621088
+      }
     }
   ],
   "collapse-display": true,
@@ -63,10 +70,10 @@
   "nodeSizeMultiplier": 1.71304754273504,
   "lineSizeMultiplier": 5,
   "collapse-forces": false,
-  "centerStrength": 0,
+  "centerStrength": 0.342696629213483,
   "repelStrength": 20,
   "linkStrength": 1,
   "linkDistance": 500,
-  "scale": 0.15120900371044413,
-  "close": false
+  "scale": 0.38230109687699604,
+  "close": true
 }

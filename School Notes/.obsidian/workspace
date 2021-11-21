@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "DP Economics/3. Elasticities/2.4 PED Relation to stuff (HL).md",
+            "file": "DP Economics/3. Elasticities/3.1 Range of Values of YED.md",
             "mode": "source"
           }
         },
@@ -21,8 +21,8 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "DP Economics/3. Elasticities/2.4 PED Relation to stuff (HL).md",
-            "mode": "source"
+            "file": "DP Economics/3. Elasticities/3.1 Range of Values of YED.md",
+            "mode": "preview"
           }
         },
         "group": "cb8a94be3275be3b"
@@ -81,7 +81,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "DP Economics/3. Elasticities/2.4 PED Relation to stuff (HL).md",
+                "file": "DP Economics/3. Elasticities/3.1 Range of Values of YED.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -109,15 +109,15 @@
   },
   "active": "c7b7b08d72727f5b",
   "lastOpenFiles": [
-    "DP Economics/3. Elasticities/2.4 PED Relation to stuff (HL).md",
-    "DP Economics/3. Elasticities/Government Intervention.md",
-    "Calender/Weekly Notes.md",
-    "canban/game kanban.md",
-    "Day Planners/Day Planner-20211116.md",
-    "DP Economics/3. Elasticities/2.3.1 PED and Decision Making.md",
-    "Plugin Tips/Admonition Demonstration.md",
-    "Symbols/Delta.md",
     "DP Economics/3. Elasticities/3.1 Range of Values of YED.md",
-    "DP Economics/3. Elasticities/3. YED.md"
+    "DP Economics/3. Elasticities/Government Intervention.md",
+    "DP Physics/1. Mechanics/3. Work, Energy, Power/Energy.md",
+    "DP Economics/3. Elasticities/Subsidy.md",
+    "DP Economics/Attachments/Second Term/unitelasticPED.png",
+    "DP Economics/Attachments/Second Term/volatilePED.png",
+    "DP Economics/Attachments/Second Term/yedvalues.png",
+    "DP Economics/Attachments/Second Term/ROVPED.png",
+    "DP Economics/Attachments/Second Term/Screen Shot 2021-11-19 at 4.53.53 PM.png",
+    "DP Economics/3. Elasticities/2.4 PED Relation to stuff (HL).md"
   ]
 }
