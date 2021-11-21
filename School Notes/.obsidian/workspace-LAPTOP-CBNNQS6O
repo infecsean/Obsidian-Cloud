@@ -7,25 +7,9 @@
         "id": "c7b7b08d72727f5b",
         "type": "leaf",
         "state": {
-          "type": "markdown",
-          "state": {
-            "file": "DP Economics/3. Elasticities/2.4 PED Relation to stuff (HL).md",
-            "mode": "source"
-          }
-        },
-        "group": "cb8a94be3275be3b"
-      },
-      {
-        "id": "a3d6fec62b54dbfb",
-        "type": "leaf",
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "DP Economics/3. Elasticities/2.4 PED Relation to stuff (HL).md",
-            "mode": "source"
-          }
-        },
-        "group": "cb8a94be3275be3b"
+          "type": "empty",
+          "state": {}
+        }
       }
     ],
     "direction": "vertical"
@@ -81,7 +65,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "DP Economics/3. Elasticities/2.4 PED Relation to stuff (HL).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -109,15 +92,15 @@
   },
   "active": "c7b7b08d72727f5b",
   "lastOpenFiles": [
-    "DP Economics/3. Elasticities/2.4 PED Relation to stuff (HL).md",
-    "DP Economics/3. Elasticities/Government Intervention.md",
-    "Calender/Weekly Notes.md",
-    "canban/game kanban.md",
-    "Day Planners/Day Planner-20211116.md",
-    "DP Economics/3. Elasticities/2.3.1 PED and Decision Making.md",
-    "Plugin Tips/Admonition Demonstration.md",
-    "Symbols/Delta.md",
     "DP Economics/3. Elasticities/3.1 Range of Values of YED.md",
-    "DP Economics/3. Elasticities/3. YED.md"
+    "DP Economics/3. Elasticities/2.4 PED Relation to stuff (HL).md",
+    "DP Economics/3. Elasticities/3. YED.md",
+    "DP Economics/1. Demand/Non-Price Determinants of Demand.md",
+    "DP Economics/1. Demand/Movement of Demand curve.md",
+    "DP Economics/1. Demand/Law of Demand.md",
+    "DP Economics/1. Demand/Individual and Market demand.md",
+    "DP Economics/1. Demand/Demand.md",
+    "DP Economics/3. Elasticities/2. PED.md",
+    "DP Economics/3. Elasticities/2.1 Range of values of PED.md"
   ]
 }
