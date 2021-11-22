@@ -1,31 +1,31 @@
 {
   "main": {
-    "id": "00d26a5a4404f8f6",
+    "id": "df78cf551fed9862",
     "type": "split",
     "children": [
       {
-        "id": "5dfc3fba06ac222e",
+        "id": "8599c7c5ea9a333d",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "DP Economics/3. Elasticities/3.2 Applications of YED (HL).md",
+            "file": "Day Planners/Day Planner-20211116.md",
             "mode": "source"
           }
         },
-        "group": "9c7e49fd2bdc2e06"
+        "group": "cd4a040b499c4c30"
       },
       {
-        "id": "08a1af0a995d0b09",
+        "id": "6370621418c5fd97",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "DP Economics/3. Elasticities/3.2 Applications of YED (HL).md",
+            "file": "Day Planners/Day Planner-20211116.md",
             "mode": "preview"
           }
         },
-        "group": "9c7e49fd2bdc2e06"
+        "group": "cd4a040b499c4c30"
       }
     ],
     "direction": "vertical"
@@ -81,7 +81,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "DP Economics/3. Elasticities/3.2 Applications of YED (HL).md",
+                "file": "Day Planners/Day Planner-20211116.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -93,32 +93,31 @@
             }
           },
           {
-            "id": "6e7cd65551f3d900",
+            "id": "8cb3e8500d7c6bc2",
             "type": "leaf",
             "state": {
               "type": "calendar",
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
     "width": 300,
     "collapsed": true
   },
-  "active": "5dfc3fba06ac222e",
+  "active": "8599c7c5ea9a333d",
   "lastOpenFiles": [
-    "DP Economics/3. Elasticities/3.2 Applications of YED (HL).md",
-    "DP Economics/3. Elasticities/2.3.1 PED and Decision Making.md",
-    "DP Economics/3. Elasticities/2.3 Applications of PED.md",
     "Day Planners/Day Planner-20211116.md",
-    "DP Economics/3. Elasticities/2. PED.md",
-    "DP Economics/3. Elasticities/1. Elasticity.md",
-    "DP Economics/3. Elasticities/0.1 Total Revenue.md",
+    "DP Economics/3. Elasticities/3.2 Applications of YED (HL).md",
     "DP Economics/3. Elasticities/3.1 Range of Values of YED.md",
-    "Life/Game Dev/Projects/CAS/Planning Stage.md",
-    "DP Economics/3. Elasticities/2.2 Determinants of PED.md"
+    "DP Economics/3. Elasticities/2.2 Determinants of PED.md",
+    "DP Economics/3. Elasticities/2.4 PED Relation to stuff (HL).md",
+    "DP Economics/3. Elasticities/3. YED.md",
+    "DP Economics/3. Elasticities/Government Intervention.md",
+    "yedengelcurve1.png",
+    "DP Economics/Attachments/Second Term/yedengelcurve1.png",
+    "DP Economics/Attachments/Second Term/yedengelcurvegraph.png"
   ]
 }
