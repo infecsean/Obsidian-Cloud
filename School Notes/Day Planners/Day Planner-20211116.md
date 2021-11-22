@@ -2,7 +2,7 @@
 - [ ] Math TBHW
 - [ ] Math Mark paper 2
 - [ ] Chinese ppt
-- [ ] 
+- [ ] REMEMBER TO WEAR PROPER UNIFORM BITCH
 
 ## This week 
 - [ ] [This shit](https://www.youtube.com/watch?v=84A1FcQt9v4&ab_channel=DanielIlett)
