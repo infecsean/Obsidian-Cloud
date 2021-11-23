@@ -24,3 +24,6 @@
 
 ### December 5
 - [ ] Physics ppt
+
+### December 7, 8
+- [ ] Econ Summative
