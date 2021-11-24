@@ -1,15 +1,5 @@
 {
   "userAdmonitions": {
-    "Resources": {
-      "type": "Resources",
-      "color": "14, 216, 21",
-      "icon": {
-        "name": "tree",
-        "type": "font-awesome"
-      },
-      "command": false,
-      "title": "resources"
-    },
     "definition": {
       "type": "definition",
       "color": "225, 177, 45",
@@ -19,6 +9,16 @@
       },
       "command": false,
       "title": "Definition"
+    },
+    "Resources": {
+      "type": "Resources",
+      "color": "122, 255, 156",
+      "icon": {
+        "name": "tree",
+        "type": "font-awesome"
+      },
+      "command": false,
+      "title": "Resource"
     }
   },
   "syntaxHighlight": false,
