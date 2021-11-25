@@ -4,28 +4,12 @@
     "type": "split",
     "children": [
       {
-        "id": "280cd282657e975d",
+        "id": "a05a3873caf0defc",
         "type": "leaf",
         "state": {
-          "type": "markdown",
-          "state": {
-            "file": "DP English LL/Notes.md",
-            "mode": "source"
-          }
-        },
-        "group": "370487542b50ff16"
-      },
-      {
-        "id": "bc931ba5318eebda",
-        "type": "leaf",
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "DP English LL/Notes.md",
-            "mode": "preview"
-          }
-        },
-        "group": "370487542b50ff16"
+          "type": "empty",
+          "state": {}
+        }
       }
     ],
     "direction": "vertical"
@@ -81,7 +65,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "DP English LL/Notes.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -108,17 +91,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "bc931ba5318eebda",
+  "active": "a05a3873caf0defc",
   "lastOpenFiles": [
-    "DP English LL/Notes.md",
-    "DP English LL/socratic seminar.md",
-    "DP Computer Science/Computer Science Placeholder.md",
+    "DP English LL/paper 2 outline.md",
     "Day Planners/Day Planner-20211116.md",
-    "DP Computer Science/3.1. LAN.md",
-    "DP Computer Science/3. Network fundamentals.md",
+    "DP Computer Science/Topic 3. Networks/0.1 Definitions and intro.md",
+    "DP Economics/3. Elasticities/4. PES.md",
+    "DP Economics/3. Elasticities/3. YED.md",
+    "DP Economics/3. Elasticities/3.2 Applications of YED (HL).md",
     "DP Economics/4. Government Intervention/1. Government Intervention.md",
     "DP Economics/4. Government Intervention/Government Intervention.md",
-    "DP Economics/3. Elasticities/3.2 Applications of YED (HL).md",
-    "DP Economics/Attachments/Second Term/Elasticity/ROVPED.png"
+    "DP Economics/Attachments/Second Term/Elasticity/ROVPED.png",
+    "DP Economics/3. Elasticities/2.3.1 PED and Decision Making.md"
   ]
 }
