@@ -1,17 +1,26 @@
 ## Day Planner
-- [ ] Read maus blyat
-- [ ] Chinese ppt
-- [ ] Computer Science
-- [ ] Math hw
+- [ ] Math hw 8-9
+- [ ] Read maus blyat 9-11
+- [ ] Econ IA stuff 11-12
+
 
 
 ## This week 
-- [ ] [This shit](https://www.youtube.com/watch?v=84A1FcQt9v4&ab_channel=DanielIlett)
-- [ ] Math hw
+Saturday
+- [ ] Consci review/notes 3-4, 5-6, 8-9
+- [ ] cs worksheet 10-12
+
+Sunday
+- [ ] Chinese PPT 8-9, 10-11
+- [ ] Math Review 3-4, 5-6
+
+
+
+### the fuck
 - [ ] Econ Notes sat: 3-5, 8-9, 10-11
-- [ ] Physics Notes sun: 3-5, 8-9, 10-11
-- [ ] CAS reflection
-- [ ] cas progress
+- [ ] Physics Notes sat: 3-5, 8-9, 10-11
+- [ ] Physics PPT
+
 
 ### November 25th
 - [ ] Chinese PPT
@@ -25,5 +34,5 @@
 ### December 5 (next sunday? wtf)
 - [ ] Physics ppt
 
-### December 7, 8 (next next chewsday)
+### December 7, 8 (next next wednesday)
 - [ ] Econ Summative

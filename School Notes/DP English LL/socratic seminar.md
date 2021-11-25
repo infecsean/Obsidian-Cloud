@@ -1,2 +1,0 @@
-# sarcastic seminar
----
