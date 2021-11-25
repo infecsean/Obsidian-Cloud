@@ -7,9 +7,25 @@
         "id": "280cd282657e975d",
         "type": "leaf",
         "state": {
-          "type": "empty",
-          "state": {}
-        }
+          "type": "markdown",
+          "state": {
+            "file": "DP English LL/Notes.md",
+            "mode": "source"
+          }
+        },
+        "group": "370487542b50ff16"
+      },
+      {
+        "id": "bc931ba5318eebda",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "DP English LL/Notes.md",
+            "mode": "preview"
+          }
+        },
+        "group": "370487542b50ff16"
       }
     ],
     "direction": "vertical"
@@ -65,6 +81,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "DP English LL/Notes.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -91,17 +108,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "280cd282657e975d",
+  "active": "bc931ba5318eebda",
   "lastOpenFiles": [
-    "DP Computer Science/3.1. LAN.md",
-    "DP Computer Science/3. Network fundamentals.md",
+    "DP English LL/Notes.md",
+    "DP English LL/socratic seminar.md",
     "DP Computer Science/Computer Science Placeholder.md",
     "Day Planners/Day Planner-20211116.md",
+    "DP Computer Science/3.1. LAN.md",
+    "DP Computer Science/3. Network fundamentals.md",
     "DP Economics/4. Government Intervention/1. Government Intervention.md",
     "DP Economics/4. Government Intervention/Government Intervention.md",
     "DP Economics/3. Elasticities/3.2 Applications of YED (HL).md",
-    "DP Economics/Attachments/Second Term/Elasticity/ROVPED.png",
-    "DP Economics/3. Elasticities/2.3.1 PED and Decision Making.md",
-    "DP Economics/3. Elasticities/2.3 Applications of PED.md"
+    "DP Economics/Attachments/Second Term/Elasticity/ROVPED.png"
   ]
 }
