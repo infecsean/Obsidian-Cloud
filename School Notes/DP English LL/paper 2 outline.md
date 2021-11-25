@@ -8,14 +8,18 @@
 
 
 ### Analysis
-- Topic sentence, summarize the story in one short sentence, connecting to the question
+- Topic sentence, summarize the context in one short sentence, connecting to the question
 - Provide contexual evidence taken from the book, take an example from book
 - Restate the claim in the context of the book, slight evaluation of the effect.
 - Topic sentence (claim), example from book, compare and contrast, restate claim with evaluation
 
 
 ### Analysis1 Narrative
-- 
+- While the two texts have very different narrative structures, they express their message effectively in their own contexts. This not only convey their attitude towards the story they are telling, but also bring forward the popular culture of the time. 
+
+### Analysis2 Content
+- The 
+
 
 
 Persepolis
