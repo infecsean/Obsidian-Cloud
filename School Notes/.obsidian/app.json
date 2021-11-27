@@ -1,5 +1,8 @@
 {
   "strictLineBreaks": false,
   "alwaysUpdateLinks": true,
-  "foldIndent": true
+  "foldIndent": true,
+  "readableLineLength": true,
+  "foldHeading": true,
+  "attachmentFolderPath": "DP Computer Science/Topic 3. Networks/3. Networks, communication, layers/Attachments"
 }
