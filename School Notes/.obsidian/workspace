@@ -4,28 +4,28 @@
     "type": "split",
     "children": [
       {
-        "id": "280cd282657e975d",
+        "id": "28ad30b06aae4b36",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "DP English LL/paper 2 outline.md",
+            "file": "DP Computer Science/Topic 3. Networks/0.1.2 Firewall.md",
             "mode": "source"
           }
         },
-        "group": "370487542b50ff16"
+        "group": "c32381e24b36f121"
       },
       {
-        "id": "bc931ba5318eebda",
+        "id": "1392e02b9f7a7e5c",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "DP English LL/paper 2 outline.md",
+            "file": "DP Computer Science/Topic 3. Networks/0.1.2 Firewall.md",
             "mode": "preview"
           }
         },
-        "group": "370487542b50ff16"
+        "group": "c32381e24b36f121"
       }
     ],
     "direction": "vertical"
@@ -81,7 +81,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "DP English LL/paper 2 outline.md",
+                "file": "DP Computer Science/Topic 3. Networks/0.1.2 Firewall.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -108,17 +108,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "280cd282657e975d",
+  "active": "28ad30b06aae4b36",
   "lastOpenFiles": [
-    "DP English LL/paper 2 outline.md",
-    "DP Computer Science/Computer Science Placeholder.md",
-    "Day Planners/Day Planner-20211116.md",
-    "DP English LL/Notes.md",
-    "DP English LL/socratic seminar.md",
-    "DP Computer Science/3.1. LAN.md",
-    "DP Computer Science/3. Network fundamentals.md",
-    "DP Economics/4. Government Intervention/1. Government Intervention.md",
-    "DP Economics/4. Government Intervention/Government Intervention.md",
-    "DP Economics/3. Elasticities/3.2 Applications of YED (HL).md"
+    "DP Computer Science/Topic 3. Networks/0.1.2 Firewall.md",
+    "DP Computer Science/Topic 3. Networks/0.1 Definitions and intro.md",
+    "DP Computer Science/Topic 3. Networks/1. Network fundamentals.md",
+    "DP Computer Science/Topic 3. Networks/Attachments/1.6 Intranet.md",
+    "DP Computer Science/Topic 3. Networks/1.5 SAN.md",
+    "DP Computer Science/Topic 3. Networks/1.4 WAN.md",
+    "DP Computer Science/Topic 3. Networks/1.3 VLAN.md",
+    "DP Computer Science/Topic 3. Networks/1.2 WLAN.md",
+    "DP Computer Science/Topic 3. Networks/1.1 LAN.md",
+    "Day Planners/Day Planner-20211116.md"
   ]
 }
