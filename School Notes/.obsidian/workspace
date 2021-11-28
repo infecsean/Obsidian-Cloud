@@ -7,9 +7,10 @@
         "id": "649dfde13f9a11fd",
         "type": "leaf",
         "state": {
-          "type": "image",
+          "type": "markdown",
           "state": {
-            "file": "DP Computer Science/Topic 3. Networks/10. Different transmission media P.153/Wireless Communication/transmissionmediacomp.png"
+            "file": "DP Computer Science/Topic 3. Networks/13. Wireless Networking P.156/Characteristics of wireless networks.md",
+            "mode": "source"
           }
         },
         "group": "3c5928d232202a89"
@@ -18,9 +19,10 @@
         "id": "53c9922600c4dc18",
         "type": "leaf",
         "state": {
-          "type": "image",
+          "type": "markdown",
           "state": {
-            "file": "DP Computer Science/Topic 3. Networks/10. Different transmission media P.153/Wireless Communication/transmissionmediacomp.png"
+            "file": "DP Computer Science/Topic 3. Networks/13. Wireless Networking P.156/Characteristics of wireless networks.md",
+            "mode": "preview"
           }
         },
         "group": "3c5928d232202a89"
@@ -79,7 +81,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "DP Computer Science/Topic 3. Networks/10. Different transmission media P.153/Wireless Communication/transmissionmediacomp.png",
+                "file": "DP Computer Science/Topic 3. Networks/13. Wireless Networking P.156/Characteristics of wireless networks.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -108,15 +110,15 @@
   },
   "active": "649dfde13f9a11fd",
   "lastOpenFiles": [
-    "DP Computer Science/Topic 3. Networks/10. Different transmission media P.153/Wireless Communication/transmissionmediacomp.png",
-    "DP Computer Science/Topic 3. Networks/10. Different transmission media P.153/Wireless Communication/bluetooth.md",
-    "DP Computer Science/Topic 3. Networks/10. Different transmission media P.153/Wireless Communication/free space optics.md",
-    "DP Computer Science/Topic 3. Networks/10. Different transmission media P.153/Wireless Communication/RFID.md",
-    "DP Computer Science/Topic 3. Networks/10. Different transmission media P.153/Wireless Communication/infrared.md",
-    "DP Computer Science/Topic 3. Networks/10. Different transmission media P.153/Wireless Communication/satellites.md",
-    "DP Computer Science/Topic 3. Networks/10. Different transmission media P.153/Wireless Communication/microwave radio.md",
-    "DP Computer Science/Topic 3. Networks/10. Different transmission media P.153/Wired Communication/fiber optic cable.md",
-    "DP Computer Science/Topic 3. Networks/10. Different transmission media P.153/Wired Communication/shielded twisted pair cable.md",
-    "DP Computer Science/Topic 3. Networks/10. Different transmission media P.153/Wired Communication/unshielded twisted pair cable.md"
+    "DP Computer Science/Topic 3. Networks/13. Wireless Networking P.156/Characteristics of wireless networks.md",
+    "DP Computer Science/Topic 3. Networks/13. Wireless Networking P.156/Components of wireless network/software components.md",
+    "DP Computer Science/Topic 3. Networks/13. Wireless Networking P.156/Attachments/osvsnos.png",
+    "DP Computer Science/Topic 3. Networks/13. Wireless Networking P.156/Components of wireless network/hardware components.md",
+    "DP Computer Science/Topic 3. Networks/13. Wireless Networking P.156/Advantages and disadvantages of wireless networking.md",
+    "DP Computer Science/Topic 3. Networks/13. Wireless Networking P.156/What is wireless networking.md",
+    "DP Computer Science/Topic 3. Networks/12. Network Topology P.155/network topologies.md",
+    "DP Computer Science/Topic 3. Networks/11. Packet Switching P.154/packet switching.md",
+    "DP Computer Science/Topic 3. Networks/11. Packet Switching P.154/virtual circuit packet switching.md",
+    "DP Computer Science/Topic 3. Networks/11. Packet Switching P.154/datagram packet switching.md"
   ]
 }
