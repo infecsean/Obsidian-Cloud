@@ -29,6 +29,16 @@
       },
       "command": false,
       "title": "Nobody Asked"
+    },
+    "noexp": {
+      "type": "noexp",
+      "color": "131, 106, 37",
+      "icon": {
+        "name": "trash",
+        "type": "font-awesome"
+      },
+      "command": false,
+      "title": "The Book didnt fucking explain"
     }
   },
   "syntaxHighlight": false,

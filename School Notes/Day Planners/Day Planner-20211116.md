@@ -1,7 +1,8 @@
 ## Day Planner
-- [ ] Math hw 8-9
-- [ ] Read maus blyat 9-11
-- [ ] Econ IA stuff 11-12
+- [ ] Computer Science Notes
+
+## TMR
+- [ ] Math finish
 
 
 

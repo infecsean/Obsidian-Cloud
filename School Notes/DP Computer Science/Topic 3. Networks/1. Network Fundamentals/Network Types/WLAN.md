@@ -5,7 +5,7 @@ yeah, LAN but wireless
 THE BOOK LITERALLY SAYS "using some sort of wireless connection method"
 
 ### What it?
-Yeah basically its a [[1.1 LAN|LAN]] without the wires. It is still limited to a certain area, it still connects multiple computer systems, but its just wireless
+Yeah basically its a [[LAN|LAN]] without the wires. It is still limited to a certain area, it still connects multiple computer systems, but its just wireless
 
 It is commonly built on Wifi, switching out cables and using radio waves, and instead of wiring to a hub/switch, they use radio waves.
 

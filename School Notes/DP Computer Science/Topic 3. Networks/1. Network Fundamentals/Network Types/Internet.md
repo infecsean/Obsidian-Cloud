@@ -1,6 +1,6 @@
 # Internet
 ---
-A global [[1.4 WAN|WAN]] connecting millions of computer systems.
+A global [[WAN|WAN]] connecting millions of computer systems.
 
 It provide services such as the world wide web (www).
 
