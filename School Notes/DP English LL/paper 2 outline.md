@@ -2,7 +2,7 @@
 ---
 ## To what extent do the form and content of two works you have studied reflect the time and place in which they were written?
 ### Introduction
-- State claim or argument (might just be the answer to question). Through the presentation of different narratives, style, and context, 
+- The form and content usually reveal the cultural context both within the story and historical setting. Through the presentation of different narratives, style, and content, authors are able to convey their personality and context through their work. 
 - Introduce the authors
 - lead into the general ideas you gon talk about in the essay (what the authors used)
 
@@ -15,13 +15,24 @@
 
 
 ### Analysis1 Narrative
-- While the two texts have very different narrative structures, they express their message effectively in their own contexts. This not only convey their attitude towards the story they are telling, but also sets the mood of the story.
-- While Persepolis is narrated by different times of herself, Maus isnarrated by him and his father.
-- Persepolis: More lighthearted, 
+- While the two texts have very different narrative structures, they express their message effectively in their own contexts, using different perspectives and pacing.
+- While Persepolis is narrated by her future self, Maus is narrated by him and his father. 
+- persepolis uses more events and focus on personal growth
+- Maus uses a technique called meta narrative, tightens the connection between time
 
 ### Analysis2 Presentation
-- The two texts, although taking the same form of a grapgic novel, are presented differently, as the authors have different styles, conveying not only personality, but also the 
+- both texts, though taking the same form of graphic novels, are presented differently, as the authors have different styles and arrangement.
+- Being graphic novels, there is a stigma they lack formality, these two are perfect examples proving otherwise.
+- Persepolis: Fills in 
+- Maus: 
 
+### Analysis 3 Content
+- Both graphic novels are about historical oppression, and through their own ways, present the history and personal trauma.
+- Both have symbolism, but persepolis is more about connecting personal growth and ideas, while maus' symbolism is built on interconnected historical context
+- Persepolis: Surrealism over personal trauma, present violence in processable ways, through the way that a child would imagine it
+- Maus: Surrealism over a real story, distinction between groups, to see without seeing.
+
+### conclusion
 
 
 Persepolis
