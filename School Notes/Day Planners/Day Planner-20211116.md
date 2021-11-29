@@ -1,5 +1,5 @@
 ## Day Planner
-- [ ] Computer Science Notes
+- [ ] 
 
 ## TMR
 - [ ] Math finish
