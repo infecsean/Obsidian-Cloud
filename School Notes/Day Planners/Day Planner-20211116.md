@@ -1,5 +1,8 @@
 ## Day Planner
-- [ ] Econ IA stuff 11-12
+- [ ] 
+
+## TMR
+- [ ] Math finish
 
 
 
@@ -9,6 +12,7 @@ Saturday
 - [ ] cs worksheet 10-12
 
 Sunday
+- [ ] Econ notes: 3-5, 8-9, 10-11
 - [ ] Chinese PPT 8-9, 10-11
 - [ ] Math Review 3-4, 5-6
 
