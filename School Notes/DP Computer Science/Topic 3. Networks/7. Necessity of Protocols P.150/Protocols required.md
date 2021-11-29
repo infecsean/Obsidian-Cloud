@@ -7,4 +7,3 @@
 5. common grammar
 6. agreed-upon speed and time of delivery
 7. conformation or acknowledgement requirements
-8. 

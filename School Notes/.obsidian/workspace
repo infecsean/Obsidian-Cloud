@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "DP Computer Science/Topic 3. Networks/16. Network Security P.165/Different Methods/Why need network security.md",
+            "file": "DP Computer Science/Topic 3. Networks/16. Network Security P.165/Dis and Advantages of Methods of Network Security.md",
             "mode": "source"
           }
         },
@@ -21,7 +21,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "DP Computer Science/Topic 3. Networks/16. Network Security P.165/Different Methods/Why need network security.md",
+            "file": "DP Computer Science/Topic 3. Networks/16. Network Security P.165/Dis and Advantages of Methods of Network Security.md",
             "mode": "preview"
           }
         },
@@ -52,7 +52,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "intranet",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -81,7 +81,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "DP Computer Science/Topic 3. Networks/16. Network Security P.165/Different Methods/Why need network security.md",
+                "file": "DP Computer Science/Topic 3. Networks/16. Network Security P.165/Dis and Advantages of Methods of Network Security.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -108,17 +108,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "649dfde13f9a11fd",
+  "active": "53c9922600c4dc18",
   "lastOpenFiles": [
+    "DP Computer Science/Topic 3. Networks/16. Network Security P.165/Dis and Advantages of Methods of Network Security.md",
+    "WELCOM💦.md",
+    "DP Computer Science/Topic 3. Networks/16. Network Security P.165/Attachments/pkevsske.png",
+    "DP Computer Science/Topic 3. Networks/16. Network Security P.165/Different Methods/methods of network security.md",
+    "DP Computer Science/Topic 3. Networks/16. Network Security P.165/Different Methods/encryption.md",
+    "DP Computer Science/Topic 3. Networks/16. Network Security P.165/Different Methods/free access.md",
     "DP Computer Science/Topic 3. Networks/16. Network Security P.165/Different Methods/Why need network security.md",
-    "DP Computer Science/Topic 3. Networks/13. Wireless Networking P.156/Characteristics of wireless networks.md",
-    "DP Computer Science/Topic 3. Networks/13. Wireless Networking P.156/Components of wireless network/software components.md",
-    "DP Computer Science/Topic 3. Networks/13. Wireless Networking P.156/Attachments/osvsnos.png",
-    "DP Computer Science/Topic 3. Networks/13. Wireless Networking P.156/Components of wireless network/hardware components.md",
-    "DP Computer Science/Topic 3. Networks/13. Wireless Networking P.156/Advantages and disadvantages of wireless networking.md",
-    "DP Computer Science/Topic 3. Networks/13. Wireless Networking P.156/What is wireless networking.md",
-    "DP Computer Science/Topic 3. Networks/12. Network Topology P.155/network topologies.md",
-    "DP Computer Science/Topic 3. Networks/11. Packet Switching P.154/packet switching.md",
-    "DP Computer Science/Topic 3. Networks/11. Packet Switching P.154/virtual circuit packet switching.md"
+    "DP Computer Science/Topic 3. Networks/16. Network Security P.165/Different Methods/public key encryption.md",
+    "DP Computer Science/Topic 3. Networks/16. Network Security P.165/Different Methods/symmetric key encryption.md",
+    "DP Computer Science/Topic 3. Networks/13. Wireless Networking P.156/Components of wireless network/software components.md"
   ]
 }
