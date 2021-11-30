@@ -1,8 +1,9 @@
 ## Day Planner
-- [ ] 
+- [ ] maths
+- [ ] cmon you have to show that you can self study to 7
 
 ## TMR
-- [ ] Math finish
+- [ ] CS read everything
 
 
 

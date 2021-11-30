@@ -1,4 +1,4 @@
-# Range of values in [[2. PED|PED]]
+# Range of values in [[PED|PED]]
 ---
 In theory, PED can be infinitely big, different values carry different meaning, we gon talk about that here
 

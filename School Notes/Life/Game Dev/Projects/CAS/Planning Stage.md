@@ -1,7 +1,9 @@
 # Fucking do something
 ---
 [[game kanban|kanban]]
-40 weeks
+9 weeks until school reopens.
+
+
 ## Checklist
 - [ ] Cannot make money
 - [ ] ATL Skills
@@ -33,6 +35,8 @@ your mom
 -   What is the estimated budget?
 
 ### Game design document
+-   Prototype. what it will contain
+	-   General map layout, so build that
 -   The idea or concept
 	- Since im gonna make a story based game, the hook or the selling point of my game should be the artstyle, not "Cool game mechanics"
 	- through progression and the choices you make, you become one of "them"
@@ -46,7 +50,10 @@ your mom
 	-   player is maybe transfer student or something idk
 -   Core game mechanics
 	-   Progression system: 
+	-   
 -   Gameplay Loop
+	-   First day is just regular day at school
+	-   as time goes on, 
 -   Level and world design
 -   Art and/or sketches
 -   Monetization strategy

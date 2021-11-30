@@ -44,8 +44,8 @@ Hello cumrats this is my mind map
 - 3. Elasticities
 	- [[0.1 Total Revenue]]
 	- [[1. Elasticity]]
-	- [[2. PED]]
-	- [[2.1 Range of values of PED]]
+	- [[PED]]
+	- [[Range of values of PED]]
 	 <br>
 ### DP Physics 💧
 - [[Physics Overview]]

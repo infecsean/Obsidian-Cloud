@@ -27,7 +27,7 @@ Demand decreases as income increases. This is pretty self explanitory, since you
 Ah yes, the Engel curve.
 Its named after 19th century German economist, Ernest Engel, nobody asked.
 
-Important concept here from the second determinant of PED is that [[2.2 Determinants of PED|necessity is subjective]]
+Important concept here from the second determinant of PED is that [[Determinants of PED|necessity is subjective]]
 
 Here is the graph
 ![[yedengelcurvegraph.png]]
