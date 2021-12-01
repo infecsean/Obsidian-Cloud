@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "DP Computer Science/Topic 3. Networks/1. Network Fundamentals/Network Types/VLAN.md",
+            "file": "DP Computer Science/Topic 3. Networks/1. Network Fundamentals/Network Types/VPN.md",
             "mode": "preview"
           }
         }
@@ -39,7 +39,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "factors of production",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "DP Computer Science/Topic 3. Networks/1. Network Fundamentals/Network Types/VLAN.md",
+                "file": "DP Computer Science/Topic 3. Networks/1. Network Fundamentals/Network Types/VPN.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,15 +97,15 @@
   },
   "active": "18135fc2436f5816",
   "lastOpenFiles": [
+    "DP Computer Science/Topic 3. Networks/1. Network Fundamentals/Network Types/VPN.md",
+    "DP Computer Science/Topic 3. Networks/16. Network Security P.165/Different Methods/methods of network security.md",
+    "DP Computer Science/Topic 3. Networks/1. Network Fundamentals/1. Network fundamentals.md",
+    "DP Computer Science/Topic 3. Networks/1. Network Fundamentals/Network Types/Intranet.md",
     "DP Computer Science/Topic 3. Networks/1. Network Fundamentals/Network Types/VLAN.md",
     "DP Computer Science/Topic 3. Networks/1. Network Fundamentals/Network Types/SAN.md",
     "DP Computer Science/Topic 3. Networks/1. Network Fundamentals/Network Types/PAN.md",
     "DP Computer Science/Topic 3. Networks/1. Network Fundamentals/Network Types/P2P.md",
     "DP Computer Science/Topic 3. Networks/1. Network Fundamentals/Network Types/LAN.md",
-    "DP Computer Science/Topic 3. Networks/1. Network Fundamentals/Network Types/IoT.md",
-    "DP Computer Science/Topic 3. Networks/13. Wireless Networking P.156/Components of wireless network/hardware components.md",
-    "DP Computer Science/Topic 3. Networks/13. Wireless Networking P.156/Components of wireless network/software components.md",
-    "DP Computer Science/Topic 3. Networks/13. Wireless Networking P.156/Characteristics of wireless networks.md",
-    "DP Computer Science/Topic 3. Networks/13. Wireless Networking P.156/Advantages and disadvantages of wireless networking.md"
+    "DP Computer Science/Topic 3. Networks/1. Network Fundamentals/Network Types/IoT.md"
   ]
 }
