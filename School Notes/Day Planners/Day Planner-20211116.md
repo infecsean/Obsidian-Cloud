@@ -1,16 +1,16 @@
 ## Day Planner
-- [ ] maths
-- [ ] cmon you have to show that you can self study to 7
+- [ ] cs study
+- [ ] lesgo self study to 7
 
 ## TMR
-- [ ] CS read everything
+- [ ] math stuff
 
 
 
 ## This week 
 Saturday
-- [ ] Consci review/notes 3-4, 5-6, 8-9
-- [ ] cs worksheet 10-12
+- [ ] Econ notes 9-11, 3-5, 8-10, 11-12. 7 hrs??
+- [ ] 
 
 Sunday
 - [ ] Econ notes: 3-5, 8-9, 10-11
@@ -39,3 +39,11 @@ Sunday
 
 ### December 7, 8 (next next wednesday)
 - [ ] Econ Summative
+
+### Summatives left
+- [ ] CS summative
+- [ ] Math summative
+- [ ] Physics ppt
+- [ ] Econ Summative
+- [ ] Chinese
+- [ ] English

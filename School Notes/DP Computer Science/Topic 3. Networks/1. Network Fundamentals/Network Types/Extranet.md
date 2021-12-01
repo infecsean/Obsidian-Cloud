@@ -6,4 +6,4 @@ In an extranet, restricted information are hidden behind passwords or stuff, wit
 
 This part of the network is called an extranet. Its kinda like an intranet, but allows authorized access by outsiders. 
 
-A [[0.1.2 Firewall|firewall]] is used to control access.
+A [[firewall]] is used to control access.

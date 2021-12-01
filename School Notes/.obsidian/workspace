@@ -4,28 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "51ec36712450c7e9",
+        "id": "18135fc2436f5816",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "DP Economics/3. Elasticities/PES/Determinants of PES/Ability to store stocks.md",
-            "mode": "source"
-          }
-        },
-        "group": "c4811e3d4d2595e9"
-      },
-      {
-        "id": "5f4f3c1a6bd42931",
-        "type": "leaf",
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "DP Economics/3. Elasticities/PES/Determinants of PES/Ability to store stocks.md",
+            "file": "DP Computer Science/Topic 3. Networks/1. Network Fundamentals/Network Types/VLAN.md",
             "mode": "preview"
           }
-        },
-        "group": "c4811e3d4d2595e9"
+        }
       }
     ],
     "direction": "vertical"
@@ -81,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "DP Economics/3. Elasticities/PES/Determinants of PES/Ability to store stocks.md",
+                "file": "DP Computer Science/Topic 3. Networks/1. Network Fundamentals/Network Types/VLAN.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -108,17 +95,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "51ec36712450c7e9",
+  "active": "18135fc2436f5816",
   "lastOpenFiles": [
-    "DP Economics/3. Elasticities/PES/Determinants of PES/Ability to store stocks.md",
-    "DP Economics/3. Elasticities/PES/Determinants of PES.md",
-    "DP Economics/3. Elasticities/PES/Determinants of PES/Spare Capacity of firms.md",
-    "DP Economics/3. Elasticities/PES/Determinants of PES/Length of Time PES.md",
-    "DP Economics/3. Elasticities/PES/Determinants of PES/Mobility of Factors of Production PES.md",
-    "DP Economics/3. Elasticities/PES/Range of Values of PES.md",
-    "DP Economics/4. Government Intervention/Subsidy.md",
-    "DP Economics/3. Elasticities/1. Elasticity.md",
-    "DP Economics/Attachments/Second Term/Elasticity/value of pes stuff.png",
-    "DP Economics/Attachments/Second Term/Elasticity/Range of Values PES.png"
+    "DP Computer Science/Topic 3. Networks/1. Network Fundamentals/Network Types/VLAN.md",
+    "DP Computer Science/Topic 3. Networks/1. Network Fundamentals/Network Types/SAN.md",
+    "DP Computer Science/Topic 3. Networks/1. Network Fundamentals/Network Types/PAN.md",
+    "DP Computer Science/Topic 3. Networks/1. Network Fundamentals/Network Types/P2P.md",
+    "DP Computer Science/Topic 3. Networks/1. Network Fundamentals/Network Types/LAN.md",
+    "DP Computer Science/Topic 3. Networks/1. Network Fundamentals/Network Types/IoT.md",
+    "DP Computer Science/Topic 3. Networks/13. Wireless Networking P.156/Components of wireless network/hardware components.md",
+    "DP Computer Science/Topic 3. Networks/13. Wireless Networking P.156/Components of wireless network/software components.md",
+    "DP Computer Science/Topic 3. Networks/13. Wireless Networking P.156/Characteristics of wireless networks.md",
+    "DP Computer Science/Topic 3. Networks/13. Wireless Networking P.156/Advantages and disadvantages of wireless networking.md"
   ]
 }
