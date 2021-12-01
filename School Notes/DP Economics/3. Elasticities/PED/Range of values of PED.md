@@ -17,7 +17,7 @@ also disgustingly oversimplified
 ### Price Elastic (Elastic Demand)
 - Demand is price elastic when 1 < PED < ∞
 - Change in quantity is bigger than change in price
-- In english, this means that  In english, this means that when the price of a product falls, the sales will fall more in proportion, so the total revenue gained by the firm will decrease
+- In english, this means that when the price of a product falls, the sales will fall more in proportion, so the total revenue gained by the firm will decrease
 -  If a firm wanna raise the total revenue, and its products are relatively elastic, it should **NOT** raise the price (again not professional advice)
 
 ### Unit Elastic

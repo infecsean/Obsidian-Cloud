@@ -10,7 +10,7 @@
 ## This week 
 Saturday
 - [ ] Econ notes 9-11, 3-5, 8-10, 11-12. 7 hrs??
-- [ ] 
+- [ ] Econ Worksheet
 
 Sunday
 - [ ] Econ notes: 3-5, 8-9, 10-11
