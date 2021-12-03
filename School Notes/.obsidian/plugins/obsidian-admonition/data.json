@@ -20,6 +20,16 @@
       "command": false,
       "title": "Resource"
     },
+    "noexp": {
+      "type": "noexp",
+      "color": "147, 95, 6",
+      "icon": {
+        "name": "trash-alt",
+        "type": "font-awesome"
+      },
+      "command": false,
+      "title": "The book didnt fucking explain"
+    },
     "noone": {
       "type": "noone",
       "color": "255, 0, 0",
@@ -29,16 +39,6 @@
       },
       "command": false,
       "title": "Nobody Asked"
-    },
-    "noexp": {
-      "type": "noexp",
-      "color": "131, 106, 37",
-      "icon": {
-        "name": "trash",
-        "type": "font-awesome"
-      },
-      "command": false,
-      "title": "The Book didnt fucking explain"
     }
   },
   "syntaxHighlight": false,
