@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "DP Economics/4. Government Intervention/Price Controls/Price Control.md",
+            "file": "DP Economics/4. Government Intervention/Subsidies/subsidies.md",
             "mode": "source"
           }
         },
@@ -21,7 +21,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "DP Economics/4. Government Intervention/Price Controls/Price Control.md",
+            "file": "DP Economics/4. Government Intervention/Subsidies/subsidies.md",
             "mode": "preview"
           }
         },
@@ -81,7 +81,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "DP Economics/4. Government Intervention/Price Controls/Price Control.md",
+                "file": "DP Economics/4. Government Intervention/Subsidies/subsidies.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,6 +110,8 @@
   },
   "active": "c577dbb62e3c5771",
   "lastOpenFiles": [
+    "DP Economics/4. Government Intervention/Subsidies/subsidies.md",
+    "DP Economics/4. Government Intervention/Stakeholder/stakeholder.md",
     "DP Economics/4. Government Intervention/Price Controls/Price Control.md",
     "DP Economics/4. Government Intervention/Market/Government Intervention.md",
     "DP Economics/4. Government Intervention/Market/Reasons of Intervention.md",
@@ -117,8 +119,6 @@
     "DP Economics/Attachments/Second Term/Government Intervention/Specific tax.png",
     "DP Economics/IA.md",
     "DP English LL/Hamlet Notes.md",
-    "DP English LL/paper 2 outline.md",
-    "DP Economics/4. Government Intervention/Market/gov test.md",
-    "Day Planners/Day Planner-20211116.md"
+    "DP English LL/paper 2 outline.md"
   ]
 }
