@@ -1,8 +1,12 @@
 ## Day Planner
-- [ ] physics sheet
+- [ ] TOK
+- [ ] Econ finish notes
+- [ ] Econ papers
+- [ ] Physics ppt
+- [ ] 
 
 ## TMR
-- [ ] math stuff
+- [ ] 
 
 
 

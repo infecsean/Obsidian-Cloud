@@ -1,5 +1,7 @@
 # Indirect Tax
 ---
+
+
 There are two types of Indirect Tax
 1. Specific Tax
 - Fixed amount of tax
