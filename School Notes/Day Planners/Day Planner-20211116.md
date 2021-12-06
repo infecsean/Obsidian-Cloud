@@ -1,6 +1,7 @@
 ## Day Planner
-- [ ] Econ finish notes
-- [ ] Econ papers
+- [ ] Econ finish notes 10-12
+- [ ] Econ papers 1-5 
+- [ ] Jason Welker
 
 ## What useful thing have i done today?
 - [ ] Chinese learned some stuff i guess

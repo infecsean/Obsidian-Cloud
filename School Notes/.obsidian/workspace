@@ -4,28 +4,28 @@
     "type": "split",
     "children": [
       {
-        "id": "c577dbb62e3c5771",
+        "id": "1faa7803af355861",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "DP English LL/Hamlet Notes.md",
+            "file": "DP Economics/4. Government Intervention/Indirect Tax/Indirect Tax.md",
             "mode": "source"
           }
         },
-        "group": "caecea629d934528"
+        "group": "1e01a2d3b9735d37"
       },
       {
-        "id": "507b7cb728dc57aa",
+        "id": "9150f42c94210a37",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "DP English LL/Hamlet Notes.md",
+            "file": "DP Economics/4. Government Intervention/Indirect Tax/Indirect Tax.md",
             "mode": "preview"
           }
         },
-        "group": "caecea629d934528"
+        "group": "1e01a2d3b9735d37"
       }
     ],
     "direction": "vertical"
@@ -53,7 +53,7 @@
               "type": "search",
               "state": {
                 "query": "",
-                "matchingCase": true,
+                "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
                 "extraContext": false,
@@ -65,7 +65,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 309
+    "width": 300
   },
   "right": {
     "id": "d6f61973bf5b2b3f",
@@ -81,7 +81,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "DP English LL/Hamlet Notes.md",
+                "file": "DP Economics/4. Government Intervention/Indirect Tax/Indirect Tax.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -108,17 +108,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "c577dbb62e3c5771",
+  "active": "1faa7803af355861",
   "lastOpenFiles": [
-    "DP English LL/Hamlet Notes.md",
-    "DP Economics/4. Government Intervention/Price Controls/Minimum Wages.md",
-    "DP Economics/4. Government Intervention/Price Controls/Price Control.md",
-    "DP Economics/Attachments/Second Term/Government Intervention/Minimum wage graph price.png",
-    "DP Economics/4. Government Intervention/Price Controls/Price Floors/Consequences of price floor for stakeholders.md",
+    "DP Economics/4. Government Intervention/Indirect Tax/Indirect Tax.md",
+    "DP Economics/4. Government Intervention/Price Controls/Price Floors/Setting Fixed Prices.md",
+    "DP Economics/4. Government Intervention/Price Controls/Price Floors/Price Floor and Minimum Wage exmamples.md",
+    "DP Economics/4. Government Intervention/Price Controls/Price Floors/Minimum Wages.md",
+    "Day Planners/Day Planner-20211116.md",
     "DP Economics/4. Government Intervention/Price Controls/Price Floors/Price Floors.md",
-    "DP Economics/4. Government Intervention/Price Controls/Price Ceilings/Consequences of price ceilings/consequences of price ceilings.md",
-    "DP Economics/4. Government Intervention/Price Controls/Price Ceilings/Consequences of price ceilings for stakeholders.md",
+    "DP Economics/4. Government Intervention/Price Controls/Price Floors/Consequences of price floor for stakeholders.md",
     "DP Economics/4. Government Intervention/Price Controls/Price Floors/Consequences of price floor.md",
-    "Day Planners/Day Planner-20211116.md"
+    "DP Economics/4. Government Intervention/Price Controls/Price Ceilings/Consequences of price ceilings/Negative Welfare Impacts.md",
+    "DP Economics/4. Government Intervention/Price Controls/Price Ceilings/Consequences of price ceilings/consequences of price ceilings.md"
   ]
 }
