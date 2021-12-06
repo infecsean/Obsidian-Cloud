@@ -1,8 +1,16 @@
 ## Day Planner
-- [ ] TOK
 - [ ] Econ finish notes
 - [ ] Econ papers
-- [ ] Physics ppt
+
+## What useful thing have i done today?
+- [ ] Chinese learned some stuff i guess
+- [ ] Reflection cas in physics
+- [ ] Econ IA
+- [ ] 
+
+## Time wasted today
+- [ ] 6-8:25 no class and class is a fucking nuisance, better off sleeping. (-2:25hr)
+- [ ] Physics presentations others are presenting (-2hr)
 - [ ] 
 
 ## TMR

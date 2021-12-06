@@ -17,7 +17,7 @@ Society is worse off
 ###
 ![[Negative Welfare Impacts]]
 
-Government response:
+### Government response:
 1. Shift Demand Curve: To the left, until equilibrium point reaches the maximum price, but that eliminates the whole point
 2. Shift Supply Curve: To the right, until equilibrium reaches the maximum price, however, this is good. The government can:
 	1. Offer [[subsidies]] to firms to encourage production
