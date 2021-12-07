@@ -15,7 +15,7 @@ Had they not buy up, it would fall back to equillibrium, since farmers would hav
 ### Government Decision for surplus
 In general, anything government does to get rid of the surplus is problematic.
 - Storing it: Cost of Storage + cost of purchasing surplus
-- Export: Often require [[subsidies]], given to producers to lower the price since countries wouldnt want to buy at a high price.
+- Export: Often require [[Subsidies]], given to producers to lower the price since countries wouldnt want to buy at a high price.
 
 ### Firm Inefficiency
 Firms with high cost of production arent motivated to produce effeciently since the high price protect them from low price competitors.

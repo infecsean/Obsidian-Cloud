@@ -4,28 +4,28 @@
     "type": "split",
     "children": [
       {
-        "id": "1faa7803af355861",
+        "id": "8c652351179b20c6",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "DP Economics/4. Government Intervention/Indirect Tax/Indirect Tax.md",
+            "file": "DP Economics/4. Government Intervention/Market/Government Intervention.md",
             "mode": "source"
           }
         },
-        "group": "1e01a2d3b9735d37"
+        "group": "9bc0e17c68d1b4d1"
       },
       {
-        "id": "9150f42c94210a37",
+        "id": "3ec2c01d32a3e7c2",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "DP Economics/4. Government Intervention/Indirect Tax/Indirect Tax.md",
+            "file": "DP Economics/4. Government Intervention/Market/Government Intervention.md",
             "mode": "preview"
           }
         },
-        "group": "1e01a2d3b9735d37"
+        "group": "9bc0e17c68d1b4d1"
       }
     ],
     "direction": "vertical"
@@ -81,13 +81,13 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "DP Economics/4. Government Intervention/Indirect Tax/Indirect Tax.md",
+                "file": "DP Economics/4. Government Intervention/Market/Government Intervention.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
                 "showSearch": false,
                 "searchQuery": "",
-                "backlinkCollapsed": false,
+                "backlinkCollapsed": true,
                 "unlinkedCollapsed": true
               }
             }
@@ -100,25 +100,24 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
     "width": 300,
     "collapsed": true
   },
-  "active": "1faa7803af355861",
+  "active": "8c652351179b20c6",
   "lastOpenFiles": [
+    "DP Economics/4. Government Intervention/Market/Government Intervention.md",
+    "DP Economics/4. Government Intervention/Market/Reasons of Intervention.md",
+    "DP Economics/4. Government Intervention/Stakeholder/stakeholders.md",
+    "DP Economics/4. Government Intervention/Subsidies/Subsidies Impacts.md",
+    "DP Economics/4. Government Intervention/Subsidies/Consequences of Subsidies for stakeholders.md",
+    "DP Economics/4. Government Intervention/Indirect Tax/Consequences of indirect tax for stakeholders.md",
     "DP Economics/4. Government Intervention/Indirect Tax/Indirect Tax.md",
-    "DP Economics/4. Government Intervention/Price Controls/Price Floors/Setting Fixed Prices.md",
-    "DP Economics/4. Government Intervention/Price Controls/Price Floors/Price Floor and Minimum Wage exmamples.md",
-    "DP Economics/4. Government Intervention/Price Controls/Price Floors/Minimum Wages.md",
-    "Day Planners/Day Planner-20211116.md",
-    "DP Economics/4. Government Intervention/Price Controls/Price Floors/Price Floors.md",
-    "DP Economics/4. Government Intervention/Price Controls/Price Floors/Consequences of price floor for stakeholders.md",
-    "DP Economics/4. Government Intervention/Price Controls/Price Floors/Consequences of price floor.md",
-    "DP Economics/4. Government Intervention/Price Controls/Price Ceilings/Consequences of price ceilings/Negative Welfare Impacts.md",
-    "DP Economics/4. Government Intervention/Price Controls/Price Ceilings/Consequences of price ceilings/consequences of price ceilings.md"
+    "DP Economics/4. Government Intervention/Indirect Tax/Indirect Tax Impacts.md",
+    "DP Economics/4. Government Intervention/Subsidies/Subsidies.md",
+    "DP Economics/4. Government Intervention/Indirect Tax/Tax Burden.md"
   ]
 }
