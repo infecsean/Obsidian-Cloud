@@ -4,23 +4,12 @@
     "type": "split",
     "children": [
       {
-        "id": "8c652351179b20c6",
+        "id": "18bd409277ab427f",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "DP Economics/4. Government Intervention/Stakeholder/stakeholder analysis for subsidies.md",
-            "mode": "source"
-          }
-        }
-      },
-      {
-        "id": "3ec2c01d32a3e7c2",
-        "type": "leaf",
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "DP Economics/4. Government Intervention/Stakeholder/stakeholder analysis for subsidies.md",
+            "file": "DP Economics/4. Government Intervention/Indirect Tax/Tax Burden.md",
             "mode": "preview"
           }
         }
@@ -79,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "DP Economics/4. Government Intervention/Stakeholder/stakeholder analysis for subsidies.md",
+                "file": "DP Economics/4. Government Intervention/Indirect Tax/Tax Burden.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -105,17 +94,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "8c652351179b20c6",
+  "active": "18bd409277ab427f",
   "lastOpenFiles": [
-    "DP Economics/4. Government Intervention/Stakeholder/stakeholder analysis for subsidies.md",
+    "DP Economics/4. Government Intervention/Indirect Tax/Tax Burden.md",
+    "DP Economics/4. Government Intervention/Indirect Tax/Indirect Tax Impacts.md",
+    "DP Economics/4. Government Intervention/Indirect Tax/Indirect Tax.md",
     "DP Economics/4. Government Intervention/Stakeholder/stakeholder analysis for indirect taxes.md",
+    "DP Economics/4. Government Intervention/Indirect Tax/Consequences of indirect tax for stakeholders.md",
+    "DP Economics/4. Government Intervention/Stakeholder/stakeholder analysis for subsidies.md",
     "DP Economics/4. Government Intervention/Stakeholder/stakeholder analysis for price floors.md",
     "DP Economics/4. Government Intervention/Stakeholder/stakeholder analysis for price ceilings.md",
     "DP Economics/4. Government Intervention/Price Controls/Price Floors/Consequences of price floor.md",
-    "DP Economics/4. Government Intervention/Price Controls/Price Floors/Consequences of price floor for stakeholders.md",
-    "DP Economics/4. Government Intervention/Price Controls/Price Floors/Minimum Wages.md",
-    "DP Economics/4. Government Intervention/Price Controls/Price Floors/Price Floors.md",
-    "DP Economics/4. Government Intervention/Stakeholder/stakeholders.md",
-    "DP Economics/4. Government Intervention/Market/Government Intervention.md"
+    "DP Economics/4. Government Intervention/Price Controls/Price Floors/Consequences of price floor for stakeholders.md"
   ]
 }
