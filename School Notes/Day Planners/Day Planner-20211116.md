@@ -1,22 +1,21 @@
 ## Day Planner
-- [ ] Econ finish notes 10-12
-- [ ] Econ papers 1-5 
-- [ ] Jason Welker
+- [ ] Make prototype game
+
+## TMR
+- [ ] Prototype game if not finished
+
+## Prototype Game
+- [ ] Map Overall structure
+- [ ] Characters
+- [ ] Monster concept art
 
 ## What useful thing have i done today?
-- [ ] Chinese learned some stuff i guess
-- [ ] Reflection cas in physics
-- [ ] Econ IA
+- [ ] 
 - [ ] 
 
 ## Time wasted today
-- [ ] 6-8:25 no class and class is a fucking nuisance, better off sleeping. (-2:25hr)
-- [ ] Physics presentations others are presenting (-2hr)
 - [ ] 
-
-## TMR
 - [ ] 
-
 
 
 ## This week 
@@ -29,24 +28,11 @@ Sunday
 - [ ] Chinese PPT 8-9, 10-11
 - [ ] Math Review 3-4, 5-6
 
-Monday
-- [ ] TOK
-
-### the fuck
-- [ ] Econ Notes sat: 3-5, 8-9, 10-11
-- [ ] Physics Notes sat: 3-5, 8-9, 10-11
-- [ ] Physics PPT
-
-### December 6 (monday)
-- [ ] Physics ppt
-
-### December 8 (wednesday)
-- [ ] Econ Summative
 
 ### Summatives left
 - [x] CS summative
 - [x] Math summative
-- [ ] Physics ppt
-- [ ] Econ Summative
+- [x] Physics ppt
+- [x] Econ Summative
 - [ ] Chinese
 - [ ] English

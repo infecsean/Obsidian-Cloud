@@ -57,6 +57,7 @@ In a game design perspective, the part above means that the player will only be 
 In the form of nights - kinda like five nights at Freddy’s, but different nights have different encounters
 Exploration like soma, but we recycle the map by integrating different nights and encounters.
 
+Mental and physical progression
   
 
 ### Locations
@@ -80,7 +81,7 @@ Teachers - Spine device controls.
 Principal - Enthusiastic tone with dark actions
 Janitor - 
 
-  
+Mental monsters
 
   
 
