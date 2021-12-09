@@ -54,32 +54,36 @@ In a game design perspective, the part above means that the player will only be 
 
 ### Progression
 
-In the form of nights - kinda like five nights at Freddy’s, but different nights have different encounters
+~~In the form of nights - kinda like five nights at Freddy’s, but different nights have different encounters~~
 Exploration like soma, but we recycle the map by integrating different nights and encounters.
+Progression in time is slowly revealed through the introduction of senior grades
 
 Mental and physical progression
   
 
 ### Locations
-Dorm - player will go there every night
+Dorm 
+	- ~~player will go there every night~~
+	- The final destination that is revealed
+
 School 
 	- Buncha classrooms
 	- bathrooms
-	- head office (maybe bossroom),
+	- head office (maybe bossroom)
+	- 
 Convenience store - sells medication, food, supplies
 Flag pole or sumthin - A symbol of worship of sorts
 Park - the seems-to-be "safe" place.
 
 
 **Characters** 
-**Idea: if they are under control, the are robots, if not, then humans**
+~~**Idea: if they are under control, the are robots, if not, then humans**~~
 Humans:
 your friend - which will represent you in the third person as you watch him get completely taken over
 School shooters - they’ve had enough of this school, and life in general
 School bullies - they haven’t seen you as a target ( less like bullies and more like mafia) 
 Teachers - Spine device controls. 
 Principal - Enthusiastic tone with dark actions
-Janitor - 
 
 Mental monsters
 
