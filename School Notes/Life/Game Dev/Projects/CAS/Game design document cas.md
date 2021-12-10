@@ -58,7 +58,7 @@ In a game design perspective, the part above means that the player will only be 
 Exploration like soma, but we recycle the map by integrating different nights and encounters.
 Progression in time is slowly revealed through the introduction of senior grades
 
-Ending: Receive a package when returned to your dorm, based on the choices you make, pistol for suicide, drugs for embracement, rifle for hatred.
+Ending: Receive a package when returned to your dorm, based on the choices you make, pistol for suicide, drugs for losing yourself, rifle for hatred.
 Mental and physical progression
   
 
