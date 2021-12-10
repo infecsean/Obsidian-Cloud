@@ -58,6 +58,7 @@ In a game design perspective, the part above means that the player will only be 
 Exploration like soma, but we recycle the map by integrating different nights and encounters.
 Progression in time is slowly revealed through the introduction of senior grades
 
+Ending: Receive a package when returned to your dorm, based on the choices you make, pistol for suicide, drugs for embracement, rifle for hatred.
 Mental and physical progression
   
 
@@ -77,15 +78,20 @@ Park - the seems-to-be "safe" place.
 
 
 **Characters** 
+**Idea: Take on human form until provoked, meaning, aggro-ed**
 ~~**Idea: if they are under control, the are robots, if not, then humans**~~
 Humans:
-your friend - which will represent you in the third person as you watch him get completely taken over
+~~your friend - which will represent you in the third person as you watch him get completely taken over~~
 School shooters - they’ve had enough of this school, and life in general
 School bullies - they haven’t seen you as a target ( less like bullies and more like mafia) 
 Teachers - Spine device controls. 
 Principal - Enthusiastic tone with dark actions
 
 Mental monsters
+Anxiety - depict it as how it makes you feel i guess
+Depression - depict as how it makes you feel also idk
+Stress - Depict the feeling again i guess
+sleep deprivation - hallucinations idk
 
   
 
