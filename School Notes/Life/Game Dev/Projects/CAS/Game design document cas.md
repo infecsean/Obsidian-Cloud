@@ -29,15 +29,11 @@ To the dorms - cus the player will mostly be on their way to the dorms
   
 
 ### Questions that I ask myself: 
-do I wanna put the scores that the student has on their own hands? Like do the players decide what grade they get with their actions?
-
-No
-
 Does this make the school kinda like a cult?
 Yeah maybe
 
 ### How did this dystopian school come to be?
-Maybe he stayed in a coma for 20 years idk
+~~Maybe he stayed in a coma for 20 years idk~~
 Maybe this is just an everyday thing and the school is set as a mental world, the stream of consciousness if you will.
   
 
@@ -46,11 +42,11 @@ Build a school campus
 
 You are a straight a student
 You live near school (student dorm)
-So you study at the library late everyday
+~~So you study at the library late everyday~~
 
 In a game design perspective, the part above means that the player will only be walking around at night
 
-  
+  Changed so this whole game is a stream of consciousness of a student going thru puberty
 
 ### Progression
 
@@ -73,8 +69,7 @@ Park - the seems-to-be "safe" place.
 
 **Characters** 
 **Idea: if they are under control, the are robots, if not, then humans**
-Humans:
-your friend - which will represent you in the third person as you watch him get completely taken over
+Physical:
 School shooters - they’ve had enough of this school, and life in general
 School bullies - they haven’t seen you as a target ( less like bullies and more like mafia) 
 Teachers - Spine device controls. 
