@@ -5,7 +5,7 @@
 -   The idea or concept
 	- Since im gonna make a story based game, the hook or the selling point of my game should be the artstyle, not "Cool game mechanics"
 	- through progression and the choices you make, you become one of "them"
-	- Mental enemies if you defeat them once, you overcome them
+	- ~~Mental enemies if you defeat them once, you overcome them~~
 -   Genre and setting
 	- horror idk
 	- could also be open world (but then would have to encourage exploration)
@@ -50,7 +50,7 @@ In a game design perspective, the part above means that the player will only be 
 
 ### Progression
 
-In the form of nights - kinda like five nights at Freddy’s, but different nights have different encounters
+~~In the form of nights - kinda like five nights at Freddy’s, but different nights have different encounters~~
 Exploration like soma, but we recycle the map by integrating different nights and encounters.
 
 Mental and physical progression
@@ -66,33 +66,35 @@ Convenience store - sells medication, food, supplies
 ~~Flag pole or sumthin - A symbol of worship of sorts~~
 Cafeteria
 ~~Park - the seems-to-be "safe" place.~~
-
+DORMS - TO THE DORMS MATE
 
 **Characters** 
-**Idea: if they are under control, the are robots, if not, then humans**
+~~**Idea: if they are under control, the are robots, if not, then humans**~~
 Physical:
+Bullied - weak people who get bullied
 School shooters - they’ve had enough of this school, and life in general
 School bullies - they haven’t seen you as a target ( less like bullies and more like mafia) 
-Teachers - Spine device controls. 
-Principal - Enthusiastic tone with dark actions
-Janitor - 
+~~Teachers - Spine device controls. ~~
+Principal - Enthusiastic tone with dark actions (also act as a guide)
+~~Janitor - ~~
+Cashier - just a basic guy that only gives a fuck when u buy something
 
 Mental monsters
-
+Big sad - The big guy that sometimes follows you around (gets bigger as you progress)
   
 
 ### Events
-Mugging - at night around the dorms
+~~Mugging - at night around the dorms~~
 
-School shooting - At the school probably
+School shooting - At the school probably (At the tracks (last stage (or at least close to the last stage)))
 
-Chase scene by the enemies
+~~Chase scene by the enemies~~
 
-Suicides - happens every other day
+Suicides - happens ~~every other day~~ more often as you progress
 
 Bullying - People getting pushed around at night. May be one of the endings, be the bully, or be the bullied.
 
-Drug trade - students are too stressed
+~~Drug trade - students are too stressed~~
 
   
 
