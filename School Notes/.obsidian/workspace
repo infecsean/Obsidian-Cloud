@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Day Planners/Cas planner.md",
+            "file": "Day Planners/Week Planners.md",
             "mode": "source"
           }
         }
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Day Planners/Cas planner.md",
+                "file": "Day Planners/Week Planners.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,10 +97,10 @@
   },
   "active": "a98f65db6718c600",
   "lastOpenFiles": [
+    "Day Planners/Week Planners.md",
     "Day Planners/Cas planner.md",
     "Day Planners/Day Planner-20211116.md",
     "Life/Game Dev/Projects/CAS/Game design document cas.md",
-    "Day Planners/Week Planners.md",
     "Life/Game Dev/Projects/CAS/Enemy designing.md",
     "DP Economics/Attachments/Second Term/Government Intervention/priceceilingsa.png",
     "DP English LL/English Notes.md",
