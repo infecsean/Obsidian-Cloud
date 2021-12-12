@@ -63,8 +63,9 @@ School
 	- bathrooms
 	- head office (maybe bossroom),
 Convenience store - sells medication, food, supplies
-Flag pole or sumthin - A symbol of worship of sorts
-Park - the seems-to-be "safe" place.
+~~Flag pole or sumthin - A symbol of worship of sorts~~
+Cafeteria
+~~Park - the seems-to-be "safe" place.~~
 
 
 **Characters** 
