@@ -46,7 +46,7 @@ Traits due to human evolution:
 
 
 ### Mental Monster 1 (Lets call him big shadow)(depression)
-Inspiration: [1](https://i.imgur.com/lCBWrUJ.png), [trailing effect](https://www.youtube.com/watch?v=c8hijUge7IY&ab_channel=GabrielAguiarProd.), [THIS SHIT](https://mferrar0.medium.com/toon-shader-d302213ad5cb)
+Inspiration: [1](https://i.imgur.com/lCBWrUJ.png), [trailing effect](https://www.youtube.com/watch?v=c8hijUge7IY&ab_channel=GabrielAguiarProd.), [THIS SHIT](https://mferrar0.medium.com/toon-shader-d302213ad5cb), [this talk](https://www.youtube.com/watch?v=4XxfiwNqU4I&ab_channel=Unity)
 - Using unity particle sim
 - It follows you around, stays very close
 

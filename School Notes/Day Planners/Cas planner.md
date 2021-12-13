@@ -9,3 +9,4 @@
 - [ ] Music (5 weeks)
 - [ ] Voice Acting (1 week)
 - [ ] UI (2 weeks)
+- [ ] Make less expensive trees

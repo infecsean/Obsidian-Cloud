@@ -17,7 +17,7 @@
 	-   Progression system: 
 
       
-
+[the article](https://www.cgspectrum.com/blog/game-development-process)
 ### Include a disclaimer pls
 How fucking ironic this is, I’m 17 making a possibly 18+ game. 
 
@@ -97,5 +97,3 @@ Bullying - People getting pushed around at night. May be one of the endings, be 
 ~~Drug trade - students are too stressed~~
 
   
-
-**Scripted events**
