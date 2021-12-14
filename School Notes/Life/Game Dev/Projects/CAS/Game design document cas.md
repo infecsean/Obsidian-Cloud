@@ -44,7 +44,7 @@ You are a straight a student
 You live near school (student dorm)
 ~~So you study at the library late everyday~~
 
-In a game design perspective, the part above means that the player will only be walking around at night
+~~In a game design perspective, the part above means that the player will only be walking around at night~~
 
   Changed so this whole game is a stream of consciousness of a student going thru puberty
 

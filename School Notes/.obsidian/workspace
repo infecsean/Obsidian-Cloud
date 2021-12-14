@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Day Planners/Day planner.md",
+            "file": "Life/Game Dev/Projects/CAS/Storyline.md",
             "mode": "source"
           }
         }
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Day Planners/Day planner.md",
+                "file": "Life/Game Dev/Projects/CAS/Storyline.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,15 +97,15 @@
   },
   "active": "507b7cb728dc57aa",
   "lastOpenFiles": [
-    "Day Planners/Day planner.md",
-    "Day Planners/Week Planner.md",
-    "Day Planners/Cas planner.md",
-    "Life/Game Dev/Projects/CAS/Enemy designing.md",
+    "Life/Game Dev/Projects/CAS/Storyline.md",
     "Life/Game Dev/Projects/CAS/Game design document cas.md",
     "Life/Game Dev/Projects/CAS/Planning Stage.md",
-    "Life/Game Dev/Coding Math/Verlet integration.md",
-    "DP Economics/4. Government Intervention/Price Controls/Price Ceilings/Consequences of price ceilings for stakeholders.md",
-    "DP Economics/4. Government Intervention/Price Controls/Price Ceilings/Examples of price ceilings.md",
-    "DP Economics/4. Government Intervention/Price Controls/Price Ceilings/Price Ceilings.md"
+    "Life/Game Dev/Projects/CAS/Enemy designing.md",
+    "Life/Game Dev/Projects/CAS/Cumrats.md",
+    "Life/Game Dev/Projects/CAS/Prototype Stage.md",
+    "Life/Game Dev/Projects/CAS/Planning Systems.md",
+    "Day Planners/Day planner.md",
+    "Day Planners/Cas planner.md",
+    "Day Planners/Week Planner.md"
   ]
 }

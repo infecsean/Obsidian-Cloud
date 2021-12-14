@@ -16,6 +16,12 @@ at least 3 designs
 
 # Enemies (5-6)
 ---
+- Depression
+- Social Anxiety
+- Work
+- Rotting system
+- Future
+### Wears a mask, everybody does
 ### Bully Victims (Low offense, High defense)
 Traits of the creature:
 - Extreme Paranoia
@@ -51,4 +57,4 @@ Inspiration: [1](https://i.imgur.com/lCBWrUJ.png), [trailing effect](https://www
 - It follows you around, stays very close
 
 
-### The kid that follows you around
+### Procrastination
