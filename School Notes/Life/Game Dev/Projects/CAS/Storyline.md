@@ -1,10 +1,15 @@
 # Story of the game
 ---
+### Things to keep in mind
+Social anxiety is supposed to be continuous, no jumpscare, just pure paranoia.
+
 ### Ideas for progression
 The windows will be fully lit at the start school, but slowly dim as you progress
 Your mind is utilitarian, meaning that they will always tell you what you want to do, that is within your comfort zone
 Everybody is a social reject, every table in the library is occupied, with ONE person.
 - Risky idea: (But creative), the first playthrough, you dont get to choose what you do, but you just have to follow your mind, stay inside the comfort zone. The second playthrough, you can change your decisions, 
+
+
 ### Intro
 School starts, you enter the first chapter
 
@@ -25,7 +30,7 @@ Setting: Hallway -> Classroom
 Avoid eye contact at all cost
 You notice everyone is wearing a mask
 Someone approaches you, you run away
-He befriends you, and leaves
+He befriends you, talks to you about the best part of school (going home), but you live at the dorms, to which he replies, then to the dorms it may be.
 
 ### Chapter 3, Change of Priorities
 ```Context
@@ -79,4 +84,35 @@ Setting: Classroom, library
 ```
 The announcer says that there will be five tests tomorrow
 You walk out of the classroom and straight to the library, the path will be textured as pages of tests and books.
-You 
+You walk around to find every table is occupied by one person, and so you walk back, take the test.
+You get a bad grade
+*Gradient transition into your mind, sorrow*
+
+### Chapter 8, Expectations
+```Context
+The books seem to grow taller and taller, it becomes unreachable, you cant seem to reach it
+Setting: Plane of consciousness, classroom
+```
+You get out of your mind, into the classroom, you walk to get your test paper.
+You look at your horrible test score, you walk the walk of shame.
+everybody looks at you, laughs
+your parents look at you, angry
+the announcer announces your scores, you hear everything
+you look at your future, there is no light ahead.
+
+You scream, but you cant, you try to run away, but you are frozen
+
+### Chapter 9, Depression
+```Context
+You are consumed by the dark
+Setting: Hallways
+```
+You walk in the dark, and the big guy comes in, (representation of depression)
+You can walk towards him, be consumed. You can run away, he will chase you down. You can ignore him, as other people walk towards it and towards suicide. (prollly last one)
+
+### Chapter 10, 
+
+
+### Chapter , To the Dorms
+```Context
+You finally go back to the dorms

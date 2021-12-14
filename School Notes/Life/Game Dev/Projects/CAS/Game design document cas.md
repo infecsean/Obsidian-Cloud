@@ -25,7 +25,7 @@ How fucking ironic this is, I’m 17 making a possibly 18+ game.
 To the dorms - cus the player will mostly be on their way to the dorms
 
   
-
+Are you going to go down the road of depression, or hatred? Will you be consumed, or repent, or even escape?
   
 
 ### Questions that I ask myself: 
