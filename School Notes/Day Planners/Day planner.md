@@ -1,18 +1,18 @@
 ## Today
-- [ ] Write english argument
+- [x] Write english argument
 - [ ] Math HW
 
 ## Tomorrow
-- [ ] Enghlish argument
+- [x] Enghlish argument
 
 ## Tasks
 - [ ] Math HW
 - [ ] Physics report
-- [ ] Economics formative debate (December 17, Friday)
-- [ ] English summative comparative essay (December 24, Friday)
-- [ ] Chinese Summative Paper 2 (January 4, Chewsday)
-- [ ] Economics Summative (unconfirmed, January 7, Friday)
-- [ ] English summative persepolis IO (January 12, Wednesday)
+- [ ] Economics formative debate (December 17, ==Friday==)
+- [ ] English summative comparative essay (December 24, ==Friday==)
+- [ ] Chinese Summative Paper 2 (January 4, ==Chewsday==)
+- [ ] Economics Summative (unconfirmed, January 7, ==Friday==)
+- [ ] English summative persepolis IO (January 12, ==Wednesday==)
 
 ## Notes
 - [ ] Thermal physics (2 full days)

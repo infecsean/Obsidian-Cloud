@@ -4,7 +4,7 @@
     "type": "split",
     "children": [
       {
-        "id": "5093ef8c0f0993eb",
+        "id": "507b7cb728dc57aa",
         "type": "leaf",
         "state": {
           "type": "markdown",
@@ -95,17 +95,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "5093ef8c0f0993eb",
+  "active": "507b7cb728dc57aa",
   "lastOpenFiles": [
     "Day Planners/Day planner.md",
-    "Day Planners/Day Planner-20211116.md",
-    "Day Planners/Week Planners.md",
+    "Day Planners/Week Planner.md",
     "Day Planners/Cas planner.md",
-    "Life/Game Dev/Projects/CAS/Game design document cas.md",
     "Life/Game Dev/Projects/CAS/Enemy designing.md",
-    "DP Economics/Attachments/Second Term/Government Intervention/priceceilingsa.png",
-    "DP English LL/English Notes.md",
-    "DP Economics/4. Government Intervention/Stakeholder/stakeholder analysis for price floors.md",
-    "DP Economics/4. Government Intervention/Stakeholder/stakeholder analysis for price ceilings.md"
+    "Life/Game Dev/Projects/CAS/Game design document cas.md",
+    "Life/Game Dev/Projects/CAS/Planning Stage.md",
+    "Life/Game Dev/Coding Math/Verlet integration.md",
+    "DP Economics/4. Government Intervention/Price Controls/Price Ceilings/Consequences of price ceilings for stakeholders.md",
+    "DP Economics/4. Government Intervention/Price Controls/Price Ceilings/Examples of price ceilings.md",
+    "DP Economics/4. Government Intervention/Price Controls/Price Ceilings/Price Ceilings.md"
   ]
 }
