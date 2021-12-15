@@ -1,4 +1,4 @@
-# Story of the game
+# Storyline V2
 ---
 ### Things to keep in mind
 Social anxiety is supposed to be continuous, no jumpscare, just pure paranoia.
@@ -10,19 +10,20 @@ The windows will be fully lit at the start school, but slowly dim as you progres
 Your mind is utilitarian, meaning that they will always tell you what you want to do, that is within your comfort zone
 Everybody is a social reject, every table in the library is occupied, with ONE person.
 - Risky idea: (But creative), the first playthrough, you dont get to choose what you do, but you just have to follow your mind, stay inside the comfort zone. The second playthrough, you can change your decisions, 
-
+- You get a backpack at the start of school, it packs more and more weights.
 
 ### Intro
 School starts, you enter the first chapter
 
-### Chapter 1, Flowers and Rainbows
+### Chapter 1, First Day
 ```Context
 First day of school, you are on your way to class
-Setting: On your way to school, its a sunny day.
+Setting: Mom drops you off at school
 ```
-Everything is perfectly normal
-Everything is pretty, you have a good feeling about this
-Everybody is alive and well
+Mom drops you off at school
+The scene is nice and colorful
+Someone shows you where your classroom is
+You go there
 
 ### Chapter 2, Social Anxiety
 ```Context
@@ -111,37 +112,30 @@ Setting: Hallways
 ```
 You walk in the dark, and the big guy comes in, (representation of depression)
 You can walk towards him, be consumed. You can run away, he will chase you down. You can ignore him, as other people walk towards it and towards suicide. (prollly last one)
+You suddenly hear the school bell rings...school is over
+it follows you to the dorms
 
+### Chapter 10, To the Dorms
+```Context
+You finally go back to the dorms
+The sun shines thru the window, but it kinda feels off
+Setting: The dorms
+```
+You head to the dorms, with weight on your back
+Drugs: you escaped into wonderland! Everything is good here.
+Rope: Youve had enough, you give up
+"Dont worry, death is inevitable"
 
-### Chapter 10, Dire Docks
+Two paths, one with parkour, to "help", the other, straight path, to drugs. Merchant under a spotlight.
+
+### Chapter 11, Dire Docks
 ```Context
 You desparately try to find a way out
 Setting: A small dock, where a boat and person is
 ```
 Behind you is the depression, in front is a light, a boat which you can just sail and leave depression. But no.
 Your boat is crushed, the announcer "you think you can just leave?"
-The darkness fills in, the sun bleeds black, the water full of dread
+The darkness fills in, the sun bleeds black, the water full of red eyes
 
-### Chapter 11, Self hatred (Unsure)
-```Context
-Everything that happened, you brought upon yourself
-Setting: Maze
-```
-There is two paths, one straight and clear, which the announcer tells everyone to go to. 
-And there's the other, which there are a lot of obstacles, and nobody takes
 
-Snaps back to classroom, the bell has rang, school is over.
-
-### Chapter 12, To the Dorms (Unsure)
-```Context
-You finally go back to the dorms
-The sun shines thru the window, but it kinda feels off
-Setting: The dorms
-```
-You head to the dorms, but something feels off
-A package comes, and based on what you typically do, you get three endings
-Drugs: you escaped into wonderland! Everything is good here.
-Rope: Youve had enough, you give up
-Gun: This fucking world, I fucking hate everything, also, save one bullet for yourself
-
-Maybe suicide will be decided in the middle of the story.
+### Chapter 12,
