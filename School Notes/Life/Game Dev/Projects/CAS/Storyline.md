@@ -2,6 +2,7 @@
 ---
 ### Things to keep in mind
 Social anxiety is supposed to be continuous, no jumpscare, just pure paranoia.
+The narrater is the voice in your head, your subconscious.
 
 ### Ideas for progression
 The windows will be fully lit at the start school, but slowly dim as you progress
@@ -73,7 +74,7 @@ Setting: Cafeteria, no, Convenience store
 Its lunch time! Go get some food.
 The cafeteria is full of people, who are looking at you
 You go to the convenience store, buys some other stuff
-You also see some medication for depression, and self defense knife
+You also see some medication for depression, and knife
 You walk out, but your mind stops you, "What, you gonna eat that cold?"
 "you suppose I ask him to microwave it?"
 
@@ -110,9 +111,35 @@ Setting: Hallways
 You walk in the dark, and the big guy comes in, (representation of depression)
 You can walk towards him, be consumed. You can run away, he will chase you down. You can ignore him, as other people walk towards it and towards suicide. (prollly last one)
 
-### Chapter 10, 
 
+### Chapter 10, Hope, i die in a fire
+```Context
+You desparately try to find a way out
+Setting: A small dock, where a boat and person is
+```
+Behind you is the depression, in front is a light, a boat which you can just sail and leave depression. But no.
+Your boat is crushed, the announcer "you think you can just leave?"
+The darkness fills in, the sun bleeds black, the water full of dread
 
-### Chapter , To the Dorms
+### Chapter 11, Self hatred
+```Context
+Everything that happened, you brought upon yourself
+Setting: Maze
+```
+There is two paths, one straight and clear, which the announcer tells everyone to go to. 
+And there's the other, which there are a lot of obstacles, and nobody takes
+
+Snaps back to classroom, the bell has rang, school is over.
+
+### Chapter 12, To the Dorms
 ```Context
 You finally go back to the dorms
+The sun shines thru the window, but it kinda feels off
+Setting: The dorms
+```
+You head to the dorms, but something feels off
+A package comes, and based on what you typically do, you get three endings
+Drugs: you escaped into wonderland! Everything is good here.
+Rope: Youve had enough, you give up
+Gun: This fucking world, I fucking hate everything, also, save one bullet for yourself
+
