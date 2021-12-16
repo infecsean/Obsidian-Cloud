@@ -4,6 +4,7 @@
 Social anxiety is supposed to be continuous, no jumpscare, just pure paranoia.
 The narrater is the voice in your head, your subconscious.
 - Tho the purpose is to tell an experience, there still has to be some sort of failing in each chapter/level
+- Ask yourself "How is this a good segway into the next chapter?"
 
 ### Ideas for progression
 The windows will be fully lit at the start school, but slowly dim as you progress
@@ -11,6 +12,9 @@ Your mind is utilitarian, meaning that they will always tell you what you want t
 Everybody is a social reject, every table in the library is occupied, with ONE person.
 - Risky idea: (But creative), the first playthrough, you dont get to choose what you do, but you just have to follow your mind, stay inside the comfort zone. The second playthrough, you can change your decisions, 
 - You get a backpack at the start of school, it packs more and more weights.
+
+### Wackos!
+- Keep track of the focal points on each scene, and put a figure at the edge of their peripheral vision, it'll surely fuck with 'em'
 
 ### Intro
 School starts, you enter the first chapter
