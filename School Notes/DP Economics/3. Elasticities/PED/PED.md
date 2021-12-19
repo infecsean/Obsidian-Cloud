@@ -31,6 +31,8 @@ yes, the percentage
 2. We also wanna consider the change in percentages, since its meaningless to consider a 50$ off product with a 10 sales increase
 ```
 
+^700576
+
 Also, different ped have different meaning :), its very complex
 but heres a disgustingly simplified table of what ranges of ped mean
 ![[PEDvalues.png]]
