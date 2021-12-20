@@ -11,7 +11,9 @@ The windows will be fully lit at the start school, but slowly dim as you progres
 Your mind is utilitarian, meaning that they will always tell you what you want to do, that is within your comfort zone
 Everybody is a social reject, every table in the library is occupied, with ONE person.
 - Risky idea: (But creative), the first playthrough, you dont get to choose what you do, but you just have to follow your mind, stay inside the comfort zone. The second playthrough, you can change your decisions, 
-- You get a backpack at the start of school, it packs more and more weights.
+- Embrace the darkness at some point
+- Shutting other people out
+- Every time you die its a scar, and in the end
 
 ### Wackos!
 - Keep track of the focal points on each scene, and put a figure at the edge of their peripheral vision, it'll surely fuck with 'em'
