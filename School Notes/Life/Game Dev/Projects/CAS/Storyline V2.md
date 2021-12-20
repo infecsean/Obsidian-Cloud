@@ -17,6 +17,10 @@ Everybody is a social reject, every table in the library is occupied, with ONE p
 
 ### Wackos!
 - Keep track of the focal points on each scene, and put a figure at the edge of their peripheral vision, it'll surely fuck with 'em'
+- (Influenced by dune) a desert scene with sandstorm, coming for you. could also be snowstorm
+- (influenced by finding hope) the 3 am album, dont look at it cus its nothing like a sandstorm. Just try to think of it at the top of your head. The main problem i think would be the particle sim, too much gpu maybe. ([reference](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwallpaperaccess.com%2Fsandstorm&psig=AOvVaw1upUNwJhNXAOGAZEpiDez6&ust=1639784175595000&source=images&cd=vfe&ved=0CAsQjRxqFwoTCKDC9a6-6fQCFQAAAAAdAAAAABAE))
+- Snow [scene](https://www.youtube.com/watch?v=SNP5QqAQqn4&ab_channel=GabrielAguiarProd.)
+- 
 
 ### Intro
 School starts, you enter the first chapter
