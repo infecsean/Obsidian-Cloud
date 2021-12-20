@@ -14,3 +14,5 @@ When a matter changes states, the heat seems to disappear.
 
 If it takes Q energy to change the state of mass m of a substance, then the specific latent heat would be:
 $$L=\frac Qm$$
+
+![[Specific Latent Heat.png]]
