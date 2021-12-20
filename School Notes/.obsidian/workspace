@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "DP Physics/3. Thermal Physics/3.2 Modeling a gas/The Ideal Gas Equation.md",
+            "file": "DP Physics/3. Thermal Physics/3.2 Modeling a gas/Relationship between P V T.md",
             "mode": "source"
           }
         },
@@ -21,7 +21,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "DP Physics/3. Thermal Physics/3.2 Modeling a gas/The Ideal Gas Equation.md",
+            "file": "DP Physics/3. Thermal Physics/3.2 Modeling a gas/Relationship between P V T.md",
             "mode": "preview"
           }
         },
@@ -81,7 +81,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "DP Physics/3. Thermal Physics/3.2 Modeling a gas/The Ideal Gas Equation.md",
+                "file": "DP Physics/3. Thermal Physics/3.2 Modeling a gas/Relationship between P V T.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,10 +110,10 @@
   },
   "active": "f9594c5eb9968e2d",
   "lastOpenFiles": [
-    "DP Physics/3. Thermal Physics/3.2 Modeling a gas/The Ideal Gas Equation.md",
     "DP Physics/3. Thermal Physics/3.2 Modeling a gas/Relationship between P V T.md",
-    "DP Physics/3. Thermal Physics/3.2 Modeling a gas/Defining state of gas.md",
+    "DP Physics/3. Thermal Physics/3.2 Modeling a gas/The Ideal Gas Equation.md",
     "DP Physics/3. Thermal Physics/3.2 Modeling a gas/The Ideal Gas.md",
+    "DP Physics/3. Thermal Physics/3.2 Modeling a gas/Defining state of gas.md",
     "DP Physics/3. Thermal Physics/3.2 Modeling a gas/0. Knowledge of Modeling a gas.md",
     "DP Physics/3. Thermal Physics/3.1 Thermal Concepts/Phase Change.md",
     "DP Physics/3. Thermal Physics/3.1 Thermal Concepts/Specific Heat Capacity.md",

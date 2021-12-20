@@ -28,3 +28,5 @@ As ==Temperature ↑==, molecules move faster, so pressure increase, however if 
 
 ### Avogadro's Hypothesis
 Equal volumes of gas at same temp and pressure have the same amount of molecules.
+
+Avogadro's Constant: 6.022*10^23
