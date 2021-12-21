@@ -11,11 +11,12 @@ The windows will be fully lit at the start school, but slowly dim as you progres
 Your mind is utilitarian, meaning that they will always tell you what you want to do, that is within your comfort zone
 Everybody is a social reject, every table in the library is occupied, with ONE person.
 - Risky idea: (But creative), the first playthrough, you dont get to choose what you do, but you just have to follow your mind, stay inside the comfort zone. The second playthrough, you can change your decisions, 
-- Embrace the darkness at some point
-- Shutting other people out
-- Every time you die its a scar, and in the end
+- ~~Embrace the darkness at some point~~
+- ~~Shutting other people out~~
+- ~~Every time you die its a scar, and in the end~~
+- I guess you suffer from episodes where you travel to places in your mind
 
-### Wackos!
+### Wackos
 - Keep track of the focal points on each scene, and put a figure at the edge of their peripheral vision, it'll surely fuck with 'em'
 - (Influenced by dune) a desert scene with sandstorm, coming for you. could also be snowstorm
 - (influenced by finding hope) the 3 am album, dont look at it cus its nothing like a sandstorm. Just try to think of it at the top of your head. The main problem i think would be the particle sim, too much gpu maybe. ([reference](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwallpaperaccess.com%2Fsandstorm&psig=AOvVaw1upUNwJhNXAOGAZEpiDez6&ust=1639784175595000&source=images&cd=vfe&ved=0CAsQjRxqFwoTCKDC9a6-6fQCFQAAAAAdAAAAABAE))
