@@ -2,8 +2,10 @@
 ---
 ## This week
 Saturday
-- [ ] Physics report
-- [ ] Thermal physics notes
+- [ ] Physics notes if not finished
+- [ ] Math entire review
+- [ ] Econ notes start ig
+- [ ] 
 
 Sunday
 - [ ] Econ notes: 3-5, 8-9, 10-11

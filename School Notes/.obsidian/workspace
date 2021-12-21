@@ -4,15 +4,28 @@
     "type": "split",
     "children": [
       {
-        "id": "507b7cb728dc57aa",
+        "id": "f9594c5eb9968e2d",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Life/Game Dev/Projects/CAS/Storyline V2.md",
+            "file": "DP Physics/6. Circular Motion and gravitation/1. Circular Motion/Centripetal Acceleration.md",
             "mode": "source"
           }
-        }
+        },
+        "group": "7dd321eb6f0ba365"
+      },
+      {
+        "id": "bdd0c494ef562fc1",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "DP Physics/6. Circular Motion and gravitation/1. Circular Motion/Centripetal Acceleration.md",
+            "mode": "preview"
+          }
+        },
+        "group": "7dd321eb6f0ba365"
       }
     ],
     "direction": "vertical"
@@ -68,7 +81,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Life/Game Dev/Projects/CAS/Storyline V2.md",
+                "file": "DP Physics/6. Circular Motion and gravitation/1. Circular Motion/Centripetal Acceleration.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -95,17 +108,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "507b7cb728dc57aa",
+  "active": "f9594c5eb9968e2d",
   "lastOpenFiles": [
-    "Life/Game Dev/Projects/CAS/Storyline V2.md",
+    "DP Physics/6. Circular Motion and gravitation/1. Circular Motion/Centripetal Acceleration.md",
+    "DP Physics/6. Circular Motion and gravitation/1. Circular Motion/Angular Velocity and Speed.md",
+    "DP Physics/6. Circular Motion and gravitation/1. Circular Motion/Quantities of Circular Motion.md",
+    "DP Physics/6. Circular Motion and gravitation/1. Circular Motion/Understanding of circular motion.md",
+    "Symbols/Pi.md",
     "Life/Game Dev/Projects/CAS/Storyline.md",
-    "Life/Game Dev/Projects/CAS/Storyline V2 Breakdown.md",
+    "Symbols/Lower Case Omega.md",
+    "Day Planners/Day planner.md",
     "Day Planners/Week Planner.md",
-    "Life/Game Dev/Projects/CAS/Game design document cas.md",
-    "DP Economics/4. Government Intervention/Price Controls/Price Floors/Minimum Wages.md",
-    "DP Economics/4. Government Intervention/Price Controls/Price Control.md",
-    "DP Economics/4. Government Intervention/Price Controls/Price Ceilings/Consequences of price ceilings for stakeholders.md",
-    "DP Economics/4. Government Intervention/Price Controls/Price Ceilings/Price Ceilings.md",
-    "DP Economics/4. Government Intervention/Price Controls/Price Ceilings/Examples of price ceilings.md"
+    "DP Physics/3. Thermal Physics/3.2 Modeling a gas/The Ideal Gas Equation.md"
   ]
 }
