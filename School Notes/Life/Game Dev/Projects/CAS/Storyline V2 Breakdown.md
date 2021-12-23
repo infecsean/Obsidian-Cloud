@@ -27,6 +27,8 @@ Process:
 
 dont think too complicated, just get the mesh, get normal map, get image filtering, and get sandstorm
 
+worst case scenario, get the clouds project from sebastian and modify it.
+
 Bugs: z-fighting
 Attempt: 
 - Use .tga file
