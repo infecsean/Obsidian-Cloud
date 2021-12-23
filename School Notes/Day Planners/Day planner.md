@@ -1,6 +1,6 @@
 ## Today
-- [ ] CAS reflections
-- [ ] Physics notes 1/2
+- [x] Maths worksheet
+- [ ] Physics phinish
 
 ## Tomorrow
 - [ ] Physics notes 2/2
@@ -21,10 +21,10 @@
 ## Reviews
 - [ ] Physics everything (1 full day)
 - [ ] Maths (1 full day)
-- [ ] 
+- [x] 
 
 ### Summatives left
-- [ ] CS summative
+- [x] CS summative
 - [ ] Math summative
 - [ ] Physics summative
 - [ ] Econ Summative
