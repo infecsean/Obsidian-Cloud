@@ -1,3 +1,4 @@
+<<<<<<< Updated upstream
 # Gravitational Force & Field
 ---
 ### Newton's Universal Law of Gravitation
@@ -14,3 +15,7 @@ G = 6.6742 x $10^{-11} m^3 kg^{-1} s^{-2}$
 And so the equation would be:
 $$F= G\frac {m_1m_2}{r^2}$$
 
+=======
+# Gravitational Force and Field
+---
+>>>>>>> Stashed changes

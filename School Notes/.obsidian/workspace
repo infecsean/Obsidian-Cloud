@@ -9,7 +9,11 @@
         "state": {
           "type": "markdown",
           "state": {
+<<<<<<< Updated upstream
             "file": "DP Physics/4. Circular Motion and gravitation/2. Gravitational Field and orbit/Gravitational Force and Field.md",
+=======
+            "file": "Day Planners/Day planner.md",
+>>>>>>> Stashed changes
             "mode": "source",
             "source": false
           }
@@ -69,7 +73,11 @@
             "state": {
               "type": "backlink",
               "state": {
+<<<<<<< Updated upstream
                 "file": "DP Physics/4. Circular Motion and gravitation/2. Gravitational Field and orbit/Gravitational Force and Field.md",
+=======
+                "file": "Day Planners/Day planner.md",
+>>>>>>> Stashed changes
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -98,6 +106,7 @@
   },
   "active": "f9594c5eb9968e2d",
   "lastOpenFiles": [
+<<<<<<< Updated upstream
     "DP Physics/4. Circular Motion and gravitation/2. Gravitational Field and orbit/Gravitational Force and Field.md",
     "Day Planners/Week Planner.md",
     "Day Planners/Cas planner.md",
@@ -108,5 +117,17 @@
     "DP Physics/6. Circular Motion and gravitation/1. Circular Motion/Centripetal Acceleration.md",
     "DP Physics/6. Circular Motion and gravitation/1. Circular Motion/Quantities of Circular Motion.md",
     "DP Physics/6. Circular Motion and gravitation/1. Circular Motion/Angular Velocity and Speed.md"
+=======
+    "Day Planners/Day planner.md",
+    "DP Physics/4. Circular Motion and gravitation/2. Gravitational Field and orbit/Gravitational Force and Field.md",
+    "DP Physics/4. Circular Motion and gravitation/2. Gravitational Field and orbit/Understanding gravitational field and orbit.md",
+    "Day Planners/Week Planner.md",
+    "Life/Game Dev/Projects/CAS/Storyline V2 Breakdown.md",
+    "Life/Game Dev/Projects/CAS/Storyline V2.md",
+    "DP Physics/4. Circular Motion and gravitation/1. Circular Motion/Centripetal Force.md",
+    "DP Physics/4. Circular Motion and gravitation/1. Circular Motion/Centripetal Acceleration.md",
+    "DP Physics/4. Circular Motion and gravitation/1. Circular Motion/Quantities of Circular Motion.md",
+    "DP Physics/4. Circular Motion and gravitation/1. Circular Motion/Understanding of circular motion.md"
+>>>>>>> Stashed changes
   ]
 }
