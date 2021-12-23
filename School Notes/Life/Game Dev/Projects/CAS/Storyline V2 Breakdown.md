@@ -25,6 +25,8 @@ Process:
 2. create volumetric fog or like a sandy visual vibe y'know?
 3. THEN, create the sandstorm
 
+dont think too complicated, just get the mesh, get normal map, get image filtering, and get sandstorm
+
 Bugs: z-fighting
 Attempt: 
 - Use .tga file

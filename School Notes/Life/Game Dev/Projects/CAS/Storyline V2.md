@@ -31,18 +31,18 @@ Setting: Mom drops you off at school
 ```
 Mom drops you off at school
 The scene is nice and colorful
-Someone shows you where your classroom is
+you need to go to your classroom
 You go there
 
-### Chapter 2, Social Anxiety
+### Chapter 2, Social Anxiety (No)
 ```Context
 You meet people, but social anxiety says otherwise
 Setting: Hallway -> Classroom
 ```
-Avoid eye contact at all cost
+Avoid eye contact
 You notice everyone is wearing a mask
-Someone approaches you, you run away
-He befriends you, talks to you about the best part of school (going home), but you live at the dorms, to which he replies, then to the dorms it may be.
+Someone approaches you i guess
+
 
 ### Chapter 3, Change of Priorities
 ```Context
@@ -51,9 +51,11 @@ Setting: Seated at your desk
 ```
 Announcer introduces yall to the school
 "You will have to put your trust in us, as we will teach you EVERYTHING, and by everything, we MEAN EVERYTHING..., in the meantime, make some friends, and have fun"
+Something drops down
 A stack of books, weights, and waaaaay on top of that, is your diploma.
+- travel to book land???
 
-### Chapter 4, Ignorance is bliss (Unsure)
+### Chapter 4, Ignorance is bliss (good point but remove bully)
 ```Context
 The player gets to make their first choice, to help others, or help themselves
 Effects if help: Pure mindedness
@@ -66,7 +68,7 @@ Choose between two paths, one, very dark, but you get to save him, or two, its v
 
 Also, the announcer "During the school year, we want our students to have the best learning experience ever! To ensure that you are working at your best, we have a rule that drugs, entertainment, and death is strictly forbidden!"
 
-### Chapter 5, Liberary (Unsure)
+### Chapter 5, Liberary (nice concept but could merge)
 ```Context
 Its pretty crowded in here, your social anxiety is off the roof
 Dont make any noise
@@ -77,7 +79,7 @@ You arrive at the library, but you cant even make a single sound, just ignore th
 After the stealth, you exit the library
 Its now lunch time, you head to the cafeteria
 
-### Chapter 6, Survival (Unsure)
+### Chapter 6, Survival (this is just uncalled for)
 ```Context
 its lunch time! Go get some food
 Setting: Cafeteria, no, Convenience store
@@ -89,7 +91,7 @@ You also see some medication for depression, and knife
 You walk out, but your mind stops you, "What, you gonna eat that cold?"
 "you suppose I ask him to microwave it?"
 
-### Chapter 7, Pressure Test
+### Chapter 7, Pressure Test (good idea, needs modification for effective implementation)
 ```Context
 The pressure of getting bad grades, 
 Setting: Classroom, library
@@ -107,6 +109,9 @@ Setting: Plane of consciousness, classroom
 ```
 You get out of your mind, into the classroom, you walk to get your test paper.
 You look at your horrible test score, you walk the walk of shame.
+
+- travel to walk of shame where everybody is enlarged and turned into scary figures and you have to walk thru the entire thing
+- inspiration: ![[nightmare artist walk of shame.jpeg]]
 everybody looks at you, laughs
 your parents look at you, angry
 (unsure) the announcer announces your scores, you hear everything
