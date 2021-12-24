@@ -4,16 +4,12 @@
     "type": "split",
     "children": [
       {
-        "id": "f9594c5eb9968e2d",
+        "id": "507b7cb728dc57aa",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-<<<<<<< Updated upstream
-            "file": "DP Physics/4. Circular Motion and gravitation/2. Gravitational Field and orbit/Gravitational Force and Field.md",
-=======
             "file": "Day Planners/Day planner.md",
->>>>>>> Stashed changes
             "mode": "source",
             "source": false
           }
@@ -73,11 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-<<<<<<< Updated upstream
-                "file": "DP Physics/4. Circular Motion and gravitation/2. Gravitational Field and orbit/Gravitational Force and Field.md",
-=======
                 "file": "Day Planners/Day planner.md",
->>>>>>> Stashed changes
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -95,30 +87,27 @@
               "type": "calendar",
               "state": {}
             }
+          },
+          {
+            "id": "83e5f3680cc53e56",
+            "type": "leaf",
+            "state": {
+              "type": "todo",
+              "state": {}
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
     "width": 300,
     "collapsed": true
   },
-  "active": "f9594c5eb9968e2d",
+  "active": "507b7cb728dc57aa",
   "lastOpenFiles": [
-<<<<<<< Updated upstream
-    "DP Physics/4. Circular Motion and gravitation/2. Gravitational Field and orbit/Gravitational Force and Field.md",
-    "Day Planners/Week Planner.md",
-    "Day Planners/Cas planner.md",
     "Day Planners/Day planner.md",
-    "Life/Game Dev/Projects/CAS/Storyline V2.md",
-    "Life/Game Dev/Projects/CAS/Storyline V2 Breakdown.md",
-    "DP Physics/6. Circular Motion and gravitation/1. Circular Motion/Centripetal Force.md",
-    "DP Physics/6. Circular Motion and gravitation/1. Circular Motion/Centripetal Acceleration.md",
-    "DP Physics/6. Circular Motion and gravitation/1. Circular Motion/Quantities of Circular Motion.md",
-    "DP Physics/6. Circular Motion and gravitation/1. Circular Motion/Angular Velocity and Speed.md"
-=======
-    "Day Planners/Day planner.md",
+    "DP Physics/4. Circular Motion and gravitation/2. Gravitational Field and orbit/Gravitational Field.md",
     "DP Physics/4. Circular Motion and gravitation/2. Gravitational Field and orbit/Gravitational Force and Field.md",
     "DP Physics/4. Circular Motion and gravitation/2. Gravitational Field and orbit/Understanding gravitational field and orbit.md",
     "Day Planners/Week Planner.md",
@@ -126,8 +115,6 @@
     "Life/Game Dev/Projects/CAS/Storyline V2.md",
     "DP Physics/4. Circular Motion and gravitation/1. Circular Motion/Centripetal Force.md",
     "DP Physics/4. Circular Motion and gravitation/1. Circular Motion/Centripetal Acceleration.md",
-    "DP Physics/4. Circular Motion and gravitation/1. Circular Motion/Quantities of Circular Motion.md",
-    "DP Physics/4. Circular Motion and gravitation/1. Circular Motion/Understanding of circular motion.md"
->>>>>>> Stashed changes
+    "DP Physics/4. Circular Motion and gravitation/1. Circular Motion/Quantities of Circular Motion.md"
   ]
 }

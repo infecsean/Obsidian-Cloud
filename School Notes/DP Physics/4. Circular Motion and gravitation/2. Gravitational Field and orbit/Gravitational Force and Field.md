@@ -1,6 +1,9 @@
-<<<<<<< Updated upstream
 # Gravitational Force & Field
 ---
+```ad-Resources
+Book: P.134
+```
+
 ### Newton's Universal Law of Gravitation
 Every point of mass is attracted to every other point with a force that is ==directly proportional== to the product of their masses, and ==inversely proportional== to the square of separation. 
 
@@ -15,7 +18,5 @@ G = 6.6742 x $10^{-11} m^3 kg^{-1} s^{-2}$
 And so the equation would be:
 $$F= G\frac {m_1m_2}{r^2}$$
 
-=======
-# Gravitational Force and Field
----
->>>>>>> Stashed changes
+# Spheres of Mass
+Newton deduced that spheres follow the same law, where the separation is the separation between their ==centers==.

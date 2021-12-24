@@ -1,12 +1,3 @@
 {
-  "strictLineBreaks": false,
-  "alwaysUpdateLinks": true,
-  "foldIndent": true,
-  "attachmentFolderPath": "DP Physics/4. Circular Motion and gravitation/2. Gravitational Field and orbit/Attachments",
-<<<<<<< Updated upstream
-  "legacyEditor": false
-=======
-  "legacyEditor": false,
-  "livePreview": true
->>>>>>> Stashed changes
+  "alwaysUpdateLinks": true
 }
