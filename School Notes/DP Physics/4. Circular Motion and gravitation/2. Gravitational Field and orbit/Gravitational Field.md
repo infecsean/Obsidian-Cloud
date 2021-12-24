@@ -13,3 +13,5 @@ $$g=\frac Fm$$
 ![[Gravitational Field Around Spheres.png|200]]
 Force experienced by m is: $F=G\frac{Mm}{r^2}$ , so field strength (g) = $G\frac M{r^2}$.
 
+### Adding da field
+Since field strength is a vector quantity, when calculating field strengths caused by many bodies, ==remember to add vectorially==. 

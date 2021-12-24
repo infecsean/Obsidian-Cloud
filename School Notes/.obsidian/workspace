@@ -4,12 +4,12 @@
     "type": "split",
     "children": [
       {
-        "id": "507b7cb728dc57aa",
+        "id": "3a4f41a84df45381",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Day Planners/Day planner.md",
+            "file": "Day Planners/My fucking week/Today.md",
             "mode": "source",
             "source": false
           }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Day Planners/Day planner.md",
+                "file": "Day Planners/My fucking week/Today.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -101,20 +101,19 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
-  "active": "507b7cb728dc57aa",
+  "active": "3a4f41a84df45381",
   "lastOpenFiles": [
+    "Day Planners/My fucking week/Today.md",
+    "DP English LL/Hamlet Soliloquy Outline.md",
+    "DP English LL/paper 2 outline.md",
+    "Day Planners/My fucking week/Sunday.md",
     "Day Planners/Day planner.md",
-    "DP Physics/4. Circular Motion and gravitation/2. Gravitational Field and orbit/Gravitational Field.md",
-    "DP Physics/4. Circular Motion and gravitation/2. Gravitational Field and orbit/Gravitational Force and Field.md",
-    "DP Physics/4. Circular Motion and gravitation/2. Gravitational Field and orbit/Understanding gravitational field and orbit.md",
-    "Day Planners/Week Planner.md",
-    "Life/Game Dev/Projects/CAS/Storyline V2 Breakdown.md",
-    "Life/Game Dev/Projects/CAS/Storyline V2.md",
-    "DP Physics/4. Circular Motion and gravitation/1. Circular Motion/Centripetal Force.md",
-    "DP Physics/4. Circular Motion and gravitation/1. Circular Motion/Centripetal Acceleration.md",
-    "DP Physics/4. Circular Motion and gravitation/1. Circular Motion/Quantities of Circular Motion.md"
+    "Day Planners/Cas planner.md",
+    "Day Planners/My fucking week/Monday.md",
+    "Banners/Banners.md",
+    "Banners/nightmare artist walk of shame.jpeg",
+    "DP Physics/4. Circular Motion and gravitation/2. Gravitational Field and orbit/Gravitational Potential.md"
   ]
 }

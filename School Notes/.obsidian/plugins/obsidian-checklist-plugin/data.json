@@ -4,7 +4,14 @@
   "groupBy": "page",
   "sortDirection": "old->new",
   "ignoreFiles": "",
-  "includeFiles": "",
-  "lookAndFeel": "classic",
-  "_collapsedSections": []
+  "includeFiles": "Day Planners/My fucking week",
+  "lookAndFeel": "compact",
+  "_collapsedSections": [
+    "Life/Game Dev/Projects/CAS/Planning Systems.md",
+    "CAS/4. Service.md",
+    "CAS/3. Activity.md",
+    "Day Planners/Cas planner.md",
+    "CAS/2. Creativity.md",
+    "Life/Game Dev/Projects/CAS/Planning Stage.md"
+  ]
 }

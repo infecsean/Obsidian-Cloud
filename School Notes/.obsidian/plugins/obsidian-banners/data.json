@@ -5,6 +5,6 @@
   "embedHeight": null,
   "showPreviewInLocalModal": true,
   "localSuggestionsLimit": null,
-  "bannersFolder": "/Banners",
+  "bannersFolder": "Banners",
   "allowMobileDrag": false
 }
