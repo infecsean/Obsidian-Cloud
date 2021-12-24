@@ -14,7 +14,7 @@ dw i dont know either
 Say that this is two masses, Newton's law of gravitation says that
 $$F∝\frac {m_1m_2}{r^2}$$
 The constant of gravitational proportionality is: 
-G = 6.6742 x $10^{-11} m^3 kg^{-1} s^{-2}$
+==G = 6.6742 x $10^{-11} m^3 kg^{-1} s^{-2}$==
 And so the equation would be:
 $$F= G\frac {m_1m_2}{r^2}$$
 

@@ -1,8 +1,8 @@
 {
   "todoPageName": "",
-  "showChecked": false,
+  "showChecked": true,
   "groupBy": "page",
-  "sortDirection": "old->new",
+  "sortDirection": "a->z",
   "ignoreFiles": "",
   "includeFiles": "Day Planners/My fucking week",
   "lookAndFeel": "compact",

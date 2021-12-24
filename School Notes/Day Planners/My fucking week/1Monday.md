@@ -1,2 +1,3 @@
 # Monkey Mondays
 ---
+- [ ] Chinese Draft
