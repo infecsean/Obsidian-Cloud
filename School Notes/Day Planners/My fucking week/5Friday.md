@@ -1,4 +1,4 @@
-# Friday cry day
+# Friday cry day 12/31
 ---
-- [x] Physics Notes finish please
-- [ ] English structure i guess if u have time
+- [ ] Depending on whether we have a day off or not
+- [ ] Review Econ

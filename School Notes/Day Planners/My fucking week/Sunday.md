@@ -1,5 +1,4 @@
-# Suck dick Sundays
+# Suck dick Sundays 1/2
 ---
-- [ ] Maths Review ABDUL's NEW EXTRA PRACTICE LESGOOOO
 - [ ] Chinese draft at least start the intro
 - [ ] 

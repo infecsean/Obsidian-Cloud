@@ -1,16 +1,16 @@
 
 ## Today
 - [x] Maths worksheet
-- [ ] Physics phinish
+- [x] Physics phinish
 
 ## Tomorrow
-- [ ] Physics notes 2/2
+- [x] Physics notes 2/2
 
 ## Tasks
-- [ ] Math Summative (December 27, Tuesday)
+- [ ] Math Summative (December 27, ==Tuesday==)
 - [ ] Chinese Summative Paper 2 (January 4, ==Chewsday==)
 - [ ] Economics Summative (January 7, ==Friday==)
-- [ ] English summative persepolis IO (January 12, ==Wednesday==)
+- [ ] English summative persepolis IO (January 14, ==Friday==)
 
 ## Notes
 - [x] Thermal physics (2 full days)
