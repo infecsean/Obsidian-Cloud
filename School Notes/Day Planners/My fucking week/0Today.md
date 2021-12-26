@@ -6,5 +6,5 @@ banner_y: 0.5
 
 # What's gonna kill you Today?
 ---
-- [ ] Physics Finish notes please
+- [x] Physics Finish notes please
 

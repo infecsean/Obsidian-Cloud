@@ -4,12 +4,12 @@
     "type": "split",
     "children": [
       {
-        "id": "3a4f41a84df45381",
+        "id": "f9594c5eb9968e2d",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "DP Physics/4. Circular Motion and gravitation/2. Gravitational Field and orbit/Gravitational Potential.md",
+            "file": "Life/Game Dev/Projects/CAS/Storyline V2.md",
             "mode": "source",
             "source": false
           }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "DP Physics/4. Circular Motion and gravitation/2. Gravitational Field and orbit/Gravitational Potential.md",
+                "file": "Life/Game Dev/Projects/CAS/Storyline V2.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -89,7 +89,7 @@
             }
           },
           {
-            "id": "83e5f3680cc53e56",
+            "id": "7c0fabf3cc34f9ac",
             "type": "leaf",
             "state": {
               "type": "todo",
@@ -103,17 +103,17 @@
     "direction": "horizontal",
     "width": 300
   },
-  "active": "3a4f41a84df45381",
+  "active": "f9594c5eb9968e2d",
   "lastOpenFiles": [
-    "DP Physics/4. Circular Motion and gravitation/2. Gravitational Field and orbit/Gravitational Potential.md",
-    "DP Physics/4. Circular Motion and gravitation/2. Gravitational Field and orbit/Gravitational Force and Field.md",
-    "DP Physics/4. Circular Motion and gravitation/2. Gravitational Field and orbit/Understanding gravitational field and orbit.md",
-    "DP Physics/4. Circular Motion and gravitation/2. Gravitational Field and orbit/Gravitational Field.md",
-    "Day Planners/Winter Planner.md",
-    "Day Planners/My fucking week/Saturday.md",
-    "Day Planners/My fucking week/0Today.md",
-    "Day Planners/My fucking week/Sunday.md",
+    "Life/Game Dev/Projects/CAS/Storyline V2.md",
+    "Life/Game Dev/Projects/CAS/Enemy designing.md",
+    "Life/Game Dev/Projects/CAS/Planning Stage.md",
+    "Life/Game Dev/Projects/CAS/Game design document cas.md",
+    "Life/Game Dev/General/Flow State.md",
     "DP Economics/5. Market Failure/Market Failure.md",
-    "DP English LL/Hamlet Soliloquy Outline.md"
+    "DP Physics/4. Circular Motion and gravitation/2. Gravitational Field and orbit/Gravitational Force and Field.md",
+    "Day Planners/Week Planner.md",
+    "Day Planners/Cas planner.md",
+    "Day Planners/Day planner.md"
   ]
 }

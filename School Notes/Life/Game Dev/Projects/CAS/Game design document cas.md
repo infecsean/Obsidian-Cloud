@@ -16,7 +16,13 @@
 -   Core game mechanics
 	-   Progression system: 
 
-      
+-   Release the game on Steam and charge $2.99 for it. If you release it for $1.00 you cannot discount it more than 50% because steam doesn’t allow games to be cheaper than $0.50. Shoppers set up triggers and wait for 60% and 75% off discounts. You need to increase your price so you have the room to discount it.
+-   You must add customizable controls. It is good for accessibility, Steam players expect it, and it is code that you can reuse in your next full sized game.
+-   You must add achievements. Players love achievements. Add at least 26. You will sell more copies because you have achievements.
+-   If you can afford it, hire a good artist to make a cover image (in Steam it is called a capsule) for your game. This is very very important. Don’t use a screenshot for your capsule art. I wrote about how a capsule art [change increased sales 20x](https://howtomarketagame.com/2020/04/13/how-one-new-image-increased-sales-by-20x/) for this game and also this article about [how a capsule change increased wishlists big time!](https://howtomarketagame.com/2020/12/21/how-to-increase-your-games-daily-wishlist-rate/)
+-   If you can afford it and you are not an artist, pay for good professional game art. Since this is a small game you don’t need much art. I cannot overstate how much art sells games on Steam. People buy games based on graphics. Try your best not to use programmer art. There are also [free art assets here](https://opengameart.org/) and [perfectly reasonably priced asset store art.](https://www.gamedevmarket.net/)
+
+
 [the article](https://www.cgspectrum.com/blog/game-development-process)
 ### Include a disclaimer pls
 How fucking ironic this is, I’m 17 making a possibly 18+ game. 

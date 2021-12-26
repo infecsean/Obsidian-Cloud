@@ -14,6 +14,10 @@ Everybody is a social reject, every table in the library is occupied, with ONE p
 - the place is a giant desert or something
 - only scene one is in the cherry blossom field to symbolize peace and blissful ignorance
 - mirrors: in the beginning you see your reflections call you names, in the end you shatter all the mirrors, no insecurities ;)
+- you have to be PERFECT, cant get into a good school otherwise
+- Expectations and responsibilities are presented: take something similar to brim's boulder in die for you, maybe something grand. "mount neverrest"
+
+
 ### Wackos
 - Keep track of the focal points on each scene, and put a figure at the edge of their peripheral vision, it'll surely fuck with 'em'
 - (Influenced by dune) a desert scene with sandstorm, coming for you. could also be snowstorm
