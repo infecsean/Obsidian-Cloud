@@ -9,6 +9,7 @@
 ## Tasks
 - [ ] Math Summative (December 27, ==Tuesday==)
 - [ ] Chinese Summative Paper 2 (January 4, ==Chewsday==)
+- [ ] Physics Summative (January 6th, ==Thursday==)
 - [ ] Economics Summative (January 7, ==Friday==)
 - [ ] English summative persepolis IO (January 14, ==Friday==)
 

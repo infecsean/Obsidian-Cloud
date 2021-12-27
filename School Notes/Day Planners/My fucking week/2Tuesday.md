@@ -3,3 +3,4 @@
 - [ ] ==Math Exam==
 - [ ] ==English dramatic reading==
 - [ ] ==English finalize essay==
+- [ ] Chinese
