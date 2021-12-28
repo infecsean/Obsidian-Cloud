@@ -1,6 +1,6 @@
 # OI ITS FACKIN CHEWSDAY MATE 12/28
 ---
-- [ ] ==Math Exam==
-- [ ] ==English dramatic reading==
-- [ ] ==English finalize essay==
+- [x] ==Math Exam==
+- [x] ==English dramatic reading==
+- [x] ==English finalize essay==
 - [ ] Chinese

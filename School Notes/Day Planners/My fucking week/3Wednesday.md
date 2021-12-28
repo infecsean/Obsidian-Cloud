@@ -2,4 +2,5 @@
 ---
 - [ ] ==English Dramatic Reading==
 - [ ] Chinese draft finish it pleese
+- [ ] EE Proposal
 
