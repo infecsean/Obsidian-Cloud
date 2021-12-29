@@ -12,6 +12,7 @@
 - [ ] Voice Acting (1 week)
 - [ ] UI (2 weeks)
 - [ ] Steam Achievement System (1 week)
+- [ ] PET THE DOG
 
 ### Modeling
 - [ ] Building

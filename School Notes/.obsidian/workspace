@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Day Planners/Day planner.md",
+            "file": "Day Planners/Cas planner.md",
             "mode": "source",
             "source": false
           }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Day Planners/Day planner.md",
+                "file": "Day Planners/Cas planner.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -105,6 +105,7 @@
   },
   "active": "3a4f41a84df45381",
   "lastOpenFiles": [
+    "Day Planners/Cas planner.md",
     "Day Planners/Day planner.md",
     "DP English LL/Hamlet Soliloquy Outline.md",
     "Day Planners/My fucking week/0Today.md",
@@ -113,7 +114,6 @@
     "Day Planners/My fucking week/3Wednesday.md",
     "Day Planners/My fucking week/2Tuesday.md",
     "Day Planners/My fucking week/1Monday.md",
-    "DP Physics/3. Thermal Physics/3.1 Thermal Concepts/Temperature.md",
-    "Day Planners/Cas planner.md"
+    "DP Physics/3. Thermal Physics/3.1 Thermal Concepts/Temperature.md"
   ]
 }
