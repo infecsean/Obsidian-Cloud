@@ -6,3 +6,6 @@
 4. Make the features and interactive shit
 5. Make the music
 
+What to include in Prototype
+one soundtrack maybe
+Sandstorm page

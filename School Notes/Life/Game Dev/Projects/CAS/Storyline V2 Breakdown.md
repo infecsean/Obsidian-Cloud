@@ -29,6 +29,10 @@ dont think too complicated, just get the mesh, get normal map, get image filteri
 
 worst case scenario, get the clouds project from sebastian and modify it.
 
+Vision:
+The mad max scene
+but you see it from within the school behind the front door
+
 Bugs: z-fighting
 Attempt: 
 - Use .tga file
