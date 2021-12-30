@@ -1,6 +1,4 @@
-# Its Wednesday my dude 12/29
+# Its Wednesday my dude 1/5
 ---
-- [ ] ==English Dramatic Reading==
-- [ ] Chinese draft finish it pleese
-- [ ] EE Proposal
+- [ ] Review Physics plos
 

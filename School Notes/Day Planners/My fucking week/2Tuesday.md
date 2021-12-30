@@ -1,6 +1,3 @@
-# OI ITS FACKIN CHEWSDAY MATE 12/28
+# OI ITS FACKIN CHEWSDAY MATE 1/4
 ---
-- [x] ==Math Exam==
-- [x] ==English dramatic reading==
-- [x] ==English finalize essay==
-- [ ] Chinese
+- [ ] ==Chinese Summative time==

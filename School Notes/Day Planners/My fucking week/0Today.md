@@ -8,11 +8,7 @@ banner_y: 0.5
 ---
 por la manana
 - [ ] Chinese draft
-- [x] English Draft FINISH LALALALALA
-- [x] LISTEN IN PHYSICS PLIS
 
 por la tarde
-- [x] English if not finished
-- [x] Math extra prac
-- [x] SLEEP AT 11 (Optimally)
+- [ ] 
 
