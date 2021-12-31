@@ -1,4 +1,3 @@
-# Friday cry day 12/31
+# Friday cry day 1/7
 ---
-- [ ] Econ notes
-- [ ] EE Proposal
+- [ ] ==Economics Summative==

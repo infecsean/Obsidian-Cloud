@@ -10,7 +10,7 @@ Books: Cambridge P.112, Oxford P.108
 - Earn revenue for government
 - Support Firms and low income households
 - Influence production and consumption
-- Correct [[Market Failure]]
+- Correct [[Market Failure Overview]]
 - Promote equality
 
 

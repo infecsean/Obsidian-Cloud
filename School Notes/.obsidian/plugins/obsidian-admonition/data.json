@@ -39,6 +39,16 @@
       },
       "command": false,
       "title": "Nobody Asked"
+    },
+    "res": {
+      "type": "res",
+      "color": "231, 194, 255",
+      "icon": {
+        "name": "bookmark",
+        "type": "font-awesome"
+      },
+      "command": false,
+      "title": "Books"
     }
   },
   "syntaxHighlight": false,

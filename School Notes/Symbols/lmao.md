@@ -1,0 +1,1 @@
+![[lmao emoji.png|30]]

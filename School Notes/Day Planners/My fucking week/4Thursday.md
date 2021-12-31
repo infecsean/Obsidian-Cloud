@@ -1,4 +1,3 @@
-# bro i cant think of anything bout thursday 12/30
+# bro i cant think of anything bout thursday 1/6
 ---
-- [ ] CAS test kit
-- [ ] EE Proposal
+- [ ] ==Physics Summative==

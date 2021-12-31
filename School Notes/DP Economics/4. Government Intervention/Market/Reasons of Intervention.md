@@ -13,7 +13,7 @@ Book: Cambridge P.114, Oxford P.127
 3. ##### Influence level of consumption and production. Also thru [[Indirect Tax]]
 	- Influence Consumption: Place tax on goods that are undesireable (==demerit goods==) to discourage consumption (like ciggies and alcohol). or beneficial things (==merit goods==) to encourage spending on them (education).
 	- Influence Production: To support low income households, government can influence the market and decrease firms' output.
-4. ##### [[Market Failure]]: 
+4. ##### [[Market Failure Overview]]: 
 	- failure of [[Market]] to achieve allocative efficiency. Meaning that the market produces more or less than what society prefers. Government can use ==[[Indirect Tax]]==, ==subsidies==, ==nudges==, ==direct provision of service== from the last point, and ==command and control== methods.
 5. Promote equality: The market system does not achieve a fair distribution of income and wealth. Policies include ==price ceiling== and ==subsidies==. ^c10c92
 
