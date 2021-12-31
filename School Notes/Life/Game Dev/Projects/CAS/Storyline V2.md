@@ -16,6 +16,7 @@ Everybody is a social reject, every table in the library is occupied, with ONE p
 - mirrors: in the beginning you see your reflections call you names, in the end you shatter all the mirrors, no insecurities ;)
 - you have to be PERFECT, cant get into a good school otherwise (volcano thin rope walk)
 - Expectations and responsibilities are presented: take something similar to brim's boulder in die for you, maybe something grand. "mount neverrest"
+- When in stress, press "e", does a coin flip
 
 
 ### Wackos

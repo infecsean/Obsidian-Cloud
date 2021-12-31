@@ -2,6 +2,8 @@
 ---
 By definition, sustainability means that the consumption of a certain resource does not reduce the quality for future generations. Not depleting or degrading resources. 
 
+Sustainable resource means to use resources at a rate that ==allows the resource to reproduce== and not become depleted.
+
 For example, my iPhone 8's battery. Its been a long while since it says "your battery is fucking degraded as fuck bro". I am not using my iPhone sustainably, and people who use this iphone after me would be getting a severly degraded battery that depletes in 10 fucking minutes.
 
 ### Maximum Sustainable yield 
