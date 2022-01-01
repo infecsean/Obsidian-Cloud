@@ -21,6 +21,7 @@ Your mind is utilitarian, meaning that they will always tell you what you want t
 - Maybe it is revealed at the end that you are already dead and reliving the school life
 - Make the player feel utter loneliness
 - The lil pet grows throughout the chapters
+- ==You are given a mask, wear it when you feel unsafe and insecure==
 
 
 ### Wackos
@@ -39,6 +40,7 @@ First day of school, you are on your way to class
 Setting: Mom drops you off at school
 ```
 Mom drops you off at school
+Mom ==hands you the mask==
 The scene is nice and colorful
 you need to go to your classroom
 You go there
@@ -90,7 +92,7 @@ You run to the convenience store, the manager is a monster too.
 You give them the food you wanna buy and bolt
 
 
-### Chapter 7, Pressure Test (good idea, needs modification for effective implementation)
+### Chapter 5, Pressure Test (good idea, needs modification for effective implementation)
 ```Context
 The pressure of getting bad grades, 
 Setting: Classroom, library
@@ -103,7 +105,7 @@ You get a bad grade
 *Gradient transition into your mind, sorrow*
 Transitions into the plane of shame
 
-### Chapter 8, Expectations
+### Chapter 6, Expectations
 ```Context
 The books seem to grow taller and taller, it becomes unreachable, you cant seem to reach it
 Setting: Plane of consciousness, classroom
@@ -114,42 +116,46 @@ You look at your horrible test score, you walk the walk of shame.
 - travel to walk of shame where everybody is enlarged and turned into scary figures and you have to walk thru the entire thing
 - inspiration: ![[nightmare artist walk of shame.jpeg|400]]
 everybody looks at you, laughs
-your parents look at you, angry
 (unsure) the announcer announces your scores, you hear everything
 you look at your future, there is no light ahead.
-
-You scream, but you cant, you try to run away, but you are frozen
+Everybody is one of those giant statues.
+You see your house, you run inside
 You cry and run home to your parents, looking for comfort
+~~You scream, but you cant, you try to run away, but you are frozen~~
 
-### Chapter 9, Comfort
+
+### Chapter 7, Comfort
 ```Context
 You walk back home
 Setting: Home
 ```
 You meet with your parents
-They comfort you and
+
 You talk about your depression
 Your parents says its nonsense
 *insert parents' ignorance to depressed children*
 "if i could do it at my time, you can do it"
 "dont worry, im a doctor, you dont have depression"
+"if you cant be strong now, how the fuck are you going to survive out there?"
 "dont find excuses for your mistakes"
 "EXCUSES, EXCUSES, EXCUSES"
+They are angry, they say you are having too much fun (insert parent depriving you of everything that is keeping you alive at the moment)(for instance your mask)
 
-### Chapter 10, To the Dorms
+You fall back to your desk at school
+
+### Chapter 8, Bolt (change name)
 ```Context
-You finally go back to the dorms
-The sun shines thru the window, but it kinda feels off
-Setting: The dorms
+Escape from the school
+Setting: School to sandstorm scene
 ```
-You head to the dorms, with weight on your back
-Drugs: you escaped into wonderland! Everything is good here.
-Rope: Youve had enough, you give up
-"Dont worry, death is inevitable"
+You stand up and run out of the classroom, since everyone is just laughing at you
+You run to the exit of the school, and you see a sandstorm
+Darkness is consuming the school behind you, you are chased with a tsunami of black matter
+with danger behind you and right beside you, the only way is forward
+You run forward and enter a door
+You escape to the shores
 
-Two paths, one with parkour, to "help", the other, straight path, to drugs. Merchant under a spotlight.
-
-### Chapter 11, Dire Docks
+### Chapter 9, Dire Docks
 ```Context
 You desparately try to find a way out
 Setting: A small dock, where a boat and person is
@@ -157,6 +163,36 @@ Setting: A small dock, where a boat and person is
 Behind you is the depression, in front is a light, a boat which you can just sail and leave depression. But no.
 Your boat is crushed, the announcer "you think you can just leave?"
 The darkness fills in, the sun bleeds black, the water full of red eyes
+Your only way is to the side, uphill
 
+### Chapter 10, Up
+```Context
+You start running up
+Setting: Bookland volcano
+```
+You run through to bookland
+You start running up to the top
+On the way, you rip (like between dimensions) between stairs and bookland
+On top, you see light
+You are given a dark matter gun
+On one hand, you are running from depression,
+On the other hand, you are running from school stress,
 
-### Chapter 12,
+The ending is that you fully embrace darkness, let is consume you
+
+### Chapter 11, Kill
+```Context
+Darkness catches up
+Setting: You need to kill announcer
+```
+The door that leads to white space is right in front of you
+You can grab the diploma, but you can only open it with an empty hand, so you unequip the diploma, but the door tells you to kill your pet. (You cant get thru school without killing yourself).
+You either shoot the pet (yourself) and die or destroy the diploma and embrace darkness.
+
+### Chapter 12, Blank
+```Context
+White Space
+Setting: White Space
+```
+You enter white space. Everything is nice.
+Cherry blossoms, your pet, and your grave.
