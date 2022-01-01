@@ -9,22 +9,26 @@ The narrater is the voice in your head, your subconscious.
 ### Ideas for progression
 The windows will be fully lit at the start school, but slowly dim as you progress
 Your mind is utilitarian, meaning that they will always tell you what you want to do, that is within your comfort zone
-Everybody is a social reject, every table in the library is occupied, with ONE person.
+- Everybody is a social reject, every table in the library is occupied, with ONE person.
 - I guess you suffer from episodes where you travel to places in your mind
-- the place is a giant desert or something
+~~- the place is a giant desert or something~~
 - only scene one is in the cherry blossom field to symbolize peace and blissful ignorance
-- mirrors: in the beginning you see your reflections call you names, in the end you shatter all the mirrors, no insecurities ;)
+- ~~mirrors: in the beginning you see your reflections call you names, in the end you shatter all the mirrors, no insecurities ;)~~
 - you have to be PERFECT, cant get into a good school otherwise (volcano thin rope walk)
 - Expectations and responsibilities are presented: take something similar to brim's boulder in die for you, maybe something grand. "mount neverrest"
-- When in stress, press "e", does a coin flip
+- Omori's "stab omori" [mentioned](https://www.youtube.com/watch?v=rUDGlEWa4sE&ab_channel=DarylTalksGames) give the player a thing they cant turn back from, like the needle to the eye from dead space or heavy rain where you have to mutilate yourself to save your son. "force you to do uncomfortable things to progress" milgram experiment
+~~- When in stress, press "e", does a coin flip~~
+- Maybe it is revealed at the end that you are already dead and reliving the school life
+- Make the player feel utter loneliness
+- The lil pet grows throughout the chapters
 
 
 ### Wackos
-- Keep track of the focal points on each scene, and put a figure at the edge of their peripheral vision, it'll surely fuck with 'em'
+- Keep track of the focal points on each scene, and put a figure at the edge of their peripheral vision, it'll surely fuck with 'em' (dead space always looking at health bar so jumpscares inserted at those general area)
 - (Influenced by dune) a desert scene with sandstorm, coming for you. could also be snowstorm
 - (influenced by finding hope) the 3 am album, dont look at it cus its nothing like a sandstorm. Just try to think of it at the top of your head. The main problem i think would be the particle sim, too much gpu maybe. ([reference](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwallpaperaccess.com%2Fsandstorm&psig=AOvVaw1upUNwJhNXAOGAZEpiDez6&ust=1639784175595000&source=images&cd=vfe&ved=0CAsQjRxqFwoTCKDC9a6-6fQCFQAAAAAdAAAAABAE))
 - Snow [scene](https://www.youtube.com/watch?v=SNP5QqAQqn4&ab_channel=GabrielAguiarProd.)
-- 
+- Ocean scene drowning
 
 ### Intro
 School starts, you enter the first chapter
@@ -39,62 +43,52 @@ The scene is nice and colorful
 you need to go to your classroom
 You go there
 
-### Chapter 2, Social Anxiety (No)
-```Context
-You meet people, but social anxiety says otherwise
-Setting: Hallway -> Classroom
-```
-Avoid eye contact
-You notice everyone is wearing a mask
-Someone approaches you i guess
 
-
-### Chapter 3, Change of Priorities
+### Chapter 2, Anxiety
 ```Context
 The announcer has something to say apparently
 Setting: Seated at your desk
 ```
+You walk from the last scene to your classroom to your seat
 Announcer introduces yall to the school
 "You will have to put your trust in us, as we will teach you EVERYTHING, and by everything, we MEAN EVERYTHING..., in the meantime, make some friends, and have fun"
+
+Also, the announcer "During the school year, we want our students to have the best learning experience ever! To ensure that you are working at your best, we have a rule that drugs, entertainment, and death is strictly forbidden!"
+
 Something drops down
 A stack of books, weights, and waaaaay on top of that, is your diploma.
 - travel to book land???
 
-### Chapter 4, Ignorance is bliss (good point but remove bully)
+### Chapter 3, At book land (change name cringe)
 ```Context
-The player gets to make their first choice, to help others, or help themselves
-Effects if help: Pure mindedness
-Effects if no help: He becomes a school shooter, you watch him get beaten up later on in other chapters
-Setting: In the hallway
+The player gets to make their first choice, to pick up the dark egg or to leave it.
+Decides whether or not the player will embrace and acknowledge depression and anxiety
+Setting: dimension filled with books
 ```
-The bullies look at you, the bullied is on the floor, almost becomes fully consumed
-You now make a choice,  to save him, or to ignore him
-Choose between two paths, one, very dark, but you get to save him, or two, its very bright, and you ignore
 
-Also, the announcer "During the school year, we want our students to have the best learning experience ever! To ensure that you are working at your best, we have a rule that drugs, entertainment, and death is strictly forbidden!"
+Amongst the giant pile of books, you begin to feel hopelessness.
+Among the books, you find an egg, a dark egg.
+Will hatch a small creature, which you will soon find out to be anxiety and depression.
+You will raise it. and keep it.
+nobody can see it except for you.
+"c'mon buddy, lets go study"
 
-### Chapter 5, Liberary (nice concept but could merge)
+Problems: how to build to parent confrontation scene
+
+### Chapter 4, Library to cafeteria (still unsure)
 ```Context
 Its pretty crowded in here, your social anxiety is off the roof
 Dont make any noise
-Setting: Library
+Setting: Library to cafeteria
 ```
-You needed to get a book from the librarian.
 You arrive at the library, but you cant even make a single sound, just ignore the noisy stuff, and walk.
-After the stealth, you exit the library
-Its now lunch time, you head to the cafeteria
+Make it not as hard as other stealth games, make it so that you need to avoid other people
+After the stealth, you exit the library (5f)
+Its now lunch time, you head to the cafeteria (b1)
+Monsters everywhere, (beside every person, monsters stare at you and your lil pet)
+You run to the convenience store, the manager is a monster too.
+You give them the food you wanna buy and bolt
 
-### Chapter 6, Survival (this is just uncalled for)
-```Context
-its lunch time! Go get some food
-Setting: Cafeteria, no, Convenience store
-```
-Its lunch time! Go get some food.
-The cafeteria is full of people, who are looking at you
-You go to the convenience store, buys some other stuff
-You also see some medication for depression, and knife
-You walk out, but your mind stops you, "What, you gonna eat that cold?"
-"you suppose I ask him to microwave it?"
 
 ### Chapter 7, Pressure Test (good idea, needs modification for effective implementation)
 ```Context
@@ -103,9 +97,11 @@ Setting: Classroom, library
 ```
 The announcer says that there will be five tests tomorrow
 You walk out of the classroom and straight to the library, the path will be textured as pages of tests and books.
+OR just travel to *insert book land*
 You walk around to find every table is occupied by one person, and so you walk back, take the test.
 You get a bad grade
 *Gradient transition into your mind, sorrow*
+Transitions into the plane of shame
 
 ### Chapter 8, Expectations
 ```Context
@@ -116,23 +112,29 @@ You get out of your mind, into the classroom, you walk to get your test paper.
 You look at your horrible test score, you walk the walk of shame.
 
 - travel to walk of shame where everybody is enlarged and turned into scary figures and you have to walk thru the entire thing
-- inspiration: ![[nightmare artist walk of shame.jpeg]]
+- inspiration: ![[nightmare artist walk of shame.jpeg|400]]
 everybody looks at you, laughs
 your parents look at you, angry
 (unsure) the announcer announces your scores, you hear everything
 you look at your future, there is no light ahead.
 
 You scream, but you cant, you try to run away, but you are frozen
+You cry and run home to your parents, looking for comfort
 
-### Chapter 9, Depression (Unsure)
+### Chapter 9, Comfort
 ```Context
-You are consumed by the dark
-Setting: Hallways
+You walk back home
+Setting: Home
 ```
-You walk in the dark, and the big guy comes in, (representation of depression)
-You can walk towards him, be consumed. You can run away, he will chase you down. You can ignore him, as other people walk towards it and towards suicide. (prollly last one)
-You suddenly hear the school bell rings...school is over
-it follows you to the dorms
+You meet with your parents
+They comfort you and
+You talk about your depression
+Your parents says its nonsense
+*insert parents' ignorance to depressed children*
+"if i could do it at my time, you can do it"
+"dont worry, im a doctor, you dont have depression"
+"dont find excuses for your mistakes"
+"EXCUSES, EXCUSES, EXCUSES"
 
 ### Chapter 10, To the Dorms
 ```Context

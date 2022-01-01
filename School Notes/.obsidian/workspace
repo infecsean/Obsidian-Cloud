@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "DP Economics/5. Market Failure/Externalities/Externalities.md",
+            "file": "Life/Game Dev/Projects/CAS/Storyline V2.md",
             "mode": "source",
             "source": false
           }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "DP Economics/5. Market Failure/Externalities/Externalities.md",
+                "file": "Life/Game Dev/Projects/CAS/Storyline V2.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -105,15 +105,15 @@
   },
   "active": "3a4f41a84df45381",
   "lastOpenFiles": [
-    "DP Economics/5. Market Failure/Externalities/Externalities.md",
-    "DP Economics/5. Market Failure/Externalities/Negative Externalities.md",
-    "DP Economics/5. Market Failure/Market Failure Overview.md",
     "Life/Game Dev/Projects/CAS/Storyline V2.md",
+    "Life/Game Dev/Projects/CAS/Environment.md",
+    "Life/Game Dev/Projects/CAS/Music Stuff.md",
+    "Life/Game Dev/Projects/CAS/Game design document cas.md",
     "Life/Game Dev/Projects/CAS/Storyline V2 Breakdown.md",
+    "Life/Game Dev/Projects/CAS/Planning Stage.md",
+    "Life/Game Dev/Projects/CAS/Enemy designing.md",
     "Life/Game Dev/Projects/CAS/Storyline.md",
-    "DP Economics/5. Market Failure/Common Pool Resources/Sustainability.md",
-    "DP Economics/5. Market Failure/Common Pool Resources/What are Common Pool Resources.md",
-    "DP Economics/5. Market Failure/Common Pool Resources/Private Goods.md",
-    "Symbols/lmao.md"
+    "Life/Game Dev/Projects/CAS/Prototype Stage.md",
+    "Life/Game Dev/Projects/CAS/Planning Systems.md"
   ]
 }

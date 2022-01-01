@@ -21,6 +21,14 @@ at least 3 designs
 - Work
 - Rotting system
 - Future
+
+### Modified version
+- Character (if have time)
+- Mental guy
+- Other people with masks
+- Final boss (announcer)
+
+
 ### Wears a mask, everybody does
 ### Bully Victims (Low offense, High defense)
 Traits of the creature:
@@ -56,5 +64,3 @@ Inspiration: [1](https://i.imgur.com/lCBWrUJ.png), [trailing effect](https://www
 - Using unity particle sim
 - It follows you around, stays very close
 
-
-### Procrastination
