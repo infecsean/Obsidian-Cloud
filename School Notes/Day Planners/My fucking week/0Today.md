@@ -10,6 +10,5 @@ por la manana
 - [ ] 
 
 por la tarde
-- [ ] Econ Notes
-- [ ] EE Proposal
+- [ ] 
 
