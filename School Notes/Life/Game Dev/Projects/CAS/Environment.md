@@ -16,7 +16,7 @@ B1F - Cafeteria & Convenience Store
 6F - Roof
 Exits to a desert
 
-### Deseret
+### Desert
 Theres a sandstorm
 
 ### Book land (srsly change it)
