@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Day Planners/My fucking week/0Today.md",
+            "file": "DP Economics/5. Market Failure/Externalities/Negative Externalities of Consumption/Policies in response to negative consumption externalities/Market Based Policies.md",
             "mode": "source",
             "source": false
           }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Day Planners/My fucking week/0Today.md",
+                "file": "DP Economics/5. Market Failure/Externalities/Negative Externalities of Consumption/Policies in response to negative consumption externalities/Market Based Policies.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -105,6 +105,8 @@
   },
   "active": "3a4f41a84df45381",
   "lastOpenFiles": [
+    "DP Economics/5. Market Failure/Externalities/Negative Externalities of Consumption/Policies in response to negative consumption externalities/Market Based Policies.md",
+    "DP Economics/5. Market Failure/Externalities/Negative Externalities of Consumption/Policies in response to negative consumption externalities/Nudges.md",
     "Day Planners/My fucking week/0Today.md",
     "Day Planners/Day planner.md",
     "Day Planners/Week Planner.md",
@@ -112,8 +114,6 @@
     "Day Planners/My fucking week/Sunday.md",
     "Day Planners/My fucking week/Saturday.md",
     "Life/Game Dev/Projects/CAS/Objects.md",
-    "DP English LL/English Notes.md",
-    "DP English LL/Hamlet Soliloquy Outline.md",
-    "DP English LL/Hamlet Notes.md"
+    "DP English LL/English Notes.md"
   ]
 }
