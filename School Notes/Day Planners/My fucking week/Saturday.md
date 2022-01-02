@@ -1,4 +1,3 @@
-# Satan Saturdays 1/1
+# Satan Saturdays 1/8
 ---
-- [ ] Econ Notes
-- [ ] EE Proposal
+- [ ] CAS learn embergen
