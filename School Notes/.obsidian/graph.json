@@ -43,10 +43,24 @@
       }
     },
     {
+      "query": "path:\"Day Planners\"",
+      "color": {
+        "a": 1,
+        "rgb": 5395168
+      }
+    },
+    {
       "query": "path:Life",
       "color": {
         "a": 1,
         "rgb": 5431473
+      }
+    },
+    {
+      "query": "path:Symbols",
+      "color": {
+        "a": 1,
+        "rgb": 11621088
       }
     }
   ],
@@ -60,6 +74,6 @@
   "repelStrength": 20,
   "linkStrength": 1,
   "linkDistance": 500,
-  "scale": 0.9538310374241893,
+  "scale": 0.0911191321662176,
   "close": true
 }
