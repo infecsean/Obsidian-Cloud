@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Day Planners/My fucking week/0Today.md",
+            "file": "DP English LL/Rosencrantz and Guildenstern are dead Notes.md",
             "mode": "source",
             "source": false
           }
@@ -53,7 +53,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 319
+    "width": 309
   },
   "right": {
     "id": "d6f61973bf5b2b3f",
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Day Planners/My fucking week/0Today.md",
+                "file": "DP English LL/Rosencrantz and Guildenstern are dead Notes.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -105,15 +105,15 @@
   },
   "active": "3a4f41a84df45381",
   "lastOpenFiles": [
-    "Day Planners/My fucking week/0Today.md",
-    "Day Planners/My fucking week/3Wednesday.md",
-    "DP Economics/5. Market Failure/Externalities/Negative Externalities of Production/Negative Externalities of Production.md",
-    "DP Economics/5. Market Failure/Externalities/Negative Externalities of Consumption/Policies in response to negative consumption externalities/Market Based Policies.md",
-    "DP Economics/5. Market Failure/Externalities/Negative Externalities of Consumption/Policies in response to negative consumption externalities/Nudges.md",
+    "DP English LL/Rosencrantz and Guildenstern are dead Notes.md",
     "Day Planners/Day planner.md",
-    "Day Planners/Week Planner.md",
-    "Day Planners/Cas planner.md",
-    "Day Planners/My fucking week/Sunday.md",
-    "Day Planners/My fucking week/Saturday.md"
+    "Life/Game Dev/Projects/CAS/Prototype Stage.md",
+    "Life/Game Dev/Projects/CAS/Planning Stage.md",
+    "Life/Game Dev/Projects/CAS/Objects.md",
+    "Life/Game Dev/Projects/CAS/Game design document cas.md",
+    "DP Physics/4. Circular Motion and gravitation/2. Gravitational Field and orbit/Gravitational Force and Field.md",
+    "DP Physics/4. Circular Motion and gravitation/2. Gravitational Field and orbit/Gravitational Field.md",
+    "DP Physics/4. Circular Motion and gravitation/2. Gravitational Field and orbit/Understanding gravitational field and orbit.md",
+    "DP Physics/4. Circular Motion and gravitation/2. Gravitational Field and orbit/Gravitational Potential.md"
   ]
 }
