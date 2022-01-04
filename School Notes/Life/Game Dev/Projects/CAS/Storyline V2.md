@@ -5,6 +5,7 @@ Social anxiety is supposed to be continuous, no jumpscare, just pure paranoia.
 The narrater is the voice in your head, your subconscious.
 - Tho the purpose is to tell an experience, there still has to be some sort of failing in each chapter/level
 - Ask yourself "How is this a good segway into the next chapter?"
+- =="if the player knows what to expect, they will get bored"==
 
 ### Ideas for progression
 The windows will be fully lit at the start school, but slowly dim as you progress
