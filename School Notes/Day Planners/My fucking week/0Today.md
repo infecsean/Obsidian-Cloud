@@ -1,12 +1,11 @@
 # What's gonna kill you Today?
 ---
 por la manana
-- [ ] Chinese Draft
-- [ ] Physics problemos
+- [ ] Economics
 
 por la tarde
-- [ ] code
+- [ ] Physics
 
 por la noche
-- [ ] Chinese review structure
+- [ ] Economics
 

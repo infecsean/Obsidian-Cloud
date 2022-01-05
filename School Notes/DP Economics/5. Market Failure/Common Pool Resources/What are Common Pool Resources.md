@@ -6,7 +6,7 @@ Cambridge: P.144, Oxford: P.140
 ```ad-example
 Fish in open seas, clean air
 ```
-This is related to [[Negative Externalities]].
+This is related to [[Negative Externalities of Production]]/[[Negative Externalities of Consumption]].
 
 Resources that are ==not owned== by anyone, ==dont have a price==, and available to anyone.
 

@@ -24,7 +24,7 @@
 - [x] Math summative
 - [ ] Physics summative
 - [ ] Econ Summative
-- [ ] Chinese
+- [x] Chinese
 - [ ] English
 
 ## What useful thing have i done today?
