@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "DP Physics/4. Circular Motion and gravitation/1. Circular Motion/Quantities of Circular Motion.md",
+            "file": "DP Physics/4. Circular Motion and gravitation/2. Gravitational Field and orbit/Gravitational Force and Field.md",
             "mode": "source",
             "source": false
           }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "DP Physics/4. Circular Motion and gravitation/1. Circular Motion/Quantities of Circular Motion.md",
+                "file": "DP Physics/4. Circular Motion and gravitation/2. Gravitational Field and orbit/Gravitational Force and Field.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -105,15 +105,15 @@
   },
   "active": "3a4f41a84df45381",
   "lastOpenFiles": [
+    "DP Physics/4. Circular Motion and gravitation/2. Gravitational Field and orbit/Gravitational Force and Field.md",
+    "DP Physics/4. Circular Motion and gravitation/2. Gravitational Field and orbit/Gravitational Potential.md",
+    "Day Planners/My fucking week/0Today.md",
     "DP Physics/4. Circular Motion and gravitation/1. Circular Motion/Quantities of Circular Motion.md",
     "DP Economics/5. Market Failure/Common Pool Resources/Private Goods.md",
     "Life/Game Dev/Projects/CAS/Music Stuff.md",
     "Life/Game Dev/Projects/CAS/Storyline V2.md",
     "DP Physics/4. Circular Motion and gravitation/1. Circular Motion/Angular Velocity and Speed.md",
     "DP Physics/4. Circular Motion and gravitation/1. Circular Motion/Centripetal Acceleration.md",
-    "DP Physics/4. Circular Motion and gravitation/1. Circular Motion/Centripetal Force.md",
-    "DP Physics/4. Circular Motion and gravitation/2. Gravitational Field and orbit/Gravitational Force and Field.md",
-    "DP Physics/4. Circular Motion and gravitation/1. Circular Motion/Understanding of circular motion.md",
-    "DP Physics/4. Circular Motion and gravitation/2. Gravitational Field and orbit/Gravitational Field.md"
+    "DP Physics/4. Circular Motion and gravitation/1. Circular Motion/Centripetal Force.md"
   ]
 }
