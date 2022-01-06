@@ -7,3 +7,4 @@
 - on that note, also get inspiration from fallen down lol, comfort the player after death
 - Everything else is just heavy reese bass and i cant forget you kinda vibes, only ending music is very upbeat and catchy, saying that it is actually better off after death. Like a celebration of death, that it doesnt have to be sad.
 - Or just uses credit song for my death remix it with electric guitar and reverb and synth and shit and BOOM!
+- strange fruit
