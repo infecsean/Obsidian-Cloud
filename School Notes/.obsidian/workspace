@@ -4,12 +4,12 @@
     "type": "split",
     "children": [
       {
-        "id": "3a4f41a84df45381",
+        "id": "d28f3dcc0c1437d9",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "DP Physics/4. Circular Motion and gravitation/2. Gravitational Field and orbit/Gravitational Force and Field.md",
+            "file": "Day Planners/My fucking week/0Today.md",
             "mode": "source",
             "source": false
           }
@@ -40,7 +40,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#econdefs",
+                "query": "",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -53,7 +53,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 309
+    "width": 319
   },
   "right": {
     "id": "d6f61973bf5b2b3f",
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "DP Physics/4. Circular Motion and gravitation/2. Gravitational Field and orbit/Gravitational Force and Field.md",
+                "file": "Day Planners/My fucking week/0Today.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -101,19 +101,20 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
-  "active": "3a4f41a84df45381",
+  "active": "d28f3dcc0c1437d9",
   "lastOpenFiles": [
-    "DP Physics/4. Circular Motion and gravitation/2. Gravitational Field and orbit/Gravitational Force and Field.md",
-    "DP Physics/4. Circular Motion and gravitation/2. Gravitational Field and orbit/Gravitational Potential.md",
     "Day Planners/My fucking week/0Today.md",
-    "DP Physics/4. Circular Motion and gravitation/1. Circular Motion/Quantities of Circular Motion.md",
-    "DP Economics/5. Market Failure/Common Pool Resources/Private Goods.md",
-    "Life/Game Dev/Projects/CAS/Music Stuff.md",
-    "Life/Game Dev/Projects/CAS/Storyline V2.md",
-    "DP Physics/4. Circular Motion and gravitation/1. Circular Motion/Angular Velocity and Speed.md",
-    "DP Physics/4. Circular Motion and gravitation/1. Circular Motion/Centripetal Acceleration.md",
-    "DP Physics/4. Circular Motion and gravitation/1. Circular Motion/Centripetal Force.md"
+    "DP Economics/5. Market Failure/Externalities/Negative Externalities of Consumption/Policies in response to negative consumption externalities/Education and awareness raising.md",
+    "DP Economics/5. Market Failure/Externalities/Negative Externalities of Consumption/Policies in response to negative consumption externalities/Legislation and Regulation.md",
+    "DP Economics/5. Market Failure/Externalities/Negative Externalities of Consumption/Policies in response to negative consumption externalities/Market Based Policies.md",
+    "DP Economics/5. Market Failure/Externalities/Positive Externalities of Consumption/Merit Goods.md",
+    "DP Economics/5. Market Failure/Externalities/Positive Externalities of Consumption/Positive Externalities of Consumption.md",
+    "DP Economics/5. Market Failure/Externalities/Positive Externalities of Production/Positive Externalities of Production.md",
+    "DP Physics/3. Thermal Physics/3.2 Modeling a gas/The Ideal Gas.md",
+    "Life/Game Dev/Inspiration.md",
+    "DP Physics/4. Circular Motion and gravitation/2. Gravitational Field and orbit/Gravitational Field.md"
   ]
 }
