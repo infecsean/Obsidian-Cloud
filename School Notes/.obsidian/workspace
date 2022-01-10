@@ -4,15 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "3a4f41a84df45381",
+        "id": "da7556bb0196c18a",
         "type": "leaf",
         "state": {
-          "type": "markdown",
-          "state": {
-            "file": "DP Physics/4. Circular Motion and gravitation/2. Gravitational Field and orbit/Gravitational Force and Field.md",
-            "mode": "source",
-            "source": false
-          }
+          "type": "empty",
+          "state": {}
         }
       }
     ],
@@ -69,7 +65,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "DP Physics/4. Circular Motion and gravitation/2. Gravitational Field and orbit/Gravitational Force and Field.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -101,19 +96,20 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
-  "active": "3a4f41a84df45381",
+  "active": "da7556bb0196c18a",
   "lastOpenFiles": [
-    "DP Physics/4. Circular Motion and gravitation/2. Gravitational Field and orbit/Gravitational Force and Field.md",
-    "DP Physics/4. Circular Motion and gravitation/2. Gravitational Field and orbit/Gravitational Potential.md",
-    "Day Planners/My fucking week/0Today.md",
-    "DP Physics/4. Circular Motion and gravitation/1. Circular Motion/Quantities of Circular Motion.md",
-    "DP Economics/5. Market Failure/Common Pool Resources/Private Goods.md",
-    "Life/Game Dev/Projects/CAS/Music Stuff.md",
+    "Life/Game Dev/Projects/CAS/Sandstorm Problem.md",
     "Life/Game Dev/Projects/CAS/Storyline V2.md",
-    "DP Physics/4. Circular Motion and gravitation/1. Circular Motion/Angular Velocity and Speed.md",
-    "DP Physics/4. Circular Motion and gravitation/1. Circular Motion/Centripetal Acceleration.md",
-    "DP Physics/4. Circular Motion and gravitation/1. Circular Motion/Centripetal Force.md"
+    "DP English LL/Rosencrantz and Guildenstern are dead Notes.md",
+    "Life/Game Dev/Projects/CAS/Storyline V2 Breakdown.md",
+    "Life/Game Dev/Projects/CAS/Planning Stage.md",
+    "Life/Game Dev/Projects/CAS/Objects.md",
+    "Life/Game Dev/Projects/CAS/Music Stuff.md",
+    "Life/Game Dev/Projects/CAS/Game design document cas.md",
+    "Life/Game Dev/Projects/CAS/Environment.md",
+    "Life/Game Dev/Projects/CAS/Enemy designing.md"
   ]
 }
