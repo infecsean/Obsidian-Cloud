@@ -18,11 +18,11 @@ Your mind is utilitarian, meaning that they will always tell you what you want t
 - you have to be PERFECT, cant get into a good school otherwise (volcano thin rope walk)
 - Expectations and responsibilities are presented: take something similar to brim's boulder in die for you, maybe something grand. "mount neverrest"
 - Omori's "stab omori" [mentioned](https://www.youtube.com/watch?v=rUDGlEWa4sE&ab_channel=DarylTalksGames) give the player a thing they cant turn back from, like the needle to the eye from dead space or heavy rain where you have to mutilate yourself to save your son. "force you to do uncomfortable things to progress" milgram experiment
-~~- When in stress, press "e", does a coin flip~~
+- When in stress, press "e", does a coin flip. from rosencrants and guildenstern are dead: Tension can be created with the repeating chance of flipping a head!
 - Maybe it is revealed at the end that you are already dead and reliving the school life
 - Make the player feel utter loneliness
 - The lil pet grows throughout the chapters
-- ==You are given a mask, wear it when you feel unsafe and insecure==
+- ==You are given a mask, wear it when you feel unsafe and insecure== make the mask a bit more interesting than just a buff that allows immunity
 
 
 ### Wackos

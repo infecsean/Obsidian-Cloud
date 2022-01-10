@@ -6,6 +6,8 @@ kanban-plugin: basic
 
 ## Game Features
 
+- [ ] Movement rework
+- [ ] Embergen
 
 
 ## Systems

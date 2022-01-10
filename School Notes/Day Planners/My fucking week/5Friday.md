@@ -1,4 +1,5 @@
 # Friday cry day 1/7
 ---
-- [ ] ==Economics Summative==
-- [ ] 
+- [ ] ==English EoS==
+- [ ] ==Physics EoS==
+

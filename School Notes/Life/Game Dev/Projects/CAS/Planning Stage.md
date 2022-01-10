@@ -1,7 +1,7 @@
 # Fucking do something
 ---
 [[game kanban|kanban]]
-9 weeks until school reopens.
+5 weeks until school reopens.
 
 
 ## Checklist

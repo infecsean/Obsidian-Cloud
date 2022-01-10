@@ -10,6 +10,18 @@ metafiction, theatre of the absurd
 slapstick humor, innuendo, pantomime, wordplay
 rhetoric / argument / science / existentialism
 
+### Themes
+- freewill vs determinism
+
+### 1st Player
+- metafictive character
+- representation of the playwriter (shakespeare)
+
+### Theater of the absurd
+- Existentialism exploration
+- Determinism
+- Fatalism
+
 P.4 "Nothing to write home about" - idiom
 P.9 Music Change
 P.9 Change to Hamlet (Change to Hamlet Script)
