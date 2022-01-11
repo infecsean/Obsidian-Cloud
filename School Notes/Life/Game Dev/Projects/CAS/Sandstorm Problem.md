@@ -15,5 +15,7 @@
 ### Use VFX graph on simple meshes
 - May be simplified, too simplified
 - not the style im going for
+- weird but again, arent we all
+
 
 
