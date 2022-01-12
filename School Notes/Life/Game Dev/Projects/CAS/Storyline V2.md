@@ -23,6 +23,7 @@ Your mind is utilitarian, meaning that they will always tell you what you want t
 - Make the player feel utter loneliness
 - The lil pet grows throughout the chapters
 - ==You are given a mask, wear it when you feel unsafe and insecure== make the mask a bit more interesting than just a buff that allows immunity
+- You are only given a small amount of time to be mentally there, cus school takes up a that much time. So when the player are sent to the dimension, intentionally design the time limit so that they cant reach a deep enough part (underlying darkness, strange fruit)
 
 
 ### Wackos

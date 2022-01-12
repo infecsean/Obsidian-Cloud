@@ -1,9 +1,12 @@
 {
   "todoPageName": "",
   "showChecked": true,
+  "autoRefresh": true,
+  "subGroups": false,
   "groupBy": "page",
-  "sortDirection": "a->z",
-  "ignoreFiles": "",
+  "sortDirectionItems": "new->old",
+  "sortDirectionGroups": "new->old",
+  "sortDirectionSubGroups": "new->old",
   "includeFiles": "Day Planners/My fucking week",
   "lookAndFeel": "compact",
   "_collapsedSections": [
@@ -18,5 +21,8 @@
     "Day Planners/My fucking week/4Thursday.md",
     "Day Planners/My fucking week/1Monday.md",
     "Day Planners/My fucking week/3Wednesday.md"
-  ]
+  ],
+  "_hiddenTags": [],
+  "sortDirection": "a->z",
+  "ignoreFiles": ""
 }
