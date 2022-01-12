@@ -7,8 +7,8 @@
   "sortDirectionItems": "new->old",
   "sortDirectionGroups": "new->old",
   "sortDirectionSubGroups": "new->old",
-  "includeFiles": "Day Planners/My fucking week",
-  "lookAndFeel": "compact",
+  "includeFiles": "{Day Planners/My fucking week}",
+  "lookAndFeel": "classic",
   "_collapsedSections": [
     "Life/Game Dev/Projects/CAS/Planning Systems.md",
     "CAS/4. Service.md",
