@@ -2,11 +2,14 @@
 ---
 Whenever you enter a new area, words will fade in saying "Library", "Home", or %!^#\*! for subconsciousness areas
 
+Enters to entrance of school, it is surrounded by water, cross a bridge to get to the school
+
 ### School peripherals
 The gate with cherry blossoms
 leads into the school building
 
 ### School building
+School built like a fuckin castle, surrounded by water, to both prevent escape and suicide
 B1F - Cafeteria & Convenience Store
 1F - Lobby
 2F - Classroom

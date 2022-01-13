@@ -7,6 +7,5 @@ por la tarde
 - [ ] 
 
 por la noche
-- [ ] EmberGen
-- [ ] Sync Omori
+- [ ] physics
 
