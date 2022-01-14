@@ -20,10 +20,11 @@
 
 ### Analysis2 Drives
 - While the two texts are written in different perspectives, the plot is driven differently. 
-- Both texts are driven by mortality
+- Both texts are driven by mortality. But hamlet explores the persective where there is a way to make meaning out of life and have an effect on the world. While RAG explores the perspective where there is no meaning and everything is decided by random.
 - Symbolism
-- Hamlet: 
-- RAGAD: the coin, representing their fate, Boat, representing the journey
+- Hamlet: Rosemaries and pansies to laertes for rememberance. Fennel and Columbine to Claudius for faithlessness. Rues for the queen and herself, symbolize bitterness. Daisies for innocence, which she handed out none. Violets which symbolize faithfulness, whithered when her father died.
+- RAGAD: the coin, representing their fate, Boat, representing the journey.
+- "We can change direction, rattle about, but out movement is contained in a larger one that carries us along"
 
 ### Analysis 3 Character conflict
 - Both are based on the characters' inner conflict, but have different views on their life. The conflicts are portrayed in different forms as well.
