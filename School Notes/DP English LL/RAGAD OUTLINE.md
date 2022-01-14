@@ -38,5 +38,3 @@
 
 ### conclusion
 
-"There must've been a moment in the beginning where we couldve said no, somehow we missed it"
-"Who are we that so much should converge on our little deaths?"
