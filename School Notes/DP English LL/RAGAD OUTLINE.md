@@ -15,7 +15,7 @@
 ### Analysis1 narrative
 - both texts, while existing in the same timeline and using the same narrative. Hamlet's narrative being in the perspective of hamlet, and rosencrantz and guildenstern are dead in the perspective of R&G. Something that both have in common is death of the mc.
 - While hamlet is a conventional drama that is structured to tell the story of hamlet develop the plot around the character, RAGAD is an absurdist drama that tells the story of hamlet based on the development of RAG, and so RAG are then free when the plot doesnt converge. This also has an effect on the audience, as hamlet is closer to the actions, and in response has more effect on the plot, while RAG are only involved when Hamlet's script has them involved.
-- Hamlet: Hamlet tells the story of himself and his inner conflicts, whilst revealing the questions of life and death, 
+- Hamlet: Hamlet tells the story of himself and his inner conflicts, whilst revealing the questions of life and death. In one of his solliloquies he said: now might i do it pat, now he is praying, but later realizes that he would be sending claudius to heaven, and backs away. 
 - RAGAD: 
 
 ### Analysis2 Drives
