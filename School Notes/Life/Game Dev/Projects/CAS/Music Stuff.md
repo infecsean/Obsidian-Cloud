@@ -10,4 +10,6 @@
 - strange fruit
 
 - AfterMATH of a slaughter lol
-- 
+- [synth](https://www.youtube.com/watch?v=zllWG68Znq8&ab_channel=Elation)
+- [BRO](https://www.youtube.com/watch?v=SE2JYl6esdU&ab_channel=DLJ-Topic)
+- MAKE A SUPER NICE SOUNDING SYNTH AND JUST CUT IT OFF WHEN TIME IS UP
