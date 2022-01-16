@@ -7,4 +7,6 @@ Effects
 - Wear it to gain a short period of safeness from anxiety, but its durability will slowly deplete
 
 
-### 
+### Headphones
+- Make the players' lives easier with the headphones, so give it to them half way, so that they feel comfortable and attached to the accessory
+- When parents take it back soon thereafter, they will cry lol
