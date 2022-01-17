@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Life/Game Dev/Projects/CAS/Prototype Stage.md",
+            "file": "Life/Game Dev/Projects/CAS/Storyline V2.md",
             "mode": "source",
             "source": false
           }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Life/Game Dev/Projects/CAS/Prototype Stage.md",
+                "file": "Life/Game Dev/Projects/CAS/Storyline V2.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -105,6 +105,8 @@
   },
   "active": "da7556bb0196c18a",
   "lastOpenFiles": [
+    "Life/Game Dev/Projects/CAS/Storyline V2.md",
+    "Life/Game Dev/Projects/CAS/Storyline.md",
     "Life/Game Dev/Projects/CAS/Prototype Stage.md",
     "Life/Game Dev/Projects/CAS/Planning Stage.md",
     "Life/Game Dev/Projects/CAS/Planning Systems.md",
@@ -112,8 +114,6 @@
     "Life/Game Dev/Projects/CAS/Objects.md",
     "Life/Game Dev/Projects/CAS/Game design document cas.md",
     "Life/Game Dev/Projects/CAS/Environment.md",
-    "Day Planners/Winter Planner.md",
-    "Day Planners/Week Planner.md",
-    "Day Planners/Cas planner.md"
+    "Day Planners/Winter Planner.md"
   ]
 }
