@@ -19,6 +19,8 @@ B1F - Cafeteria & Convenience Store
 6F - Roof
 Exits to a desert
 
+kinda looks like a box, with a front gate, three buildings, school buildings. So maybe its middle 1f lobby, 2f cafeteria and convenience store, 3f library, 4f roof. Left and Right all classroom, with roof. middle is kind of a forest.
+
 ### Desert
 Theres a sandstorm
 
