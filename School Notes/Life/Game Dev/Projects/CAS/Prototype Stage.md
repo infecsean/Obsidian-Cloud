@@ -8,8 +8,14 @@
 5. Make the music
 
 What to include in Prototype
+- [ ] ==Completed Player System==
+	- [ ] Hold
+	- [ ] Pickup
+	- [ ] Inventory rework
+	- [ ] Movement system
 - [ ] ==Completed UI==
 	- [ ] Working Main Menu System
+	- [ ] Working Loading Menu
 	- [ ] Working Radial Menu
 	- [ ] Working Settings Menu
 	- [ ] Functional Teleport Menu
