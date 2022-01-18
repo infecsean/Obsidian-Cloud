@@ -24,8 +24,8 @@ kinda looks like a box, with a front gate, three buildings, school buildings. So
 ### Desert
 Theres a sandstorm
 
-### Book land (srsly change it)
-- Your subconscious when you are studying
+### mind
+- Your subconscious in general
 - Its dark and filled with depression
 - Transitions to a mountain and a volcano which transitions to the following scene
 

@@ -1,5 +1,7 @@
 # Objects accesible from inventory
 ---
+Since it is just a walking simulator, dont put that much items.
+
 ### Mask
 - The mask is given to you in chapter 1 by "mother"
 	- Note from self, if its given by mother it wouldnt make sense, since the bipolar identity is supposed to be self-discovered. So it would be better to find it on ground or something. 
