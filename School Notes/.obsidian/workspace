@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Life/Game Dev/Projects/CAS/Storyline V2.md",
+            "file": "Life/Game Dev/Projects/CAS/Prototype Stage.md",
             "mode": "source",
             "source": false
           }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Life/Game Dev/Projects/CAS/Storyline V2.md",
+                "file": "Life/Game Dev/Projects/CAS/Prototype Stage.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -105,15 +105,15 @@
   },
   "active": "da7556bb0196c18a",
   "lastOpenFiles": [
+    "Life/Game Dev/Projects/CAS/Prototype Stage.md",
+    "Life/Game Dev/Projects/CAS/Planning Stage.md",
+    "Life/Game Dev/Projects/CAS/Objects.md",
+    "Life/Game Dev/Projects/CAS/Environment.md",
+    "Life/Game Dev/Projects/CAS/Symbolism.md",
+    "Life/Game Dev/Projects/CAS/Sandstorm Problem.md",
+    "Life/Game Dev/Projects/CAS/Storyline.md",
     "Life/Game Dev/Projects/CAS/Storyline V2.md",
     "Life/Game Dev/Projects/CAS/Storyline V2 Breakdown.md",
-    "Life/Game Dev/Projects/CAS/Objects.md",
-    "Life/Game Dev/Projects/CAS/Planning Stage.md",
-    "Life/Game Dev/Projects/CAS/Environment.md",
-    "Life/Game Dev/Projects/CAS/Storyline.md",
-    "Life/Game Dev/Projects/CAS/Prototype Stage.md",
-    "Life/Game Dev/Projects/CAS/Planning Systems.md",
-    "Life/Game Dev/Projects/CAS/Music Stuff.md",
-    "Life/Game Dev/Projects/CAS/Game design document cas.md"
+    "Life/Game Dev/Projects/CAS/Planning Systems.md"
   ]
 }
