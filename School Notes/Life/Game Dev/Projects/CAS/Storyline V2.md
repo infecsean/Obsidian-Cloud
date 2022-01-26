@@ -25,7 +25,9 @@ Your mind is utilitarian, meaning that they will always tell you what you want t
 - ==You are given a mask, wear it when you feel unsafe and insecure== make the mask a bit more interesting than just a buff that allows immunity
 - You are only given a small amount of time to be mentally there, cus school takes up a that much time. So when the player are sent to the dimension, intentionally design the time limit so that they cant reach a deep enough part (underlying darkness, strange fruit) maybe do [this](https://www.youtube.com/watch?v=eqlHpPzS22U&t=74s&ab_channel=Brackeys)
 - THE TREE OF LIFE ON THE TOP OF THE MOUNTAIN GROWS FRUIT, WHILE OTHER TREES ONLY GROW ONCE, MEANING PEOPLE SUICIDE ALL THE TIME, WHILE FRUIT GROWS SLOWLY
-- The roof is off limits, which restricts escape. Once the roof is free, you watch from afar, students go to the roof, you watch them jump into the river, thinking they will all escape. No, they wont, they just want to die.
+- You can only see the tree of life from afar, everytime you see a fruit, there is a person getting it off, but moments later they put a kind of defense around it to keep people out.
+- 
+- The roof is off limits, which restricts escape. Once the roof is free, ~~you watch from afar~~ directly involve, students go to the roof, you watch them jump into the river, ~~thinking they will all escape~~ knowing that they will all die, but it is the lesser evil.
 
 
 ### Wackos
@@ -117,6 +119,8 @@ Setting: Plane of consciousness, classroom
 You get out of your mind, into the classroom, you walk to get your test paper.
 You look at your horrible test score, you walk the walk of shame.
 
+=="Insanity, is doing the same fucking thing over and over again, and expecting shit to change"== 
+
 - travel to walk of shame where everybody is enlarged and turned into scary figures and you have to walk thru the entire thing
 - inspiration: ![[nightmare artist walk of shame.jpeg|400]]
 everybody looks at you, laughs
@@ -200,3 +204,6 @@ Setting: White Space
 ```
 You enter white space. Everything is nice.
 Cherry blossoms, your pet, and your grave.
+
+You sit at home with a rope ready.
+You see the newspaper headlines "School prohibits death in response to suicide spree"
