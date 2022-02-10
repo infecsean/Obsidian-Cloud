@@ -19,7 +19,7 @@ The classroom of truth - vandalized classroom with quotes
 	- "Education is the most powerful weapon to ~~change the world~~ kill children"
 	- "Education is not the key to life, but ~~life~~ death"
 	- "Practice makes ~~perfect~~ inescapable death loops"
-	- "would you jump off a cliff i someone asks you to?", "if it is of benefit"
+	- "would you jump off a cliff i someone asks you to?"
 	- "nothing is impossible, but you're the one talking"
 	- "all roads lead to ~~rome~~ death"
 5F - Library

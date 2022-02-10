@@ -40,6 +40,10 @@ Your mind is utilitarian, meaning that they will always tell you what you want t
 ### Intro
 School starts, you enter the first chapter
 
+==Act 1: Chapter 1 ~ 4, Introduce all the settings: Home, school, classrooms, your mind, mechanics, library and cafeteria.
+Act 2: Chapter 5 ~ 8 , start the conflict, apply tension, rising action. 
+Act 3: Chapter 9 ~ 12==
+
 ### Chapter 1, First Day
 ```Context
 First day of school, you are on your way to class
