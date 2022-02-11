@@ -8,4 +8,3 @@ Sex system for sure
 - [ ] Player System
 - [ ] Dialogue System
 - [ ] Tooltip sy[stem](https://www.youtube.com/watch?v=HXFoUGw7eKk&ab_channel=GameDevGuide)
-- [ ] 
