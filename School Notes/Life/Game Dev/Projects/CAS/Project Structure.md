@@ -42,5 +42,8 @@
 	- Music
 	- SFX
 - Scenes
-- Scriptable Objects
+- ScriptableObjects
+- Scripts
+	- 
+- Settings
 - 
