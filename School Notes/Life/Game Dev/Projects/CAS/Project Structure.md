@@ -1,0 +1,46 @@
+# Rework Project Asset Structure
+---
+## Template 1 (based on unity [chop chop](https://github.com/UnityTechnologies/open-project-1/tree/main/UOP1_Project/Assets))
+#### Assets
+- Add-ons
+	- Everything imported will be here
+- Shaders
+- Art
+	- UI
+		- Item Icons
+		- Menus
+	- Textures
+	- Materials
+	- Skybox
+	- Props
+		- Import objects here, should be categorized in the same way as prop section in prefab section
+	- Effects
+- Prefabs
+	- UI 
+		- Gameplay
+			- Health
+			- Dialogue
+			- Inventory
+		- Main Menu
+	- Structures
+		- Props
+			- Tables, blackboards, maybe even separate deeper into sections
+				- Sections like Bathroom, Classroom, Library
+					- (Toilet, Faucet, Mirror)(Table, Pencil, Blackboard)(Books, Shelves)
+		- Building Structures
+	- Items
+		- Categorize by pickup-able or based on restraints
+	- Audio
+	- Cutscenes
+	- Environment
+		- Things like vegetation
+		- i.e: Trees, Grass, Lampposts, Road, 
+	- Gameplay
+		- Include systems
+		- i.e: Camera system or setup
+- Audio
+	- Music
+	- SFX
+- Scenes
+- Scriptable Objects
+- 

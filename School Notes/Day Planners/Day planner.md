@@ -6,15 +6,10 @@
 - [ ] 
 
 ## Tasks
-- [ ] Chinese Summative Paper 2 (January 4, ==Chewsday==)
-- [ ] Physics Summative (January 6th, ==Thursday==)
-- [ ] Economics Summative (January 7, ==Friday==)
-- [ ] Personal Statement (January 12, ==Wednesday==)
-- [ ] English summative persepolis IO (January 14, ==Friday==)
+- [ ] 
 
 ## Notes
-- [ ] Market Failure economics (2 full days)
-- [ ] next unit economics (2 full days)
+- [ ] 
 
 ## Reviews
 - [ ] 
@@ -22,10 +17,10 @@
 ### Summatives left
 - [x] CS summative
 - [x] Math summative
-- [ ] Physics summative
-- [ ] Econ Summative
+- [x] Physics summative
+- [x] Econ Summative
 - [x] Chinese
-- [ ] English
+- [x] English
 
 ## What useful thing have i done today?
 - [ ] 
