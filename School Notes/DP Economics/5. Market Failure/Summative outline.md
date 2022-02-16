@@ -23,3 +23,6 @@ Pros - Effective as it gives incentive to dont do illegal shit,
 ~~
 Education & awareness raising:
 Pros - Some will become aware and withdraw, effective if carried out seriously (however), 
+
+1. Define market failure (failure of market to achieve allocative efficiency, meaning the market produce more or less than what society prefers), define demerit good (Goods/services that produces negative externalities)
+2. 
