@@ -64,3 +64,22 @@ Inspiration: [1](https://i.imgur.com/lCBWrUJ.png), [trailing effect](https://www
 - Using unity particle sim
 - It follows you around, stays very close
 
+# All of the above are pretty damn shit ngl
+---
+Masks:
+- Happy
+- Sad
+- Angry
+
+
+Enemies (More like situations):
+
+- Crowded place (cafeteria): 
+	- People look at you
+	- What mask?
+	- What response?
+- Bullying:
+	- 1 guy being bullied lmao get fucked, 3 guys bangin him
+	- What mask - 
+	- Response
+- 

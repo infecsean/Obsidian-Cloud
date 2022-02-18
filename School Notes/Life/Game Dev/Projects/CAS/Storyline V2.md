@@ -12,9 +12,7 @@ The windows will be fully lit at the start school, but slowly dim as you progres
 Your mind is utilitarian, meaning that they will always tell you what you want to do, that is within your comfort zone
 - Everybody is a social reject, every table in the library is occupied, with ONE person.
 - I guess you suffer from episodes where you travel to places in your mind
-~~- the place is a giant desert or something~~
 - only scene one is in the cherry blossom field to symbolize peace and blissful ignorance
-- ~~mirrors: in the beginning you see your reflections call you names, in the end you shatter all the mirrors, no insecurities ;)~~
 - you have to be PERFECT, cant get into a good school otherwise (volcano thin rope walk)
 - Expectations and responsibilities are presented: take something similar to brim's boulder in die for you, maybe something grand. "mount neverrest"
 - Omori's "stab omori" [mentioned](https://www.youtube.com/watch?v=rUDGlEWa4sE&ab_channel=DarylTalksGames) give the player a thing they cant turn back from, like the needle to the eye from dead space or heavy rain where you have to mutilate yourself to save your son. "force you to do uncomfortable things to progress" milgram experiment
@@ -27,7 +25,9 @@ Your mind is utilitarian, meaning that they will always tell you what you want t
 - THE TREE OF LIFE ON THE TOP OF THE MOUNTAIN GROWS FRUIT, WHILE OTHER TREES ONLY GROW ONCE, MEANING PEOPLE SUICIDE ALL THE TIME, WHILE FRUIT GROWS SLOWLY
 - You can only see the tree of life from afar, everytime you see a fruit, there is a person getting it off, but moments later they put a kind of defense around it to keep people out.
 - 2 inventories, mental and real world
-- The roof is off limits, which restricts escape. Once the roof is free, ~~you watch from afar~~ directly involve, students go to the roof, you watch them jump into the river, ~~thinking they will all escape~~ knowing that they will all die, but it is the lesser evil.
+- You wear different masks to negate different people.
+- ~~The roof is off limits, which restricts escape. Once the roof is free, you watch from afar directly involve, students go to the roof, you watch them jump into the river, thinking they will all escape knowing that they will all die, but it is the lesser evil.~~
+- - ~~mirrors: in the beginning you see your reflections call you names, in the end you shatter all the mirrors, no insecurities ;)~~
 
 
 ### Wackos
