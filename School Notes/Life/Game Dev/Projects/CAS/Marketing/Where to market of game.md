@@ -2,6 +2,8 @@
 ---
 dont fucking market without a steam page
 release at approx. Late January or Early February or earlier.
+ 
+watch [this](https://howtomarketagame.com/2021/10/17/how-choo-choo-charles-earned-wishlists/) when in doubt
 
 r/gamedev
 [woovit](https://woovit.com/)
@@ -18,3 +20,7 @@ This is theoretical but this is the route I would think could work best:
 -   You want to write technical articles on your game? Depends on what you made it with and what information you're trying to share. I would definitely wait to see if your game turns out to be popular first, then other developers will naturally have an interest in what you've made. That's when you can worry about sharing information and choosing what to tell them.
 ```
 youtube stuff
+
+### For TikTok
+Hate to say it but tiktok has potential.
+HTMAK guides: [1](https://howtomarketagame.com/2022/02/07/seven-great-tips-for-marketing-your-indie-game-on-tiktok/), [2](https://howtomarketagame.com/2022/02/14/how-to-go-viral-on-tiktok/), 

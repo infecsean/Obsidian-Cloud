@@ -1,3 +1,0 @@
-# Art style cunt
----
-What

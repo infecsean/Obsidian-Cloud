@@ -15,7 +15,7 @@ Hello cumrats this is my mind map
 		- [[RNG]]
 	- Projects
 		- CAS
-			- [[Art Style]]
+			- [[Story Struggles]]
 			- [[Cumrats]]
 			- [[Planning Stage]]
 			- [[Planning Systems]]

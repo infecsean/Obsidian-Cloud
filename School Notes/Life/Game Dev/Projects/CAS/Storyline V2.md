@@ -26,6 +26,7 @@ Your mind is utilitarian, meaning that they will always tell you what you want t
 - You can only see the tree of life from afar, everytime you see a fruit, there is a person getting it off, but moments later they put a kind of defense around it to keep people out.
 - 2 inventories, mental and real world
 - You wear different masks to negate different people.
+- Stress gauge: Social interactions add little stress, but work adds lots of stress
 - ~~The roof is off limits, which restricts escape. Once the roof is free, you watch from afar directly involve, students go to the roof, you watch them jump into the river, thinking they will all escape knowing that they will all die, but it is the lesser evil.~~
 - - ~~mirrors: in the beginning you see your reflections call you names, in the end you shatter all the mirrors, no insecurities ;)~~
 
@@ -152,10 +153,13 @@ Your parents says its nonsense
 "dont find excuses for your mistakes"
 "EXCUSES, EXCUSES, EXCUSES"
 They are angry, they say you are having too much fun (insert parent depriving you of everything that is keeping you alive at the moment)(for instance your mask)
+"GO TO YOUR ROOM"
 
-You fall back to your desk at school
+Your family becomes demons (requires you to wear mask)
+you go to your room
+- New objective: Find a knife
 
-### Chapter 8, Bolt (change name)
+~~### Chapter 8, Bolt (change name)
 ```Context
 Escape from the school
 Setting: School to sandstorm scene
@@ -165,7 +169,7 @@ You run to the exit of the school, and you see a sandstorm
 Darkness is consuming the school behind you, you are chased with a tsunami of black matter
 with danger behind you and right beside you, the only way is forward
 You run forward and enter a door
-You escape to the shores
+You escape to the shores~~
 
 ### Chapter 9, Dire Docks
 ```Context
@@ -185,8 +189,8 @@ Setting: Bookland volcano
 You run through to bookland
 You start running up to the top
 On the way, you rip (like between dimensions) between stairs and bookland
-On top, you see light
-You are given a dark matter gun
+~~On top, you see light
+You are given a dark matter gun~~
 On one hand, you are running from depression,
 On the other hand, you are running from school stress,
 
