@@ -4,12 +4,12 @@
     "type": "split",
     "children": [
       {
-        "id": "d92a7d3a0c2c738c",
+        "id": "da7556bb0196c18a",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Life/Game Dev/Projects/CAS/Marketing/Where to market of game.md",
+            "file": "Day Planners/My fucking week/0Today.md",
             "mode": "source",
             "source": false
           }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Life/Game Dev/Projects/CAS/Marketing/Where to market of game.md",
+                "file": "Day Planners/My fucking week/0Today.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -101,20 +101,19 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
-  "active": "d92a7d3a0c2c738c",
+  "active": "da7556bb0196c18a",
   "lastOpenFiles": [
+    "Day Planners/My fucking week/0Today.md",
+    "Day Planners/Cas planner.md",
+    "Day Planners/Day planner.md",
     "Life/Game Dev/Projects/CAS/Marketing/Where to market of game.md",
-    "Life/Game Dev/Projects/CAS/Marketing/Short Description.md",
-    "Life/Game Dev/Projects/CAS/Marketing/Prototype Stage.md",
-    "Life/Game Dev/Projects/CAS/Project Structure.md",
-    "Life/Game Dev/Projects/CAS/Planning Systems.md",
-    "Life/Game Dev/Projects/CAS/Storyline V3.md",
-    "Life/Game Dev/Projects/CAS/Environment.md",
     "Life/Game Dev/Projects/CAS/Enemy designing.md",
-    "Life/Game Dev/Projects/CAS/Dialogues.md",
-    "Life/Game Dev/Projects/CAS/Cumrats.md"
+    "Life/Game Dev/Projects/CAS/Storyline V2.md",
+    "Day Planners/My fucking week/Sunday.md",
+    "Day Planners/My fucking week/Saturday.md",
+    "DP Economics/5. Market Failure/Summative outline.md",
+    "DP Economics/5. Market Failure/Externalities/Negative Externalities of Consumption/Policies in response to negative consumption externalities/Education and awareness raising.md"
   ]
 }
