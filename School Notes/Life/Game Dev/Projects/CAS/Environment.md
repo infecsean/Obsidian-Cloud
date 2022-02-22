@@ -39,12 +39,18 @@ Theres a sandstorm
 
 ### Volcano
 - Uphill always
-- The diploma is on the top
-- So is the tree of life
+~~- The diploma is on the top~~
+- So is the tree of knowledge?
 - but the road becomes tighter and tighter
 - You really cant miss a step, or else youre fucked
 
 ### Plane of Shame
 - Classmates
 - Angry Parents
-- everytime you have to kill or harm yourself to leave
+~~- everytime you have to kill or harm yourself to leave~~(thats just omori)
+
+Symbolism needed:
+- something to represent how much school has destroyed your hopes and dreams
+- landscape that has a strong contrast before and after school started and also escalation
+- volumetric fog that increases as things escalate
+- absurdity of school (volcano thin line)
