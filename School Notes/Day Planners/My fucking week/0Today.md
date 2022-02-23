@@ -9,5 +9,5 @@ por la tarde
 por la noche
 - [ ] ==math summative==
 - [ ] chinese hw
-- [ ] 
+- [ ] cs lru
 

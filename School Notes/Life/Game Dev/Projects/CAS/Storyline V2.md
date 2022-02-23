@@ -27,6 +27,7 @@ Your mind is utilitarian, meaning that they will always tell you what you want t
 - 2 inventories, mental and real world
 - You wear different masks to negate different people.
 - Stress gauge: Social interactions add little stress, but work adds lots of stress
+- Bus
 - ~~The roof is off limits, which restricts escape. Once the roof is free, you watch from afar directly involve, students go to the roof, you watch them jump into the river, thinking they will all escape knowing that they will all die, but it is the lesser evil.~~
 - - ~~mirrors: in the beginning you see your reflections call you names, in the end you shatter all the mirrors, no insecurities ;)~~
 
