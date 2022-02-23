@@ -4,12 +4,12 @@
     "type": "split",
     "children": [
       {
-        "id": "da7556bb0196c18a",
+        "id": "d92a7d3a0c2c738c",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Day Planners/My fucking week/0Today.md",
+            "file": "Life/Game Dev/Projects/CAS/Music Stuff.md",
             "mode": "source",
             "source": false
           }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Day Planners/My fucking week/0Today.md",
+                "file": "Life/Game Dev/Projects/CAS/Music Stuff.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,17 +104,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "da7556bb0196c18a",
+  "active": "d92a7d3a0c2c738c",
   "lastOpenFiles": [
-    "Day Planners/My fucking week/0Today.md",
-    "Day Planners/My fucking week/Saturday.md",
-    "Life/Game Dev/Projects/CAS/Project Task List.md",
-    "Life/Game Dev/Projects/CAS/Reference photos/Tree of knowledge.md",
-    "Life/Game Dev/Projects/CAS/Planning Stage.md",
-    "Life/Game Dev/Projects/CAS/Items.md",
-    "Life/Game Dev/Projects/CAS/Game design document cas.md",
+    "Life/Game Dev/Projects/CAS/Music Stuff.md",
     "Life/Game Dev/Projects/CAS/Environment.md",
     "Life/Game Dev/Projects/CAS/Enemy designing.md",
-    "Life/Game Dev/Projects/CAS/Dialogues.md"
+    "Life/Game Dev/Projects/CAS/Dialogues.md",
+    "Life/Game Dev/Projects/CAS/Cumrats.md",
+    "Life/Game Dev/Projects/CAS/Reference photos/Tree of knowledge.md",
+    "Day Planners/My fucking week/0Today.md",
+    "Day Planners/My fucking week/Saturday.md",
+    "Life/Game Dev/Projects/CAS/Marketing/Where to market of game.md",
+    "Life/Game Dev/Projects/CAS/Marketing/Short Description.md"
   ]
 }

@@ -12,6 +12,8 @@
 - AfterMATH of a slaughter lol
 - Sympathy for the monster - the scene when billy confronts you
 - Uncomfortable comfort zone - you want to feel safe, but somehow that just never works and you end up paranoid and wandering off outside if your comfort zone. Played at the scene when your inner world is falling apart.
+- save me from myself
+- 
 - [synth](https://www.youtube.com/watch?v=zllWG68Znq8&ab_channel=Elation)
 - [BRO](https://www.youtube.com/watch?v=SE2JYl6esdU&ab_channel=DLJ-Topic)
 - MAKE A SUPER NICE SOUNDING SYNTH AND JUST CUT IT OFF WHEN TIME IS UP
