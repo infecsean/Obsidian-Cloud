@@ -4,14 +4,12 @@
     "type": "split",
     "children": [
       {
-        "id": "da7556bb0196c18a",
+        "id": "4e8e8e8600d3af2e",
         "type": "leaf",
         "state": {
-          "type": "markdown",
+          "type": "kanban",
           "state": {
-            "file": "Day Planners/My fucking week/Saturday.md",
-            "mode": "source",
-            "source": false
+            "file": "Life/Game Dev/Projects/CAS/CAS game kanban.md"
           }
         }
       }
@@ -40,7 +38,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "allocative",
+                "query": "tag:#fix",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -69,7 +67,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Day Planners/My fucking week/Saturday.md",
+                "file": "Life/Game Dev/Projects/CAS/CAS game kanban.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,17 +102,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "da7556bb0196c18a",
+  "active": "4e8e8e8600d3af2e",
   "lastOpenFiles": [
+    "Life/Game Dev/Projects/CAS/CAS game kanban.md",
+    "Life/Game Dev/Projects/CAS/Project Task List.md",
+    "Resize.md",
+    "Life/Game Dev/Projects/CAS/Storyline V3.md",
     "Day Planners/My fucking week/Saturday.md",
     "Day Planners/My fucking week/Sunday.md",
     "Day Planners/Cas planner.md",
     "Day Planners/Day planner.md",
     "Day Planners/Week Planner.md",
-    "Day Planners/My fucking week/0Today.md",
-    "Life/Game Dev/Projects/CAS/Project Task List.md",
-    "Life/Game Dev/Projects/CAS/Reference photos/Tree of knowledge.md",
-    "Life/Game Dev/Projects/CAS/Planning Stage.md",
-    "Life/Game Dev/Projects/CAS/Items.md"
+    "Day Planners/My fucking week/0Today.md"
   ]
 }
