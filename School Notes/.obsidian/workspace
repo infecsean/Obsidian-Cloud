@@ -7,9 +7,11 @@
         "id": "4e8e8e8600d3af2e",
         "type": "leaf",
         "state": {
-          "type": "kanban",
+          "type": "markdown",
           "state": {
-            "file": "Life/Game Dev/Projects/CAS/CAS game kanban.md"
+            "file": "Life/Game Dev/Projects/CAS/Storyline V2.md",
+            "mode": "source",
+            "source": false
           }
         }
       }
@@ -67,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Life/Game Dev/Projects/CAS/CAS game kanban.md",
+                "file": "Life/Game Dev/Projects/CAS/Storyline V2.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,15 +106,15 @@
   },
   "active": "4e8e8e8600d3af2e",
   "lastOpenFiles": [
-    "Life/Game Dev/Projects/CAS/CAS game kanban.md",
-    "Life/Game Dev/Projects/CAS/Project Task List.md",
-    "Resize.md",
+    "Life/Game Dev/Projects/CAS/Storyline V2.md",
+    "Life/Game Dev/Projects/CAS/Storyline.md",
     "Life/Game Dev/Projects/CAS/Storyline V3.md",
+    "Life/Game Dev/Projects/CAS/Storyline V2 Breakdown.md",
+    "DP Economics/8. Level of Overall Economic Activity/0. Chapter 8 Overview.md",
     "Day Planners/My fucking week/Saturday.md",
     "Day Planners/My fucking week/Sunday.md",
-    "Day Planners/Cas planner.md",
-    "Day Planners/Day planner.md",
-    "Day Planners/Week Planner.md",
-    "Day Planners/My fucking week/0Today.md"
+    "Life/Game Dev/Projects/CAS/CAS game kanban.md",
+    "Life/Game Dev/Projects/CAS/Project Task List.md",
+    "Resize.md"
   ]
 }

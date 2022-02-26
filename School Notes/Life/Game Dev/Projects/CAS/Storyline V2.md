@@ -8,31 +8,50 @@ The narrater is the voice in your head, your subconscious.
 - =="if the player knows what to expect, they will get bored"==
 
 ### Ideas for progression
-The windows will be fully lit at the start school, but slowly dim as you progress
-Your mind is utilitarian, meaning that they will always tell you what you want to do, that is within your comfort zone
+~~The windows will be fully lit at the start school, but slowly dim as you progress
+Your mind is utilitarian, meaning that they will always tell you what you want to do, that is within your comfort zone~~
+~~- I guess you suffer from episodes where you travel to places in your mind~~
+~~- When in stress, press "e", does a coin flip. from rosencrants and guildenstern are dead: Tension can be created with the repeating chance of flipping a head!~~
+~~- Maybe it is revealed at the end that you are already dead and reliving the school life~~
+~~- ==You are given a mask, wear it when you feel unsafe and insecure== make the mask a bit more interesting than just a buff that allows immunity~~
+- ~~The roof is off limits, which restricts escape. Once the roof is free, you watch from afar directly involve, students go to the roof, you watch them jump into the river, thinking they will all escape knowing that they will all die, but it is the lesser evil.~~
+- - ~~mirrors: in the beginning you see your reflections call you names, in the end you shatter all the mirrors, no insecurities ;)~~
+
+Game Features:
 - Everybody is a social reject, every table in the library is occupied, with ONE person.
-- I guess you suffer from episodes where you travel to places in your mind
 - only scene one is in the cherry blossom field to symbolize peace and blissful ignorance
 - you have to be PERFECT, cant get into a good school otherwise (volcano thin rope walk)
 - Expectations and responsibilities are presented: take something similar to brim's boulder in die for you, maybe something grand. "mount neverrest"
 - Omori's "stab omori" [mentioned](https://www.youtube.com/watch?v=rUDGlEWa4sE&ab_channel=DarylTalksGames) give the player a thing they cant turn back from, like the needle to the eye from dead space or heavy rain where you have to mutilate yourself to save your son. "force you to do uncomfortable things to progress" milgram experiment
-- When in stress, press "e", does a coin flip. from rosencrants and guildenstern are dead: Tension can be created with the repeating chance of flipping a head!
-- Maybe it is revealed at the end that you are already dead and reliving the school life
-- Make the player feel utter loneliness
-- The lil pet grows throughout the chapters
-- ==You are given a mask, wear it when you feel unsafe and insecure== make the mask a bit more interesting than just a buff that allows immunity
-- You are only given a small amount of time to be mentally there, cus school takes up a that much time. So when the player are sent to the dimension, intentionally design the time limit so that they cant reach a deep enough part (underlying darkness, strange fruit) maybe do [this](https://www.youtube.com/watch?v=eqlHpPzS22U&t=74s&ab_channel=Brackeys)
-- THE TREE OF LIFE ON THE TOP OF THE MOUNTAIN GROWS FRUIT, WHILE OTHER TREES ONLY GROW ONCE, MEANING PEOPLE SUICIDE ALL THE TIME, WHILE FRUIT GROWS SLOWLY
-- You can only see the tree of life from afar, everytime you see a fruit, there is a person getting it off, but moments later they put a kind of defense around it to keep people out.
 - 2 inventories, mental and real world
 - You wear different masks to negate different people.
 - Stress gauge: Social interactions add little stress, but work adds lots of stress
-- Bus
-- ~~The roof is off limits, which restricts escape. Once the roof is free, you watch from afar directly involve, students go to the roof, you watch them jump into the river, thinking they will all escape knowing that they will all die, but it is the lesser evil.~~
-- - ~~mirrors: in the beginning you see your reflections call you names, in the end you shatter all the mirrors, no insecurities ;)~~
+- "could" and "should" dialogues: Juxtapose that you dont give yourself any other options
+
+Mind:
+- You are only given a small amount of time to be mentally there, cus school takes up a that much time. So when the player are sent to the dimension, intentionally design the time limit so that they cant reach a deep enough part (underlying darkness, strange fruit) maybe do [this](https://www.youtube.com/watch?v=eqlHpPzS22U&t=74s&ab_channel=Brackeys)
+- THE TREE OF LIFE ON THE TOP OF THE MOUNTAIN GROWS FRUIT
+- You can only see the tree of life from afar, everytime you see a fruit, there is a person getting it off, but moments later they put a kind of defense around it to keep people out.
+- Tree of knowledge: From a distance the guy that comes to the tree looks like a girl collecting the fruit, upon close inspection, it is the reaper.
+
+School:
+- "i dont have to be suicidal if i just kill myself"
+- "i dont understand self harm, they just want attention i guess" "Yeah, otherwise they'd just kill themselves right?"
+
+Parents:
+- "What will the colleges think when they see your medical history?"
+- "I survived school, why cant you?"
+- "I didnt give birth to you to let you cause trouble"
+- "I swear you will be the death of me"
+- "You're lucky I dont abuse you"
+- "I'll love you when you start to be useful"
+- "good grades should be your priority, not some made up story and excuses"
+- "you shouldve prepared instead of playing with your friends all the time"
+- ""
 
 
-### Wackos
+
+~~### Wackos~~
 - Keep track of the focal points on each scene, and put a figure at the edge of their peripheral vision, it'll surely fuck with 'em' (dead space always looking at health bar so jumpscares inserted at those general area)
 - (Influenced by dune) a desert scene with sandstorm, coming for you. could also be snowstorm
 - (influenced by finding hope) the 3 am album, dont look at it cus its nothing like a sandstorm. Just try to think of it at the top of your head. The main problem i think would be the particle sim, too much gpu maybe. ([reference](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwallpaperaccess.com%2Fsandstorm&psig=AOvVaw1upUNwJhNXAOGAZEpiDez6&ust=1639784175595000&source=images&cd=vfe&ved=0CAsQjRxqFwoTCKDC9a6-6fQCFQAAAAAdAAAAABAE))
