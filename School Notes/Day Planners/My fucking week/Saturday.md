@@ -1,25 +1,15 @@
 # Satan Saturdays 1/8
 ---
-### Tasks:
-School:
-- Econ Preview
-- Physics Preview
-- CS Preview
-- Math Review
-- CAS interview form
+por la manana
+- [x] wake up for the love of god
+- [ ] [10~11] cs quadtree
+- [ ] [11~12] play metro
 
-Game Dev:
-- Resize Prototype
-- Mask Mechanism
-- Mask Menu
-- Enemy Mechanism
-- Journal first few pages
-- Mind first level environment
-	- Cutscene "That wasn't there before \*looks at tree*\ "
-- Enemy Model
-- Hall of Shame
-- Nightmares
+por la tarde
+- [ ] [2~3] Physics waves
+- [ ] [3~4] Play metro
+- [ ] [4~5] Mask mechanism
+- [ ] [5~6] Chinese paragraph 1 and 2
 
-- [ ] Complete Econ Review
-- [ ] Prototype Whole School
-- [ ] Mask Mechanism
+por la noche
+- [ ] [10~11] Cas Meeting
