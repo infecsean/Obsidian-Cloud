@@ -19,3 +19,4 @@ noche
 - [ ] [930~1030] math hw
 - [ ] 30 min break or leeway
 - [ ] [11~12] workout TIME yey
+- [ ] stop vicious psycho dont sleep after 1:30
