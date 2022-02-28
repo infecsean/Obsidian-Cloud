@@ -1,12 +1,12 @@
 # Today or not today
 ---
 por la manana
-- [x] wake up for the love of god
+- [ ] CS and Math class lmao
 
 por la tarde
-- [x] [2~3] Joseph Wright analysis
-- [ ] [3~4] cs quadtree
-- [x] [4~5] Chinese hw
+- [ ] [2~3] 
+- [ ] [3~4] 
+- [ ] [4~5] 
 - [ ] [5~6] Prototype School
 
 por la noche

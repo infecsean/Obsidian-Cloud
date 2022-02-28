@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Day Planners/My fucking week/0Today.md",
+            "file": "Day Planners/My fucking week/2Tuesday.md",
             "mode": "source",
             "source": false
           }
@@ -53,8 +53,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 309,
-    "collapsed": true
+    "width": 309
   },
   "right": {
     "id": "d6f61973bf5b2b3f",
@@ -70,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Day Planners/My fucking week/0Today.md",
+                "file": "Day Planners/My fucking week/2Tuesday.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -107,15 +106,15 @@
   },
   "active": "d12b83c6abcdf908",
   "lastOpenFiles": [
+    "Day Planners/My fucking week/2Tuesday.md",
     "Day Planners/My fucking week/0Today.md",
+    "DP Physics/Physics Resources.md",
     "Day Planners/Task List.md",
+    "Day Planners/My fucking week/1Monday.md",
     "Day Planners/My fucking week/Saturday.md",
+    "Day Planners/Week Planner.md",
+    "Day Planners/My fucking week/Sunday.md",
     "Life/Game Dev/Projects/CAS/Storyline V2.md",
-    "DP Economics/8. Level of Overall Economic Activity/Measures of Economic Activity/Measuring National Income.md",
-    "DP Economics/8. Level of Overall Economic Activity/0. Chapter 8 Overview.md",
-    "DP Economics/8. Level of Overall Economic Activity/Economic Activity/Flow of income.md",
-    "DP Economics/8. Level of Overall Economic Activity/Economic Activity/Leakages and Injections.md",
-    "DP Physics/SYMBOLS.md",
-    "DP Physics/1. Mechanics/4. Momentum and Impulse/5. Collision.md"
+    "DP Economics/8. Level of Overall Economic Activity/Measures of Economic Activity/Measuring National Income.md"
   ]
 }
