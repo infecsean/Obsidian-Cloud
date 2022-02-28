@@ -4,7 +4,7 @@
 - [ ] personal statement
 - [ ] Cas meeting
 - [ ] cs quadtree
-- [ ] joseph wright analysis
+- [x] joseph wright analysis
 - [ ] chinese gym analysis
 - [ ] chinese paragraph 1 and 2
 

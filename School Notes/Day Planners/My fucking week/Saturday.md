@@ -2,8 +2,8 @@
 ---
 por la manana
 - [x] wake up for the love of god
-- [ ] [10~11] cs quadtree
-- [ ] [11~12] play metro
+- [ ] [10~11] 
+- [ ] [11~12] 
 
 por la tarde
 - [ ] [2~3] Physics waves
