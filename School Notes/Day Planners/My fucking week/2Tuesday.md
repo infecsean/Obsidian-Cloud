@@ -7,14 +7,14 @@ Morn
 - [x] [lunch] notes cs
 
 Aft
-- [ ] [Physics] cs notes
-- [ ] [Physics] prototype make buildings
-- [ ] [5%] Prototype make buildings
-- [ ] [5%] cs notes
+- [x] [Physics] cs notes
+- [x] [Physics] prototype make buildings
+- [x] [5%] Prototype make buildings
+- [x] [5%] prototype
 
 noche
-- [ ] [7~8] play metro
-- [ ] [8~9] chinese gym analysis/paragraph 1 & 2
+- [ ] [7~8] play bf1
+- [ ] [8~9] chinese paragraph 1 & 2
 - [ ] 30 min break maybe bf1
 - [ ] [930~1030] math hw
 - [ ] 30 min break or leeway

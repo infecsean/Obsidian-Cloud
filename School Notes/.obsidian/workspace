@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "DP Computer Science/Topic 4. Computational Thinking/1. General Principles/Thinking Concurrently.md",
+            "file": "Day Planners/My fucking week/2Tuesday.md",
             "mode": "source",
             "source": false
           }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "DP Computer Science/Topic 4. Computational Thinking/1. General Principles/Thinking Concurrently.md",
+                "file": "Day Planners/My fucking week/2Tuesday.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -106,15 +106,15 @@
   },
   "active": "91e374e2b425be60",
   "lastOpenFiles": [
+    "Day Planners/My fucking week/2Tuesday.md",
+    "Day Planners/My fucking week/3Wednesday.md",
+    "Day Planners/Task List.md",
+    "Day Planners/My fucking week/1Monday.md",
+    "Day Planners/My fucking week/Saturday.md",
+    "Day Planners/My fucking week/5Friday.md",
+    "Life/Game Dev/Projects/CAS/Project Task List.md",
     "DP Computer Science/Topic 4. Computational Thinking/1. General Principles/Thinking Concurrently.md",
     "DP Computer Science/Topic 4. Computational Thinking/1. General Principles/Thinking Ahead.md",
-    "DP Computer Science/Topic 4. Computational Thinking/1. General Principles/Thinking procedurally.md",
-    "DP Computer Science/Topic 4. Computational Thinking/1. General Principles/Thinking logically.md",
-    "DP Computer Science/Topic 4. Computational Thinking/Topic 4 overview.md",
-    "Day Planners/My fucking week/2Tuesday.md",
-    "Day Planners/Task List.md",
-    "DP Computer Science/Topic 4. Computational Thinking/0. Introduction/Pseudocode.md",
-    "DP Computer Science/Topic 4. Computational Thinking/0. Introduction/Algorithm.md",
-    "DP Computer Science/Topic 4. Computational Thinking/0. Introduction/Flow charts.md"
+    "DP Computer Science/Topic 4. Computational Thinking/1. General Principles/Thinking procedurally.md"
   ]
 }
