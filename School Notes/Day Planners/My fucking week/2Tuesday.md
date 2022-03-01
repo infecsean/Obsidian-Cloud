@@ -13,9 +13,9 @@ Aft
 - [x] [5%] prototype
 
 noche
-- [ ] [7~8] play bf1
+- [x] [7~8] play bf1
 - [ ] [8~9] chinese paragraph 1 & 2
-- [ ] 30 min break maybe bf1
+- [x] 30 min break maybe bf1
 - [ ] [930~1030] math hw
 - [ ] 30 min break or leeway
 - [ ] [11~12] workout TIME yey

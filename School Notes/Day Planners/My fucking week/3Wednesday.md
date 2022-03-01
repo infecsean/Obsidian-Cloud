@@ -1,7 +1,7 @@
 # Its Wednesday my dude 1/5
 ---
 manana
-- [ ] [before chaos] CS notes
+- [ ] [before chaos] CS notes/chinese
 - [ ] [Chinese] Class/CS notes
 - [ ] [Chinese] Class/CS notes
 - [ ] [English] Class
