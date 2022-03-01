@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "DP Computer Science/Topic 4. Computational Thinking/1. General Principles/Thinking logically.md",
+            "file": "Day Planners/My fucking week/2Tuesday.md",
             "mode": "source",
             "source": false
           }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "DP Computer Science/Topic 4. Computational Thinking/1. General Principles/Thinking logically.md",
+                "file": "Day Planners/My fucking week/2Tuesday.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -106,6 +106,7 @@
   },
   "active": "91e374e2b425be60",
   "lastOpenFiles": [
+    "Day Planners/My fucking week/2Tuesday.md",
     "DP Computer Science/Topic 4. Computational Thinking/1. General Principles/Thinking logically.md",
     "DP Computer Science/Topic 4. Computational Thinking/1. General Principles/Thinking procedurally.md",
     "Day Planners/Task List.md",
@@ -114,7 +115,6 @@
     "DP Computer Science/Topic 4. Computational Thinking/0. Introduction/Flow charts.md",
     "DP Computer Science/Topic 4. Computational Thinking/Attachments/approaches to a problem.png",
     "DP Computer Science/Topic 4. Computational Thinking/0. Introduction/Concept of a problem.md",
-    "DP Computer Science/Topic 4. Computational Thinking/Topic 4 overview.md",
-    "DP Computer Science/Topic 3. Networks/11. Packet Switching P.154/Data Packet.md"
+    "DP Computer Science/Topic 4. Computational Thinking/Topic 4 overview.md"
   ]
 }
