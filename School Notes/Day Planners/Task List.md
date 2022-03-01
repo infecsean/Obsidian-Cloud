@@ -10,8 +10,17 @@
 
 ## Notes
 - [ ] Econ Chapter 8
+	- [x] 8.1
+	- [ ] 8.2
+	- [ ] 8.3
+	- [ ] 8.4
+	- [ ] 8.5
 - [ ] Physics
 - [ ] CS
+	- [x] 4.0
+	- [ ] 4.1
+	- [ ] 4.2
+	- [ ] 4.3
 - [ ] Math
 
 ## Reviews
@@ -30,9 +39,9 @@
 - [ ] Nightmares
 
 ### Summatives left
-- [x] CS summative
-- [x] Math summative
-- [x] Physics summative
-- [x] Econ Summative
-- [x] Chinese
-- [x] English
+- [ ] CS summative
+- [ ] Math summative
+- [ ] Physics summative
+- [ ] Econ Summative
+- [ ] Chinese
+- [ ] English

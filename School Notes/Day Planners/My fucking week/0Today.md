@@ -1,7 +1,7 @@
 # Today or not today
 ---
 por la manana
-- [ ] CS and Math class lmao
+- [ ] 
 
 por la tarde
 - [ ] [2~3] 

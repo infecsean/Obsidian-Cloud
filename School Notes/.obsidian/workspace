@@ -4,12 +4,12 @@
     "type": "split",
     "children": [
       {
-        "id": "d12b83c6abcdf908",
+        "id": "91e374e2b425be60",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Day Planners/My fucking week/2Tuesday.md",
+            "file": "DP Computer Science/Topic 4. Computational Thinking/1. General Principles/Thinking logically.md",
             "mode": "source",
             "source": false
           }
@@ -40,7 +40,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "income",
+                "query": "tag:#fix",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Day Planners/My fucking week/2Tuesday.md",
+                "file": "DP Computer Science/Topic 4. Computational Thinking/1. General Principles/Thinking logically.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,17 +104,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "d12b83c6abcdf908",
+  "active": "91e374e2b425be60",
   "lastOpenFiles": [
-    "Day Planners/My fucking week/2Tuesday.md",
-    "Day Planners/My fucking week/0Today.md",
-    "DP Physics/Physics Resources.md",
+    "DP Computer Science/Topic 4. Computational Thinking/1. General Principles/Thinking logically.md",
+    "DP Computer Science/Topic 4. Computational Thinking/1. General Principles/Thinking procedurally.md",
     "Day Planners/Task List.md",
-    "Day Planners/My fucking week/1Monday.md",
-    "Day Planners/My fucking week/Saturday.md",
-    "Day Planners/Week Planner.md",
-    "Day Planners/My fucking week/Sunday.md",
-    "Life/Game Dev/Projects/CAS/Storyline V2.md",
-    "DP Economics/8. Level of Overall Economic Activity/Measures of Economic Activity/Measuring National Income.md"
+    "DP Computer Science/Topic 4. Computational Thinking/0. Introduction/Pseudocode.md",
+    "DP Computer Science/Topic 4. Computational Thinking/0. Introduction/Algorithm.md",
+    "DP Computer Science/Topic 4. Computational Thinking/0. Introduction/Flow charts.md",
+    "DP Computer Science/Topic 4. Computational Thinking/Attachments/approaches to a problem.png",
+    "DP Computer Science/Topic 4. Computational Thinking/0. Introduction/Concept of a problem.md",
+    "DP Computer Science/Topic 4. Computational Thinking/Topic 4 overview.md",
+    "DP Computer Science/Topic 3. Networks/11. Packet Switching P.154/Data Packet.md"
   ]
 }

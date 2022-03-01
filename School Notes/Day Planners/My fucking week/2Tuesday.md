@@ -1,16 +1,16 @@
 # OI FACKIN CHEWSDAY
 ---
 Morn
-- [ ] [CS] breaktime write notes econ maybe
-- [ ] [CS] prep math ig
-- [ ] [math] try not to die
-- [ ] [lunch] notes econ ch8
+- [x] [CS] breaktime write notes econ maybe
+- [x] [CS] prep math ig
+- [x] [math] try not to die
+- [x] [lunch] notes cs
 
 Aft
-- [ ] [Physics] Physics Notes
+- [ ] [Physics] cs notes
 - [ ] [Physics] prototype make buildings
 - [ ] [5%] Prototype make buildings
-- [ ] [5%] econ/physics notes
+- [ ] [5%] cs notes
 
 noche
 - [ ] [7~8] play metro

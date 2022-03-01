@@ -1,13 +1,13 @@
 # Satan Saturdays 1/8
 ---
 por la manana
-- [ ] [10~11] 
+- [ ] [10~11] cs study p174 (pdf 187)
 - [ ] [11~12] 
 
 por la tarde
-- [ ] [2~3] Physics waves
-- [ ] [3~4] Play metro
-- [ ] [4~5] Mask mechanism
+- [ ] [2~3] 
+- [ ] [3~4] 
+- [ ] [4~5] 
 - [ ] [5~6] 
 
 por la noche
