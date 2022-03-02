@@ -22,4 +22,21 @@ Book 174
 - [[Thinking Concurrently]]
 - [[Thinking Abstractly]]
 4.2 Connecting computational thinking and program design - P.201(214) ~ P.240(253)
+- Collections:
+	- [[Collections]]
+	- [[Efficiency of an algorithm]]
+	- [[Flags]]
+	- [[List]]
+	- [[Operations]]
+	- [[Suitable Algorithms]]
+- Search/Sort/Array/Algorithms
+	- [[Variables]]
+	- [[One dimensional or linear arrays]]
+	- [[Arrays of Objects]]
+	- [[Parallel Arrays]]
+	- [[Two dimensional Arrays]]
+	- [[Binary Search]]
+	- [[Bubble Sort]]
+	- [[Selection Sort]]
+	- [[Sequential Search]]
 4.3 Introduction to programming - P.241(254) ~ P.289(302)

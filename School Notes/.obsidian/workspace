@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "DP Computer Science/Topic 4. Computational Thinking/2. Connecting computational thinking and program design/Searching, Sorting, algorithms, arrays/Selection Sort.md",
+            "file": "DP Computer Science/Topic 4. Computational Thinking/3. Introduction to programming/Syntax and Semantics.md",
             "mode": "source",
             "source": false
           }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "DP Computer Science/Topic 4. Computational Thinking/2. Connecting computational thinking and program design/Searching, Sorting, algorithms, arrays/Selection Sort.md",
+                "file": "DP Computer Science/Topic 4. Computational Thinking/3. Introduction to programming/Syntax and Semantics.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -106,15 +106,15 @@
   },
   "active": "91e374e2b425be60",
   "lastOpenFiles": [
-    "DP Computer Science/Topic 4. Computational Thinking/2. Connecting computational thinking and program design/Searching, Sorting, algorithms, arrays/Selection Sort.md",
-    "DP Computer Science/Topic 4. Computational Thinking/2. Connecting computational thinking and program design/Searching, Sorting, algorithms, arrays/Bubble Sort.md",
-    "DP Computer Science/Topic 4. Computational Thinking/2. Connecting computational thinking and program design/Searching, Sorting, algorithms, arrays/Binary Search.md",
-    "DP Computer Science/Topic 4. Computational Thinking/2. Connecting computational thinking and program design/Searching, Sorting, algorithms, arrays/Two dimensional Arrays.md",
-    "DP Computer Science/Topic 4. Computational Thinking/2. Connecting computational thinking and program design/Searching, Sorting, algorithms, arrays/Variables.md",
-    "DP Computer Science/Topic 4. Computational Thinking/Attachments/Binary Search vs sequential search.png",
-    "DP Computer Science/Topic 4. Computational Thinking/1. General Principles/Thinking Abstractly.md",
-    "DP Computer Science/Topic 4. Computational Thinking/2. Connecting computational thinking and program design/Searching, Sorting, algorithms, arrays/Sequential Search.md",
-    "DP Computer Science/Topic 4. Computational Thinking/2. Connecting computational thinking and program design/Searching, Sorting, algorithms, arrays/Parallel Arrays.md",
-    "Day Planners/My fucking week/3Wednesday.md"
+    "DP Computer Science/Topic 4. Computational Thinking/3. Introduction to programming/Syntax and Semantics.md",
+    "DP Computer Science/Topic 4. Computational Thinking/3. Introduction to programming/Fundamental Operations of a computer.md",
+    "Day Planners/Task List.md",
+    "DP Computer Science/Topic 4. Computational Thinking/Topic 4 overview.md",
+    "DP Computer Science/Topic 4. Computational Thinking/2. Connecting computational thinking and program design/Operations of collections/Stuff that will be on the test i guess.md",
+    "DP Computer Science/Topic 4. Computational Thinking/2. Connecting computational thinking and program design/Operations of collections/List.md",
+    "DP Computer Science/Topic 4. Computational Thinking/2. Connecting computational thinking and program design/Operations of collections/Flags.md",
+    "DP Computer Science/Topic 4. Computational Thinking/2. Connecting computational thinking and program design/Operations of collections/Efficiency of an algorithm.md",
+    "DP Computer Science/Topic 4. Computational Thinking/2. Connecting computational thinking and program design/Operations of collections/Suitable Algorithms.md",
+    "DP Computer Science/Topic 4. Computational Thinking/2. Connecting computational thinking and program design/Operations of collections/Operations.md"
   ]
 }
