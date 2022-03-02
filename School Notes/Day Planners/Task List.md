@@ -4,6 +4,7 @@
 - [ ] personal statement
 - [ ] Cas meeting
 - [ ] cs quadtree
+- [ ] cs worksheet
 - [x] joseph wright analysis
 - [ ] chinese gym analysis
 - [ ] chinese paragraph 1 and 2
@@ -39,9 +40,9 @@
 - [ ] Nightmares
 
 ### Summatives left
-- [ ] CS summative
+- [ ] CS summative 3/10
 - [ ] Math summative
 - [ ] Physics summative
 - [ ] Econ Summative
-- [ ] Chinese
+- [ ] Chinese paper 1 4/1
 - [ ] English
