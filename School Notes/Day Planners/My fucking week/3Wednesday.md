@@ -9,13 +9,13 @@ manana
 
 tarde motherfuckers
 - [x] [CS] CS notes/quadtree
-- [ ] [Econ] Econ Notes
-- [ ] [Econ] Econ Notes
-- [ ] [College Advise] oh god
+- [x] [Econ] Econ Notes
+- [x] [Econ] Econ Notes
+- [x] [College Advise] oh god
 
 knight
-- [ ] [7-8] class
-- [ ] [8-9] bf1
+- [x] [7-8] class
+- [x] [8-9] bf1
 - [ ] [930-1030] questions to ask abdul
 - [ ] [11-12] werk out 
 - [ ] slep b4 1 EXTRA DOPAMINE CHECKBOX
