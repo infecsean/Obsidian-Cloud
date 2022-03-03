@@ -1,12 +1,12 @@
 # TURSDAY
 ---
 morning
-- [ ] [Before chaos] Email abdul
+- [x] [Before chaos] Email abdul
 - [ ] [Before chaos] Give kelly
-- [ ] [CS] CS notes
-- [ ] [CS] CS notes
-- [ ] [TOK] Whatever the fuck he wants us to do i guess
-- [ ] [Self Study] Meeting with abdul
+- [x] [CS] CS notes
+- [x] [CS] CS notes
+- [x] [TOK] Whatever the fuck he wants us to do i guess
+- [x] [Self Study] Meeting with abdul
 - [ ] [Lunch break] Sleep
 
 Aftarde
@@ -19,7 +19,7 @@ Aftarde
 noche
 - [x] [7-8]
 - [ ] Blood test
-- [ ] [9-10] Econ notes
-- [ ] [10-11] prototype classrooms
+- [ ] [9-930] practice math
+- [ ] [930-11] prototype classrooms
 - [ ] [11-12] WORKTHEFUCKOUT
 - [ ] sleeeeep

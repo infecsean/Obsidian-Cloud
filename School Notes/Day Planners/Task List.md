@@ -2,12 +2,13 @@
 ## Tasks
 - [ ] College Advise
 - [ ] personal statement
-- [ ] Cas meeting
+- [x] Cas meeting
 - [ ] cs quadtree
 - [ ] cs worksheet
 - [x] joseph wright analysis
 - [ ] chinese gym analysis
-- [ ] chinese paragraph 1 and 2
+- [x] chinese paragraph 1 and 2
+- [ ] english half io
 
 ## Notes
 - [ ] Econ Chapter 8

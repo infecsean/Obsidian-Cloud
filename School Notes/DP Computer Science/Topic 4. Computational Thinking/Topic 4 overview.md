@@ -40,3 +40,6 @@ Book 174
 	- [[Selection Sort]]
 	- [[Sequential Search]]
 4.3 Introduction to programming - P.241(254) ~ P.289(302)
+- [[Fundamental Operations of a computer]]
+- [[Syntax and Semantics]]
+- 
