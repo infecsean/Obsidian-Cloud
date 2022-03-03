@@ -18,7 +18,7 @@ Aftarde
 
 noche
 - [x] [7-8]
-- [ ] Blood test
+- [x] Blood test
 - [ ] [9-930] revisionvillage and practice math
 - [ ] [930-11] prototype classrooms
 - [ ] [11-12] WORKTHEFUCKOUT
