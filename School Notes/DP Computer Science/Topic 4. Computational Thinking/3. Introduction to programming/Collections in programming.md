@@ -7,3 +7,4 @@ p.256
 - Some important operations: ==add, remove==
 - Elements are typically ==all of the same type== and represents an ==entity==
 - Not to be confused with ==[[Arrays of Objects|arrays]]==, since they can only contain a fixed amount of values
+

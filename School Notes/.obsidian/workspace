@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "DP Computer Science/Topic 4. Computational Thinking/3. Introduction to programming/Collections in programming.md",
+            "file": "Day Planners/My fucking week/4Thursday.md",
             "mode": "source",
             "source": false
           }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "DP Computer Science/Topic 4. Computational Thinking/3. Introduction to programming/Collections in programming.md",
+                "file": "Day Planners/My fucking week/4Thursday.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -106,15 +106,15 @@
   },
   "active": "91e374e2b425be60",
   "lastOpenFiles": [
-    "DP Computer Science/Topic 4. Computational Thinking/3. Introduction to programming/Collections in programming.md",
-    "DP Computer Science/Topic 4. Computational Thinking/3. Introduction to programming/Global and Local value.md",
-    "DP Computer Science/Topic 4. Computational Thinking/3. Introduction to programming/Fundamental Operations of a computer.md",
-    "DP Computer Science/Topic 4. Computational Thinking/3. Introduction to programming/Variables Objects Constants Operators.md",
-    "DP Computer Science/Topic 4. Computational Thinking/3. Introduction to programming/Higher level programming languages.md",
-    "DP Computer Science/Topic 4. Computational Thinking/3. Introduction to programming/Syntax and Semantics.md",
-    "DP Computer Science/Topic 4. Computational Thinking/3. Introduction to programming/Various Operators.md",
     "Day Planners/My fucking week/4Thursday.md",
+    "Day Planners/My fucking week/5Friday.md",
     "Day Planners/My fucking week/3Wednesday.md",
-    "Day Planners/My fucking week/2Tuesday.md"
+    "Day Planners/Task List.md",
+    "DP Computer Science/Topic 4. Computational Thinking/Topic 4 overview.md",
+    "DP Computer Science/Topic 4. Computational Thinking/3. Introduction to programming/Terms used in programming.md",
+    "DP Computer Science/Topic 4. Computational Thinking/3. Introduction to programming/Subprograms.md",
+    "DP Computer Science/Topic 4. Computational Thinking/3. Introduction to programming/Collections in programming.md",
+    "Le Funny/thonk gif.gif",
+    "DP Computer Science/Topic 4. Computational Thinking/3. Introduction to programming/Global and Local value.md"
   ]
 }

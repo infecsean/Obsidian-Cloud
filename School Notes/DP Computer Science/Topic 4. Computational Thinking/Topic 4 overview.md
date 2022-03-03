@@ -42,4 +42,10 @@ Book 174
 4.3 Introduction to programming - P.241(254) ~ P.289(302)
 - [[Fundamental Operations of a computer]]
 - [[Syntax and Semantics]]
-- 
+- [[Various Operators]]
+- [[Variables Objects Constants Operators]]
+- [[Subprograms]]
+- [[Higher level programming languages]]
+- [[Global and Local value]]
+- [[Collections in programming]]
+- [[Terms used in programming]]
