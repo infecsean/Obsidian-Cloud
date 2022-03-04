@@ -1,2 +1,0 @@
-# Total and Per Capita
----
