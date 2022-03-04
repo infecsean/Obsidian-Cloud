@@ -5,6 +5,8 @@
 - Same with Politics, power, and justice
 - Art, creativity, imagination - 
 
+- 5 bullet points
+
 - inequalities, rich vs poor, oppressed vs oppressor, 
 
 - Identity - moral and ethics, humanity, hope (among all that happens)
@@ -12,3 +14,5 @@
 	- is it morally justifiable to commit acts of terror
 	- explore the tensions (khalifeh reveals the tension between the )
 		- checkpoint example
+- hope, class differences, morality, tradition and romanticism, 
+	- motif: sacrifice

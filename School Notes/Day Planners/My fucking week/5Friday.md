@@ -1,16 +1,16 @@
 # Friday cry day 1/7
 ---
 morning
-- [ ] [math] class
-- [ ] [econ] econ notes
-- [ ] [econ] econ notes
-- [ ] [lunch break] econ notes
+- [x] [math] class
+- [x] [econ] econ notes
+- [x] [econ] econ notes
+- [x] [lunch break] econ notes
 
 tarde
-- [ ] [english] econ notes
-- [ ] [english] econ notes
-- [ ] [cs club] prototype school
-- [ ] [cs club] prototype school
+- [x] [english] econ notes
+- [x] [english] econ notes
+- [x] [cs club] econ
+- [x] [cs club] econ
 
 noch
 - [ ] [7-8] math hw/math practice 30 min~1hr
