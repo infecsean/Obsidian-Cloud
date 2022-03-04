@@ -1,23 +1,10 @@
-# How National Income is measured
+# Approaches to measuring national income
 ---
-```ad-res
-O:211
-C:250
-```
-### Why measure national income?
-The output of an economy is called ==national output==, also known as ==aggregate output==, which means total output. The act of measuring this is called ==national income accounting==.
-We measure these cus it allows us to:
-- assess an economy's performance over time
-- make comparisons with other economies (input/output performance)
-- establish a basis for making policies
+### National income = National output = National expenditure
 
-```ad-noone
-We use "value" when refering to output instead of quantities in microecon.
-Cus in micro, we need to add up quantities of output of goods/services.
-In macro, we cant add up quantities of goods/services, so we simply use value.
-
-Value is its ==quantity== multiplied by its ==price==.
-```
+### Terms
+- ==Final==: (ex. final goods/services) refers to goods/services ready for final use. Contrasted with Intermediate goods, those that are ==purchased as input for production== of final good. Ex. Food bought by restautants are intermediate goods, used to make a meal, and the meal is the final good
+- ==Double counting==: Using the food and meal example. We only calculate the value of FINAL goods cus otherwise we would count the value of the food AND meal, which would be counted twice, double counting.
 
 #### 3 Approaches to calculate [[Measuring National Income#Gross Domestic Product GDP|GDP]]
 ↓Labeled Diagram for reference
@@ -36,10 +23,10 @@ Value is its ==quantity== multiplied by its ==price==.
 - Calculates national expenditure.
 - By measuring the ==value of all spending on final goods/services== in an economy
 - Calculated by adding all spending in different sectors
-	- (==C==)Consumption: households spending
-	- (==I==) Investment: firms spending
+	- (==C==)Consumption: all purchases by households on final goods
+		- Exceptions: housing is considered investment
+	- (==I==) Investment: spending by firms on capital goods, new construction
 	- (==G==) Government: government spending
 	- (==X-M==) Net export: Foreigner spending. Export - Import
+		- Since export are produced within the country
 - Refers to arrow (==4==) in the diagram
-
-

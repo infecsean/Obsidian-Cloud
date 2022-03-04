@@ -19,7 +19,7 @@ Aftarde
 noche
 - [x] [7-8]
 - [x] Blood test
-- [ ] [9-930] revisionvillage and practice math
+- [x] [9-930] revisionvillage and practice math
 - [ ] [930-11] prototype classrooms
-- [ ] [11-12] WORKTHEFUCKOUT
+- [x] [11-12] WORKTHEFUCKOUT
 - [ ] sleeeeep

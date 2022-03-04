@@ -2,13 +2,13 @@
 ## Tasks
 - [ ] College Advise
 - [ ] personal statement
-- [x] Cas meeting
-- [ ] cs quadtree
+- [ ] commonapp stuff
 - [ ] cs worksheet
 - [x] joseph wright analysis
 - [ ] chinese gym analysis
-- [x] chinese paragraph 1 and 2
+- [ ] chinese paragraph 1 and 2
 - [ ] english half io
+- [ ] econ workbook 3 macroecon p.38 ~ 41 (2.1)
 
 ## Notes
 - [ ] Econ Chapter 8
@@ -23,13 +23,18 @@
 	- [x] 4.1
 	- [x] 4.2
 	- [x] 4.3
-- [ ] Math
+- [ ] Math 
 
 ## Reviews
 - [ ] 
 
 ## Game Dev
-- [x] Prototype Whole School
+- [ ] Prototype Whole School
+	- [ ] Figure out the dimensions of classrooms
+	- [ ] layout of stairs and bathroom placement
+	- [ ] middle building dimensions
+	- [ ] back courtyard contents
+	- [ ] library dimensions
 - [ ] Mask Mechanism
 - [ ] Mask Menu
 - [ ] Enemy Mechanism
@@ -42,7 +47,7 @@
 
 ### Summatives left
 - [ ] CS summative 3/10
-- [ ] Math summative
+- [ ] Math summative 3/18
 - [ ] Physics summative
 - [ ] Econ Summative
 - [ ] Chinese paper 1 4/1
