@@ -13,7 +13,7 @@ tarde
 - [x] [cs club] econ
 
 noch
-- [ ] [7-8] math hw/math practice 30 min~1hr
+- [x] [7-8] math hw/math practice 30 min~1hr
 - [ ] [8-9] Econ notes finish 8.2 today
 - [ ] [9-10] prototype school/cs worksheet
 - [ ] [10-11] prototype school/cs note review

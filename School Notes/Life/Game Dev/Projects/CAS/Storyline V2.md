@@ -6,6 +6,7 @@ The narrater is the voice in your head, your subconscious.
 - Tho the purpose is to tell an experience, there still has to be some sort of failing in each chapter/level
 - Ask yourself "How is this a good segway into the next chapter?"
 - =="if the player knows what to expect, they will get bored"==
+- ==SHOW DONT TELL==
 - Regarding the "loneliness rule": The loneliest people can still be surrounded by many loved ones. It's not about how many people you have in your life. It's about how those people make you feel, or how you perceive your relationship with them. Like; do they love you unconditionally? Accept you for who you are? Understand you? Do they express how they feel or hide their feelings, and if so do you undestand or accept that? Do you hide a part of yourself because you think people will reject you for it? [a comment](https://www.youtube.com/watch?v=rKAH-YZWGlM&ab_channel=schnee)
 
 ### Ideas for progression
