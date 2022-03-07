@@ -7,7 +7,7 @@
 - [x] joseph wright analysis
 - [ ] chinese gym analysis
 - [ ] chinese paragraph 1 and 2
-- [ ] english half io
+- [ ] english half io 3/11
 - [ ] econ workbook 3 macroecon p.38 ~ 41 (2.1)
 
 ## Notes

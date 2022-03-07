@@ -1,15 +1,19 @@
 # Today or not today
 ---
 por la manana
-- [ ] 
+- [x] [9-10] cs review
+- [x] [10-11] cs worksheet
+- [x] [11-12] math prac
 
 por la tarde
-- [ ] [2~3] 
-- [ ] [3~4] 
-- [ ] [4~5] 
-- [ ] [5~6] Prototype School
+- [ ] [1-2] half io prep
+- [ ] [2~3] prototype school
+- [ ] [3~4] math hw
+- [ ] [4~5] prototype school
+- [ ] [5~6] chinese gym
 
 por la noche
-- [ ] [9~10] Chinese paragraph 1 and 2
-- [ ] [10~11] Econ 8.2~8.3
+- [ ] [8-9] Econ 8.3
+- [ ] [9~10] Econ 8.3
+- [ ] [10~11] Prototype
 - [ ] [11~12] Workout babeyyy

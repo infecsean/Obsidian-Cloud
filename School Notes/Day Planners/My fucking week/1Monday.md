@@ -1,7 +1,21 @@
 # Monkey Mondays 1/3
 ---
-7~8
-- [ ] Play metro
+mornig
+- [ ] [chinese]
+- [ ] [ee/cas]
+- [ ] [physics]
+- [ ] [physics]
+- [ ] [lunch time] econ
 
-8~9
-- [ ] 
+tarde
+- [ ] [tok] 
+- [ ] [econ]
+- [ ] [english]
+- [ ] [english]
+
+noche
+- [ ] [7-8] 
+- [ ] [8-9] 
+- [ ] [9-10]
+- [ ] [10-11]
+- [ ] [11-12]

@@ -30,6 +30,7 @@ Game Features:
 - Stress gauge: Social interactions add little stress, but work adds lots of stress
 - "could" and "should" dialogues: Juxtapose that you dont give yourself any other options
 - BACKROOMS EASTER EGG IN MIND THAT LINKS TO REALITY
+- Poster that says "STUDENT HAPPINESS 100%"
 
 Mind:
 - You are only given a small amount of time to be mentally there, cus school takes up a that much time. So when the player are sent to the dimension, intentionally design the time limit so that they cant reach a deep enough part (underlying darkness, strange fruit) maybe do [this](https://www.youtube.com/watch?v=eqlHpPzS22U&t=74s&ab_channel=Brackeys)

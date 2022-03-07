@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Day Planners/My fucking week/Sunday.md",
+            "file": "Life/Game Dev/Storytelling/Dialogues.md",
             "mode": "source",
             "source": false
           }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Day Planners/My fucking week/Sunday.md",
+                "file": "Life/Game Dev/Storytelling/Dialogues.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,24 +97,23 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "active": "6c4077b6b0130865",
   "lastOpenFiles": [
-    "Day Planners/My fucking week/Sunday.md",
+    "Life/Game Dev/Storytelling/Dialogues.md",
+    "Life/Game Dev/Storytelling/Villains.md",
+    "Life/Game Dev/Storytelling/Want vs Need.md",
+    "Life/Game Dev/Projects/CAS/Storyline V2.md",
+    "Day Planners/My fucking week/0Today.md",
     "Day Planners/My fucking week/Saturday.md",
     "Day Planners/Task List.md",
-    "DP English LL/Hamlet/paper 2 outline.md",
-    "DP English LL/Hamlet/Hamlet Soliloquy Outline.md",
-    "DP English LL/Hamlet/Hamlet Notes.md",
-    "Day Planners/Week Planner.md",
-    "Life/Game Dev/Projects/CAS/Attachments/Guide to Starting with The Story Grid.pdf",
-    "DP Economics/8. Level of Overall Economic Activity/Measures of Economic Activity/Purchase Power Parities.md",
-    "DP Economics/8. Level of Overall Economic Activity/0. Chapter 8 Overview.md"
+    "DP Computer Science/Topic 4. Computational Thinking/2. Connecting computational thinking and program design/Searching, Sorting, algorithms, arrays/Selection Sort.md",
+    "DP Computer Science/Topic 4. Computational Thinking/2. Connecting computational thinking and program design/Searching, Sorting, algorithms, arrays/Bubble Sort.md",
+    "Day Planners/My fucking week/1Monday.md"
   ]
 }

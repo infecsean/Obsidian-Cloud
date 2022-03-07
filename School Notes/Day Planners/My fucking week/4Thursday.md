@@ -1,25 +1,23 @@
 # TURSDAY
 ---
 morning
-- [x] [Before chaos] Email abdul
-- [ ] [Before chaos] Give kelly
-- [x] [CS] CS notes
-- [x] [CS] CS notes
-- [x] [TOK] Whatever the fuck he wants us to do i guess
-- [x] [Self Study] Meeting with abdul
-- [x] [Lunch break] Sleep
+- [ ] [Before chaos] CS review
+- [ ] [CS] ==CS SUMMATIVE==
+- [ ] [CS] ==CS CUMMATIVE==
+- [ ] [TOK] Whatever
+- [ ] [Self Study] Econ 8.3
+- [ ] [Lunch break] Sleep
 
 Aftarde
-- [x] remember dont eat cus blood test
-- [x] [Chinese] Gym analysis practice/ notes
-- [x] [Chinese] Gym analysis practice/ notes
-- [x] [homeroooo] find mel
-- [x] [Physics] CS notes
+- [ ] [Chinese] Gym analysis practice/ notes
+- [ ] [Chinese] Gym analysis practice/ notes
+- [ ] [homeroooo] econ 8.3
+- [ ] [Physics] CS notes
 
 noche
-- [x] [7-8]
-- [x] Blood test
-- [x] [9-930] revisionvillage and practice math
+- [ ] [7-8] math 10 RV pracs ez
+- [ ] bf1
+- [ ] [9-930] econ notes
 - [ ] [930-11] prototype classrooms
-- [x] [11-12] WORKTHEFUCKOUT
+- [ ] [11-12] WORKTHEFUCKOUT
 - [ ] sleeeeep
