@@ -13,10 +13,10 @@ Aft
 - [ ] [5%] prototype
 
 noche
-- [ ] [7~8] play bf1
+- [ ] [7~8] math hw/prac 10
 - [ ] [8~9] chinese paragraph 1 & 2
 - [ ] 30 min break maybe bf1
-- [ ] [930~1030] math hw
+- [ ] [930~1030] bf1/prototype
 - [ ] 30 min break or leeway
 - [ ] [11~12] workout TIME yey
-- [ ] stop vicious psycho dont sleep after 1:30
+- [ ] stop vicious psycho dont sleep after 1

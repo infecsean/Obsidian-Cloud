@@ -21,6 +21,25 @@
 		- Show their humanity/that they care about something other than themselves
 		- Admiration: An achievement that is admirable
 	- Imperfect
-6. Karma Deflector
-	- 
-7. Stu
+
+[Sauce2](https://www.youtube.com/watch?v=16eJZmW_cGE&ab_channel=HelloFutureMe)
+### Villains i guess
+==Motivation:==
+- ==Values==: Showing the value behind their motivation help set them apart from other villains.
+- ==Scale==: Showing the scale of the motivation help demonstrate the kind of threat they pose.
+- Can also have more than one priority, and it can be interesting where they conflict
+==Conflict:==
+- Finding the right motive to bring the villain into conflict with the hero is important
+	- Have their motivation reflect but disagree with the hero's
+	- Have them share their motivations that draws them into conflict
+==Passive/Active:==
+- Passively motivated villains highlights the agency of the hero
+	- React to what the heros do
+- Actively motivated villains are more imposing
+	- Pose more of a threat
+==Good Guy villains:==
+- Motivation is never as easy as ==good or evil==
+- Good guy villains can be more relatable for the readers, give distinct tragic undertone to the story, and ease of making themes
+==Tension==:
+- Save the world stories are hard to sustain climactic tension
+- Instead, derive tension from the fate of the characters or things involved

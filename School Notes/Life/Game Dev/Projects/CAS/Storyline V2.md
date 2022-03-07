@@ -7,6 +7,7 @@ The narrater is the voice in your head, your subconscious.
 - Ask yourself "How is this a good segway into the next chapter?"
 - =="if the player knows what to expect, they will get bored"==
 - ==SHOW DONT TELL==
+- Dont have many things [[Menu UI Design|fight for your attention]] (color theory)
 - Regarding the "loneliness rule": The loneliest people can still be surrounded by many loved ones. It's not about how many people you have in your life. It's about how those people make you feel, or how you perceive your relationship with them. Like; do they love you unconditionally? Accept you for who you are? Understand you? Do they express how they feel or hide their feelings, and if so do you undestand or accept that? Do you hide a part of yourself because you think people will reject you for it? [a comment](https://www.youtube.com/watch?v=rKAH-YZWGlM&ab_channel=schnee)
 
 ### Ideas for progression
@@ -31,6 +32,11 @@ Game Features:
 - "could" and "should" dialogues: Juxtapose that you dont give yourself any other options
 - BACKROOMS EASTER EGG IN MIND THAT LINKS TO REALITY
 - Poster that says "STUDENT HAPPINESS 100%"
+- Enemies have the kind of stealth radius based on the mask system
+	- If you enter their sight with weaker mask, you add tons of stress
+	- When stress overload, you cant change mask for further encounters
+	- More emotions [stuff](https://www.conovercompany.com/the-importance-of-emotional-awareness-in-communication/)
+	- 
 
 Mind:
 - You are only given a small amount of time to be mentally there, cus school takes up a that much time. So when the player are sent to the dimension, intentionally design the time limit so that they cant reach a deep enough part (underlying darkness, strange fruit) maybe do [this](https://www.youtube.com/watch?v=eqlHpPzS22U&t=74s&ab_channel=Brackeys)
@@ -41,6 +47,10 @@ Mind:
 School:
 - "i dont have to be suicidal if i just kill myself"
 - "i dont understand self harm, they just want attention i guess" "Yeah, otherwise they'd just kill themselves right?"
+
+When school and mind convulge:
+- Like the arcane jinx mental breakdown scenes
+	- The scribble 60 fps Xs and monsters hallucinations
 
 Parents:
 - "What will the colleges think when they see your medical history?"

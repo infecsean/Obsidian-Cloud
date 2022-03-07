@@ -7,13 +7,14 @@ por la manana
 
 por la tarde
 - [ ] [1-2] half io prep
-- [ ] [2~3] prototype school
+- [x] [2~3] prototype school
 - [ ] [3~4] math hw
-- [ ] [4~5] prototype school
+- [x] [4~5] prototype school
 - [ ] [5~6] chinese gym
 
 por la noche
-- [ ] [8-9] Econ 8.3
-- [ ] [9~10] Econ 8.3
+- [ ] [7-8] cs
+- [ ] [8-9] math hw
+- [ ] [9~10] chinese gym
 - [ ] [10~11] Prototype
 - [ ] [11~12] Workout babeyyy

@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Life/Game Dev/Storytelling/Dialogues.md",
+            "file": "Day Planners/My fucking week/0Today.md",
             "mode": "source",
             "source": false
           }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Life/Game Dev/Storytelling/Dialogues.md",
+                "file": "Day Planners/My fucking week/0Today.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -105,15 +105,15 @@
   },
   "active": "6c4077b6b0130865",
   "lastOpenFiles": [
-    "Life/Game Dev/Storytelling/Dialogues.md",
-    "Life/Game Dev/Storytelling/Villains.md",
-    "Life/Game Dev/Storytelling/Want vs Need.md",
-    "Life/Game Dev/Projects/CAS/Storyline V2.md",
     "Day Planners/My fucking week/0Today.md",
-    "Day Planners/My fucking week/Saturday.md",
+    "Day Planners/My fucking week/3Wednesday.md",
+    "Day Planners/My fucking week/2Tuesday.md",
+    "Day Planners/My fucking week/1Monday.md",
     "Day Planners/Task List.md",
-    "DP Computer Science/Topic 4. Computational Thinking/2. Connecting computational thinking and program design/Searching, Sorting, algorithms, arrays/Selection Sort.md",
-    "DP Computer Science/Topic 4. Computational Thinking/2. Connecting computational thinking and program design/Searching, Sorting, algorithms, arrays/Bubble Sort.md",
-    "Day Planners/My fucking week/1Monday.md"
+    "Life/Game Dev/Projects/CAS/Menu UI Design.md",
+    "Life/Game Dev/Projects/CAS/Colors Game Design.md",
+    "Life/Game Dev/General/Choices.md",
+    "Life/Game Dev/Storytelling/Villains.md",
+    "Life/Game Dev/Projects/CAS/Storyline V2.md"
   ]
 }
