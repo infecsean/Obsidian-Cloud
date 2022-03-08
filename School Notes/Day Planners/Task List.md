@@ -14,16 +14,18 @@
 - [ ] Econ Chapter 8
 	- [x] 8.1
 	- [x] 8.2
-	- [ ] 8.3
+	- [x] 8.3
 	- [ ] 8.4
 	- [ ] 8.5
-- [ ] Physics
+- [ ] Econ Chapter 9
+- [ ] Econ Chapter 10
+- [ ] Physics Waves
 - [x] CS
 	- [x] 4.0
 	- [x] 4.1
 	- [x] 4.2
 	- [x] 4.3
-- [ ] Math 
+- [ ] Math
 
 ## Reviews
 - [ ] 
