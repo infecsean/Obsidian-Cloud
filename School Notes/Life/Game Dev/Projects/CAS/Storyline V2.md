@@ -9,6 +9,8 @@ The narrater is the voice in your head, your subconscious.
 - ==SHOW DONT TELL==
 - Dont have many things [[Menu UI Design|fight for your attention]] (color theory)
 - Regarding the "loneliness rule": The loneliest people can still be surrounded by many loved ones. It's not about how many people you have in your life. It's about how those people make you feel, or how you perceive your relationship with them. Like; do they love you unconditionally? Accept you for who you are? Understand you? Do they express how they feel or hide their feelings, and if so do you undestand or accept that? Do you hide a part of yourself because you think people will reject you for it? [a comment](https://www.youtube.com/watch?v=rKAH-YZWGlM&ab_channel=schnee)
+# SCHOOLS: if students are causing problems, make it more difficult for them! (incentive)(instead of solving the root problem)(ex. school shooting, suicide, depression)
+so that they wont be responsible for the problem
 
 ### Ideas for progression
 ~~The windows will be fully lit at the start school, but slowly dim as you progress
