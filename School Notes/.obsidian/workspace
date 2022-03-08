@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Day Planners/My fucking week/2Tuesday.md",
+            "file": "CAS/CAS Notes.md",
             "mode": "source",
             "source": false
           }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Day Planners/My fucking week/2Tuesday.md",
+                "file": "CAS/CAS Notes.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -106,8 +106,7 @@
   },
   "active": "91e374e2b425be60",
   "lastOpenFiles": [
-    "Day Planners/My fucking week/2Tuesday.md",
-    "Day Planners/My fucking week/3Wednesday.md",
+    "CAS/CAS Notes.md",
     "DP Economics/8. Level of Overall Economic Activity/Measures of Economic Activity/Purchase Power Parities.md",
     "DP Economics/8. Level of Overall Economic Activity/Measures of Economic Activity/Total vs Per Capita.md",
     "DP Economics/8. Level of Overall Economic Activity/Calculations based on national income accounting/Using price deflator to calculate real GDP.md",
@@ -115,6 +114,7 @@
     "DP Economics/8. Level of Overall Economic Activity/Calculations based on national income accounting/Price Deflator.md",
     "DP Economics/8. Level of Overall Economic Activity/Measures of Economic Activity/GDP.md",
     "DP Economics/8. Level of Overall Economic Activity/Measures of Economic Activity/GDP vs GNI.md",
-    "DP Economics/8. Level of Overall Economic Activity/Measures of Economic Activity/Measuring National Income.md"
+    "DP Economics/8. Level of Overall Economic Activity/Measures of Economic Activity/Measuring National Income.md",
+    "DP Economics/8. Level of Overall Economic Activity/Economic Activity/Flow of income.md"
   ]
 }
