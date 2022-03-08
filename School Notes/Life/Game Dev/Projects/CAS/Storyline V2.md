@@ -9,7 +9,7 @@ The narrater is the voice in your head, your subconscious.
 - ==SHOW DONT TELL==
 - Dont have many things [[Menu UI Design|fight for your attention]] (color theory)
 - Regarding the "loneliness rule": The loneliest people can still be surrounded by many loved ones. It's not about how many people you have in your life. It's about how those people make you feel, or how you perceive your relationship with them. Like; do they love you unconditionally? Accept you for who you are? Understand you? Do they express how they feel or hide their feelings, and if so do you undestand or accept that? Do you hide a part of yourself because you think people will reject you for it? [a comment](https://www.youtube.com/watch?v=rKAH-YZWGlM&ab_channel=schnee)
-# SCHOOLS: if students are causing problems, make it more difficult for them! (incentive)(instead of solving the root problem)(ex. school shooting, suicide, depression)
+### SCHOOLS: if students are causing problems, make it more difficult for them! (incentive)(instead of solving the root problem)(ex. school shooting, suicide, depression) [Sauce](https://www.youtube.com/watch?v=usSfgHGEGxQ&list=LL&index=1&ab_channel=JacobGeller)
 so that they wont be responsible for the problem
 
 ### Ideas for progression
@@ -38,7 +38,8 @@ Game Features:
 	- If you enter their sight with weaker mask, you add tons of stress
 	- When stress overload, you cant change mask for further encounters
 	- More emotions [stuff](https://www.conovercompany.com/the-importance-of-emotional-awareness-in-communication/)
-	- 
+- Maybe ==main villain== is school system, well, the big villain at least
+	- ==Supporting enemies== are students - while also casually suicidal, also a social being, induces social anxiety
 
 Mind:
 - You are only given a small amount of time to be mentally there, cus school takes up a that much time. So when the player are sent to the dimension, intentionally design the time limit so that they cant reach a deep enough part (underlying darkness, strange fruit) maybe do [this](https://www.youtube.com/watch?v=eqlHpPzS22U&t=74s&ab_channel=Brackeys)
@@ -47,8 +48,10 @@ Mind:
 - Tree of knowledge: From a distance the guy that comes to the tree looks like a girl collecting the fruit, upon close inspection, it is the reaper.
 
 School:
-- "i dont have to be suicidal if i just kill myself"
 - "i dont understand self harm, they just want attention i guess" "Yeah, otherwise they'd just kill themselves right?"
+- Schools solves the symptoms instead of the root problems.
+	- that said, maybe include this into game
+	- ==Features==: mattress on 1st floor to prevent suicide, long corridors to prevent shootings, 
 
 When school and mind convulge:
 - Like the arcane jinx mental breakdown scenes
