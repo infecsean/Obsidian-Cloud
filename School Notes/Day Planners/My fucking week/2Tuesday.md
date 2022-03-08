@@ -9,8 +9,8 @@ Morn
 Aft
 - [x] [Physics] econ 8.3
 - [x] [Physics] prototype cas game
-- [ ] [5%] Prototype cas game
-- [ ] [5%] prototype cas game lmao
+- [x] [5%] Prototype cas game
+- [x] [5%] prototype cas game lmao
 
 noche
 - [ ] [7~8] math hw/prac 10

@@ -1,17 +1,18 @@
-# Its Wednesday my dude 1/5
+# Its Wednesday my dude
 ---
 manana
-- [ ] [before chaos] CS notes/chinese
-- [ ] [Chinese] Class/CS notes
-- [ ] [Chinese] Class/CS notes
+- [ ] [before chaos] Half io extract + 5 bullet points
+- [ ] [Chinese] Half io
+- [ ] [Chinese] Half io
 - [ ] [English] Class
 - [ ] [Math] Class
+- [ ] [lunch time] CS WORKSHEET
 
 tarde motherfuckers
-- [ ] [CS] econ
+- [ ] [CS] cs review
 - [ ] [Econ] Econ Notes
 - [ ] [Econ] Econ Notes
-- [ ] [guidance] econ
+- [ ] [guidance] cs review
 
 knight
 - [ ] [7-8] class

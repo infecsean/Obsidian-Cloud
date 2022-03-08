@@ -1,4 +1,4 @@
-# Friday cry day 1/7
+# Friday cry day
 ---
 morning
 - [x] [math] class

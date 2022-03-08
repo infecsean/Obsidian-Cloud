@@ -1,4 +1,4 @@
-# Satan Saturdays 1/8
+# Satan Saturdays
 ---
 por la manana
 - [ ] [10~11] CS Worksheet

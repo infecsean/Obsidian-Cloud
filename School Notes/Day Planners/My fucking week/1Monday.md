@@ -1,4 +1,4 @@
-# Monkey Mondays 1/3
+# Monkey Mondays
 ---
 mornig
 - [ ] [chinese]
