@@ -7,8 +7,8 @@ Morn
 - [x] [lunch] sleep
 
 Aft
-- [ ] [Physics] econ 8.3
-- [ ] [Physics] prototype cas game
+- [x] [Physics] econ 8.3
+- [x] [Physics] prototype cas game
 - [ ] [5%] Prototype cas game
 - [ ] [5%] prototype cas game lmao
 
