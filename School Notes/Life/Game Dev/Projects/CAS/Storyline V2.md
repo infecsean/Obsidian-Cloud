@@ -52,6 +52,7 @@ School:
 - Schools solves the symptoms instead of the root problems.
 	- that said, maybe include this into game
 	- ==Features==: mattress on 1st floor to prevent suicide, long corridors to prevent shootings, 
+	- dim lights that discourage studying, revolting doors that let students in but not out
 
 When school and mind convulge:
 - Like the arcane jinx mental breakdown scenes
