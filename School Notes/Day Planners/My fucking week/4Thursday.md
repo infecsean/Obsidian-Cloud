@@ -4,7 +4,7 @@ morning
 - [ ] [Before chaos] CS review
 - [ ] [CS] ==CS SUMMATIVE==
 - [ ] [CS] ==CS CUMMATIVE==
-- [ ] [TOK] Whatever
+- [ ] [TOK] Whatever/econ/half io/ [[Stuff i need help with]]
 - [ ] [Self Study] Econ 8.3/Half IO things
 - [ ] [Lunch break] Sleep
 
