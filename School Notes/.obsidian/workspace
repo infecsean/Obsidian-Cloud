@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "DP Economics/8. Level of Overall Economic Activity/Calculations based on national income accounting/National incmome statistics.md",
+            "file": "DP Economics/Exam Shit.md",
             "mode": "source",
             "source": false
           }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "DP Economics/8. Level of Overall Economic Activity/Calculations based on national income accounting/National incmome statistics.md",
+                "file": "DP Economics/Exam Shit.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -106,6 +106,7 @@
   },
   "active": "6919c6feb0303c9b",
   "lastOpenFiles": [
+    "DP Economics/Exam Shit.md",
     "DP Economics/8. Level of Overall Economic Activity/Calculations based on national income accounting/National incmome statistics.md",
     "DP Economics/8. Level of Overall Economic Activity/Measures of Economic Activity/Measuring National Income.md",
     "DP Economics/8. Level of Overall Economic Activity/0. Chapter 8 Overview.md",
@@ -114,7 +115,6 @@
     "DP Computer Science/Topic 4. Computational Thinking/2. Connecting computational thinking and program design/Searching, Sorting, algorithms, arrays/Selection Sort.md",
     "DP Computer Science/Topic 4. Computational Thinking/2. Connecting computational thinking and program design/Searching, Sorting, algorithms, arrays/Bubble Sort.md",
     "DP Computer Science/Topic 4. Computational Thinking/1. General Principles/Thinking Abstractly.md",
-    "DP Computer Science/Topic 4. Computational Thinking/1. General Principles/Thinking Ahead.md",
-    "DP Computer Science/Topic 4. Computational Thinking/1. General Principles/Thinking Concurrently.md"
+    "DP Computer Science/Topic 4. Computational Thinking/1. General Principles/Thinking Ahead.md"
   ]
 }
