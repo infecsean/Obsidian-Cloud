@@ -1,15 +1,17 @@
 
 ## Tasks
-- [ ] College Advise
 - [ ] personal statement
 - [ ] commonapp stuff
-- [ ] cs worksheet
+- [x] cs worksheet
 - [x] joseph wright analysis
 - [ ] chinese gym analysis
 - [ ] chinese paragraph 1 and 2
-- [ ] english half io 3/11
+- [ ] english half io ==3/11==
 - [ ] econ workbook 3 macroecon p.38 ~ 41 (2.1)
 - [ ] CAS Reflections
+	- [ ] exercise
+	- [ ] kitchen service
+	- [ ] indie game
 
 ## Notes
 - [ ] Econ Chapter 8
@@ -26,7 +28,6 @@
 	- [x] 4.1
 	- [x] 4.2
 	- [x] 4.3
-- [ ] Math
 
 ## Reviews
 - [ ] 
@@ -54,4 +55,4 @@
 - [ ] Physics summative
 - [ ] Econ Summative
 - [ ] Chinese paper 1 4/1
-- [ ] English
+- [ ] English IO 3/18

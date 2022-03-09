@@ -1,4 +1,4 @@
-# SEND THEE TO A mental hospital cus oh god DP is torturous
+# SEND THEE 
 ---
 Theme: Christian Morality
 Difference between good and evil

@@ -1,4 +1,4 @@
-# Rosencrantz and Guildenstern are dead (Notes)
+# Rosencrantz and Guildenstern (and me) are dead (Notes)
 ---
 Premise (backstory): taking hamlet story from the perspective of rosencrantz and guildenstern
 ### Key Concepts: Representation, perspective, identity

@@ -1,12 +1,12 @@
 # Its Wednesday my dude
 ---
 manana
-- [ ] [before chaos] Half io extract + 5 bullet points
-- [ ] [Chinese] Half io
-- [ ] [Chinese] Half io
-- [ ] [English] Class
-- [ ] [Math] Class
-- [ ] [lunch time] CS WORKSHEET
+- [x] [before chaos] Half io extract + 5 bullet points
+- [x] [Chinese] Half io
+- [x] [Chinese] Half io
+- [x] [English] Class
+- [x] [Math] Class
+- [x] [lunch time] CS WORKSHEET
 
 tarde motherfuckers
 - [ ] [CS] cs review
