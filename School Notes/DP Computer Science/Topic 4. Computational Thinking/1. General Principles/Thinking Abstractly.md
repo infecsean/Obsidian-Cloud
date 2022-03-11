@@ -15,7 +15,7 @@
 - ==Collections==: Collections are data structures that have data and predefined methods that operates on the data
 
 ### Modeling and Simulation
-- When a system is understoof enough, scientists will describe it using mathematical languages.
+- When a system is understood enough, scientists will describe it using mathematical languages.
 - Mathematical modeling is a layer of abstraction
 
 ### Abstraction IRL

@@ -12,6 +12,7 @@ The narrater is the voice in your head, your subconscious.
 ### SCHOOLS: if students are causing problems, make it more difficult for them! (incentive)(instead of solving the root problem)(ex. school shooting, suicide, depression) [Sauce](https://www.youtube.com/watch?v=usSfgHGEGxQ&list=LL&index=1&ab_channel=JacobGeller)
 so that they wont be responsible for the problem
 
+
 ### Ideas for progression
 ~~The windows will be fully lit at the start school, but slowly dim as you progress
 Your mind is utilitarian, meaning that they will always tell you what you want to do, that is within your comfort zone~~
@@ -68,7 +69,7 @@ Parents:
 - "I'll love you when you start to be useful"
 - "good grades should be your priority, not some made up story and excuses"
 - "you shouldve prepared instead of playing with your friends all the time"
-- ""
+- dad keeps a gun (WHICH PREPARES YOU FOR DA SHOOT SHOOT)
 
 
 

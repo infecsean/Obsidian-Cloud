@@ -3,9 +3,9 @@
 mornig
 - [ ] [chinese]
 - [ ] [ee/cas]
-- [ ] [physics]
-- [ ] [physics]
-- [ ] [lunch time] econ
+- [ ] [physics] econ notes 9.2
+- [ ] [physics] econ notes 9.2
+- [ ] [lunch time] 
 
 tarde
 - [ ] [tok] 

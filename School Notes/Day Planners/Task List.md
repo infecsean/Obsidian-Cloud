@@ -6,7 +6,7 @@
 - [x] joseph wright analysis
 - [ ] chinese gym analysis
 - [ ] chinese paragraph 1 and 2
-- [ ] english half io ==3/11==
+- [ ] english half io ==3/14==
 - [ ] econ workbook 3 macroecon p.38 ~ 41 (2.1)
 - [ ] CAS Reflections
 	- [ ] exercise
@@ -23,14 +23,16 @@
 - [ ] Econ Chapter 9
 - [ ] Econ Chapter 10
 - [ ] Physics Waves
-- [x] CS
-	- [x] 4.0
-	- [x] 4.1
-	- [x] 4.2
-	- [x] 4.3
+- [x] cs
 
-## Reviews
-- [ ] 
+### Summatives left
+- [x] CS summative 3/10
+- [ ] Math summative 3/18
+- [ ] Physics summative
+- [ ] Econ Summative 3/30
+- [ ] Chinese paper 1 4/1
+- [ ] English IO 3/21
+
 
 ## Game Dev
 - [ ] Prototype Whole School
@@ -49,10 +51,3 @@
 - [ ] Hall of shame
 - [ ] Nightmares
 
-### Summatives left
-- [ ] CS summative 3/10
-- [ ] Math summative 3/18
-- [ ] Physics summative
-- [ ] Econ Summative
-- [ ] Chinese paper 1 4/1
-- [ ] English IO 3/18
