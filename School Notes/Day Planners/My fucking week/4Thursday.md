@@ -1,4 +1,4 @@
-# TURSDAY (best i can do)
+# THURSDAY MAN
 ---
 morning
 - [x] [Before chaos] CS review
