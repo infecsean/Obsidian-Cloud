@@ -47,6 +47,9 @@ Mind:
 - THE TREE OF LIFE ON THE TOP OF THE MOUNTAIN GROWS FRUIT
 - You can only see the tree of life from afar, everytime you see a fruit, there is a person getting it off, but moments later they put a kind of defense around it to keep people out.
 - Tree of knowledge: From a distance the guy that comes to the tree looks like a girl collecting the fruit, upon close inspection, it is the reaper.
+- You are in denial in mind when things get black, you cant accept the fact that school is taking a toll on your mental health
+	- citizens in your mind warns you that things change
+- 
 
 School:
 - "i dont understand self harm, they just want attention i guess" "Yeah, otherwise they'd just kill themselves right?"

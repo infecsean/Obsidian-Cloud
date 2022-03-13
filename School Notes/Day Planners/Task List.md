@@ -4,8 +4,8 @@
 - [ ] commonapp stuff
 - [x] cs worksheet
 - [x] joseph wright analysis
-- [ ] chinese gym analysis
-- [ ] chinese paragraph 1 and 2
+- [x] chinese gym analysis
+- [x] chinese paragraph 1 and 2
 - [ ] english half io ==3/14==
 - [ ] econ workbook 3 macroecon p.38 ~ 41 (2.1)
 - [ ] CAS Reflections

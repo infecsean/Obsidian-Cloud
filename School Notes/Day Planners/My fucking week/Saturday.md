@@ -15,8 +15,8 @@ por la tarde
 	- [ ] also remember to print
 
 por la noche
-- [ ] [7-8] math paper 2
-- [ ] [8-9] english io
-- [ ] [9-10] draw layout of school
+- [ ] [7-8] math paper 1&2
+- [ ] [8-9] math paper 1&2/english io
+- [ ] [9-10] english io/econ 8.4
 - [ ] [10-11] play metro
 - [ ] [11-12] workout shit

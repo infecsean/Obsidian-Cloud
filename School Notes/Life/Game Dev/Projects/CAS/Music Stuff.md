@@ -9,7 +9,7 @@
 - Or just uses credit song for my death remix it with electric guitar and reverb and synth and shit and BOOM!
 - strange fruit
 
-- AfterMATH of a slaughter lol
+- mental illness factory
 - Sympathy for the monster - the scene when billy confronts you
 - Uncomfortable comfort zone - you want to feel safe, but somehow that just never works and you end up paranoid and wandering off outside if your comfort zone. Played at the scene when your inner world is falling apart.
 - save me from myself
