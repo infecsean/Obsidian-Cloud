@@ -14,7 +14,7 @@ tarde
 - [x] [english] io/math RV geometry ~ medium
 
 noche
-- [ ] [7-8] gamin/cas indie game reflection
+- [ ] [7-8] gamin/cas indie game reflection/rework indie game gantt chart
 - [ ] [8-9] math paper 2/RV geometry 40 ~ 48 medium
 - [ ] [9-930] gamin/cas indie game reflection
 - [ ] [930-1030] math RV geometry 40 ~ 48 medium
