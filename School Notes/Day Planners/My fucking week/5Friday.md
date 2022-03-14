@@ -4,7 +4,7 @@ morning
 - [x] [math] class
 - [x] [econ] econ notes
 - [x] [econ] econ notes
-- [ ] [lunch break] econ [[The Business Cycle]]
+- [ ] [lunch break] econ [[The Business Cycle Concept]]
 
 tarde
 - [x] [english] half io stuff

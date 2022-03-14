@@ -4,12 +4,12 @@
     "type": "split",
     "children": [
       {
-        "id": "91e374e2b425be60",
+        "id": "6919c6feb0303c9b",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Life/Game Dev/Projects/CAS/Colors Game Design.md",
+            "file": "Day Planners/Task List.md",
             "mode": "source",
             "source": false
           }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Life/Game Dev/Projects/CAS/Colors Game Design.md",
+                "file": "Day Planners/Task List.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,17 +104,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "91e374e2b425be60",
+  "active": "6919c6feb0303c9b",
   "lastOpenFiles": [
-    "Life/Game Dev/Projects/CAS/Colors Game Design.md",
-    "Life/Game Dev/Projects/CAS/CAS game kanban.md",
-    "Life/Game Dev/Projects/CAS/Character.md",
-    "Life/Game Dev/Projects/CAS/Items.md",
-    "Life/Game Dev/Projects/CAS/Menu UI Design.md",
     "Day Planners/Task List.md",
-    "Day Planners/My fucking week/Saturday.md",
-    "DP Economics/8. Level of Overall Economic Activity/Business Cycle/The Business Cycle.md",
-    "Life/Game Dev/Projects/CAS/Storyline V2.md",
-    "Life/Game Dev/Projects/CAS/Environment.md"
+    "Day Planners/My fucking week/2Tuesday.md",
+    "Day Planners/My fucking week/3Wednesday.md",
+    "Day Planners/My fucking week/5Friday.md",
+    "Day Planners/My fucking week/Sunday.md",
+    "Day Planners/My fucking week/1Monday.md",
+    "CAS/Stuff i do.md",
+    "DP Economics/8. Level of Overall Economic Activity/Business Cycle/Potential Output.md",
+    "DP Economics/8. Level of Overall Economic Activity/Business Cycle/Phases of the business cycle/Contraction.md",
+    "DP Economics/8. Level of Overall Economic Activity/Business Cycle/Unemployment.md"
   ]
 }

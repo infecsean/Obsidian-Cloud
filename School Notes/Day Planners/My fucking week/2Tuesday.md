@@ -1,21 +1,21 @@
 # OI FACKIN CHEWSDAY
 ---
 Morn
-- [x] [CS] econ 8.3
-- [x] [CS] econ 8.3
-- [x] [math] try not to die
-- [x] [lunch] sleep
+- [ ] [CS] econ 8.5
+- [ ] [CS] econ 8.5
+- [ ] [math] math is math
+- [ ] [lunch] sleep
 
 Aft
-- [x] [Physics] econ 8.3
-- [x] [Physics] prototype cas game
-- [x] [5%] Prototype cas game
-- [x] [5%] prototype cas game lmao
+- [ ] [Physics] model mingdao classroom/math RV geometry med
+- [ ] [Physics] model mingdao classroom/math RV geometry med
+- [ ] [5%] model mingdao classroom/math RV geometry med
+- [ ] [5%] model mingdao classroom/math RV geometry med
 
 noche
-- [ ] [7~8] math hw/prac 10
-- [ ] [8~9] chinese paragraph 1 & 2
-- [ ] 30 min break maybe bf1
+- [ ] [7~8] relax
+- [ ] [8~9] math hw/prac 10
+- [ ] 30 min break omori
 - [ ] [930~1030] English half io extract & 5 bullet points
 - [ ] 30 min break or leeway time
 - [ ] [11~12] workout TIME yey

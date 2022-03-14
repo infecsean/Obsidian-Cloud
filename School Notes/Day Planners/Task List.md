@@ -9,9 +9,10 @@
 - [x] english half io ==3/14==
 - [ ] econ workbook 3 macroecon p.38 ~ 41 (2.1)
 - [ ] CAS Reflections
-	- [ ] exercise
+	- [x] exercise
 	- [ ] kitchen service
-	- [ ] indie game
+	- [ ] indie game - add lil door mechanism or something
+- [ ] EE stuff
 
 ## Notes
 - [ ] Econ Chapter 8
@@ -22,13 +23,13 @@
 	- [ ] 8.5
 - [ ] Econ Chapter 9
 - [ ] Econ Chapter 10
-- [ ] Physics Waves
+- [ ] Physics Simple harmonic motion
 - [x] cs
 
 ### Summatives left
 - [x] CS summative 3/10
 - [ ] Math summative 3/18
-- [ ] Physics summative
+- [ ] Physics summative 4/7
 - [ ] Econ Summative 3/30
 - [ ] Chinese paper 1 4/1
 - [ ] English IO 3/21

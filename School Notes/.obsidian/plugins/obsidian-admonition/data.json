@@ -49,6 +49,18 @@
       },
       "command": false,
       "title": "Books"
+    },
+    "voc": {
+      "type": "voc",
+      "color": "243, 148, 255",
+      "icon": {
+        "name": "grin-tongue",
+        "type": "font-awesome"
+      },
+      "command": false,
+      "title": "Vocabulary",
+      "injectColor": true,
+      "noTitle": false
     }
   },
   "syntaxHighlight": false,

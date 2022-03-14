@@ -1,22 +1,22 @@
 # Monkey Mondays
 ---
 mornig
-- [ ] [chinese] cas reflections
-- [ ] [ee/cas] cas reflections
-- [ ] [physics] econ notes 8.4
+- [x] [chinese] cas reflections
+- [x] [ee/cas] cas reflections
+- [x] [physics] econ notes 8.4
 - [ ] [physics] econ notes 8.5
-- [ ] [lunch time] econ notes 8.4/tok shit
+- [x] [lunch time] half io meeting
 
 tarde
-- [ ] [tok] tok stuff
-- [ ] [econ] econ notes 8.5
-- [ ] [english] io/econ notes 8.5
-- [ ] [english] io/econ notes 8.5
+- [x] [tok] tok stuff
+- [x] [econ] econ notes 8.5
+- [x] [english] io/math RV geometry ~ medium
+- [x] [english] io/math RV geometry ~ medium
 
 noche
-- [ ] [7-8] relaxin
-- [ ] [8-9] math paper 2/RV 10 med
-- [ ] [9-930] play some metro/omori
-- [ ] [930-1030] math RV 10 med/econ notes
+- [ ] [7-8] gamin/cas indie game reflection
+- [ ] [8-9] math paper 2/RV geometry 40 ~ 48 medium
+- [ ] [9-930] gamin/cas indie game reflection
+- [ ] [930-1030] math RV geometry 40 ~ 48 medium
 - [ ] [1030-11] leeway time/gamin
 - [ ] [11-12] workout
