@@ -1,11 +1,11 @@
 # OI FACKIN CHEWSDAY
 ---
 Morn
-- [ ] [Before chaos] math last question
-- [ ] [CS] econ 8.5
-- [ ] [CS] econ 8.5
+- [x] [Before chaos] math last question
+- [x] [CS] econ 8.5
+- [x] [CS] econ 8.5
 - [ ] [math] math is math
-- [ ] [lunch] sleep
+- [ ] [lunch] kai meeting
 
 Aft
 - [ ] [Physics] model mingdao classroom
