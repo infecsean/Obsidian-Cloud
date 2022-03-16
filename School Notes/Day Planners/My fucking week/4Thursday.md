@@ -1,23 +1,24 @@
 # THURSDAY MAN
 ---
 morning
-- [x] [Before chaos] CS review
-- [x] [CS] ==CS SUMMATIVE==
-- [x] [CS] ==CS CUMMATIVE==
-- [x] [TOK] Whatever/econ/half io/ [[Stuff i do]]
-- [x] [Self Study] Econ 8.3/Half IO things
-- [ ] [Lunch break] Sleep
+- [ ] [Before chaos] 
+- [ ] [CS] EE
+- [ ] [CS] 
+- [ ] [TOK] 
+- [ ] [Self Study] English IO meeting
+- [ ] [Lunch break] 
 
 Aftarde
-- [ ] [Chinese] Gym analysis practice/ notes
-- [ ] [Chinese] Gym analysis practice/ notes
-- [ ] [homeroooo] econ 8.3/Half io things
-- [ ] [Physics] econ 8.3/half io things
+- [ ] [Chinese] 
+- [ ] [Chinese] 
+- [ ] [homeroooo] 
+- [ ] [Physics] 
 
 noche
-- [ ] [7-8] math 10 RV pracs ez
-- [ ] bf1
-- [ ] [9-930] half io
-- [ ] [930-11] prototype classrooms
-- [ ] [11-12] WORKTHEFUCKOUT
+- [ ] [7-8] gamin
+- [ ] [8-9]math RV hard trig
+- [ ] guitar
+- [ ] [930-1030] math RV hard trig
+- [ ] relax/workout/shower
+- [ ] [11-12] DOESNT EXIST GO TO SLEEP
 - [ ] sleeeeep

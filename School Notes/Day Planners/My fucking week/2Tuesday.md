@@ -4,20 +4,20 @@ Morn
 - [x] [Before chaos] math last question
 - [x] [CS] econ 8.5
 - [x] [CS] econ 8.5
-- [ ] [math] math is math
-- [ ] [lunch] kai meeting
+- [x] [math] math is math
+- [x] [lunch] kai meeting
 
 Aft
-- [ ] [Physics] model mingdao classroom
-- [ ] [Physics] model mingdao classroom
-- [ ] [5%] model mingdao classroom/math RV geometry med
-- [ ] [5%] model mingdao classroom/math RV geometry med
+- [x] [Physics] model mingdao classroom
+- [x] [Physics] model mingdao classroom
+- [x] [5%] model mingdao classroom/math RV geometry med
+- [x] [5%] model mingdao classroom/math RV geometry med
 
 noche
-- [ ] [7~8] relax
-- [ ] [8~9] math hw/RV geometry med
-- [ ] omori
-- [ ] [930~1030] math rv geometry med
-- [ ] 30 min break or leeway time
-- [ ] [11~12] workout TIME yey
+- [x] [7~8] relax
+- [x] [8~9] math hw/RV geometry med
+- [x] omori
+- [x] [930~1030] math rv geometry med
+- [x] 30 min break or leeway time
+- [x] [11~12] workout TIME yey
 - [ ] dont sleep after 1

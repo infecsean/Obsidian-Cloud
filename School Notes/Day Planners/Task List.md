@@ -13,6 +13,7 @@
 	- [ ] kitchen service
 	- [ ] indie game - add lil door mechanism or something
 - [ ] EE stuff
+- [ ] sat
 
 ## Notes
 - [ ] Econ Chapter 8

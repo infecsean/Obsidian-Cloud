@@ -1,26 +1,26 @@
 # Its Wednesday my dude
 ---
 manana
-- [x] [before chaos] Half io extract + 5 bullet points
-- [x] [Chinese] Half io
-- [x] [Chinese] Half io
-- [x] [English] Class
+- [x] [before chaos] think of half io topic
+- [x] [Chinese] math rv med g&s
+- [x] [Chinese] math rv med g&s
+- [x] [English] Class/econ
 - [x] [Math] Class
-- [x] [lunch time] CS WORKSHEET
+- [x] [lunch time] cs ee topic
 
 tarde motherfuckers
-- [ ] [CS] cs review
-- [ ] [Econ] Econ Notes
-- [ ] [Econ] Econ Notes
-- [ ] [guidance] cs review
+- [ ] [CS] econ 8.4/8.5
+- [ ] [Econ] Econ Notes 8.4/8.5
+- [ ] [Econ] Econ Notes 8.4/8.5
+- [ ] [guidance] econ 8.4/8.5
 
-knight
+nochi
 - [ ] [7-8] class
-- [ ] [8-9] math
-- [ ] bf1
-- [ ] [930-1030] CS REVIEW
-- [ ] bf1
+- [ ] [8-9] math rv hard g&s
+- [ ] 
+- [ ] [930-1030] english io stuff
+- [ ] 
 - [ ] [11-12] WOEKOUT
-- [ ] slep b4 1 EXTRA DOPAMINE CHECKBOX
+- [ ] slep EXTRA DOPAMINE CHECKBOX
 
 
