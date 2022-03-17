@@ -4,9 +4,15 @@ kanban-plugin: basic
 
 ---
 
-## Todos
+## Shit i need to finish this weekend
 
 - [ ] SAT
+- [ ] English IO
+- [ ] Chinese 5-7 notes
+- [ ] Chinese the rescue
+- [ ] Econ up til chapter 9
+- [ ] cas i guess
+- [ ] Finish classroom
 
 
 ## Summatives

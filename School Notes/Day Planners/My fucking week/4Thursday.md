@@ -12,7 +12,7 @@ Aftarde
 - [ ] [Chinese] 
 - [ ] [Chinese] 
 - [ ] [homeroooo] 
-- [ ] [Physics] 
+- [ ] [Physics] rv trig hard
 
 noche
 - [ ] [7-8] gamin
