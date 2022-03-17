@@ -12,5 +12,5 @@
 	- Existentialism
 	- Humanity
 - Possible Global issue:
-	- 
+	- AI will 
 
