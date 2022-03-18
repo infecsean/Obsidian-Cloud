@@ -1,18 +1,19 @@
 # Suck dick Sundays
 ---
 morning
-- [ ] [10-11] econ 8.4
-- [ ] [11-12] econ 8.4
+- [ ] [10-11] econ 9.1
+- [ ] [11-12] econ 9.1
 
 'noon
-- [x] [2-3] Chinese gym analysis
-- [x] [3-4] math RV trigs 10 ez
-- [x] [4-5] half io
-- [ ] [5-6] redraw school layout
+- [ ] [2-3] io if not finished
+- [ ] [3-330] metro
+- [ ] [330-430] chinese notes 5-7
+- [ ] [430-5] metro
+- [ ] [5-6] chinese notes 5-7/leeway time
 
 night
-- [x] [7-8] math
-- [x] [8-9] english half io
-- [ ] [9-10] econ
+- [ ] [7-8] gamin
+- [ ] [8-9] RV vectors easy
+- [ ] [9-10] leeway time
 - [ ] [10-11] leeway time
 - [ ] [11-12] exercise ig

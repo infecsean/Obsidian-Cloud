@@ -17,7 +17,7 @@ kanban-plugin: basic
 
 ## Summatives
 
-- [ ] Math ==3/18==
+- [x] Math ==3/18==
 - [ ] English IO ==3/21==
 - [ ] Economics ==3/30==
 - [ ] Chinese Paper 1 ==4/1==

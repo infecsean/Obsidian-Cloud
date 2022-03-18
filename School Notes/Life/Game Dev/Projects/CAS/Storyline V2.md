@@ -58,6 +58,7 @@ School:
 	- ==Features==: mattress on 1st floor to prevent suicide, long corridors to prevent shootings, 
 	- dim lights that discourage studying, revolting doors that let students in but not out
 - Violectors - Violet: color of corruption. Violence, Lectors
+- water under the bridge: the water under the bridge is full of dead bodies
 
 When school and mind convulge:
 - Like the arcane jinx mental breakdown scenes
