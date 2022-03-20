@@ -9,7 +9,7 @@ kanban-plugin: basic
 - [ ] SAT
 - [ ] English IO
 - [ ] Chinese 5-7 notes
-- [ ] Chinese the rescue
+- [x] Chinese the rescue
 - [ ] Econ up til chapter 9
 - [ ] cas i guess
 - [ ] Finish classroom
