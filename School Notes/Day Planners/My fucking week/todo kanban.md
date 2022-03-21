@@ -7,17 +7,21 @@ kanban-plugin: basic
 ## Shit i need to finish this weekend
 
 - [ ] SAT
-- [ ] English IO
+- [x] English IO
 - [ ] Chinese 5-7 notes
-- [x] Chinese the rescue
-- [ ] Econ up til chapter 9
+- [ ] Econ finish entirely
 - [ ] cas i guess
 - [ ] Finish classroom
 
 
+## Shit I need to finish
+
+- [ ] TOK this thursday
+- [ ] EE
+
+
 ## Summatives
 
-- [x] Math ==3/18==
 - [ ] English IO ==3/21==
 - [ ] Economics ==3/30==
 - [ ] Chinese Paper 1 ==4/1==
