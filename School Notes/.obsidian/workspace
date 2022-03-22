@@ -7,9 +7,11 @@
         "id": "73062ffe2160d4f1",
         "type": "leaf",
         "state": {
-          "type": "kanban",
+          "type": "markdown",
           "state": {
-            "file": "Day Planners/My fucking week/todo kanban.md"
+            "file": "DP Economics/9. Aggregate Demand and Supply/AD and AD Curve/Determinants of AD.md",
+            "mode": "source",
+            "source": false
           }
         }
       }
@@ -38,7 +40,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "price deflator",
+                "query": "",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -67,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Day Planners/My fucking week/todo kanban.md",
+                "file": "DP Economics/9. Aggregate Demand and Supply/AD and AD Curve/Determinants of AD.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,15 +106,15 @@
   },
   "active": "73062ffe2160d4f1",
   "lastOpenFiles": [
-    "Day Planners/My fucking week/todo kanban.md",
-    "Day Planners/My fucking week/2Tuesday.md",
-    "Day Planners/My fucking week/1Monday.md",
-    "Day Planners/Task List.md",
+    "DP Economics/9. Aggregate Demand and Supply/AD and AD Curve/Determinants of AD.md",
     "DP Economics/9. Aggregate Demand and Supply/AD and AD Curve/Aggregate Demand (AD).md",
-    "DP Economics/8. Level of Overall Economic Activity/Measures of Economic Activity/Measuring National Income.md",
-    "DP Economics/9. Aggregate Demand and Supply/0. Chapter 9 Overview.md",
-    "DP Economics/8. Level of Overall Economic Activity/0. Chapter 8 Overview.md",
-    "DP Economics/8. Level of Overall Economic Activity/Business Cycle/Macroeconomic Objectives.md",
-    "DP Economics/8. Level of Overall Economic Activity/Business Cycle/Potential Output.md"
+    "DP Economics/9. Aggregate Demand and Supply/AD and AD Curve/Determinants of AD/Changes in net export.md",
+    "DP Economics/9. Aggregate Demand and Supply/AD and AD Curve/Determinants of AD/Changes in government spending.md",
+    "DP Economics/9. Aggregate Demand and Supply/AD and AD Curve/Determinants of AD/Changes in investment.md",
+    "DP Economics/9. Aggregate Demand and Supply/AD and AD Curve/Determinants of AD/Changes in consumption.md",
+    "DP Economics/9. Aggregate Demand and Supply/AD and AD Curve/Components of AD.md",
+    "DP Economics/8. Level of Overall Economic Activity/Calculations based on national income accounting/Calculating GDP and GNI.md",
+    "Day Planners/My fucking week/2Tuesday.md",
+    "Day Planners/My fucking week/1Monday.md"
   ]
 }

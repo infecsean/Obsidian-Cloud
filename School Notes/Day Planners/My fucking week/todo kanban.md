@@ -22,9 +22,9 @@ kanban-plugin: basic
 
 ## Summatives
 
-- [ ] English IO ==3/21==
-- [ ] Economics ==3/30==
-- [ ] Chinese Paper 1 ==4/1==
+- [x] English IO ==3/21==
+- [ ] Economics ==3/30== Wed
+- [ ] Chinese Paper 1 ==4/1== Fri
 - [ ] Physics Simple Harmonic Motion ==4/7==
 
 
