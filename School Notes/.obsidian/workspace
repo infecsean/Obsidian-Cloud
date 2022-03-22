@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Day Planners/My fucking week/2Tuesday.md",
+            "file": "Day Planners/My fucking week/3Wednesday.md",
             "mode": "source",
             "source": false
           }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Day Planners/My fucking week/2Tuesday.md",
+                "file": "Day Planners/My fucking week/3Wednesday.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -106,6 +106,7 @@
   },
   "active": "73062ffe2160d4f1",
   "lastOpenFiles": [
+    "Day Planners/My fucking week/3Wednesday.md",
     "Day Planners/My fucking week/2Tuesday.md",
     "Life/Game Dev/Projects/CAS/Attachments/mingdao classroom with tiles.jpg",
     "Life/Game Dev/Projects/CAS/Attachments/mingdao classroom resized.md",
@@ -114,7 +115,6 @@
     "Day Planners/My fucking week/1Monday.md",
     "DP Economics/9. Aggregate Demand and Supply/AD and AD Curve/Determinants of AD/Changes in consumption.md",
     "DP Economics/9. Aggregate Demand and Supply/AD and AD Curve/Determinants of AD.md",
-    "DP Economics/9. Aggregate Demand and Supply/AD and AD Curve/Aggregate Demand (AD).md",
-    "Day Planners/Task List.md"
+    "DP Economics/9. Aggregate Demand and Supply/AD and AD Curve/Aggregate Demand (AD).md"
   ]
 }
