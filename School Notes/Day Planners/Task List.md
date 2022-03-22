@@ -10,20 +10,19 @@
 - [ ] econ workbook 3 macroecon p.38 ~ 41 (2.1)
 - [ ] CAS Reflections
 	- [x] exercise
-	- [ ] kitchen service
-	- [ ] indie game - add lil door mechanism or something
+	- [x] kitchen service
+	- [x] indie game - add lil door mechanism or something
 - [ ] EE stuff
 - [ ] sat
 
 ## Notes
-- [ ] Econ Chapter 8
+- [x] Econ Chapter 8
 	- [x] 8.1
 	- [x] 8.2
 	- [x] 8.3
-	- [ ] 8.4
-	- [ ] 8.5
+	- [x] 8.4
+	- [x] 8.5
 - [ ] Econ Chapter 9
-- [ ] Econ Chapter 10
 - [ ] Physics Simple harmonic motion
 - [x] cs
 

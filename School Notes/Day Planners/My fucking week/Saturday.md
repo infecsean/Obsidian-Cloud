@@ -1,22 +1,22 @@
 # Satan Saturdays
 ---
 por la manana
-- [x] [10~11] Econ 8.5
-- [x] [11~12] Econ 8.5
+- [ ] [10~11] 
+- [ ] [11~12] 
 
 por la tarde
-- [x] [1~2] Math RV vectors easy
-- [x] [2~230] laxin
-- [x] [230~330] english io finish outline
-- [x] [330~4] gamin
-- [x] [4~5] Classroom finish
-- [x] [5~6] classroom finish
+- [ ] [1~2] 
+- [ ] [2~230] laxin
+- [ ] [230~330] 
+- [ ] [330~4] gamin
+- [ ] [4~5] 
+- [ ] [5~6] 
 
 por la noche
 - [ ] [7-8] gamin
-- [ ] [8-9] chinese the rescue io
+- [ ] [8-9] 
 - [ ] gamin/gamedev/guitar
-- [ ] [930-1030] english io AM analysis
+- [ ] [930-1030] 
 - [ ] gamin/gamedev/guitar
 - [ ] [10-11] leeway time/gamin
 - [ ] [11-12] workout shit

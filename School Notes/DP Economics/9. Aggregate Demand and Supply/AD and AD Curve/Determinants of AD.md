@@ -8,7 +8,12 @@ o. 226 c273
 ![[Shift AD curve.png|300]]
 
 ### [[Changes in consumption]]
-- b
+- Consumer Confidence
+- Interest rate
+- Wealth
+- Income taxes
+- Level of household indebtedness
+- Expectations of future price levels
 
 ### [[Changes in investment]]
 - b

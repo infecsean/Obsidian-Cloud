@@ -1,26 +1,26 @@
 # Its Wednesday my dude
 ---
 manana
-- [x] [before chaos] think of half io topic
-- [x] [Chinese] math rv med g&s
-- [x] [Chinese] math rv med g&s
-- [x] [English] Class/econ
-- [x] [Math] Class
-- [x] [lunch time] cs ee topic
+- [ ] [before chaos] 
+- [ ] [Chinese] 
+- [ ] [Chinese] 
+- [ ] [English] 
+- [ ] [Math] Class
+- [ ] [lunch time] 
 
 tarde motherfuckers
-- [ ] [CS] econ 8.4/8.5
-- [ ] [Econ] Econ Notes 8.4/8.5
-- [ ] [Econ] Econ Notes 8.4/8.5
-- [ ] [guidance] econ 8.4/8.5
+- [ ] [CS] 
+- [ ] [Econ] 
+- [ ] [Econ] 
+- [ ] [guidance] 
 
 nochi
 - [ ] [7-8] class
-- [ ] [8-9] math rv hard g&s
-- [ ] 
-- [ ] [930-1030] english io stuff
-- [ ] 
+- [ ] [8-9] math hw/rv
+- [ ] guitar/metro
+- [ ] [930-1030] econ 9.2/9.3
+- [ ] guitar/metro
 - [ ] [11-12] WOEKOUT
-- [ ] slep EXTRA DOPAMINE CHECKBOX
+- [ ] slep
 
 
