@@ -1,17 +1,17 @@
 # Its Wednesday my dude
 ---
 manana
-- [ ] [before chaos] math final questions
-- [ ] [Chinese] math/econ 9.1
-- [ ] [Chinese] math/econ 9.1
-- [ ] [English] math/econ 9.1
-- [ ] [Math] Class
-- [ ] [lunch time] sleep/econ 9.1
+- [x] [before chaos] math final questions
+- [x] [Chinese] math/econ 9.1
+- [x] [Chinese] math/econ 9.1
+- [x] [English] math/econ 9.1
+- [x] [Math] Class
+- [x] [lunch time] sleep/econ 9.1
 
 tarde motherfuckers
-- [ ] [CS] econ 9.1/tok
-- [ ] [Econ] econ
-- [ ] [Econ] econ
+- [x] [CS] econ 9.1/tok
+- [x] [Econ] econ
+- [x] [Econ] econ
 - [ ] [guidance] 
 
 nochi

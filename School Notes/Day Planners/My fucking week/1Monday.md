@@ -1,7 +1,8 @@
 # Monkey Mondays
 ---
 mornig
-- [ ] [chinese] 
+- [ ] [before shit] OSCARS WOOHOO fuck you
+- [ ] [chinese] econ
 - [ ] [ee/cas] 
 - [ ] [physics] 
 - [ ] [physics] 

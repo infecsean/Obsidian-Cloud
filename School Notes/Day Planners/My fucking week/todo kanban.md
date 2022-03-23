@@ -4,20 +4,28 @@ kanban-plugin: basic
 
 ---
 
-## Shit i need to finish this weekend
+## Shit i need to finish fast
+
+- [ ] TOK this thursday
+- [ ] Econ finish entirely
+
+
+## Shit i need to finish this month
 
 - [ ] SAT
-- [x] English IO
-- [ ] Chinese 5-7 notes
-- [ ] Econ finish entirely
-- [ ] cas i guess
 - [ ] Finish classroom
+- [ ] Chinese 5-7 notes
+- [ ] cas reflections
 
 
 ## Shit I need to finish
 
-- [ ] TOK this thursday
 - [ ] EE
+
+
+## game dev
+
+- [ ] Krita Brushes
 
 
 ## Summatives
