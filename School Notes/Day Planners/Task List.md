@@ -43,7 +43,7 @@
 		- [ ] windows
 		- [ ] projectors
 		- [ ] projector screens
-		- [ ] elevated stage for teachers
+		- [ ] (optional) elevated stage for teachers
 		- [ ] presentation table for teachers
 		- [ ] curtains
 		- [ ] lockers
