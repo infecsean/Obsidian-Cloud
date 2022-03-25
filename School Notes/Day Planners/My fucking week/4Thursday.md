@@ -1,4 +1,4 @@
-# THURSDAY MAN
+# Thrusting Thursday 🪥
 ---
 morning
 - [ ] [Before chaos] tok 3 object

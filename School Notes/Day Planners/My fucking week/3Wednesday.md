@@ -1,4 +1,4 @@
-# Its Wednesday my dude
+# Wet Wide Weiner Wednesday
 ---
 manana
 - [x] [before chaos] math final questions

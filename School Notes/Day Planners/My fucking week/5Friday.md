@@ -1,22 +1,22 @@
-# Friday cry day
+# Fat Fuck Friday (dont eat tho)
 ---
 morning
 - [ ] [math] class
 - [ ] [econ] econ notes
 - [ ] [econ] econ notes
-- [ ] [lunch break] remember to charge for note during concert
+- [ ] [lunch break] read english
 
 tarde
 - [ ] [english] 
 - [ ] [english] 
-- [ ] [cs club] bathroom shit
-- [ ] [cs club] bathroom prototype
+- [ ] [cs club] classroom table layouts, 
+- [ ] [cs club] 
 
 noch
-- [ ] [7-8] class
-- [ ] [8-9] math hw/math practice 30 min~1hr
-- [ ] [9-10] prototype game
-- [ ] [10-11] prototype game
+- [ ] [7-8] relax a bit
+- [ ] [8-9] planks, slidable black board, bulletin board
+- [ ] [9-10] ceiling fan, light switches, AC switches
+- [ ] [10-11] Projector, projector screen
 - [ ] [11-12] workout time 11
 - [ ] and sleep before 1, thats 1 HOUR AFTER 12 YOU cock
 

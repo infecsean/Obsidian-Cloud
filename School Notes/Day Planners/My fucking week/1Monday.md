@@ -1,4 +1,4 @@
-# Monkey Mondays
+# Monkey Mondays 🐒🐵🙈🙉🥩
 ---
 mornig
 - [ ] [before shit] OSCARS WOOHOO fuck you

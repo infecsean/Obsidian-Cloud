@@ -1,4 +1,4 @@
-# Suck dick Sundays
+# Sad Sundays
 ---
 morning
 - [ ] [10-11] 

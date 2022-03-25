@@ -8,6 +8,9 @@ kanban-plugin: basic
 
 - [ ] Econ finish entirely
 - [ ] SAT
+- [ ] Econ practice the questions
+- [ ] chinese draft
+- [ ] Chinese my part
 
 
 ## Shit i need to finish this month
@@ -21,12 +24,12 @@ kanban-plugin: basic
 ## Shit I need to finish
 
 - [ ] EE
-- [ ] Chinese my part
 
 
 ## game dev
 
 - [ ] Krita Brushes
+- [ ] Classroom
 
 
 ## Summatives

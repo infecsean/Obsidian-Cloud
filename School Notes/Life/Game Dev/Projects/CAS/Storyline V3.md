@@ -167,7 +167,7 @@ you go to your room
 
 
 
-### Chapter 9, Dire Docks
+### Chapter 9, dock cock
 ```Context
 You desparately try to find a way out
 Setting: A small dock, where a boat and person is
