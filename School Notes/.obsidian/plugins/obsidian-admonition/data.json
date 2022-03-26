@@ -61,6 +61,18 @@
       "title": "Vocabulary",
       "injectColor": true,
       "noTitle": false
+    },
+    "tldr": {
+      "type": "tldr",
+      "color": "255, 139, 61",
+      "icon": {
+        "name": "mining-diamonds",
+        "type": "rpg"
+      },
+      "command": false,
+      "title": "too long, didnt read",
+      "injectColor": true,
+      "noTitle": false
     }
   },
   "syntaxHighlight": false,

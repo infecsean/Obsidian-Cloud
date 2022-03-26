@@ -4,12 +4,12 @@
     "type": "split",
     "children": [
       {
-        "id": "73062ffe2160d4f1",
+        "id": "08b8520129ea8179",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Life/Game Dev/Projects/CAS/Reference photos/Tree of knowledge.md",
+            "file": "Day Planners/My fucking week/Saturday.md",
             "mode": "source",
             "source": false
           }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Life/Game Dev/Projects/CAS/Reference photos/Tree of knowledge.md",
+                "file": "Day Planners/My fucking week/Saturday.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,17 +104,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "73062ffe2160d4f1",
+  "active": "08b8520129ea8179",
   "lastOpenFiles": [
-    "Life/Game Dev/Projects/CAS/Reference photos/Tree of knowledge.md",
-    "Life/Game Dev/Projects/CAS/Attachments/treeoflife1.jpeg",
-    "Life/Game Dev/Projects/CAS/Attachments/wall school 1.jpg",
-    "Life/Game Dev/Projects/CAS/CAS game kanban.md",
-    "Life/Game Dev/Projects/CAS/Character.md",
-    "Life/Game Dev/Projects/CAS/Colors Game Design.md",
-    "Life/Game Dev/Projects/CAS/Menu UI Design.md",
-    "Life/Game Dev/Projects/CAS/Reference photos/School.md",
-    "Life/Game Dev/Projects/CAS/Marketing/Where to market of game.md",
-    "Life/Game Dev/Projects/CAS/Reference photos/Bus.md"
+    "Day Planners/My fucking week/Saturday.md",
+    "Day Planners/My fucking week/Sunday.md",
+    "Day Planners/My fucking week/4Thursday.md",
+    "Day Planners/My fucking week/5Friday.md",
+    "Day Planners/My fucking week/todo kanban.md",
+    "Day Planners/Task List.md",
+    "DP Economics/9. Aggregate Demand and Supply/LRAS & LR equilibrium in new classical model/New classical model.md",
+    "DP Economics/9. Aggregate Demand and Supply/SRAS & equilibrium in ADAS model/Changes in short run equilibrium.md",
+    "DP Economics/9. Aggregate Demand and Supply/SRAS & equilibrium in ADAS model/Aggregate Supply (AS).md",
+    "DP Economics/9. Aggregate Demand and Supply/SRAS & equilibrium in ADAS model/Determinants of SRAS.md"
   ]
 }
