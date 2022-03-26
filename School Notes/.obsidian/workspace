@@ -9,7 +9,31 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Day Planners/My fucking week/Saturday.md",
+            "file": "Life/Game Dev/Projects/CAS/Characters in my CAS Game.md",
+            "mode": "source",
+            "source": false
+          }
+        }
+      },
+      {
+        "id": "6d16779cc4d9d6b9",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Life/Game Dev/Storytelling/Character.md",
+            "mode": "source",
+            "source": false
+          }
+        }
+      },
+      {
+        "id": "57aafd8244b51dd7",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Life/Game Dev/Storytelling/Want vs Need.md",
             "mode": "source",
             "source": false
           }
@@ -53,7 +77,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 309
+    "width": 309,
+    "collapsed": true
   },
   "right": {
     "id": "d6f61973bf5b2b3f",
@@ -69,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Day Planners/My fucking week/Saturday.md",
+                "file": "Life/Game Dev/Projects/CAS/Characters in my CAS Game.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -106,15 +131,15 @@
   },
   "active": "08b8520129ea8179",
   "lastOpenFiles": [
-    "Day Planners/My fucking week/Saturday.md",
-    "Day Planners/My fucking week/Sunday.md",
-    "Day Planners/My fucking week/4Thursday.md",
-    "Day Planners/My fucking week/5Friday.md",
-    "Day Planners/My fucking week/todo kanban.md",
-    "Day Planners/Task List.md",
-    "DP Economics/9. Aggregate Demand and Supply/LRAS & LR equilibrium in new classical model/New classical model.md",
-    "DP Economics/9. Aggregate Demand and Supply/SRAS & equilibrium in ADAS model/Changes in short run equilibrium.md",
-    "DP Economics/9. Aggregate Demand and Supply/SRAS & equilibrium in ADAS model/Aggregate Supply (AS).md",
-    "DP Economics/9. Aggregate Demand and Supply/SRAS & equilibrium in ADAS model/Determinants of SRAS.md"
+    "Life/Game Dev/Projects/CAS/Characters in my CAS Game.md",
+    "Life/Game Dev/Storytelling/Character.md",
+    "Life/Game Dev/Storytelling/Want vs Need.md",
+    "Life/Game Dev/Projects/CAS/Colors Game Design.md",
+    "Life/Game Dev/Projects/CAS/CAS game kanban.md",
+    "Life/Game Dev/Projects/CAS/Environment.md",
+    "Life/Game Dev/Projects/CAS/Reference photos/Bus.md",
+    "Life/Game Dev/Storytelling/Villains.md",
+    "Life/Game Dev/Projects/CAS/Storyline V2.md",
+    "DP Economics/9. Aggregate Demand and Supply/0. Chapter 9 Overview.md"
   ]
 }

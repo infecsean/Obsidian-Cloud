@@ -20,3 +20,7 @@
 5. Use family to force difficult decisions that crystalize values
 	- To show their true selves, create dfficult decisions
 	- What is more valuable to them? Ideology or family?
+
+### Dialogues
+- Dialogues between family are used to show the bond between them
+- One side discovers something new about themselves and wanna share it with their family, wanting them to approve them of it

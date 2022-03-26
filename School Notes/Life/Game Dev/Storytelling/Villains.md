@@ -43,3 +43,7 @@
 ==Tension==:
 - Save the world stories are hard to sustain climactic tension
 - Instead, derive tension from the fate of the characters or things involved
+
+[sauce](https://www.youtube.com/watch?v=_JKy5LwtjHM&ab_channel=Razbuten)
+- Villains in video games command attention
+- Seem insane and terrifying if in the real world

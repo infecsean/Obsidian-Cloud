@@ -30,7 +30,8 @@ Game Features:
 - Expectations and responsibilities are presented: take something similar to brim's boulder in die for you, maybe something grand. "mount neverrest"
 - Omori's "stab omori" [mentioned](https://www.youtube.com/watch?v=rUDGlEWa4sE&ab_channel=DarylTalksGames) give the player a thing they cant turn back from, like the needle to the eye from dead space or heavy rain where you have to mutilate yourself to save your son. "force you to do uncomfortable things to progress" milgram experiment
 - 2 inventories, mental and real world
-- You wear different masks to negate different people.
+- You wear different masks to negate different people, objects, and restrict access
+	- Your character 
 - Stress gauge: Social interactions add little stress, but work adds lots of stress
 - "could" and "should" dialogues: Juxtapose that you dont give yourself any other options
 - BACKROOMS EASTER EGG IN MIND THAT LINKS TO REALITY
@@ -74,6 +75,7 @@ Parents:
 - "I'll love you when you start to be useful"
 - "good grades should be your priority, not some made up story and excuses"
 - "you shouldve prepared instead of playing with your friends all the time"
+- Each dialogue above is represented by a knife that shoots to your feet
 - dad keeps a gun (WHICH PREPARES YOU FOR DA SHOOT SHOOT)
 
 

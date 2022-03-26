@@ -9,6 +9,8 @@
 - Drives the ==PLOT== 
 - the FUN stuff
 - unique to character
+- Wants need to be backed by stakes
+	- shown by obstacles that are in their way
 
 ### Need
 - Internal
@@ -18,3 +20,4 @@
 - Drives the ==THEME==
 - the HEARTS (connection between character and audience)
 - Universal (often might teach the audience a lesson)
+- The thing they need to figure out about themselves in order to get the want
