@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "DP Economics/9. Aggregate Demand and Supply/AS & equilibrium in keynes model/Equilibrium states of Keynes model.md",
+            "file": "DP Economics/9. Aggregate Demand and Supply/Implications of keynesian and monetarist model.md",
             "mode": "source",
             "source": false
           }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "DP Economics/9. Aggregate Demand and Supply/AS & equilibrium in keynes model/Equilibrium states of Keynes model.md",
+                "file": "DP Economics/9. Aggregate Demand and Supply/Implications of keynesian and monetarist model.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -106,15 +106,15 @@
   },
   "active": "42356afe9abd493a",
   "lastOpenFiles": [
-    "DP Economics/9. Aggregate Demand and Supply/AS & equilibrium in keynes model/Equilibrium states of Keynes model.md",
-    "DP Economics/9. Aggregate Demand and Supply/AS & equilibrium in keynes model/Keynesian model.md",
-    "DP Economics/9. Aggregate Demand and Supply/Shi.md",
+    "DP Economics/9. Aggregate Demand and Supply/Implications of keynesian and monetarist model.md",
+    "DP Economics/9. Aggregate Demand and Supply/Shifting AS curve/Comparing Keynes and Monetarist.md",
+    "DP Economics/9. Aggregate Demand and Supply/Shifting AS curve/Factors that change AS curve.md",
+    "DP Economics/9. Aggregate Demand and Supply/Shifting AS curve/What Will Shift AS curves.md",
     "DP Economics/9. Aggregate Demand and Supply/0. Chapter 9 Overview.md",
-    "Day Planners/My fucking week/Sunday.md",
-    "Day Planners/My fucking week/Saturday.md",
-    "Life/Game Dev/Storytelling/Character.md",
-    "Life/Game Dev/Storytelling/Conflict.md",
-    "Life/Game Dev/Storytelling/Dialogues.md",
-    "Life/Game Dev/Storytelling/Family.md"
+    "Symbols/Up.md",
+    "Symbols/Theta.md",
+    "Symbols/Proportional.md",
+    "Symbols/Pi.md",
+    "Symbols/Infinity.md"
   ]
 }
