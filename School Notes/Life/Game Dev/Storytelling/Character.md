@@ -58,3 +58,10 @@ Companions people care about
 - What do they do about that
 - Why doesnt that work
 - How does it end
+
+### Storyline
+[sauce](https://www.youtube.com/watch?v=HIiB50hZ0TA&ab_channel=TylerMowery)
+- Between the Pilot and the Finale (intro and conclusion), is to continuously challenge the beliefs of the character
+- Can have a series of mini-stories that feed into character arc
+- DOES NOT MEAN THAT THEY ARE JUST FILLERS, THEY HAVE TO CONTRIBUTE TO CHARACTER DEVELOPMENT
+- Use the story circle

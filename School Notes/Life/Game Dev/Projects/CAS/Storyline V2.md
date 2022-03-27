@@ -43,6 +43,7 @@ Game Features:
 - Maybe ==main villain== is school system, well, the big villain at least
 	- ==Supporting enemies== are students - while also casually suicidal, also a social being, induces social anxiety
 - MAKE A SPOTIFY PLAYLIST FOR EACH CHARACTER LMAO
+- 
 
 Mind:
 - You are only given a small amount of time to be mentally there, cus school takes up a that much time. So when the player are sent to the dimension, intentionally design the time limit so that they cant reach a deep enough part (underlying darkness, strange fruit) maybe do [this](https://www.youtube.com/watch?v=eqlHpPzS22U&t=74s&ab_channel=Brackeys)
