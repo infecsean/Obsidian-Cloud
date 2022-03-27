@@ -28,7 +28,7 @@
 	- [ ] back courtyard contents
 	- [ ] library dimensions
 	- [ ] classroom
-		- [ ] WOODEN PLANKS FIRST AND FOREMOST
+		- [x] WOODEN PLANKS FIRST AND FOREMOST
 		- [x] chairs
 		- [x] tables
 		- [x] blackboard
@@ -37,7 +37,7 @@
 		- [ ] ceiling fans
 		- [x] AC
 		- [ ] cloth sim on AC to know if it is on
-		- [ ] bulletin board
+		- [x] bulletin board
 		- [ ] doors
 		- [ ] light switches/AC
 		- [ ] windows

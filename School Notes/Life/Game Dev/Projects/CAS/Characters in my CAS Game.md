@@ -13,5 +13,3 @@
 - Flaws:
 	- Self-Deprecation: "im the worst in class" "im the least favorite child"
 	- Self-Destruction: "everything is happening at the same time"
-- Consequences of the flaw (naive): Staying within comfort zone
-	- 

@@ -6,7 +6,7 @@ kanban-plugin: basic
 
 ## Shit i need to finish fast
 
-- [ ] Econ finish entirely
+- [x] Econ finish entirely
 - [ ] SAT
 - [ ] Econ practice the questions
 - [ ] chinese draft

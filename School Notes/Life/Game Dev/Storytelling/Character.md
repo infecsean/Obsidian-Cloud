@@ -65,3 +65,8 @@ Companions people care about
 - Can have a series of mini-stories that feed into character arc
 - DOES NOT MEAN THAT THEY ARE JUST FILLERS, THEY HAVE TO CONTRIBUTE TO CHARACTER DEVELOPMENT
 - Use the story circle
+
+### How to introduce a character
+[sauce](https://www.youtube.com/watch?v=WTytayCi-wE&ab_channel=FilmCourage)
+- Scandals: People talk about them
+- Start with something that matters, important information that we need to know as the story progresses
