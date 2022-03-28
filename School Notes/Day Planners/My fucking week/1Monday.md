@@ -1,7 +1,9 @@
-# Monkey Mondays 🐒🐵🙈🙉🥩
+# Monkey Mondays 🐒
 ---
+- [ ] ==Biggest Task for today==: Finish Math homework
+
 mornig
-- [ ] [before shit] OSCARS WOOHOO fuck you
+- [ ] [before shit] OSCARS
 - [ ] [chinese] econ
 - [ ] [ee/cas] 
 - [ ] [physics] 
@@ -16,8 +18,8 @@ tarde
 
 noche
 - [ ] [7-8] gamin/
-- [ ] [8-9] RV complex numbers ez 10
-- [ ] [9-930] gamin/cas indie game reflection
-- [ ] [930-1030] Econ 9.1
+- [ ] [8-9] Math hw
+- [ ] [9-930] gamin/guitar
+- [ ] [930-1030] Math hw
 - [ ] [1030-11] leeway time/gamin
 - [ ] [11-12] workout

@@ -1,4 +1,4 @@
-# Fat Fuck Friday (dont eat tho)
+# Fat Fuck Friday
 ---
 morning
 - [ ] [math] class

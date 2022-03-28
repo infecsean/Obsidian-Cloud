@@ -9,7 +9,7 @@ kanban-plugin: basic
 - [x] Econ finish entirely
 - [ ] SAT
 - [ ] Econ practice the questions
-- [ ] chinese draft
+- [x] chinese draft
 - [ ] Chinese my part
 
 
@@ -24,6 +24,7 @@ kanban-plugin: basic
 ## Shit I need to finish
 
 - [ ] EE
+- [ ] TOK two questions
 
 
 ## game dev

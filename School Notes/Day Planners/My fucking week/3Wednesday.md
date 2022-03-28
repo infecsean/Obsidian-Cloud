@@ -1,24 +1,26 @@
-# Wet Wide Weiner Wednesday
+# Willy Wonka's Wet Wide Weiner Wednesday
 ---
+- [ ] ==Biggest Task for today==: Econ Summative, Chinese Practice
+
 manana
-- [x] [before chaos] math final questions
-- [x] [Chinese] math/econ 9.1
-- [x] [Chinese] math/econ 9.1
-- [x] [English] math/econ 9.1
-- [x] [Math] Class
-- [x] [lunch time] sleep/econ 9.1
+- [ ] [before chaos] econ review
+- [ ] [Chinese] econ review
+- [ ] [Chinese] econ review
+- [ ] [English] econ review
+- [ ] [Math] Class
+- [ ] [lunch time] sleep
 
 tarde motherfuckers
-- [x] [CS] econ 9.1/tok
-- [x] [Econ] econ
-- [x] [Econ] econ
+- [ ] [CS] econ review
+- [ ] [Econ] econ
+- [ ] [Econ] econ
 - [ ] [guidance] 
 
 nochi
 - [ ] [7-8] class
-- [ ] [8-9] math hw/rv
+- [ ] [8-9] Econ quantitative/chinese practice
 - [ ] guitar/metro
-- [ ] [930-1030] tok choose 3 objects
+- [ ] [930-1030] Econ quantitative
 - [ ] guitar/metro
 - [ ] [11-12] WOEKOUT
 - [ ] slep

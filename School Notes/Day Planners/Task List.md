@@ -2,7 +2,7 @@
 ## Tasks
 - [ ] personal statement
 - [ ] commonapp stuff
-- [ ] econ workbook 3 macroecon p.38 ~ 41 (2.1)
+- [x] econ workbook 3 macroecon p.38 ~ 41 (2.1)
 - [ ] CAS Reflections
 - [ ] EE stuff
 - [ ] sat

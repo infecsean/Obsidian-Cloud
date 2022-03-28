@@ -1,22 +1,25 @@
 # OI FACKIN CHEWSDAY
 ---
+- [ ] ==Biggest Task for today==: Practice Econ at least twice
+
 Morn
-- [ ] [CS] econ 9.1
-- [ ] [CS] econ 9.1
+- [ ] [before clas] Math 
+- [ ] [CS] EE talk to tr
+- [ ] [CS] Econ
 - [ ] [math] math is math
-- [ ] [lunch] econ 9.1
+- [ ] [lunch] sleep
 
 Aft
-- [ ] [Physics] blackboard/desks
-- [ ] [Physics] desks/chairs
-- [ ] [5%] desks/chairs
-- [ ] [5%] econ 9.1
+- [ ] [Physics] 
+- [ ] [Physics] 
+- [ ] [5%] 
+- [ ] [5%] 
 
 noche
 - [ ] [7~8] relax
-- [ ] [8~9] math hw/RV complex number or vector
+- [ ] [8~9] econ questions review
 - [ ] gamin/classroom
-- [ ] [930~1030] econ 9.1/9.2
+- [ ] [930~1030] econ questions review
 - [ ] gamin/classroom
 - [ ] [11~12] workout TIME yey/shower
 - [ ] sleep at 12 so you get 6 hours of sleep
