@@ -31,3 +31,7 @@ actual output/potential output/inflationary gap/recessionary gap
 ### Bonus Question
 1. Potential output is the amount of output produced when the economy experiences full employment, meaning the employment is equal to the natural rate of unemployment. Where there will still be people that are unemployed, including people who are moving between jobs, locations, training to get a different job, or just temporarily uemployed due to seasonal unemployment.
 2. ![[Business Cycle Cambridge.png]] 
+
+auto adjustment of new classical
+
+why keynes model is stuck in recessionary

@@ -4,24 +4,12 @@
     "type": "split",
     "children": [
       {
-        "id": "83c15b2723ac423e",
-        "type": "leaf",
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "DP Economics/9. Aggregate Demand and Supply/AS & equilibrium in keynes model/Equilibrium states of Keynes model.md",
-            "mode": "source",
-            "source": false
-          }
-        }
-      },
-      {
         "id": "531903dc8274b67c",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "DP Economics/9. Aggregate Demand and Supply/Summative Thing.md",
+            "file": "DP Economics/8. Level of Overall Economic Activity/Business Cycle/Potential Output.md",
             "mode": "source",
             "source": false
           }
@@ -81,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "DP Economics/9. Aggregate Demand and Supply/Summative Thing.md",
+                "file": "DP Economics/8. Level of Overall Economic Activity/Business Cycle/Potential Output.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -118,15 +106,15 @@
   },
   "active": "531903dc8274b67c",
   "lastOpenFiles": [
+    "DP Economics/8. Level of Overall Economic Activity/Business Cycle/Potential Output.md",
+    "DP Economics/8. Level of Overall Economic Activity/Business Cycle/Macroeconomic Objectives.md",
+    "DP Economics/8. Level of Overall Economic Activity/Business Cycle/Long Term Growth Trend.md",
     "DP Economics/9. Aggregate Demand and Supply/Summative Thing.md",
-    "DP Economics/9. Aggregate Demand and Supply/AS & equilibrium in keynes model/Equilibrium states of Keynes model.md",
-    "DP Economics/9. Aggregate Demand and Supply/AS & equilibrium in keynes model/Keynesian model.md",
-    "DP Economics/9. Aggregate Demand and Supply/Shifting AS curve/Comparing Keynes and Monetarist.md",
     "DP Economics/9. Aggregate Demand and Supply/AD and AD Curve/Determinants of AD/Changes in investment.md",
-    "DP Economics/9. Aggregate Demand and Supply/AD and AD Curve/Determinants of AD/Changes in consumption.md",
-    "DP Economics/9. Aggregate Demand and Supply/LRAS & LR equilibrium in new classical model/Inflationary and deflationary gaps.md",
-    "Day Planners/My fucking week/2Tuesday.md",
-    "DP Economics/8. Level of Overall Economic Activity/Measures of Economic Activity/GDP vs GNI.md",
-    "Day Planners/My fucking week/todo kanban.md"
+    "DP Economics/9. Aggregate Demand and Supply/Shifting AS curve/Factors that change AS curve.md",
+    "DP Economics/9. Aggregate Demand and Supply/Shifting AS curve/Comparing Keynes and Monetarist.md",
+    "DP Economics/9. Aggregate Demand and Supply/LRAS & LR equilibrium in new classical model/LRAS.md",
+    "DP Economics/9. Aggregate Demand and Supply/AD and AD Curve/Determinants of AD/Changes in government spending.md",
+    "DP Economics/9. Aggregate Demand and Supply/AD and AD Curve/Determinants of AD/Changes in consumption.md"
   ]
 }
