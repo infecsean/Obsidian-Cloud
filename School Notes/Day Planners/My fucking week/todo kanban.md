@@ -46,6 +46,7 @@ kanban-plugin: basic
 ## shit i wanna do
 
 - [ ] Proko youtube channel - human anatomy
+- [ ] Obsidian make all future notes and Link them together to be more organized
 
 
 

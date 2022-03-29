@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "DP Economics/9. Aggregate Demand and Supply/Shifting AS curve/Factors that change AS curve.md",
+            "file": "Day Planners/My fucking week/2Tuesday.md",
             "mode": "source",
             "source": false
           }
@@ -52,7 +52,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "potential output",
+                "query": "",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -65,8 +65,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 309,
-    "collapsed": true
+    "width": 309
   },
   "right": {
     "id": "d6f61973bf5b2b3f",
@@ -82,7 +81,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "DP Economics/9. Aggregate Demand and Supply/Summative Thing.md",
+                "file": "Day Planners/My fucking week/2Tuesday.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -117,17 +116,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "531903dc8274b67c",
+  "active": "83c15b2723ac423e",
   "lastOpenFiles": [
-    "DP Economics/9. Aggregate Demand and Supply/Summative Thing.md",
+    "Day Planners/My fucking week/2Tuesday.md",
+    "Day Planners/My fucking week/todo kanban.md",
+    "Day Planners/Task List.md",
     "DP Economics/9. Aggregate Demand and Supply/Shifting AS curve/Factors that change AS curve.md",
+    "DP Economics/9. Aggregate Demand and Supply/Summative Thing.md",
+    "DP Economics/8. Level of Overall Economic Activity/Business Cycle/Phases of the business cycle/Expansion.md",
+    "DP Economics/8. Level of Overall Economic Activity/Calculations Based On National Income Accounting/National incmome statistics.md",
     "DP Economics/9. Aggregate Demand and Supply/AS & equilibrium in keynes model/Keynesian model.md",
     "DP Economics/9. Aggregate Demand and Supply/LRAS & LR equilibrium in new classical model/New classical model.md",
-    "DP Economics/9. Aggregate Demand and Supply/Shifting AS curve/What Will Shift AS curves.md",
-    "DP Economics/8. Level of Overall Economic Activity/Business Cycle/Potential Output.md",
-    "DP Economics/8. Level of Overall Economic Activity/Business Cycle/Macroeconomic Objectives.md",
-    "DP Economics/8. Level of Overall Economic Activity/Business Cycle/Long Term Growth Trend.md",
-    "DP Economics/8. Level of Overall Economic Activity/Measures of Economic Activity/Approaches to measuring national income.md",
-    "DP Economics/8. Level of Overall Economic Activity/Calculations Based On National Income Accounting/Calculating GDP and GNI.md"
+    "DP Economics/9. Aggregate Demand and Supply/Shifting AS curve/What Will Shift AS curves.md"
   ]
 }
