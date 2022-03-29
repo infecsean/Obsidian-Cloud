@@ -22,6 +22,7 @@ actual output/potential output/inflationary gap/recessionary gap
 - The expenditure method calculates national expenditure by adding up the value of all spending on final goods and services in an economy. This is done by breaking the economy into different sectors: Consumer spending, firm Investment, Government spending, and net export (export minus import). Since exports are produced within the country, it should be included in calculation, and imports are produced outside of the country, so it should not.
 	- The advantage of this method is that it allows for analyzing each component of the GDP and their relative contribution, how they change over time, and make comparisons over countries.
 
+[[Changes in investment]] good source
 2. 
 ![[keynesian model.png|400]]
 ![[LRAS and SRAS in new classical.png|300]]
