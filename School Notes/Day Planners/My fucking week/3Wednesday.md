@@ -1,4 +1,4 @@
-# Willy Wonka's Wet Wide Weiner Wednesday
+# Willy Wonka's Wet Weiner Wednesday
 ---
 - [ ] ==Biggest Task for today==: Econ Summative, Chinese Practice
 
@@ -10,7 +10,7 @@ manana
 - [ ] [Math] Class
 - [ ] [lunch time] sleep
 
-tarde motherfuckers
+tarde
 - [ ] [CS] econ review
 - [ ] [Econ] econ
 - [ ] [Econ] econ

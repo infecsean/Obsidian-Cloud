@@ -7,11 +7,9 @@
         "id": "73062ffe2160d4f1",
         "type": "leaf",
         "state": {
-          "type": "markdown",
+          "type": "kanban",
           "state": {
-            "file": "Life/Game Dev/Projects/CAS/Story in terms of story circle.md",
-            "mode": "source",
-            "source": false
+            "file": "Day Planners/My fucking week/todo kanban.md"
           }
         }
       }
@@ -69,7 +67,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Life/Game Dev/Projects/CAS/Story in terms of story circle.md",
+                "file": "Day Planners/My fucking week/todo kanban.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -106,15 +104,15 @@
   },
   "active": "73062ffe2160d4f1",
   "lastOpenFiles": [
+    "Day Planners/My fucking week/todo kanban.md",
+    "Day Planners/Task List.md",
+    "Day Planners/My fucking week/2Tuesday.md",
+    "Day Planners/My fucking week/3Wednesday.md",
+    "Day Planners/My fucking week/1Monday.md",
+    "Day Planners/My fucking week/Sunday.md",
     "Life/Game Dev/Projects/CAS/Story in terms of story circle.md",
     "Life/Game Dev/Projects/CAS/Game design document cas.md",
     "Life/Game Dev/Projects/CAS/Storyline V4.md",
-    "Life/Game Dev/Storytelling/Villains.md",
-    "Life/Game Dev/Storytelling/Story Circle.md",
-    "Life/Game Dev/Storytelling/Family.md",
-    "Life/Game Dev/Storytelling/Conflict.md",
-    "Life/Game Dev/Storytelling/Dialogues.md",
-    "Life/Game Dev/Projects/CAS/Storyline V3.md",
-    "Life/Game Dev/Projects/CAS/Characters in my CAS Game.md"
+    "Life/Game Dev/Storytelling/Villains.md"
   ]
 }

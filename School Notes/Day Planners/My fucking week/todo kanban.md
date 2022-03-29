@@ -31,6 +31,8 @@ kanban-plugin: basic
 
 - [ ] Krita Brushes
 - [ ] Classroom
+- [ ] Ctrl+P tutorials
+- [ ] Houdini Udemy course lmak
 
 
 ## Summatives

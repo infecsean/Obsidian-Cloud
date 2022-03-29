@@ -3,16 +3,16 @@
 - [ ] ==Biggest Task for today==: Practice Econ at least twice
 
 Morn
-- [ ] [before clas] Math 
+- [x] [before clas] Math finish
 - [ ] [CS] EE talk to tr
 - [ ] [CS] Econ
 - [ ] [math] math is math
 - [ ] [lunch] sleep
 
 Aft
-- [ ] [Physics] 
-- [ ] [Physics] 
-- [ ] [5%] 
+- [ ] [Physics] CAS reflections with chair model, table model
+- [ ] [Physics] Ceiling Fan, AC switch, door
+- [ ] [5%] window, projector, projector screen
 - [ ] [5%] 
 
 noche
