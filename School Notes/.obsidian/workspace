@@ -7,9 +7,11 @@
         "id": "73062ffe2160d4f1",
         "type": "leaf",
         "state": {
-          "type": "kanban",
+          "type": "markdown",
           "state": {
-            "file": "Day Planners/My fucking week/todo kanban.md"
+            "file": "DP Economics/9. Aggregate Demand and Supply/Summative Thing.md",
+            "mode": "source",
+            "source": false
           }
         }
       }
@@ -67,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Day Planners/My fucking week/todo kanban.md",
+                "file": "DP Economics/9. Aggregate Demand and Supply/Summative Thing.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,15 +106,15 @@
   },
   "active": "73062ffe2160d4f1",
   "lastOpenFiles": [
-    "Day Planners/My fucking week/todo kanban.md",
-    "Day Planners/Task List.md",
-    "Day Planners/My fucking week/2Tuesday.md",
-    "Day Planners/My fucking week/3Wednesday.md",
-    "Day Planners/My fucking week/1Monday.md",
-    "Day Planners/My fucking week/Sunday.md",
-    "Life/Game Dev/Projects/CAS/Story in terms of story circle.md",
-    "Life/Game Dev/Projects/CAS/Game design document cas.md",
-    "Life/Game Dev/Projects/CAS/Storyline V4.md",
-    "Life/Game Dev/Storytelling/Villains.md"
+    "DP Economics/9. Aggregate Demand and Supply/Summative Thing.md",
+    "DP Economics/8. Level of Overall Economic Activity/Calculations Based On National Income Accounting/Calculating GDP and GNI.md",
+    "DP Economics/8. Level of Overall Economic Activity/Calculations Based On National Income Accounting/National incmome statistics.md",
+    "DP Economics/8. Level of Overall Economic Activity/Calculations Based On National Income Accounting/Price Deflator.md",
+    "DP Economics/8. Level of Overall Economic Activity/Calculations Based On National Income Accounting/Using price deflator to calculate real GDP.md",
+    "DP Economics/8. Level of Overall Economic Activity/Economic Activity/Leakages and Injections.md",
+    "DP Economics/8. Level of Overall Economic Activity/Economic Activity/Flow of income.md",
+    "DP Economics/8. Level of Overall Economic Activity/Business Cycle/The Business Cycle Graph.md",
+    "DP Economics/8. Level of Overall Economic Activity/Business Cycle/The Business Cycle Concept.md",
+    "DP Economics/8. Level of Overall Economic Activity/Business Cycle/Potential Output.md"
   ]
 }
