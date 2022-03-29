@@ -4,7 +4,19 @@
     "type": "split",
     "children": [
       {
-        "id": "73062ffe2160d4f1",
+        "id": "83c15b2723ac423e",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "DP Economics/9. Aggregate Demand and Supply/Shifting AS curve/Factors that change AS curve.md",
+            "mode": "source",
+            "source": false
+          }
+        }
+      },
+      {
+        "id": "531903dc8274b67c",
         "type": "leaf",
         "state": {
           "type": "markdown",
@@ -40,7 +52,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "potential output",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -53,7 +65,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 309
+    "width": 309,
+    "collapsed": true
   },
   "right": {
     "id": "d6f61973bf5b2b3f",
@@ -104,17 +117,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "73062ffe2160d4f1",
+  "active": "531903dc8274b67c",
   "lastOpenFiles": [
     "DP Economics/9. Aggregate Demand and Supply/Summative Thing.md",
-    "DP Economics/8. Level of Overall Economic Activity/Calculations Based On National Income Accounting/Calculating GDP and GNI.md",
-    "DP Economics/8. Level of Overall Economic Activity/Calculations Based On National Income Accounting/National incmome statistics.md",
-    "DP Economics/8. Level of Overall Economic Activity/Calculations Based On National Income Accounting/Price Deflator.md",
-    "DP Economics/8. Level of Overall Economic Activity/Calculations Based On National Income Accounting/Using price deflator to calculate real GDP.md",
-    "DP Economics/8. Level of Overall Economic Activity/Economic Activity/Leakages and Injections.md",
-    "DP Economics/8. Level of Overall Economic Activity/Economic Activity/Flow of income.md",
-    "DP Economics/8. Level of Overall Economic Activity/Business Cycle/The Business Cycle Graph.md",
-    "DP Economics/8. Level of Overall Economic Activity/Business Cycle/The Business Cycle Concept.md",
-    "DP Economics/8. Level of Overall Economic Activity/Business Cycle/Potential Output.md"
+    "DP Economics/9. Aggregate Demand and Supply/Shifting AS curve/Factors that change AS curve.md",
+    "DP Economics/9. Aggregate Demand and Supply/AS & equilibrium in keynes model/Keynesian model.md",
+    "DP Economics/9. Aggregate Demand and Supply/LRAS & LR equilibrium in new classical model/New classical model.md",
+    "DP Economics/9. Aggregate Demand and Supply/Shifting AS curve/What Will Shift AS curves.md",
+    "DP Economics/8. Level of Overall Economic Activity/Business Cycle/Potential Output.md",
+    "DP Economics/8. Level of Overall Economic Activity/Business Cycle/Macroeconomic Objectives.md",
+    "DP Economics/8. Level of Overall Economic Activity/Business Cycle/Long Term Growth Trend.md",
+    "DP Economics/8. Level of Overall Economic Activity/Measures of Economic Activity/Approaches to measuring national income.md",
+    "DP Economics/8. Level of Overall Economic Activity/Calculations Based On National Income Accounting/Calculating GDP and GNI.md"
   ]
 }
