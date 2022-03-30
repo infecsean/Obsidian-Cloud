@@ -6,25 +6,30 @@ kanban-plugin: basic
 
 ## Shit i need to finish fast
 
-- [x] Econ finish entirely
-- [ ] SAT
-- [ ] Econ practice the questions
-- [x] chinese draft
-- [ ] Chinese my part
+- [ ] Econ quantitative
+- [ ] Physics waves
+- [ ] EE
 
 
 ## Shit i need to finish this month
 
 - [ ] Finish classroom
-- [ ] Chinese 5-7 notes
 - [ ] cas reflections
-- [ ] Physics waves
 
 
 ## Shit I need to finish
 
-- [ ] EE
-- [ ] TOK two questions
+- [ ] Chinese my part
+- [ ] Guidance ppr
+- [ ] Chinese 5-7 notes
+
+
+## Summatives
+
+- [x] Economics ==3/30== Wed
+- [ ] Econ Quantitative ==4/1== Fri
+- [ ] Chinese Paper 1 ==4/1== Fri
+- [ ] Physics Simple Harmonic Motion ==4/7==
 
 
 ## game dev
@@ -33,14 +38,6 @@ kanban-plugin: basic
 - [ ] Classroom
 - [ ] Ctrl+P tutorials
 - [ ] Houdini Udemy course lmak
-
-
-## Summatives
-
-- [x] English IO ==3/21==
-- [ ] Economics ==3/30== Wed
-- [ ] Chinese Paper 1 ==4/1== Fri
-- [ ] Physics Simple Harmonic Motion ==4/7==
 
 
 ## shit i wanna do

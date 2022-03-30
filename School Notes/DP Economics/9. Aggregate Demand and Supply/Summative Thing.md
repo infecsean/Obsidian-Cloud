@@ -1,10 +1,7 @@
 # Summative Questions
 ---
-Essay Questions
-1. Explain the income, output, and expenditure methods used to measure the gross domestic product (GDP).
-2. Explain how an increase in investment might lead to economic growth.
 
-Bonus Questions
+~~Bonus Questions~~
 1. what is “potential output”, explain with the term “employment/unemployment” 
 2. Plot a business cycle diagram and show where is 
 actual output/potential output/inflationary gap/recessionary gap
@@ -24,8 +21,16 @@ actual output/potential output/inflationary gap/recessionary gap
 
 [[Changes in investment]] good source
 2. 
-![[keynesian model.png|400]]
+Explain why auto-adjustment happens.
 ![[LRAS and SRAS in new classical.png|300]]
+![[inflationary gap.png|300]]
+In the new classical model, the economy is viewed from two aspects: The short run, where resource price and wages don't change with price change. And the long run, where resource price and wages change along with price levels. This principle assumes that the economy will automatically adjust back onto the potential output, automatically meaning without or with minimum government intervention. At the start, we assume the economy is already at its potential output, meaning AD and SRAS intersects at the LRAS vertical line. If there is an increase in AD (AD1->AD2), there is an inflationary gap, and unemployment is less than the natural rate of unemployment, there is excess demand and firms have to increase production, increasing employment. As employment increase, firms start to compete for increasingly scarce and therefore expensive labor. Leading to increase in cost of production, so SRAS decreases (SRAS1->SRAS2), and the economy is back on the potential output, but at a higher price. The same thing happens for when AD decreases. In the end, the economy will auto-adjust back onto the potential output, and any effort firms put to try to increase output in the short run will result in no real gain in the long run.
+
+Explain why the economy gets stuck in recession
+![[keynesian model.png|400]]
+In the Keynes model, unlike the new classical model, there isnt an auto-adjustment mechanism, nor is it broken into long and short run. Instead, they believe that an economy itself would not be able to auto-adjust to potential output, 
+
+The Keynes model corrects some of the assumptions in the new classical model, in the graph shown above, AD decreased, resulting in a deflationary gap, and equilibrum is less than full unemployment. Keynes argues that firms would lower the output but keep price level constant, rather than lowering the price level, due to low demand. 
 
 
 ### Bonus Question

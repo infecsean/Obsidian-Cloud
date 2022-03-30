@@ -9,14 +9,14 @@ morning
 tarde
 - [ ] [english] 
 - [ ] [english] 
-- [ ] [cs club] classroom table layouts, hallway layout, where bathrooms are, cafeteria
+- [ ] [cs club] 
 - [ ] [cs club] 
 
 noch
 - [ ] [7-8] relax a bit
-- [x] [8-9] planks, slidable black board, bulletin board
-- [x] [9-10] ceiling fan, light switches, AC switches, wall plugs
-- [ ] [10-11] Projector, projector screen
+- [ ] [8-9] 
+- [ ] [9-10] 
+- [ ] [10-11] 
 - [ ] [11-12] workout time 11
 - [ ] and sleep before 1, thats 1 HOUR AFTER 12 YOU cock
 

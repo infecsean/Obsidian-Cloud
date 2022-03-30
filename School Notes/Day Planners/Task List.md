@@ -8,14 +8,17 @@
 - [ ] sat
 
 ## Notes
-- [ ] Econ Chapter 9
+- [ ] Econ Chapter 10
+- [ ] Econ Chapter 11
+- [ ] Econ Chapter 12
 - [ ] Physics Simple harmonic motion
+- [ ] Physics Waves
 
 ### Summatives left
 - [x] CS summative
 - [x] Math summative
 - [ ] Physics summative 4/11
-- [ ] Econ Summative 3/30
+- [x] Econ Summative 3/30
 - [ ] Chinese paper 1 4/1
 - [x] English IO
 
@@ -39,7 +42,7 @@
 		- [ ] cloth sim on AC to know if it is on
 		- [x] bulletin board
 		- [ ] doors
-		- [ ] light switches/AC
+		- [x] light switches/AC
 		- [ ] windows
 		- [ ] projectors
 		- [ ] projector screens
