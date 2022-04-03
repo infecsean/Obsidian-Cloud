@@ -1,0 +1,15 @@
+# Checklist
+---
+- [ ] Wooden spike logs
+	- [x] Wooden spike fence
+	- [x] Wooden spike wall
+	- [x] thinner spikes mechanism with rope
+	- [ ] trees
+- [ ] Rope
+	- [ ] yellow stick rope
+	- [x] fastening rope
+	- [ ] rope at ring 5
+- [ ] planks
+	- [ ] for lumber and shit
+	- [ ] picnic table
+- [ ] 
