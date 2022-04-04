@@ -14,50 +14,46 @@ In a forest
 
 
 ### Storyline
-Light machine rings (light conditions critical)
+~~Light machine rings (light conditions critical)~~
 
-You wake up from bed
+~~You wake up from bed~~
 
 "Good morning Heather"
 
-Heather: 
+~~Heather: ~~
 
 "I know girl"
 
-"It's been lonely for me too"
-
-"I have to light up now"
-
-"It's dark, I know, that's why I have to light up"
+"It's dark, I know, I'll have to deal with it"
 
 "Dont worry, I'll be back"
 
 You walk out of the house, open the fence door
 
-*breath* "just follow the yellow stick rope"
+*breath* "just light the torches...easy"
 
-"It's been a while since I had to light the torches"
+"It's been a while since we had rain"
 
-"I'm just not born to be a runner"
+"well...i...had rain"
 
 [into ring 1, a plain grass flat land]
 [pass by a picnic table]
 
-"Hey I remember this spot, mom used to make sandwiches every sunday"
+"Hey I remember this spot, we used to come here every day"
 
 "I remember when dad used to bring me to ring 15"
 
-"We would fish and swing around the trees together"
+"We would fish together"
+
+"Who knows, maybe if we get enough rain, there'll be a new lake"
 
 [arriving at ring 2, starting to slope downwards]
 [there is a marking of number counting on it]
-"hmm...i wonder what they were counting"
+"welcome to ring 2, damn, im gonna have to learn how to make that paint"
 
-"it couldn't be the monsters, it's only ring 2"
+"but that's not important right now"
 
-"nevermind"
-
-"just keep going"
+"gotta light the torches"
 
 [into ring 2]
 
@@ -65,40 +61,48 @@ You walk out of the house, open the fence door
 
 "this is going to be a pain coming back up"
 
-"this part is mainly just forest"
+"i'll definitely regret this"
 
-"a transitional space if you will"
+"i might as well just seal off ring 2"
 
-"tho, the kids used to play on the trees"
-
-"i tried to climb up to the tree house last year, but it collapsed"
+"ah...shut up"
 
 [into ring 3, a flat pathway with farm pits]
 
-"I remember when ring 3 was entirely farmland"
+"ring 3, farmland"
 
-"I wish uncle johnny had survived the attack"
+"or at least...used to be"
 
-"i wouldn't have to grow my own food by myself"
+"we used to play hide and seek here"
 
-"we used to run through his field when we were young"
+"until someone got bitten by a snake"
 
-"he would chase us with a fork"
+"the farmers would chase us out with a fork"
 
 [into ring 4, lumber processing]
 
 "ah...good times"
 
-"if only Markus had got to station 30 fast enough"
+"now that i think about it"
 
-"i suppose it's no use saying that since he's dead"
+"the lumberjacks were insane"
 
-"and i suppose...everyone else"
+"rebuilding a civilization"
+
+"a literal wooden onion...as dad called it"
+
+"to think that we only have 5 left"
 
 [into ring 5]
 
+"alright...last one"
+
+"in, and out"
+
 [a cry in the darkness]
 
-"oh shit"
+"oh you gotta be kidding me"
 
-"i have to seal off ring 5"
+"i'll have to seal off ring 5"
+
+"god damit"

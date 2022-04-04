@@ -12,4 +12,9 @@
 - [ ] planks
 	- [ ] for lumber and shit
 	- [ ] picnic table
-- [ ] 
+- [ ] torch mesh
+
+- [ ] Narration - 1 hour
+- [ ] Environment finish - 2 hours
+- [ ] UI - 1 hour
+- [ ] Ambience & Post processing - 1 hour
