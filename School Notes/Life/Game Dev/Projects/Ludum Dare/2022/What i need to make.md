@@ -14,7 +14,14 @@
 	- [ ] picnic table
 - [ ] torch mesh
 
-- [ ] Narration - 1 hour
-- [ ] Environment finish - 2 hours
+- [x] Narration - 1 hour
+- [x] Environment finish - 2 hours
 - [ ] UI - 1 hour
-- [ ] Ambience & Post processing - 1 hour
+- [x] Ambience & Post processing - 1 hour
+- [x] add colliders for path
+- [ ] CHANGE FPE SIMPLE MENU
+
+8-9 env
+9-10 ui
+10-11 ambience
+11-12

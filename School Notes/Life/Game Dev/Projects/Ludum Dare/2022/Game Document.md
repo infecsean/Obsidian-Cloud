@@ -18,7 +18,9 @@ In a forest
 
 ~~You wake up from bed~~
 
-"Good morning Heather"
+~~"Good morning Heather"~~
+
+"good morning...or night"
 
 ~~Heather: ~~
 
