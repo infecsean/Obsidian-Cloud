@@ -1,6 +1,6 @@
 # OI FACKIN CHEWSDAY
 ---
-- [ ] ==Biggest Task for today==: Practice Econ at least twice
+- [ ] ==Biggest Task for today==: Math ws finish, english ppt, guidance
 
 Morn
 - [x] [before clas] Math finish
@@ -17,9 +17,9 @@ Aft
 
 noche
 - [ ] [7~8] relax
-- [ ] [8~9] econ questions review
+- [ ] [8~9] math
 - [ ] gamin/classroom
-- [ ] [930~1030] econ questions review
-- [ ] gamin/classroom
+- [ ] [930~1030] math
+- [ ] take pictures of the cook book while doing math in sister's bedroom
 - [ ] [11~12] workout TIME yey/shower
 - [ ] sleep at 12 so you get 6 hours of sleep
