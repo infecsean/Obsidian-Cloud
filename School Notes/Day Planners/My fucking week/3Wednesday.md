@@ -1,26 +1,26 @@
 # Willy Wonka's Wet Weiner Wednesday
 ---
-- [ ] ==Biggest Task for today==: Econ Summative, Chinese Practice
+- [ ] ==Biggest Task for today==: English presentation, math hw, guidance ppt
 
 manana
-- [ ] [before chaos] econ review
-- [ ] [Chinese] econ review
-- [ ] [Chinese] econ review
-- [ ] [English] econ review
-- [ ] [Math] Class
-- [ ] [lunch time] sleep
+- [ ] [MORE!!!] 
+- [ ] [Chinese] 
+- [ ] [Chinese] 
+- [ ] [English] 
+- [ ] [Math] 
+- [ ] [lunch time] 
 
 tarde
-- [ ] [CS] econ review
-- [ ] [Econ] econ
-- [ ] [Econ] econ
+- [ ] [CS] 
+- [ ] [Econ] 
+- [ ] [Econ] 
 - [ ] [guidance] 
 
 nochi
 - [ ] [7-8] class
-- [ ] [8-9] Econ quantitative/chinese practice
+- [ ] [8-9] 
 - [ ] guitar/metro
-- [ ] [930-1030] Econ quantitative
+- [ ] [930-1030] 
 - [ ] guitar/metro
 - [ ] [11-12] WOEKOUT
 - [ ] slep
