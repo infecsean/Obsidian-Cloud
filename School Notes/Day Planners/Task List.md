@@ -3,9 +3,9 @@
 - [ ] personal statement
 - [ ] commonapp stuff
 - [x] econ workbook 3 macroecon p.38 ~ 41 (2.1)
-- [ ] CAS Reflections
-- [ ] EE stuff
-- [ ] sat
+- [x] CAS Reflections
+- [x] EE stuff
+- [x] sat
 
 ## Notes
 - [ ] Econ Chapter 10

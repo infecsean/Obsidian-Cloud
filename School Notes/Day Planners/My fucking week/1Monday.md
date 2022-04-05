@@ -1,10 +1,10 @@
 # Monkey Mondays 🐒
 ---
-- [ ] ==Biggest Task for today==: Finish Math homework
+- [ ] ==Biggest Task for today==: Finish Physics
 
 mornig
-- [ ] [before shit] OSCARS
-- [ ] [chinese] econ
+- [ ] [before shit] 
+- [ ] [chinese] 
 - [ ] [ee/cas] 
 - [ ] [physics] 
 - [ ] [physics] 

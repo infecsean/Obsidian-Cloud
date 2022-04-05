@@ -16,9 +16,9 @@ Aftarde
 
 noche
 - [ ] [7-8] gamin
-- [ ] [8-9]math hw/Econ quantitative
+- [ ] [8-9] chinese write out structure
 - [ ] guitar
-- [ ] [930-1030] chinese
+- [ ] [930-1030] chinese/econ quantitative
 - [ ] relax/workout/shower
 - [ ] [11-12] DOESNT EXIST GO TO SLEEP
 - [ ] sleeeeep

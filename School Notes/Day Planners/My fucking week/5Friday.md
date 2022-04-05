@@ -2,7 +2,7 @@
 ---
 morning
 - [ ] [math] class
-- [ ] [econ] econ notes
+- [ ] [econ] 
 - [ ] [econ] econ notes
 - [ ] [lunch break] read english
 
@@ -14,7 +14,7 @@ tarde
 
 noch
 - [ ] [7-8] relax a bit
-- [ ] [8-9] 
+- [ ] [8-9] paint projector, projector screen, ceiling fan
 - [ ] [9-10] 
 - [ ] [10-11] 
 - [ ] [11-12] workout time 11

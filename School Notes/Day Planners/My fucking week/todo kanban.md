@@ -6,9 +6,12 @@ kanban-plugin: basic
 
 ## Shit i need to finish fast
 
-- [ ] Econ quantitative
+- [x] Econ quantitative
 - [ ] Physics waves
 - [ ] EE
+- [ ] Physics smh
+- [ ] Econ ch10
+- [ ] Math RV finish all complex number
 
 
 ## Shit i need to finish this month
@@ -27,7 +30,7 @@ kanban-plugin: basic
 ## Summatives
 
 - [x] Economics ==3/30== Wed
-- [ ] Econ Quantitative ==4/1== Fri
+- [x] Econ Quantitative ==4/1== Fri
 - [ ] Chinese Paper 1 ==4/1== Fri
 - [ ] Physics Simple Harmonic Motion ==4/7==
 
