@@ -97,4 +97,5 @@
 - [ ] Enemy Model
 - [ ] Hall of shame
 - [ ] Nightmares
-
+- [ ] Animated skybox i guess
+- [ ] Cloud shadow i guess

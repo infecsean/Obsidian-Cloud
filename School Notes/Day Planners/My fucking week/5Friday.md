@@ -1,15 +1,18 @@
 # Fat Fuck Friday
 ---
+==Important shit==: 
+
 morning
+- [ ] [shit] 
 - [ ] [math] class
 - [ ] [econ] 
-- [ ] [econ] econ notes
-- [ ] [lunch break] read english
+- [ ] [econ] 
+- [ ] [lunch break] 
 
 tarde
 - [ ] [english] 
 - [ ] [english] 
-- [ ] [cs club] 
+- [ ] [cs club] floor planner, 
 - [ ] [cs club] 
 
 noch

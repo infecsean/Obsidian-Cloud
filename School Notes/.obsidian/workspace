@@ -7,11 +7,9 @@
         "id": "73062ffe2160d4f1",
         "type": "leaf",
         "state": {
-          "type": "markdown",
+          "type": "kanban",
           "state": {
-            "file": "DP English LL/George Orwell/Marrakech.md",
-            "mode": "source",
-            "source": false
+            "file": "Day Planners/My fucking week/todo kanban.md"
           }
         }
       }
@@ -69,7 +67,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "DP English LL/George Orwell/Marrakech.md",
+                "file": "Day Planners/My fucking week/todo kanban.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -106,15 +104,15 @@
   },
   "active": "73062ffe2160d4f1",
   "lastOpenFiles": [
-    "DP English LL/George Orwell/Marrakech.md",
-    "DP English LL/George Orwell/Shooting an elephant.md",
-    "Day Planners/My fucking week/5Friday.md",
-    "Day Planners/My fucking week/4Thursday.md",
-    "Life/Game Dev/Projects/CAS/Music Stuff.md",
-    "Day Planners/My fucking week/Saturday.md",
-    "Day Planners/My fucking week/Sunday.md",
     "Day Planners/My fucking week/todo kanban.md",
-    "DP Economics/8. Level of Overall Economic Activity/Calculations based on national income accounting/Using price deflator to calculate real GDP.md",
-    "DP Economics/8. Level of Overall Economic Activity/Calculations based on national income accounting/Price Deflator.md"
+    "Day Planners/My fucking week/4Thursday.md",
+    "Day Planners/My fucking week/5Friday.md",
+    "Day Planners/Task List.md",
+    "Life/Game Dev/Projects/CAS/Environment.md",
+    "Life/Game Dev/Projects/CAS/Game design document cas.md",
+    "Life/Game Dev/Projects/CAS/Story in terms of story circle.md",
+    "Life/Game Dev/Storytelling/Story Circle.md",
+    "Day Planners/My fucking week/3Wednesday.md",
+    "Day Planners/My fucking week/Sunday.md"
   ]
 }

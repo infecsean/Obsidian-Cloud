@@ -8,7 +8,7 @@ manana
 - [ ] [Chinese] 
 - [ ] [English] 
 - [ ] [Math] 
-- [ ] [lunch time] 
+- [ ] [lunch time] sleep/guidance ppt
 
 tarde
 - [ ] [CS] 
@@ -18,9 +18,9 @@ tarde
 
 nochi
 - [ ] [7-8] class
-- [ ] [8-9] 
+- [ ] [8-9] math ws
 - [ ] guitar/metro
-- [ ] [930-1030] 
+- [ ] [930-1030] math ws
 - [ ] guitar/metro
 - [ ] [11-12] WOEKOUT
 - [ ] slep

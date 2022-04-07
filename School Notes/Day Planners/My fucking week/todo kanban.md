@@ -6,18 +6,22 @@ kanban-plugin: basic
 
 ## Shit i need to finish fast
 
-- [x] Econ quantitative
-- [ ] Physics waves
-- [ ] EE
+- [ ] math all workshits
 - [ ] Physics smh
-- [ ] Econ ch10
+- [ ] TWITTER LD50 FUC
+- [ ] Ludum Dare reflections
+- [ ] Ludum dare play and feedback
 - [ ] Math RV finish all complex number
+- [ ] SAT Prac
 
 
 ## Shit i need to finish this month
 
+- [ ] Econ ch10
 - [ ] Finish classroom
 - [ ] cas reflections
+- [ ] Physics waves
+- [ ] all chinese hw
 
 
 ## Shit I need to finish
@@ -29,10 +33,9 @@ kanban-plugin: basic
 
 ## Summatives
 
-- [x] Economics ==3/30== Wed
-- [x] Econ Quantitative ==4/1== Fri
-- [ ] Chinese Paper 1 ==4/1== Fri
 - [ ] Physics Simple Harmonic Motion ==4/7==
+- [ ] Math complex numbers ==4/15==
+- [ ] Guidance ppt ==4/17==
 
 
 ## game dev
