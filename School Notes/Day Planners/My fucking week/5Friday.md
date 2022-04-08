@@ -1,18 +1,21 @@
 # Fat Fuck Friday
 ---
-==Important shit==: 
+==Important shit==:
+- [ ] CAS reflections
+- [ ] Physics IA
+- [ ] Math stuff
 
 morning
-- [ ] [shit] 
+- [ ] [shit] Math ws
 - [ ] [math] class
 - [ ] [econ] 
-- [ ] [econ] 
-- [ ] [lunch break] 
+- [ ] [econ] physics ia
+- [ ] [lunch break] sleep?
 
 tarde
 - [ ] [english] 
 - [ ] [english] 
-- [ ] [cs club] floor planner, 
+- [ ] [cs club] floor planner, ctrl+p, pure ref, draw values
 - [ ] [cs club] 
 
 noch

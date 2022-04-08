@@ -1,15 +1,15 @@
 # Satan Saturdays
 ---
 por la manana
-- [ ] [10~11] Plan the game, storyline
-- [ ] [11~12] List out to do list
+- [ ] [10~11] 
+- [ ] [11~12] 
 
 por la tarde
-- [ ] [1~2] Start Modeling
-- [ ] [2~230] break
-- [ ] [230~330] Modeling
-- [ ] [330~4] break
-- [ ] [4~5] Coding
+- [ ] [1~2] 
+- [ ] [2~230] 
+- [ ] [230~330] 
+- [ ] [330~4] 
+- [ ] [4~5] 
 - [ ] [5~6] 
 
 por la noche
