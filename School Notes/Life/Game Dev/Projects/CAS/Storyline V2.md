@@ -11,7 +11,19 @@ The narrater is the voice in your head, your subconscious.
 - Regarding the "loneliness rule": The loneliest people can still be surrounded by many loved ones. It's not about how many people you have in your life. It's about how those people make you feel, or how you perceive your relationship with them. Like; do they love you unconditionally? Accept you for who you are? Understand you? Do they express how they feel or hide their feelings, and if so do you undestand or accept that? Do you hide a part of yourself because you think people will reject you for it? [a comment](https://www.youtube.com/watch?v=rKAH-YZWGlM&ab_channel=schnee)
 ### SCHOOLS: if students are causing problems, make it more difficult for them! (incentive)(instead of solving the root problem)(ex. school shooting, suicide, depression) [Sauce](https://www.youtube.com/watch?v=usSfgHGEGxQ&list=LL&index=1&ab_channel=JacobGeller)
 so that they wont be responsible for the problem
+- Can probably use DHMIS as good inspiration
 
+### Themes
+- Afraid of being creative
+- We dont need to learn what they tell us to learn
+- We dont need to be punished by manipulators for disobeying them
+- Authority figure disguised as a professor
+- Interpretations are rejected and shamed
+- Creativity is shoved in their faces
+- Success by being manipulated and submissive learning
+- Breaking in the class being punished
+- Mind land is symbolic of creativity
+- Authority figures will reject questions
 
 ### Ideas for progression
 ~~The windows will be fully lit at the start school, but slowly dim as you progress
@@ -55,14 +67,23 @@ Mind:
 - 
 
 School:
-- "i dont understand self harm, they just want attention i guess" "Yeah, otherwise they'd just kill themselves right?"
+- "i dont understand self harm, they just want attention i guess" "Yeah, otherwise they'd just kill themselves right?""==Snowflake=="(==Name-calling==)
+- "There's nothing you can say that someone else hasnt said before"
 - Schools solves the symptoms instead of the root problems.
 	- that said, maybe include this into game
 	- ==Features==: mattress on 1st floor to prevent suicide, long corridors to prevent shootings, 
 	- dim lights that discourage studying, revolting doors that let students in but not out
-- Violectors - Violet: color of corruption. Violence, Lectors
+~~- Violectors - Violet: color of corruption. Violence, Lectors~~
 - water under the bridge: the water under the bridge is full of dead bodies
-
+Events:
+- ==every one of these events should have a foreshadowing told by the friend, to show you the truth first==. 
+- Start with weekly ceremony: Introduce the core values of the school, (also serve as a brainwashing mechanic, believing over time). this is a good time to introduce the school's ==bad shit==, such as reminding the children that success does not come without hard work (if they slack, they fail). it is a known fact that successful people go to school
+- Drug use speech: Show the irony in treating the symptom and not the root, ==overgeneralization== of kids that use drugs to be BAD KIDS and ==terrorists== (==name-calling==)and they will spread the drug use so mark them as dangerous (==fear==-based propaganda). "Those who catch and report them will be deemed a ==hero==!"
+- School shooting speech (==exaggerate the propagandistic aspect==): Last year, 1 person made a decision, a decision at the cost of 12 lives. (that might be the introduction i guess). Point is, they will not let ==terrorists== take away our ==learning==! THEY MAY TAKE OUR LIVES BUT THEY MAY NEVER TAKE AWAY OUR ==EDUCATION==. (insert anti-school shooting campaign to fight against terrorists).
+- After your friend do something bad, and only you are in the know, his public apology: Using fear and shame to suppress those who rebel. Award people who follow social conventions (winning awards)
+- Charity event (==which is mandatory==, ==irony==): Guilt students into being grateful for what they have, make students give money, otherwise shame them. "With your contribution, you can make the world a better place!" "Everybody is contributing, why aren't you?" "Surely you have SOME money, right?" "==bad person=="(==name calling==) "if you dont contribute, youre as bad as they are!"
+- 
+ 
 When school and mind convulge:
 - Like the arcane jinx mental breakdown scenes
 	- The scribble 60 fps Xs and monsters hallucinations

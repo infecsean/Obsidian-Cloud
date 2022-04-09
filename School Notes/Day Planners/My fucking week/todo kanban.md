@@ -8,11 +8,11 @@ kanban-plugin: basic
 
 - [ ] math all workshits
 - [ ] Physics smh
-- [ ] TWITTER LD50 FUC
-- [ ] Ludum Dare reflections
-- [ ] Ludum dare play and feedback
 - [ ] Math RV finish all complex number
 - [ ] SAT Prac
+- [x] TWITTER LD50 FUC
+- [ ] Ludum Dare reflections
+- [x] Ludum dare play and feedback
 
 
 ## Shit i need to finish this month
