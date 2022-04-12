@@ -7,12 +7,10 @@ kanban-plugin: basic
 ## Shit i need to finish fast
 
 - [ ] math all workshits
-- [ ] Physics smh
 - [ ] Math RV finish all complex number
 - [ ] SAT Prac
 - [x] TWITTER LD50 FUC
 - [ ] Ludum Dare reflections
-- [x] Ludum dare play and feedback
 
 
 ## Shit i need to finish this month
@@ -29,6 +27,7 @@ kanban-plugin: basic
 - [ ] Chinese my part
 - [ ] Guidance ppr
 - [ ] Chinese 5-7 notes
+- [ ] chinese ppt
 
 
 ## Summatives
@@ -36,6 +35,7 @@ kanban-plugin: basic
 - [ ] Physics Simple Harmonic Motion ==4/7==
 - [ ] Math complex numbers ==4/15==
 - [ ] Guidance ppt ==4/17==
+- [ ] Physics Waves ==5/10==
 
 
 ## game dev
@@ -44,6 +44,9 @@ kanban-plugin: basic
 - [ ] Classroom
 - [ ] Ctrl+P tutorials
 - [ ] Houdini Udemy course lmak
+- [ ] Composer course
+- [ ] Learn FMOD (game audio realtime)
+- [ ] Unity Learn
 
 
 ## shit i wanna do

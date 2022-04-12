@@ -1,6 +1,6 @@
 # Monkey Mondays 🐒
 ---
-- [ ] ==Biggest Task for today==: Finish Physics
+- [ ] ==Biggest Task for today==: physics test, english ppt, math ws 2
 
 mornig
 - [ ] [before shit] 
@@ -17,9 +17,9 @@ tarde
 - [ ] [english] 
 
 noche
-- [ ] [7-8] gamin/
-- [ ] [8-9] Math hw
+- [ ] [7-8] gamin
+- [ ] [8-9] Math ws 2
 - [ ] [9-930] gamin/guitar
-- [ ] [930-1030] Math hw
-- [ ] [1030-11] leeway time/gamin
+- [ ] [930-1030] Math rv
+- [ ] [1030-11] 
 - [ ] [11-12] workout

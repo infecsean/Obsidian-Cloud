@@ -24,6 +24,8 @@ so that they wont be responsible for the problem
 - Breaking in the class being punished
 - Mind land is symbolic of creativity
 - Authority figures will reject questions
+- ==SOCIAL COMMENTARY LOOK IT UP==
+
 
 ### Ideas for progression
 ~~The windows will be fully lit at the start school, but slowly dim as you progress
