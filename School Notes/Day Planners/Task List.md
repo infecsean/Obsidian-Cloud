@@ -11,7 +11,6 @@
 - [ ] Econ Chapter 10
 - [ ] Econ Chapter 11
 - [ ] Econ Chapter 12
-- [ ] Physics Simple harmonic motion
 - [ ] Physics Waves
 
 ### Summatives left
