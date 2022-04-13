@@ -1,5 +1,10 @@
 # Coming of age arc CAS
 ---
+hey maybe "knowledge is power" could be a good one
+- Ties into cliche sayings in the game
+- Ties into authority education
+- Ties into 
+
 [[Coming of age story]] original doc
 
 [sauce](https://thenovelsmithy.com/coming-of-age-character-arc/)

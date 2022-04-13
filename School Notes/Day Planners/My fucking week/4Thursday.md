@@ -1,6 +1,6 @@
 # Thrusting Thursday 🪥
 ---
-==important shit==: 1/3 and 2/3 cas reflections, math 2 worksheets, physics ia
+==important shit==: 
 
 morning
 - [ ] [Before chaos] 
@@ -14,14 +14,13 @@ Aftarde
 - [ ] [Chinese] 
 - [ ] [Chinese] 
 - [ ] [homeroooo] 
-- [ ] [Physics] cas reflections
+- [ ] [Physics] 
 
 noche
 - [ ] [7-8] gamin
-- [ ] [8-9] math worksheet
-- [ ] guitar
-- [ ] [930-1030] math rv complex 10
-- [ ] relax/workout/shower
-- [ ] [11-12] cali
-- [ ] sleeeeep
+- [ ] [8-9] math hw/rv
+- [ ] [9-10] workout this time
+- [ ] [10-11] sleep
+- [x] [11-12] cali
+- [x] sleeeeep
 

@@ -9,8 +9,8 @@ kanban-plugin: basic
 - [ ] math all workshits
 - [ ] Math RV finish all complex number
 - [ ] SAT Prac
-- [x] TWITTER LD50 FUC
 - [ ] Ludum Dare reflections
+- [x] TWITTER LD50 FUC
 
 
 ## Shit i need to finish this month
@@ -45,7 +45,7 @@ kanban-plugin: basic
 - [ ] Ctrl+P tutorials
 - [ ] Houdini Udemy course lmak
 - [ ] Composer course
-- [ ] Learn FMOD (game audio realtime)
+- [ ] Learn FMOD
 - [ ] Unity Learn
 
 

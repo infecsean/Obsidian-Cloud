@@ -84,7 +84,7 @@ Events:
 - School shooting speech (==exaggerate the propagandistic aspect==): Last year, 1 person made a decision, a decision at the cost of 12 lives. (that might be the introduction i guess). Point is, they will not let ==terrorists== take away our ==learning==! THEY MAY TAKE OUR LIVES BUT THEY MAY NEVER TAKE AWAY OUR ==EDUCATION==. (insert anti-school shooting campaign to fight against terrorists).
 - After your friend do something bad, and only you are in the know, his public apology: Using fear and shame to suppress those who rebel. Award people who follow social conventions (winning awards)
 - Charity event (==which is mandatory==, ==irony==): Guilt students into being grateful for what they have, make students give money, otherwise shame them. "With your contribution, you can make the world a better place!" "Everybody is contributing, why aren't you?" "Surely you have SOME money, right?" "==bad person=="(==name calling==) "if you dont contribute, youre as bad as they are!"
-- 
+- PTSD experiments: traumatic events to engrade memory into students
  
 When school and mind convulge:
 - Like the arcane jinx mental breakdown scenes

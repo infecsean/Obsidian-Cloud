@@ -1,6 +1,6 @@
 # Willy Wonka's Wet Weiner Wednesday
 ---
-- [ ] ==Biggest Task for today==: English presentation, math hw, guidance ppt
+- [ ] ==Biggest Task for today==: 
 
 manana
 - [ ] [MORE!!!] 
@@ -18,10 +18,9 @@ tarde
 
 nochi
 - [ ] [7-8] class
-- [ ] [8-9] math ws
-- [ ] guitar/metro
-- [ ] [930-1030] math ws
-- [ ] guitar/metro
+- [ ] [8-9] math rv/hw
+- [ ] [9-10] math rv
+- [ ] [10-11] whateverthefuck
 - [ ] [11-12] WOEKOUT
 - [ ] slep
 
