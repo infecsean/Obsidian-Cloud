@@ -8,7 +8,7 @@ manana
 - [ ] [Chinese] 
 - [ ] [English] 
 - [ ] [Math] 
-- [ ] [lunch time] sleep/guidance ppt
+- [ ] [lunch time] sleep
 
 tarde
 - [ ] [CS] 
@@ -18,9 +18,15 @@ tarde
 
 nochi
 - [ ] [7-8] class
+<<<<<<< Updated upstream
 - [ ] [8-9] math rv/hw
 - [ ] [9-10] math rv
 - [ ] [10-11] whateverthefuck
+=======
+- [ ] [8-9] math ws
+- [ ] [9-10] storyline
+- [ ] guitar
+>>>>>>> Stashed changes
 - [ ] [11-12] WOEKOUT
 - [ ] slep
 

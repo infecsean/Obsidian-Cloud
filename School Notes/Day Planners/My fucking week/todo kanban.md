@@ -10,7 +10,11 @@ kanban-plugin: basic
 - [ ] Math RV finish all complex number
 - [ ] SAT Prac
 - [ ] Ludum Dare reflections
+<<<<<<< Updated upstream
 - [x] TWITTER LD50 FUC
+=======
+- [ ] Finish reading chinese
+>>>>>>> Stashed changes
 
 
 ## Shit i need to finish this month

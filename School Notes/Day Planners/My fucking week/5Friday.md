@@ -1,9 +1,7 @@
 # Fat Fuck Friday
 ---
 ==Important shit==:
-- [ ] CAS reflections
-- [ ] Physics IA
-- [ ] Math stuff
+- [ ] MATH TEST AHHH
 
 morning
 - [ ] [shit] Math ws
