@@ -4,12 +4,14 @@
     "type": "split",
     "children": [
       {
-        "id": "73062ffe2160d4f1",
+        "id": "254a8a2c816ded63",
         "type": "leaf",
         "state": {
-          "type": "kanban",
+          "type": "markdown",
           "state": {
-            "file": "Day Planners/My fucking week/todo kanban.md"
+            "file": "Day Planners/My fucking week/4Thursday.md",
+            "mode": "source",
+            "source": false
           }
         }
       }
@@ -67,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Day Planners/My fucking week/todo kanban.md",
+                "file": "Day Planners/My fucking week/4Thursday.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,17 +104,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "73062ffe2160d4f1",
+  "active": "254a8a2c816ded63",
   "lastOpenFiles": [
-    "Day Planners/My fucking week/todo kanban.md",
-    "Life/Game Dev/Projects/CAS/Story/Characters in my CAS Game.md",
-    "DP English LL/the video notes.md",
-    "Life/Game Dev/Projects/CAS/Storyline V2.md",
+    "Day Planners/My fucking week/4Thursday.md",
+    "Day Planners/My fucking week/5Friday.md",
     "Life/Game Dev/Projects/CAS/Story/Coming of age story arc CAS.md",
+    "Life/Game Dev/Projects/CAS/Story/Characters in my CAS Game.md",
     "Life/Game Dev/Projects/CAS/Story/Game design document cas.md",
     "Life/Game Dev/Projects/CAS/Story/Story in terms of story circle.md",
     "Life/Game Dev/Projects/CAS/Story/Mind outline.md",
     "Life/Game Dev/Projects/CAS/Story/Story Struggles.md",
-    "Life/Game Dev/Projects/CAS/Music Stuff.md"
+    "Life/Game Dev/Projects/CAS/Game design document cas.md",
+    "Day Planners/My fucking week/todo kanban.md"
   ]
 }
