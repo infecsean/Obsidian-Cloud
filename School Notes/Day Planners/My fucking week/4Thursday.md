@@ -19,9 +19,9 @@ Aftarde
 
 noche
 - [ ] [7-8] gamin
-- [ ] [8-9] math hw/rv
+- [ ] [8-9] math review all notes from notebook, review soul of two papers
 - [ ] [9-10] workout this time
 - [ ] [10-11] sleep
-- [ ] [11-12] cali
-- [ ] sleeeeep
+- [x] [11-12] cali
+- [x] sleeeeep
 
