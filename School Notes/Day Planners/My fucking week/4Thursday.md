@@ -5,17 +5,17 @@
 
 morning
 - [ ] [Before chaos] Math finish
-- [ ] [CS] storyline/outline mind
-- [ ] [CS] storyline/outline mind
-- [ ] [TOK] storyline?
-- [ ] [Self Study] math study
+- [ ] [CS] 
+- [ ] [CS] 
+- [ ] [TOK] 
+- [ ] [Self Study] 
 - [ ] [Lunch break] sleep
 
 Aftarde
-- [ ] [Chinese] storyline/outline mind
-- [ ] [Chinese] storyline/outline mind
-- [ ] [homeroooo] storyline/outline mind
-- [ ] [Physics] outline mind
+- [ ] [Chinese] 
+- [ ] [Chinese] 
+- [ ] [homeroooo] 
+- [ ] [Physics] 
 
 noche
 - [ ] [7-8] gamin

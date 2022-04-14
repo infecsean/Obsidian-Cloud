@@ -34,28 +34,29 @@
 		- [x] chairs
 		- [x] tables
 		- [x] blackboard
-		- [ ] blackboard slidable
 		- [x] ceiling light
-		- [ ] ceiling fans
 		- [x] AC
 		- [ ] cloth sim on AC to know if it is on
 		- [x] bulletin board
-		- [ ] doors
 		- [x] light switches/AC
-		- [ ] windows
-		- [ ] projectors
+		- [ ] doors
+		- [ ] barred windows
+		- [ ] ceiling fans
+		- [ ] walls
+		- [ ] projector
 		- [ ] projector screens
 		- [ ] (optional) elevated stage for teachers
 		- [ ] presentation table for teachers
-		- [ ] curtains
+		- [ ] ?curtains?
 		- [ ] lockers
-		- [ ] backpacks
-		- [ ] text books
-		- [ ] papers
 		- [ ] wall plug chargers
 		- [ ] announcement system
 		- [ ] clock
 		- [ ] outside class card above door
+		- optional (for gameplay storytelling purposes only i guess)
+		- [ ] backpacks
+		- [ ] text books
+		- [ ] papers
 	- [ ] Bathroom
 		- [ ] color transition to mind
 		- [ ] Toilets

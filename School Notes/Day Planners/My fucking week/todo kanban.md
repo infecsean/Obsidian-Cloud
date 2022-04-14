@@ -41,7 +41,7 @@ kanban-plugin: basic
 
 ## game dev
 
-- [ ] Krita Brushes
+- [ ] mountain cloud brushes
 - [ ] Classroom
 - [ ] Ctrl+P tutorials
 - [ ] Houdini Udemy course lmak
