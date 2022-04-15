@@ -101,6 +101,8 @@ Parents:
 - "you shouldve prepared instead of playing with your friends all the time"
 - Each dialogue above is represented by a knife that shoots to your feet
 - dad keeps a gun (WHICH PREPARES YOU FOR DA SHOOT SHOOT)
+- GET INSPIRATION FROM THIS HOUSE HAS PEOPLE IN IT [here](https://www.youtube.com/watch?v=x-pj8OtyO2I&t=0s)
+- 
 
 
 
