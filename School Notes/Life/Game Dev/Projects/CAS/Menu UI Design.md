@@ -6,6 +6,7 @@
 - Highlight your most important feature
 - After making the menu, ask yourself, from the perspective of a consumer (like in the video 5:51)
 - Consistent graphic style
+- pause menu has a hint
 
 ### HUD
 [Sauce2](https://www.youtube.com/watch?v=4Bv45aPMGyI&ab_channel=GameMaker%27sToolkit)

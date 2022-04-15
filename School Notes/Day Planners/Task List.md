@@ -1,11 +1,21 @@
 
-## Tasks
-- [ ] personal statement
-- [ ] commonapp stuff
-- [x] econ workbook 3 macroecon p.38 ~ 41 (2.1)
-- [x] CAS Reflections
-- [x] EE stuff
-- [x] sat
+## Class Tasks
+- Chinese
+- [ ] Read the 6 chapters
+- [ ] ppt probably
+- English
+- [x] 
+- Math
+- [ ] Practice rv
+- Econ
+- [ ] chapter 10
+- [ ] chapter 11
+- [ ] chapter 12
+- Physics
+- [ ] waves
+- [ ] magnetism and shit
+- CS
+- [ ] chapter 1 notes
 
 ## Notes
 - [ ] Econ Chapter 10

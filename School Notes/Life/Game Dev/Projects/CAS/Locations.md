@@ -1,12 +1,9 @@
-# Environment
+# Locations
 ---
-Whenever you enter a new area, words will fade in saying "Library", "Home", or %!^#\*! for subconsciousness areas
-
-Enters to entrance of school, it is surrounded by water, cross a bridge to get to the school
+Whenever you enter a new area, words will fade in saying "Library", "Home"?
 
 ### School peripherals
-The gate with cherry blossoms
-leads into the school building
+School Gate
 
 ### School building
 School built like a fuckin castle, surrounded by water, to both prevent escape and suicide
@@ -14,8 +11,7 @@ B1F - Cafeteria & Convenience Store
 1F - Lobby
 2F - Classroom
 3F - Classroom
-4F - Classroom
-The classroom of truth - vandalized classroom with quotes
+The abandoned classroom - vandalized with quotes
 	- "Education is the most powerful weapon to ~~change the world~~ kill children"
 	- "Education is not the key to life, but ~~life~~ death"
 	- "Practice makes ~~perfect~~ inescapable death loops"
@@ -24,12 +20,8 @@ The classroom of truth - vandalized classroom with quotes
 	- "all roads lead to ~~rome~~ death"
 5F - Library
 6F - Roof
-Exits to a desert
 
 kinda looks like a box, with a front gate, three buildings, school buildings. So maybe its middle 1f lobby, 2f cafeteria and convenience store, 3f library, 4f roof. Left and Right all classroom, with roof. middle is kind of a forest.
-
-### Desert
-Theres a sandstorm
 
 ### mind
 - You are prompted avilability to travel there when nobody is nearby, cus they enduce anxiety, (prolly a good way to break the fourth wall, reveal that the teleporter is effected by your anxiety meter)
@@ -43,11 +35,11 @@ Theres a sandstorm
 - So is the tree of knowledge?
 - but the road becomes tighter and tighter
 - You really cant miss a step, or else youre fucked
+- Rope attached to the top of a spikey cliff to the middle, where the tree is located
 
 ### Plane of Shame
 - Classmates
 - Angry Parents
-~~- everytime you have to kill or harm yourself to leave~~(thats just omori)
 
 Symbolism needed:
 - something to represent how much school has destroyed your hopes and dreams

@@ -1,12 +1,12 @@
 # Fat Fuck Friday
 ---
 ==Important shit==:
-- [ ] MATH TEST
+- [ ] storyline finish! (or try to i guess)
 
 morning
-- [ ] [shit] math notes
-- [ ] [math] TEST FUCK
-- [ ] [econ] storyline?
+- [x] [shit] math notes
+- [x] [math] TEST FUCK
+- [x] [econ] storyline?
 - [ ] [econ] storyline shit?
 - [ ] [lunch break] sleep?
 

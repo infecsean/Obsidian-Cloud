@@ -4,6 +4,10 @@ hey maybe "knowledge is power" could be a good one
 - Ties into cliche sayings in the game
 - Ties into authority education
 - Ties into 
+hey maybe "early worm" could be a good one
+- opposes cliche sayings
+- students are the "worms" brainwashed by education
+- 
 
 [[Coming of age story]] original doc
 

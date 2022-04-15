@@ -6,12 +6,11 @@ kanban-plugin: basic
 
 ## Shit i need to finish fast
 
-- [ ] math all workshits
-- [ ] Math RV finish all complex number
 - [ ] SAT Prac
 - [ ] Ludum Dare reflections<br>
 - [x] TWITTER LD50 FUC<br>
 - [ ] Finish reading chinese
+- [ ] english reflections fuck fuc kfuck
 
 
 ## Shit i need to finish this month
@@ -33,8 +32,6 @@ kanban-plugin: basic
 
 ## Summatives
 
-- [ ] Physics Simple Harmonic Motion ==4/7==
-- [ ] Math complex numbers ==4/15==
 - [ ] Guidance ppt ==4/17==
 - [ ] Physics Waves ==5/10==
 

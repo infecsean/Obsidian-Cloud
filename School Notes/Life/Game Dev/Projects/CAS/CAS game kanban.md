@@ -7,7 +7,7 @@ kanban-plugin: basic
 ## Prototype
 
 - [x] Resize School #FIX
-- [ ] Front Gate #STRUCTURE
+- [x] Front Gate #STRUCTURE
 - [ ] Walls #STRUCTURE
 - [ ] Classroom buildings #STRUCTURE
 - [ ] Central Station building #STRUCTURE
