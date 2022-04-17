@@ -40,6 +40,11 @@ Approaches:
 		- Cons
 			- Hard to do without seeming forced
 
+MAYBE DONT KILL GRANDPA
+just that dad has to move to another country for work
+- mc doesnt get pre-traumatized by death and can stay positive for education system
+- parents dont have reason to treat him good
+
 ### Phase 2: Catalyst
 Instead of labeling this as a catalyst, it is a tragedy.
 His grandpa DIES, and he isnt "pushed" or "called (to adventure)", but FORCED.

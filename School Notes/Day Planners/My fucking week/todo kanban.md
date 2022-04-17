@@ -10,7 +10,7 @@ kanban-plugin: basic
 - [ ] Ludum Dare reflections<br>
 - [x] TWITTER LD50 FUC<br>
 - [ ] Finish reading chinese
-- [ ] english reflections fuck fuc kfuck
+- [x] english reflections fuck fuc kfuck
 
 
 ## Shit i need to finish this month
@@ -30,12 +30,6 @@ kanban-plugin: basic
 - [ ] chinese ppt
 
 
-## Summatives
-
-- [ ] Guidance ppt ==4/17==
-- [ ] Physics Waves ==5/10==
-
-
 ## game dev
 
 - [ ] mountain cloud brushes
@@ -45,6 +39,12 @@ kanban-plugin: basic
 - [ ] Composer course
 - [ ] Learn FMOD
 - [ ] Unity Learn
+
+
+## Summatives
+
+- [ ] Guidance ppt ==4/17==
+- [ ] Physics Waves ==5/10==
 
 
 ## shit i wanna do

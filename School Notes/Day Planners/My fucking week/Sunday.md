@@ -6,11 +6,10 @@ morning
 
 'noon
 - [ ] [1-2] 
-- [ ] [2-3] 
-- [ ] [3-330] 
-- [ ] [330-430] 
-- [ ] [430-5] 
-- [ ] [5-6] 
+- [x] [2-3] GTFO
+- [x] [3-4] english reflection
+- [ ] [4-5] english ppt 
+- [ ] [5-6] chinese read 1 and 2
 
 night
 - [ ] [7-8] 
