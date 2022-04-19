@@ -81,5 +81,5 @@ He desperately tries to save his world all while his family is against him.
 Finally, the final blow to him. Is the destruction of his childhood and dreams.
 
 ### Phase 7: Coming of age
-he is now "independent", losing his dreams and all comfort.
 He realize that he cannot save himself.
+He wants to stay rational and make decsions rationally, but he keep getting intrusive thoughts, he tries to fight his emotions, but it has taken control of his body.
