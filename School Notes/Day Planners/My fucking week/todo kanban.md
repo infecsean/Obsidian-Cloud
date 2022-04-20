@@ -6,6 +6,8 @@ kanban-plugin: basic
 
 ## Shit i need to finish fast
 
+- [ ] chinese ppt
+- [ ] english barbara kruger
 - [ ] SAT Prac
 - [ ] Ludum Dare reflections<br>
 - [x] TWITTER LD50 FUC<br>
