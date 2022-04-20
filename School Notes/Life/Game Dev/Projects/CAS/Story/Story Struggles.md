@@ -4,7 +4,7 @@ Making the audience cry:
 resources: [1](https://www.youtube.com/watch?v=y4ObTpA_Vkw&t=230s&ab_channel=TheCloserLook), 
 
 ### process
-- [ ] Learn three [[0. Introduction|acts]]
+- [x] Learn three [[0. Introduction|acts]]
 - [ ] ![[FoolscapGlobalStoryGridForNonfiction.pdf]]
 - [ ] Write [[Characters in my CAS Game|Story circle and character outlines]]
 	- [ ] Main character

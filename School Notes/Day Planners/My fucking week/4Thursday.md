@@ -1,12 +1,12 @@
 # Thrusting Thursday 🪥
 ---
-==important shit==: Study rv
+==important shit==: 
 
 
 morning
-- [ ] [Before chaos] Math finish
-- [ ] [CS] 
-- [ ] [CS] 
+- [ ] [Before chaos] 
+- [ ] [CS] ctrl p 1
+- [ ] [CS] ctrl p 2
 - [ ] [TOK] 
 - [ ] [Self Study] 
 - [ ] [Lunch break] sleep
