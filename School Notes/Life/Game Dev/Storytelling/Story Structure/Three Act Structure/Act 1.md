@@ -30,7 +30,7 @@ offical notes
 - Sparks the match, the point of no return
 - Trigger the event that will set the plot in motion
 - ==ONLY PLOT FOCUSED==, not concerned with character's involvement in plot
-- the tricky part is that it can happen as early as the [[Act 1#Hook sauce https thenovelsmithy com story-structure-1-act-1-the-hook|hook]] or as late as the [[Act 1#First Plot Point|first plot point]]
+- the tricky part is that it can happen as early as the [[Life/Game Dev/Storytelling/Story Structure/Three Act Structure/Act 1#Hook sauce https thenovelsmithy com story-structure-1-act-1-the-hook|hook]] or as late as the [[Life/Game Dev/Storytelling/Story Structure/Three Act Structure/Act 1#First Plot Point|first plot point]]
 - It solidifies the audience's expectations as to what really is going on here
 - doing it early won't hurt
 

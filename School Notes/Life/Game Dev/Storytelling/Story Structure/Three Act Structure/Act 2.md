@@ -9,7 +9,7 @@ Act 2 need to ==escalate== plot conflict, moments of ==growth and failure==, dev
 For more structure i guess
 
 Act 2.0
-- Period of ==reaction== driven by decisions made at the [[Act 1#First Plot Point sauce https thenovelsmithy com story-structure-3-first-plot-point|first pinch point]]
+- Period of ==reaction== driven by decisions made at the [[Life/Game Dev/Storytelling/Story Structure/Three Act Structure/Act 1#First Plot Point sauce https thenovelsmithy com story-structure-3-first-plot-point|first pinch point]]
 - MC is ==pushed forward== by the plot, being punished for lack of skills.
 - They are ==learning== tho
 Act 2.5

@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Life/Game Dev/Storytelling/Story Structure/Three Act Structure/Act 3.md",
+            "file": "Life/Game Dev/Storytelling/Story Structure/Negative Arc/Negative Act 2.md",
             "mode": "source",
             "source": false
           }
@@ -69,13 +69,13 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Life/Game Dev/Storytelling/Story Structure/Three Act Structure/Act 3.md",
+                "file": "Life/Game Dev/Storytelling/Story Structure/Negative Arc/Negative Act 2.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
                 "showSearch": false,
                 "searchQuery": "",
-                "backlinkCollapsed": false,
+                "backlinkCollapsed": true,
                 "unlinkedCollapsed": true
               }
             }
@@ -107,8 +107,7 @@
               }
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "horizontal",
@@ -117,15 +116,15 @@
   },
   "active": "73062ffe2160d4f1",
   "lastOpenFiles": [
-    "Life/Game Dev/Storytelling/Story Structure/Three Act Structure/Act 3.md",
-    "Life/Game Dev/Projects/CAS/Story/Coming of age story arc CAS.md",
-    "Life/Game Dev/Projects/CAS/Story/Mind outline.md",
-    "Life/Game Dev/Projects/CAS/Story/Game design document cas.md",
+    "Life/Game Dev/Storytelling/Story Structure/Negative Arc/Negative Act 2.md",
+    "Life/Game Dev/Storytelling/Story Structure/Negative Arc/Negative Arc Questions.md",
+    "Life/Game Dev/Storytelling/Story Structure/Negative Arc/Negative Arc Types.md",
+    "Life/Game Dev/Storytelling/Story Structure/Negative Arc/Negative Act 1.md",
+    "Life/Game Dev/Storytelling/Story Structure/Negative Arc/The Normal World in negative arcs.md",
+    "Life/Game Dev/Storytelling/Story Structure/Negative Arc/Negative Character Conflict.md",
     "Life/Game Dev/Storytelling/Story Structure/Three Act Structure/Act 1.md",
-    "Life/Game Dev/Storytelling/Story Structure/Three Act Structure/Act 2.md",
-    "Life/Game Dev/Storytelling/Story Structure/Scene Structure.md",
-    "Life/Game Dev/Storytelling/Attachments/Guide to Starting with The Story Grid.pdf",
-    "Life/Game Dev/Projects/CAS/Story/Storyboard Script.md",
-    "Day Planners/My fucking week/0Today.md"
+    "Life/Game Dev/Storytelling/Want vs Need.md",
+    "Life/Game Dev/Storytelling/Story Structure/Three Act Structure/Act 3.md",
+    "Life/Game Dev/Projects/CAS/Story/Coming of age story arc CAS.md"
   ]
 }

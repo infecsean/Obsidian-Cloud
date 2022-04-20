@@ -26,10 +26,10 @@ that is, if it is a standard positive character arc.
 - gives a sense of catharsis
 
 ### Climax
-- deliver all you promised at the [[Act 1#Hook sauce https thenovelsmithy com story-structure-1-act-1-the-hook|hook]], final confrontation between MC and bad guy
+- deliver all you promised at the [[Life/Game Dev/Storytelling/Story Structure/Three Act Structure/Act 1#Hook sauce https thenovelsmithy com story-structure-1-act-1-the-hook|hook]], final confrontation between MC and bad guy
 
 Plot
-- a point of no return, much like the [[Act 1#First Plot Point sauce https thenovelsmithy com story-structure-3-first-plot-point|first plot point]] is the point of no return for the start of the journey, climax is the point of no return for the end of the journey
+- a point of no return, much like the [[Life/Game Dev/Storytelling/Story Structure/Three Act Structure/Act 1#First Plot Point sauce https thenovelsmithy com story-structure-3-first-plot-point|first plot point]] is the point of no return for the start of the journey, climax is the point of no return for the end of the journey
 - conflict will reach an end (whether good or bad)
 - This ==NEEDS== to be done by MC however, it's their choice after all, a judgement of their own conscious, ==morals==, decisions.
 - this climax ==CANNOT== just be bad luck.
