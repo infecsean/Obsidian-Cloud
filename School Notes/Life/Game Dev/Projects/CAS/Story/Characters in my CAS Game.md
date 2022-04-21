@@ -3,8 +3,10 @@
 ![[story circle.png|700]]
 ![[Character Flaws.png]]
 ### Main Character
-- Name: 
-- Want: Restore peace and find comfort (family)
+- Name: Noah ([meaning peaceful](https://momlovesbest.com/biblical-boy-names))
+	- also noah and the ark. He was the only one with clear sight.
+	- noah and the ark but in modern society
+- Want: Great success and good grades
 - Need: control over life
 	- Need to realize that people cant have control over his life
 - Lie: humans are great beings
@@ -43,3 +45,7 @@
 		- Dark: Reality
 		- Comedy: Mind with memes and butterflies and rainbows and candy
 
+
+### Friend
+- Name: Luke ([giver of light and hope](https://momlovesbest.com/biblical-boy-names))
+- Want:

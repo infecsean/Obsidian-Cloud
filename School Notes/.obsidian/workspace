@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Life/Game Dev/Projects/CAS/Story/CAS Act 1.md",
+            "file": "Life/Game Dev/Projects/CAS/Story/Characters in my CAS Game.md",
             "mode": "source",
             "source": false
           }
@@ -77,8 +77,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 309,
-    "collapsed": true
+    "width": 309
   },
   "right": {
     "id": "d6f61973bf5b2b3f",
@@ -94,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Life/Game Dev/Projects/CAS/Story/CAS Act 1.md",
+                "file": "Life/Game Dev/Projects/CAS/Story/Characters in my CAS Game.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -141,15 +140,15 @@
   },
   "active": "73062ffe2160d4f1",
   "lastOpenFiles": [
-    "Life/Game Dev/Projects/CAS/Story/CAS Act 1.md",
+    "Life/Game Dev/Projects/CAS/Story/Characters in my CAS Game.md",
+    "Life/Game Dev/Storytelling/Story Structure/Negative Arc/Negative Arc Types.md",
     "Life/Game Dev/Storytelling/Story Structure/Negative Arc/Negative Act 1.md",
+    "Life/Game Dev/Projects/CAS/Story/CAS Act 1.md",
     "Life/Game Dev/Projects/CAS/Story/Story in terms of story circle.md",
     "Life/Game Dev/Projects/CAS/Story/Negative Story.md",
     "Life/Game Dev/Projects/CAS/Story/Story Struggles.md",
     "Life/Game Dev/Projects/CAS/Story/Storyboard Script.md",
     "Life/Game Dev/Projects/CAS/PTSD Experiment.md",
-    "Life/Game Dev/Storytelling/Story Structure/Negative Arc/Negative Arc Types.md",
-    "Life/Game Dev/Storytelling/Story Structure/Negative Arc/Negative Character Conflict.md",
-    "Life/Game Dev/Storytelling/Want vs Need.md"
+    "Life/Game Dev/Storytelling/Story Structure/Negative Arc/Negative Character Conflict.md"
   ]
 }
