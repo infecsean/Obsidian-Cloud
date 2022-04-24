@@ -7,12 +7,9 @@ kanban-plugin: basic
 ## Shit i need to finish fast
 
 - [ ] chinese ppt
-- [ ] english barbara kruger
 - [ ] SAT Prac
 - [ ] Ludum Dare reflections<br>
-- [x] TWITTER LD50 FUC<br>
 - [ ] Finish reading chinese
-- [x] english reflections fuck fuc kfuck
 
 
 ## Shit i need to finish this month
@@ -27,7 +24,6 @@ kanban-plugin: basic
 ## Shit I need to finish
 
 - [ ] Chinese my part
-- [ ] Guidance ppr
 - [ ] Chinese 5-7 notes
 - [ ] chinese ppt
 
@@ -45,7 +41,6 @@ kanban-plugin: basic
 
 ## Summatives
 
-- [ ] Guidance ppt ==4/17==
 - [ ] Physics Waves ==5/10==
 
 
