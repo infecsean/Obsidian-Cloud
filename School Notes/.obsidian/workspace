@@ -9,31 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Life/Game Dev/Projects/CAS/Story/CAS Act 1.md",
-            "mode": "source",
-            "source": false
-          }
-        }
-      },
-      {
-        "id": "3fd0b33c45130e4d",
-        "type": "leaf",
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "Life/Game Dev/Storytelling/Story Structure/Three Act Structure/Act 1.md",
-            "mode": "source",
-            "source": false
-          }
-        }
-      },
-      {
-        "id": "682ebb884286c7a7",
-        "type": "leaf",
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "Life/Game Dev/Storytelling/Story Structure/Negative Arc/Negative Act 1.md",
+            "file": "Day Planners/My fucking week/2Tuesday.md",
             "mode": "source",
             "source": false
           }
@@ -77,8 +53,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 309,
-    "collapsed": true
+    "width": 309
   },
   "right": {
     "id": "d6f61973bf5b2b3f",
@@ -94,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Life/Game Dev/Storytelling/Story Structure/Three Act Structure/Act 1.md",
+                "file": "Day Planners/My fucking week/2Tuesday.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -139,17 +114,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "3fd0b33c45130e4d",
+  "active": "73062ffe2160d4f1",
   "lastOpenFiles": [
-    "Life/Game Dev/Storytelling/Story Structure/Three Act Structure/Act 1.md",
-    "Life/Game Dev/Storytelling/Story Structure/Negative Arc/Negative Act 1.md",
+    "Day Planners/My fucking week/2Tuesday.md",
+    "Day Planners/My fucking week/3Wednesday.md",
     "Life/Game Dev/Projects/CAS/Story/CAS Act 1.md",
-    "Life/Game Dev/Storytelling/Story Structure/Three Act Structure/Act 3.md",
-    "Life/Game Dev/Storytelling/Story Structure/Negative Arc/The Normal World in negative arcs.md",
-    "Life/Game Dev/Storytelling/Story Structure/Negative Arc/Negative Character Conflict.md",
-    "Life/Game Dev/Storytelling/Story Structure/Negative Arc/Negative Arc Types.md",
-    "Life/Game Dev/Storytelling/Story Structure/Negative Arc/Negative Arc Questions.md",
-    "Life/Game Dev/Storytelling/Story Structure/Three Act Structure/Act 2.md",
-    "Life/Game Dev/Storytelling/Character.md"
+    "Day Planners/My fucking week/5Friday.md",
+    "Day Planners/My fucking week/Saturday.md",
+    "Day Planners/My fucking week/Sunday.md",
+    "Day Planners/My fucking week/4Thursday.md",
+    "Day Planners/Task List.md",
+    "Day Planners/Week Planner.md",
+    "Life/Game Dev/Storytelling/Story Structure/Negative Arc/Negative Act 1.md"
   ]
 }

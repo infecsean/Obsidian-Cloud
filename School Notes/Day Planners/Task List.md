@@ -46,7 +46,7 @@
 		- [x] blackboard
 		- [x] ceiling light
 		- [x] AC
-		- [ ] cloth sim on AC to know if it is on
+		- [x] cloth sim on AC to know if it is on
 		- [x] bulletin board
 		- [x] light switches/AC
 		- [ ] doors
@@ -57,16 +57,16 @@
 		- [ ] projector screens
 		- [ ] (optional) elevated stage for teachers
 		- [ ] presentation table for teachers
-		- [ ] ?curtains?
-		- [ ] lockers
-		- [ ] wall plug chargers
-		- [ ] announcement system
+		- [x] ?curtains?
+		- [x] lockers
+		- [x] wall plug chargers
+		- [x] announcement system
 		- [ ] clock
 		- [ ] outside class card above door
 		- optional (for gameplay storytelling purposes only i guess)
-		- [ ] backpacks
-		- [ ] text books
-		- [ ] papers
+		- [x] backpacks
+		- [x] text books
+		- [x] papers
 	- [ ] Bathroom
 		- [ ] color transition to mind
 		- [ ] Toilets
