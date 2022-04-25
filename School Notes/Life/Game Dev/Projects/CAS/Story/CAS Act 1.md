@@ -26,7 +26,13 @@
 **14.** What is at stake for the character if he chooses to follow the Truth?
 - He will lose his friends and family
 
-### Scene 1
+### Scene 1 characteristic moment
+Goal: Follow your dreams
+Conflict: Grandpa tells you to expand
+Result: Positive, seek knowledge as grandpa tells you to
+
+[notes] maybe rework grandpa's dialogue so he tells you to expand
+
 You start in front of your desk, with homework lying around and a book open, looking out the window to see clouds, and the window frame getting wider, emphasizing the clouds
 
 >this establises his values
@@ -68,11 +74,58 @@ Train slows down and stops, grandpa stands up
 	You: where are you going?
 	Grandpa: somewhere
 	You: where am i going?
-	Grandpa: that is a question that you will have to answer
+	Grandpa: that is a question that only you can answer
 	You: Wait!
 Grandpa doesnt respond, walks off the train
 
 Train text shows: Next stop, Cloud Kingdom
 
 Train arrives at cloud kingdom
-There is a 
+
+([not sure] you walk out of the train station and into a small kingdom, where animals/cloud creatures of sorts tell you that somebody is waiting for you at an edge
+
+you walk to an edge and meet someone, but before they answer, your dad calls you and you snap back to the real world)
+
+### Scene 2
+Goal: Go to the edge to look for someone
+Conflict: Imagination vs reality
+Result: Negative, punished for being creative
+
+[notes] make it so that it establishes the stakes if you choose to obey (lie) through a conversation between dad and you. establish the stakes if you choose truth (seek knowledge through thinking and taking control), fail your parents.
+
+You go to the edge to look for someone
+But before you talk, dad calls your name loudly to come down for school
+
+>establishes dad as authority
+
+You walk downstairs and get into the car
+
+While in the car, you stare out the window and look at the clouds
+
+You are dropped off at school and prompted to walk to the security station
+
+### Scene 3 Inciting Event
+Goal: Get familiar with school
+Conflict: Anxiety of strange place because no color
+Result: Positive, find out about a lot of comfort zones
+
+	Guard: You're the new kid right? Noah?
+	You: Yes sir
+	Guard: Would you like a tour?
+	You: Sure
+	Guard: Very well
+
+He takes you through the hallways of classrooms, to the central square, middle building, bathrooms, library.
+
+As you walk past each place, the library and the bathrooms have color.
+
+### Scene 4 Key Event
+Goal: Start to get knowledge
+Conflict: Classrooms have little color
+Result: Positive, getting ready to learn
+
+	Guard: Okay, so this is your classroom, first class starts in 5 mins
+	You: OK thanks!
+
+You walk into the classroom and you see a chair with color, instantly knowing that that is your seat.
+
