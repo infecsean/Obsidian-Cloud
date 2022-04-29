@@ -37,6 +37,8 @@ kanban-plugin: basic
 - [ ] Composer course
 - [ ] Learn FMOD
 - [ ] Unity Learn
+- [ ] Discord
+- [ ] tiktok marketing
 
 
 ## Summatives

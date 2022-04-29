@@ -7,11 +7,9 @@
         "id": "73062ffe2160d4f1",
         "type": "leaf",
         "state": {
-          "type": "markdown",
+          "type": "kanban",
           "state": {
-            "file": "DP English LL/Paper 2 outline.md",
-            "mode": "source",
-            "source": false
+            "file": "Day Planners/My fucking week/todo kanban.md"
           }
         }
       }
@@ -69,7 +67,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "DP English LL/Paper 2 outline.md",
+                "file": "Day Planners/My fucking week/todo kanban.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -116,8 +114,8 @@
   },
   "active": "73062ffe2160d4f1",
   "lastOpenFiles": [
-    "DP English LL/Paper 2 outline.md",
     "Day Planners/My fucking week/todo kanban.md",
+    "DP English LL/Paper 2 outline.md",
     "Day Planners/Task List.md",
     "Day Planners/My fucking week/4Thursday.md",
     "Day Planners/My fucking week/3Wednesday.md",
