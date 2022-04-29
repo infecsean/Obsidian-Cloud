@@ -13,13 +13,13 @@ morning
 tarde
 - [ ] [english] storyline oh
 - [ ] [english] storyline lol
-- [ ] [cs club] floor planner, ctrl+p, pure ref, draw values
+- [ ] [cs club] 
 - [ ] [cs club] 
 
 noch
 - [ ] [7-8] relax
-- [ ] [8-9] storyline
-- [ ] [9-10] draw Mind map biomes
-- [ ] [10-11] leeway time i guess
-- [ ] [11-12] workout time 11
+- [ ] [8-9] train concept art/cp5
+- [ ] [9-10] train concept art
+- [ ] [10-11] train concept art
+- [ ] [11-12] cali
 - [ ] sleep lmao

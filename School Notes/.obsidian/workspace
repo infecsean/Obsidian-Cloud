@@ -7,9 +7,11 @@
         "id": "73062ffe2160d4f1",
         "type": "leaf",
         "state": {
-          "type": "kanban",
+          "type": "markdown",
           "state": {
-            "file": "Day Planners/My fucking week/todo kanban.md"
+            "file": "Day Planners/My fucking week/5Friday.md",
+            "mode": "source",
+            "source": false
           }
         }
       }
@@ -67,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Day Planners/My fucking week/todo kanban.md",
+                "file": "Day Planners/My fucking week/5Friday.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,15 +116,15 @@
   },
   "active": "73062ffe2160d4f1",
   "lastOpenFiles": [
-    "Day Planners/My fucking week/todo kanban.md",
-    "DP English LL/Paper 2 outline.md",
-    "Day Planners/Task List.md",
-    "Day Planners/My fucking week/4Thursday.md",
+    "Day Planners/My fucking week/5Friday.md",
+    "Day Planners/My fucking week/Saturday.md",
+    "Day Planners/My fucking week/Sunday.md",
+    "Day Planners/My fucking week/1Monday.md",
+    "Day Planners/My fucking week/2Tuesday.md",
     "Day Planners/My fucking week/3Wednesday.md",
-    "Life/Game Dev/Projects/CAS/Story/CAS Act 1.md",
-    "Life/Game Dev/Storytelling/Villains.md",
-    "Life/Game Dev/Storytelling/Want vs Need.md",
-    "Life/Game Dev/Storytelling/Story Circle.md",
-    "Life/Game Dev/Projects/CAS/Storyline V4.md"
+    "Day Planners/My fucking week/4Thursday.md",
+    "Day Planners/Task List.md",
+    "Day Planners/My fucking week/todo kanban.md",
+    "DP English LL/Paper 2 outline.md"
   ]
 }
