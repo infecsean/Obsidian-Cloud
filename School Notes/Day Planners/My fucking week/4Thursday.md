@@ -5,8 +5,8 @@
 
 morning
 - [ ] [Before chaos] 
-- [ ] [CS] ctrl p 1
-- [ ] [CS] ctrl p 2
+- [ ] [CS] ctrl p 4
+- [ ] [CS] ctrl p 4
 - [ ] [TOK] 
 - [ ] [Self Study] 
 - [ ] [Lunch break] sleep
@@ -22,6 +22,6 @@ noche
 - [ ] [8-9] math review all notes from notebook, review soul of two papers
 - [ ] [9-10] workout this time
 - [ ] [10-11] sleep
-- [x] [11-12] cali
-- [x] sleeeeep
+- [ ] [11-12] cali
+- [ ] sleeeeep
 
