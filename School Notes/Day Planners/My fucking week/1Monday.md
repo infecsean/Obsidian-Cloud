@@ -1,6 +1,6 @@
 # Monkey Mondays 🐒
 ---
-- [ ] ==Biggest Task for today==: physics test, english ppt, math ws 2
+- [ ] ==Biggest Task for today==: 
 
 mornig
 - [ ] [before shit] 

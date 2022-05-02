@@ -18,7 +18,7 @@ The abandoned classroom - vandalized with quotes
 	- "would you jump off a cliff i someone asks you to?"
 	- "nothing is impossible, but you're the one talking"
 	- "all roads lead to ~~rome~~ death"
-5F - Library
+5F - Library [bookgen](https://80.lv/articles/get-random-book-generator-v2-for-blender/)
 6F - Roof
 
 kinda looks like a box, with a front gate, three buildings, school buildings. So maybe its middle 1f lobby, 2f cafeteria and convenience store, 3f library, 4f roof. Left and Right all classroom, with roof. middle is kind of a forest.

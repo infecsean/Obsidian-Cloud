@@ -6,10 +6,8 @@ kanban-plugin: basic
 
 ## Shit i need to finish fast
 
-- [x] chinese ppt
 - [ ] SAT Prac
-- [x] Ludum Dare reflections<br>
-- [x] Finish reading chinese
+- [ ] econ ia line johnson
 
 
 ## Shit i need to finish this month
