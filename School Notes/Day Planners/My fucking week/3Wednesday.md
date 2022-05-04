@@ -1,19 +1,19 @@
 # Willy Wonka's Wet Weiner Wednesday
 ---
-- [ ] ==Biggest Task for today==: cp4/act1
+- [ ] ==Biggest Task for today==: 
 
 manana
 - [ ] [MORE!!!] 
 - [ ] [Chinese] 
-- [ ] [Chinese] 
+- [ ] [Chinese] Econ IA stuff
 - [ ] [English] 
-- [ ] [Math] 
+- [ ] [Math] econ ia stuff
 - [ ] [lunch time] sleep
 
 tarde
-- [ ] [CS] 
-- [ ] [Econ] act1
-- [ ] [Econ] act1
+- [ ] [CS] physics notes
+- [ ] [Econ] 
+- [ ] [Econ] 
 - [ ] [guidance] 
 
 nochi
