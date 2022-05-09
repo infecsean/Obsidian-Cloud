@@ -1,6 +1,6 @@
 # Monkey Mondays 🐒
 ---
-- [ ] ==Biggest Task for today==: 
+- [ ] ==Biggest Task for today==: finish studying physics
 
 mornig
 - [ ] [before shit] 

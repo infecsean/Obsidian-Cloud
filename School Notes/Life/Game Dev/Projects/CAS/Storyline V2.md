@@ -86,6 +86,7 @@ Events:
 - Charity event (==which is mandatory==, ==irony==): Guilt students into being grateful for what they have, make students give money, otherwise shame them. "With your contribution, you can make the world a better place!" "Everybody is contributing, why aren't you?" "Surely you have SOME money, right?" "==bad person=="(==name calling==) "if you dont contribute, youre as bad as they are!"
 - PTSD experiments: traumatic events to engrade memory into students
 - we prepare you for the real world, by creating a mini-society to train you
+- stickers or signs sticked on people
  
 When school and mind convulge:
 - Like the arcane jinx mental breakdown scenes

@@ -1,12 +1,12 @@
 # Today or not today
 ---
 por la manana
-- [ ] [9-10] Chinese read 1 & 2
-- [ ] [10-11] act 3
-- [ ] [11-12] act 3
+- [ ] [9-10] 
+- [ ] [10-11] 
+- [ ] [11-12] 
 
 por la tarde
-- [ ] [1-2] chinese read 3 & 4
+- [ ] [1-2] 
 - [ ] [2~3] 
 - [ ] [3~4] 
 - [ ] [4~5] 

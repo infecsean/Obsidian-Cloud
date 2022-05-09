@@ -49,3 +49,12 @@
 ### Friend
 - Name: Luke ([giver of light and hope](https://momlovesbest.com/biblical-boy-names))
 - Want: 
+
+### Overseer/Warden/THE caretaker
+- Name: "Warden"
+- Want: Produce workers and keep reputation
+	- He has a microphone, which the clones dont
+
+### Caretakers
+- Name: Caretaker
+- Want
