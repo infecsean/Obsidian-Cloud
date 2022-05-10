@@ -1,18 +1,18 @@
 # OI FACKIN CHEWSDAY
 ---
-- [ ] ==Biggest Task for today==: physics exam
+- [ ] ==Biggest Task for today==: 
 
 Morn
-- [ ] [before clas] physics sheet
-- [ ] [CS] physics shee
-- [ ] [CS] physics she
+- [ ] [before clas] 
+- [ ] [CS] 
+- [ ] [CS] 
 - [ ] [math] 
-- [ ] [lunch] sleep
+- [ ] [lunch] 
 
 Aft
 - [ ] [Physics] 
 - [ ] [Physics] 
-- [ ] [5%] chinese
+- [ ] [5%] 
 - [ ] [5%] chinese/cs worksheet
 
 noche

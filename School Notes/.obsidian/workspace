@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Day Planners/My fucking week/2Tuesday.md",
+            "file": "DP English LL/Advertisements/Ad analysis.md",
             "mode": "source",
             "source": false
           }
@@ -53,7 +53,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 309
+    "width": 309,
+    "collapsed": true
   },
   "right": {
     "id": "d6f61973bf5b2b3f",
@@ -69,7 +70,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Day Planners/My fucking week/2Tuesday.md",
+                "file": "DP English LL/Advertisements/Ad analysis.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -116,15 +117,15 @@
   },
   "active": "73062ffe2160d4f1",
   "lastOpenFiles": [
+    "DP English LL/Advertisements/Ad analysis.md",
     "Day Planners/My fucking week/2Tuesday.md",
-    "Day Planners/My fucking week/!end point.md",
-    "Life/Game Dev/Projects/CAS/Story/Characters in my CAS Game.md",
-    "Life/Game Dev/Projects/CAS/Story/Coming of age story arc CAS.md",
+    "Day Planners/My fucking week/3Wednesday.md",
     "Day Planners/My fucking week/todo kanban.md",
-    "Day Planners/My fucking week/0Today.md",
+    "DP Economics/Econ format.md",
     "Day Planners/Task List.md",
     "Day Planners/My fucking week/1Monday.md",
-    "Day Planners/My fucking week/3Wednesday.md",
-    "Life/Game Dev/Projects/CAS/Story/Storyboard Script.md"
+    "Life/Game Dev/Projects/CAS/Story/CAS Act 1.md",
+    "Life/Game Dev/Projects/CAS/Locations.md",
+    "Life/Game Dev/Game Dev Resources.md"
   ]
 }
