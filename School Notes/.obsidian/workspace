@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "DP English LL/Advertisements/Ad analysis.md",
+            "file": "DP Computer Science/Topic 3. Networks/Topic 3 Overview.md",
             "mode": "source",
             "source": false
           }
@@ -53,8 +53,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 309,
-    "collapsed": true
+    "width": 309
   },
   "right": {
     "id": "d6f61973bf5b2b3f",
@@ -70,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "DP English LL/Advertisements/Ad analysis.md",
+                "file": "DP Computer Science/Topic 3. Networks/Topic 3 Overview.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -117,15 +116,15 @@
   },
   "active": "73062ffe2160d4f1",
   "lastOpenFiles": [
+    "DP Computer Science/Topic 3. Networks/Topic 3 Overview.md",
+    "DP Computer Science/Topic 3. Networks/1. Network Fundamentals/firewall.md",
+    "DP Computer Science/Topic 3. Networks/1. Network Fundamentals/0.1.3 Protocols.md",
+    "DP Computer Science/Topic 3. Networks/1. Network Fundamentals/1. Network fundamentals.md",
+    "DP Computer Science/Topic 3. Networks/1. Network Fundamentals/0.1 Definitions and intro.md",
+    "Day Planners/My fucking week/todo kanban.md",
     "DP English LL/Advertisements/Ad analysis.md",
     "Day Planners/My fucking week/2Tuesday.md",
     "Day Planners/My fucking week/3Wednesday.md",
-    "Day Planners/My fucking week/todo kanban.md",
-    "DP Economics/Econ format.md",
-    "Day Planners/Task List.md",
-    "Day Planners/My fucking week/1Monday.md",
-    "Life/Game Dev/Projects/CAS/Story/CAS Act 1.md",
-    "Life/Game Dev/Projects/CAS/Locations.md",
-    "Life/Game Dev/Game Dev Resources.md"
+    "DP Economics/Econ format.md"
   ]
 }

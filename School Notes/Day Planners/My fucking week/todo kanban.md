@@ -7,23 +7,23 @@ kanban-plugin: basic
 ## Shit i need to finish fast
 
 - [ ] SAT Prac
-- [ ] econ ia line johnson
+- [ ] chinese ppt
+- [x] Chinese group note
+- [ ] Chinese 5-7 notes
+- [ ] chinese practice photo
 
 
 ## Shit i need to finish this month
 
 - [ ] Econ ch10
-- [ ] Finish classroom
 - [ ] cas reflections
 - [ ] Physics waves
-- [ ] all chinese hw
 
 
 ## Shit I need to finish
 
-- [ ] Chinese my part
-- [ ] Chinese 5-7 notes
-- [ ] chinese ppt
+- [ ] Finish classroom
+- [ ] all chinese hw
 
 
 ## game dev
@@ -41,7 +41,6 @@ kanban-plugin: basic
 
 ## Summatives
 
-- [ ] Physics Waves ==5/10==
 
 
 ## shit i wanna do
