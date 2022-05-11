@@ -25,7 +25,7 @@ Hello cumrats this is my mind map
 			- [[Why is vertex position a float4]]
 			 <br>
 ### DP Computer Science 🖥️
-- [[Computer Science Placeholder]]
+- [[Computer Science Overview]]
  <br>
 ### DP Economics 💰
 - [[Econ Resources]]

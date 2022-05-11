@@ -87,6 +87,12 @@ Events:
 - PTSD experiments: traumatic events to engrade memory into students
 - we prepare you for the real world, by creating a mini-society to train you
 - stickers or signs sticked on people
+- based on diseases and name-calling for disobedient children
+	- you have to get your grades up so you won't get depression
+	- depression is directly related to anger issues
+	- the best way is to always stay happy and dont show sadness and anger
+	- and the school wants the best and provides the best
+		- and therefore dont allow students to be sad or angry
  
 When school and mind convulge:
 - Like the arcane jinx mental breakdown scenes
