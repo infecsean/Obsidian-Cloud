@@ -20,7 +20,7 @@ Aftarde
 noche
 - [ ] [7-8] gamin
 - [ ] [8-9] math
-- [ ] [9-10] 
+- [ ] [9-10] chinese ppt people
 - [ ] [10-11] 
 - [ ] [11-12] 
 - [ ] sleeeeep
