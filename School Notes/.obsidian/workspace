@@ -7,11 +7,9 @@
         "id": "73062ffe2160d4f1",
         "type": "leaf",
         "state": {
-          "type": "markdown",
+          "type": "kanban",
           "state": {
-            "file": "Life/Game Dev/Projects/CAS/Storyline V2.md",
-            "mode": "source",
-            "source": false
+            "file": "Day Planners/My fucking week/todo kanban.md"
           }
         }
       }
@@ -69,7 +67,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Life/Game Dev/Projects/CAS/Storyline V2.md",
+                "file": "Day Planners/My fucking week/todo kanban.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -107,7 +105,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -116,15 +115,15 @@
   },
   "active": "73062ffe2160d4f1",
   "lastOpenFiles": [
-    "Life/Game Dev/Projects/CAS/Storyline V2.md",
     "Day Planners/My fucking week/todo kanban.md",
+    "Life/Game Dev/Projects/CAS/Storyline V2.md",
+    "TOK/TOK Draft.md",
     "Day Planners/Task List.md",
-    "DP English LL/Advertisements/Ad analysis.md",
+    "Day Planners/My fucking week/4Thursday.md",
+    "Day Planners/My fucking week/5Friday.md",
     "Day Planners/My fucking week/3Wednesday.md",
-    "Life/Game Dev/General/Attachments/Combat.md",
-    "DP Computer Science/Topic 3. Networks/Topic 3 Overview.md",
-    "DP Economics/Econ Resources.md",
-    "DP Computer Science/Computer Science Overview.md",
-    "DP Computer Science/Topic 4. Computational Thinking/Topic 4 overview.md"
+    "Train model finish.md",
+    "Day Planners/My fucking week/!end point.md",
+    "Day Planners/My fucking week/Sunday.md"
   ]
 }

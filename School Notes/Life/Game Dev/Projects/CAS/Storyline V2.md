@@ -93,6 +93,8 @@ Events:
 	- the best way is to always stay happy and dont show sadness and anger
 	- and the school wants the best and provides the best
 		- and therefore dont allow students to be sad or angry
+- lynks disease
+- Different emotions have different effects on visual elements, outlined with neon shader with emotional colors
  
 When school and mind convulge:
 - Like the arcane jinx mental breakdown scenes

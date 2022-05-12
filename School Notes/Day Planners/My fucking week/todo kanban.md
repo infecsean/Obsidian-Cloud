@@ -8,35 +8,63 @@ kanban-plugin: basic
 
 - [ ] SAT Prac
 - [ ] chinese ppt
-- [x] Chinese group note
 - [ ] Chinese 5-7 notes
 - [ ] chinese practice photo
-
-
-## Shit i need to finish this month
-
-- [ ] Econ ch10
-- [ ] cas reflections
-- [ ] Physics waves
+- [ ] CS prac
+- [ ] [[TOK Draft]]
 
 
 ## Shit I need to finish
 
-- [ ] Finish classroom
-- [ ] all chinese hw
+- [x] Finish classroom
+- [ ] Econ ch10
+- [ ] cas reflections
 
 
 ## game dev
 
 - [ ] Ctrl+P tutorials
-- [ ] mountain cloud brushes
 - [ ] Classroom
-- [ ] Houdini Udemy course lmak
 - [ ] Composer course
 - [ ] Learn FMOD
 - [ ] Unity Learn
 - [ ] Discord
 - [ ] tiktok marketing
+- [ ] Houdini Udemy course lmak
+
+
+## Week 1 (9~15)
+
+- [ ] all chinese hw
+- [ ] CS prac
+- [ ] Passenger train model finish
+- [ ] Engine train model finish
+- [ ] Rework the concept of "school"/factory
+
+
+## Week 2 (16~22)
+
+- [ ] Econ Notes
+
+
+## Week 3 (23~29)
+
+
+
+## Week 4 (30~5)
+
+
+
+## Week 5 (6~12)
+
+- [ ] Econ Past papers
+- [ ] CS past papers
+- [ ] Math past papers
+- [ ] Physics past papers
+
+
+## Shit i need to finish this month
+
 
 
 ## Summatives
