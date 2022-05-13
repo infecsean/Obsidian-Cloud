@@ -1,25 +1,27 @@
 # Fat Fuck Friday
 ---
 ==Important shit==:
-- [ ] storyline finish! (or try to i guess)
+- [ ] Unity movement test
+- [ ] Train concept
+- [ ] ligma
+- [ ] math hw
 
 morning
-- [x] [shit] math notes
-- [x] [math] TEST FUCK
-- [x] [econ] storyline?
-- [ ] [econ] storyline shit?
-- [ ] [lunch break] sleep?
+- [ ] [shit] 
+- [ ] [math] 
+- [ ] [econ] 
+- [ ] [econ] 
+- [ ] [lunch break] 
 
 tarde
-- [ ] [english] storyline oh
-- [ ] [english] storyline lol
+- [ ] [english] 
+- [ ] [english] 
 - [ ] [cs club] 
 - [ ] [cs club] 
 
 noch
 - [ ] [7-8] relax
-- [ ] [8-9] train concept art/cp5
-- [ ] [9-10] train concept art
-- [ ] [10-11] train concept art
+- [ ] [8-9] class
+- [ ] [9-10] update pureref stuff
+- [ ] [10-11] 
 - [ ] [11-12] cali
-- [ ] sleep lmao

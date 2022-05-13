@@ -1,19 +1,24 @@
-# Sad Sundays
+# Succ Sundays
 ---
+Tasks:
+- [ ] Chinese PPT
+- [ ] Chinese the two column paper 2 thing idkwtf
+- [ ] Unity movement test
+
 morning
 - [ ] [10-11] 
-- [ ] [11-12] english reflection
+- [ ] [11-12] 
 
 'noon
 - [ ] [1-2] 
-- [x] [2-3] GTFO
-- [x] [3-4] english reflection
-- [ ] [4-5] english ppt 
-- [ ] [5-6] chinese read 1 and 2
+- [ ] [2-3] 
+- [ ] [3-4] 
+- [ ] [4-5] 
+- [ ] [5-6] 
 
 night
 - [ ] [7-8] 
 - [ ] [8-9] 
 - [ ] [9-10] 
 - [ ] [10-11] 
-- [ ] [11-12] cali
+- [ ] [11-12] you should sleep

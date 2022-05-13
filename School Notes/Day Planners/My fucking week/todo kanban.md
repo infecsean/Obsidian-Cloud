@@ -6,19 +6,20 @@ kanban-plugin: basic
 
 ## Shit i need to finish fast
 
-- [ ] SAT Prac
+- [ ] CS prac
 - [ ] chinese ppt
 - [ ] Chinese 5-7 notes
 - [ ] chinese practice photo
-- [ ] CS prac
 - [ ] [[TOK Draft]]
 
 
 ## Shit I need to finish
 
+- [ ] SAT Prac
 - [x] Finish classroom
-- [ ] Econ ch10
 - [ ] cas reflections
+- [ ] 6/22 stay at home
+- [ ] 6/24 stay at home? but i mean we already done with them exams
 
 
 ## game dev
@@ -38,13 +39,13 @@ kanban-plugin: basic
 - [ ] all chinese hw
 - [ ] CS prac
 - [ ] Passenger train model finish
-- [ ] Engine train model finish
 - [ ] Rework the concept of "school"/factory
 
 
 ## Week 2 (16~22)
 
 - [ ] Econ Notes
+- [ ] Engine train model finish
 
 
 ## Week 3 (23~29)
