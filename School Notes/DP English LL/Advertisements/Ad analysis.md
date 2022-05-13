@@ -32,3 +32,4 @@ Notable things after doing research
 - Using unexpected placement, trash is placed on the wall. Since humans actively seek order, people tend to notice things that don't belong.
 - Discontinued around the world, available in the ocean. Satire because plastic doesnt just go away.
 - People come seeking an unusual ad from cheetos, but come to find that things like these are what causes pollution
+- appeal to logos
