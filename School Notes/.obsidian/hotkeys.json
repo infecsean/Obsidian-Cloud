@@ -24,5 +24,13 @@
       ],
       "key": "C"
     }
+  ],
+  "obsidian-day-planner:app:show-day-planner-timeline": [
+    {
+      "modifiers": [
+        "Shift"
+      ],
+      "key": "/"
+    }
   ]
 }

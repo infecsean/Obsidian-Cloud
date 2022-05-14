@@ -22,6 +22,6 @@ tarde
 noch
 - [ ] [7-8] relax
 - [ ] [8-9] class
-- [ ] [9-10] update pureref stuff
+- [x] [9-10] update pureref stuff
 - [ ] [10-11] 
 - [ ] [11-12] cali

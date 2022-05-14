@@ -3,12 +3,11 @@
   "calendar",
   "obsidian-emoji-toolbar",
   "sliding-panes-obsidian",
-  "periodic-notes",
-  "obsidian-git",
   "templater-obsidian",
   "obsidian-kanban",
   "obsidian-banners",
   "obsidian-checklist-plugin",
   "cmenu-plugin",
-  "obsidian-gallery"
+  "obsidian-minimal-settings",
+  "obsidian-day-planner"
 ]
