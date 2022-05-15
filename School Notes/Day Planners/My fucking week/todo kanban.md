@@ -7,10 +7,10 @@ kanban-plugin: basic
 ## Shit i need to finish fast
 
 - [ ] CS prac
-- [ ] chinese ppt
+- [x] chinese ppt
 - [ ] Chinese 5-7 notes
-- [ ] chinese practice photo
-- [ ] [[TOK Draft]]
+- [x] chinese practice photo
+- [x] [[TOK Draft]]
 
 
 ## Shit I need to finish

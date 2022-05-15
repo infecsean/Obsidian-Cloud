@@ -1,7 +1,7 @@
 # Succ Sundays
 ---
 Tasks:
-- [ ] Chinese PPT
+- [x] Chinese PPT
 - [ ] Chinese the two column paper 2 thing idkwtf
 - [ ] Unity movement test
 

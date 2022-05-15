@@ -1,7 +1,7 @@
 # Satan Saturdays
 ---
 Tasks:
-- [ ] TOK Draft
+- [x] TOK Draft
 - [ ] CS worksheet
 - [ ] Math homework
 - [ ] Finish train texture
