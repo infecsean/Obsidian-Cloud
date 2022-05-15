@@ -4,12 +4,12 @@
     "type": "split",
     "children": [
       {
-        "id": "cea25b52374dad51",
+        "id": "449a5ac18be7ea83",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Day Planners/Day Planner-20220514.md",
+            "file": "Day Planners/Day Planner-20220515.md",
             "mode": "source",
             "source": false
           }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Day Planners/Day Planner-20220514.md",
+                "file": "Day Planners/Day Planner-20220515.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -122,8 +122,9 @@
     "direction": "horizontal",
     "width": 370.3333435058594
   },
-  "active": "cea25b52374dad51",
+  "active": "449a5ac18be7ea83",
   "lastOpenFiles": [
+    "Day Planners/Day Planner-20220515.md",
     "Day Planners/Day Planner-20220514.md",
     "Day Planners/2022-05-14.md",
     "2022-05-14.md",
@@ -132,7 +133,6 @@
     "Day Planners/My fucking week/todo kanban.md",
     "Day Planners/My fucking week/2Tuesday.md",
     "Day Planners/My fucking week/!end point.md",
-    "Life/Game Dev/Projects/CAS/Story/Characters in my CAS Game.md",
-    "Life/Game Dev/Projects/CAS/Story/Coming of age story arc CAS.md"
+    "Life/Game Dev/Projects/CAS/Story/Characters in my CAS Game.md"
   ]
 }
