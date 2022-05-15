@@ -32,7 +32,7 @@ This is the part where either fail all my tasks or be kinda productive:
 At this point I will probably sink into death or be conscious:
 
 - [x] 20:00 (8:00) Gamedev
-- [ ] 21:00 (9:00)
+- [x] 21:00 (9:00)
 - [ ] 22:00 (10:00)
 - [ ] 23:00 (11:00)
 - [ ] 24:00 (12:00)

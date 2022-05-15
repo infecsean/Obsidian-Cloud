@@ -7,9 +7,11 @@
         "id": "449a5ac18be7ea83",
         "type": "leaf",
         "state": {
-          "type": "kanban",
+          "type": "markdown",
           "state": {
-            "file": "Day Planners/My fucking week/todo kanban.md"
+            "file": "Day Planners/Day Planner-20220515.md",
+            "mode": "source",
+            "source": false
           }
         }
       }
@@ -51,7 +53,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 309
+    "width": 309,
+    "collapsed": true
   },
   "right": {
     "id": "d6f61973bf5b2b3f",
@@ -67,7 +70,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Day Planners/My fucking week/todo kanban.md",
+                "file": "Day Planners/Day Planner-20220515.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -118,15 +121,14 @@
       }
     ],
     "direction": "horizontal",
-    "width": 370.3333435058594,
-    "collapsed": true
+    "width": 370.3333435058594
   },
   "active": "449a5ac18be7ea83",
   "lastOpenFiles": [
+    "Day Planners/Day Planner-20220515.md",
     "Day Planners/My fucking week/todo kanban.md",
     "Day Planners/My fucking week/Saturday.md",
     "Day Planners/My fucking week/Sunday.md",
-    "Day Planners/Day Planner-20220515.md",
     "Day Planners/My fucking week/3Wednesday.md",
     "Day Planners/My fucking week/0Today.md",
     "Day Planners/My fucking week/!end point.md",
