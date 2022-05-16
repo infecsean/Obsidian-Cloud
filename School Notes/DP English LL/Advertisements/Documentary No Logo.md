@@ -18,7 +18,7 @@ Big corporations selling lifestyles instead of products, redefining their brands
 
 
 2. 
-Hypocrisy: At the mall part, where the mall redefine their image to be the "old ways" but still don't allow free speech.
+Hypocrisy: At the mall part, where the mall redefine their image to be the "old ways" but still don't allow free speech. undercover filming
 
 Suppression: The mall part, where private security is used to fight people who rebel. The factory part, where companies hire young women because they are easier to control, have less ability to perform individual thinking.
 
@@ -33,7 +33,7 @@ Brand Epiphonies: Using our own ideologies as marketing idea, to appeal to our i
 
 Question 2:
 Reflection: Advertising (after you respond to the documentary "No Logo")  
-  
+
   
 How is **language** used in the **mass media** to **persuade** people of a certain **ideological** position?   
 Brands identify themselves as "one of us" as if they are in the community of passionate people who genuinely fight for their ideologies. Brands profit off of powerful ideas.

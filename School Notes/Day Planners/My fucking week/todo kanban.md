@@ -7,10 +7,7 @@ kanban-plugin: basic
 ## Shit i need to finish fast
 
 - [ ] CS prac
-- [x] chinese ppt
 - [ ] Chinese 5-7 notes
-- [x] chinese practice photo
-- [x] [[TOK Draft]]
 
 
 ## Shit I need to finish
@@ -34,22 +31,19 @@ kanban-plugin: basic
 - [ ] Houdini Udemy course lmak
 
 
-## Week 1 (9~15)
-
-- [ ] all chinese hw
-- [ ] CS prac
-- [ ] Passenger train model finish
-- [ ] Rework the concept of "school"/factory
-
-
 ## Week 2 (16~22)
 
+- [ ] all chinese hw
 - [ ] Econ Notes
+- [ ] Passenger train model finish
 - [ ] Engine train model finish
+- [ ] Math practice 1st
 
 
 ## Week 3 (23~29)
 
+- [ ] Physics notes
+- [ ] Math practice 2nd
 
 
 ## Week 4 (30~5)
@@ -60,6 +54,7 @@ kanban-plugin: basic
 
 - [ ] Econ Past papers
 - [ ] CS past papers
+- [ ] CS pseudocode
 - [ ] Math past papers
 - [ ] Physics past papers
 

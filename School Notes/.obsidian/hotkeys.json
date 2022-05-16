@@ -28,9 +28,9 @@
   "obsidian-day-planner:app:show-day-planner-timeline": [
     {
       "modifiers": [
-        "Shift"
+        "Ctrl"
       ],
-      "key": "/"
+      "key": "\\"
     }
   ]
 }
