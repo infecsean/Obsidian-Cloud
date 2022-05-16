@@ -9,22 +9,22 @@ Me plan for today:
 
 This is when i usually oversleep and fail all my tasks for today:
 
-- [ ] 09:30 
-- [ ] 09:45 
-- [ ] 10:30 
-- [ ] 11:30 
+- [x] 09:30 
+- [x] 09:45 
+- [x] 10:30 
+- [x] 11:30 
 
 ### Afternoon
 
 This is the part where either fail all my tasks or be kinda productive:
    
-- [ ] 12:00 
-- [ ] 12:25 
-- [ ] 12:30 
-- [ ] 14:00 (2:00)
-- [ ] 15:00 (3:00)
-- [ ] 16:00 (4:00)
-- [ ] 17:00 (5:00)
+- [x] 12:00 
+- [x] 12:25 
+- [x] 12:30 
+- [x] 14:00 (2:00)
+- [x] 15:00 (3:00)
+- [x] 16:00 (4:00)
+- [x] 17:00 (5:00)
 - [ ] 18:00 (6:00)
 
 ### Night Time
