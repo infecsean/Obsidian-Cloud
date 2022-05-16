@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Day Planners/Day Planner-20220516.md",
+            "file": "Day Planners/Calculating available time.md",
             "mode": "source",
             "source": false
           }
@@ -53,8 +53,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 309,
-    "collapsed": true
+    "width": 309
   },
   "right": {
     "id": "d6f61973bf5b2b3f",
@@ -70,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Day Planners/Day Planner-20220516.md",
+                "file": "Day Planners/Calculating available time.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -117,23 +116,24 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "active": "73062ffe2160d4f1",
   "lastOpenFiles": [
+    "Day Planners/Calculating available time.md",
     "Day Planners/Day Planner-20220516.md",
-    "Day Planners/My fucking week/todo kanban.md",
     "DP English LL/Advertisements/Documentary No Logo.md",
-    "Day Planners/My fucking week/Saturday.md",
-    "Day Planners/My fucking week/5Friday.md",
     "DP English LL/Advertisements/Ad analysis.md",
-    "Day Planners/My fucking week/Sunday.md",
-    "Day Planners/Task List.md",
-    "DP Computer Science/Topic 3. Networks/1. Network Fundamentals/Network Types/VLAN.md",
-    "DP Economics/2. Supply/Law of supply.md"
+    "Day Planners/My fucking week/!end point.md",
+    "Day Planners/My fucking week/0Today.md",
+    "Day Planners/My fucking week/3Wednesday.md",
+    "Day Planners/My fucking week/2Tuesday.md",
+    "Day Planners/My fucking week/1Monday.md",
+    "Day Planners/My fucking week/todo kanban.md"
   ]
 }

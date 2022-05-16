@@ -1,6 +1,6 @@
 # Monkey Mondays 🐒
 ---
-- [ ] ==Biggest Task for today==: finish studying physics
+- [ ] ==Biggest Task for today==: study cs
 
 mornig
 - [ ] [before shit] 
@@ -18,8 +18,7 @@ tarde
 
 noche
 - [ ] [7-8] gamin
-- [ ] [8-9] Math ws 2
-- [ ] [9-930] gamin/guitar
-- [ ] [930-1030] Math rv
-- [ ] [1030-11] 
+- [ ] [8-9] cs review finish
+- [ ] [9-10] cs worksheet finish
+- [ ] [10-11] review mistakes
 - [ ] [11-12] workout
