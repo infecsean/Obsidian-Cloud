@@ -9,8 +9,8 @@ Me plan for today:
 
 This is when i usually oversleep and fail all my tasks for today:
 
-- [ ] 09:30 
-- [ ] 09:45 
+- [x] 09:30 
+- [x] 09:45 
 - [ ] 10:30 
 - [ ] 11:30 
 
