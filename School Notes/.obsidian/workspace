@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Day Planners/End of Year.md",
+            "file": "Day Planners/Day Planner-20220517.md",
             "mode": "source",
             "source": false
           }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Day Planners/End of Year.md",
+                "file": "Day Planners/Day Planner-20220517.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -125,15 +125,15 @@
   },
   "active": "e4887a94578dbe71",
   "lastOpenFiles": [
-    "Day Planners/End of Year.md",
-    "Day Planners/Task List.md",
-    "Day Planners/My fucking week/todo kanban.md",
     "Day Planners/Day Planner-20220517.md",
     "Day Planners/Calculating available time.md",
+    "Day Planners/End of Year.md",
+    "Day Planners/My fucking week/2Tuesday.md",
+    "Day Planners/My fucking week/todo kanban.md",
+    "Day Planners/Task List.md",
     "Day Planners/Day Planner-20220516.md",
     "DP English LL/Advertisements/Documentary No Logo.md",
     "DP English LL/Advertisements/Ad analysis.md",
-    "Day Planners/My fucking week/!end point.md",
-    "Day Planners/My fucking week/0Today.md"
+    "Day Planners/My fucking week/!end point.md"
   ]
 }

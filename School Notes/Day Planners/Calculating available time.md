@@ -69,3 +69,8 @@ Boom easy plan, now lets look at execution
 
 ok this is no conclusion
 
+### Present
+
+29 hrs left to lose
+
+hypothetically i will finish econ, physics, and cs in this week, realistically, no
