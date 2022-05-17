@@ -9,7 +9,7 @@ Me plan for today:
 
 This is when i usually oversleep and fail all my tasks for today:
 
-- [ ] 09:30 
+- [ ] 09:30 Math derivatives
 - [ ] 09:45 
 - [ ] 10:30 
 - [ ] 11:30 
@@ -33,7 +33,7 @@ At this point I will probably sink into death or be conscious:
 
 - [ ] 20:00 (8:00)
 - [ ] 21:00 (9:00) XNode implementation
-- [ ] 22:00 (10:00) Econ ch4 & ch5
+- [x] 22:00 (10:00) Econ ch4 & ch5
 - [ ] 23:00 (11:00) Calisthenics
 - [ ] 24:00 (12:00) Sleep
 

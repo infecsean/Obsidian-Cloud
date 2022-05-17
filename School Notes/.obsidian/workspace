@@ -4,7 +4,7 @@
     "type": "split",
     "children": [
       {
-        "id": "e4887a94578dbe71",
+        "id": "115a81636f16974f",
         "type": "leaf",
         "state": {
           "type": "markdown",
@@ -40,7 +40,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "tag:#article",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -103,12 +103,12 @@
               "type": "tag",
               "state": {
                 "sortOrder": "frequency",
-                "useHierarchy": true
+                "useHierarchy": false
               }
             }
           },
           {
-            "id": "42cee5079909807b",
+            "id": "e8aa8a126ad71833",
             "type": "leaf",
             "state": {
               "type": "timeline",
@@ -120,20 +120,20 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
+    "width": 370.3333435058594,
     "collapsed": true
   },
-  "active": "e4887a94578dbe71",
+  "active": "115a81636f16974f",
   "lastOpenFiles": [
     "Day Planners/Day Planner-20220517.md",
-    "Day Planners/Calculating available time.md",
-    "Day Planners/End of Year.md",
-    "Day Planners/My fucking week/2Tuesday.md",
-    "Day Planners/My fucking week/todo kanban.md",
-    "Day Planners/Task List.md",
     "Day Planners/Day Planner-20220516.md",
-    "DP English LL/Advertisements/Documentary No Logo.md",
-    "DP English LL/Advertisements/Ad analysis.md",
-    "Day Planners/My fucking week/!end point.md"
+    "Day Planners/Calculating available time.md",
+    "Day Planners/My fucking week/!end point.md",
+    "Day Planners/My fucking week/0Today.md",
+    "Day Planners/Task List.md",
+    "Day Planners/Day Planner-20220515.md",
+    "Day Planners/My fucking week/1Monday.md",
+    "Day Planners/My fucking week/todo kanban.md",
+    "Day Planners/My fucking week/Saturday.md"
   ]
 }
