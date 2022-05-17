@@ -6,14 +6,12 @@ kanban-plugin: basic
 
 ## Shit i need to finish fast
 
-- [ ] CS prac
 - [ ] Chinese 5-7 notes
 
 
 ## Shit I need to finish
 
 - [ ] SAT Prac
-- [x] Finish classroom
 - [ ] cas reflections
 - [ ] 6/22 stay at home
 - [ ] 6/24 stay at home? but i mean we already done with them exams
