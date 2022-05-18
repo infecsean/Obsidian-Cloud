@@ -33,7 +33,7 @@ At this point I will probably sink into death or be conscious:
 
 - [ ] 20:00 (8:00)
 - [ ] 21:00 (9:00) XNode implementation
-- [x] 22:00 (10:00) Econ ch4 & ch5
-- [ ] 23:00 (11:00) Calisthenics
+- [ ] 22:00 (10:00) Econ ch
+- [ ] 23:30 (11:30) Calisthenics
 - [ ] 24:00 (12:00) Sleep
 

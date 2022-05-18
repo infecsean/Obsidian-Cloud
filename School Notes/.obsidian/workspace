@@ -4,14 +4,12 @@
     "type": "split",
     "children": [
       {
-        "id": "115a81636f16974f",
+        "id": "e4887a94578dbe71",
         "type": "leaf",
         "state": {
-          "type": "markdown",
+          "type": "kanban",
           "state": {
-            "file": "Day Planners/Day Planner-20220517.md",
-            "mode": "source",
-            "source": false
+            "file": "Day Planners/My fucking week/todo kanban.md"
           }
         }
       }
@@ -40,7 +38,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#article",
+                "query": "",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -69,7 +67,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Day Planners/Day Planner-20220517.md",
+                "file": "Day Planners/My fucking week/todo kanban.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,12 +101,12 @@
               "type": "tag",
               "state": {
                 "sortOrder": "frequency",
-                "useHierarchy": false
+                "useHierarchy": true
               }
             }
           },
           {
-            "id": "e8aa8a126ad71833",
+            "id": "42cee5079909807b",
             "type": "leaf",
             "state": {
               "type": "timeline",
@@ -120,20 +118,20 @@
       }
     ],
     "direction": "horizontal",
-    "width": 370.3333435058594,
+    "width": 300,
     "collapsed": true
   },
-  "active": "115a81636f16974f",
+  "active": "e4887a94578dbe71",
   "lastOpenFiles": [
-    "Day Planners/Day Planner-20220517.md",
-    "Day Planners/End of Year.md",
+    "Day Planners/My fucking week/todo kanban.md",
     "Day Planners/Calculating available time.md",
-    "Day Planners/Day Planner-20220516.md",
-    "Day Planners/My fucking week/!end point.md",
-    "Day Planners/My fucking week/0Today.md",
-    "Day Planners/Task List.md",
-    "Day Planners/Day Planner-20220515.md",
-    "Day Planners/My fucking week/1Monday.md",
-    "Day Planners/My fucking week/todo kanban.md"
+    "Day Planners/Day Planner-20220518.md",
+    "Day Planners/My fucking week/Sunday.md",
+    "Day Planners/My fucking week/4Thursday.md",
+    "CAS/Stuff i do.md",
+    "Life/Game Dev/Projects/CAS/Storyline V2.md",
+    "Day Planners/End of Year.md",
+    "Day Planners/Day Planner-20220517.md",
+    "Day Planners/My fucking week/2Tuesday.md"
   ]
 }

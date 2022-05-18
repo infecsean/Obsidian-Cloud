@@ -73,4 +73,6 @@ ok this is no conclusion
 
 29 hrs left to lose
 
-hypothetically i will finish econ, physics, and cs in this week, realistically, no
+hypothetically i will finish econ, physics, and math in this week, realistically, no
+
+So if until wednesday is 9 hours, 
