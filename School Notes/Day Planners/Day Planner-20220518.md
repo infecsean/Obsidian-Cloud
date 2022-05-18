@@ -32,8 +32,8 @@ This is the part where either fail all my tasks or be kinda productive:
 At this point I will probably sink into death or be conscious:
 
 - [ ] 20:00 (8:00)
-- [ ] 21:00 (9:00) XNode implementation
-- [ ] 22:00 (10:00) Econ ch
-- [ ] 23:30 (11:30) Calisthenics
+- [ ] 21:00 (9:00) math homework all
+- [ ] 22:00 (10:00) Econ review finish i guess
+- [ ] 23:30 (11:30) HIIT
 - [ ] 24:00 (12:00) Sleep
 
