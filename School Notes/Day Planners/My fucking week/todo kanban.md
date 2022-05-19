@@ -7,18 +7,22 @@ kanban-plugin: basic
 ## Shit i need to finish fast
 
 - [ ] Chinese 5-7 notes
+- [ ] Chinese prac
+- [ ] english task
+- [ ] math homework all
 
 
 ## Shit I need to finish
 
 - [ ] SAT Prac
-- [ ] cas reflections
 - [ ] 6/22 stay at home
 - [ ] 6/24 stay at home? but i mean we already done with them exams
 
 
 ## game dev
 
+- [ ] XNode Dialogue
+- [ ] Factory plan
 - [ ] Ctrl+P tutorials
 - [ ] Classroom
 - [ ] Composer course

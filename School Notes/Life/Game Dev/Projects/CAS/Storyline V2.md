@@ -95,6 +95,7 @@ Events:
 		- and therefore dont allow students to be sad or angry
 - lynks disease
 - Different emotions have different effects on visual elements, outlined with neon shader with emotional colors
+- 6x (success pun) (i have gone absolutely mental)
  
 When school and mind convulge:
 - Like the arcane jinx mental breakdown scenes
