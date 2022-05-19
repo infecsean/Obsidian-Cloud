@@ -32,5 +32,13 @@
       ],
       "key": "\\"
     }
+  ],
+  "obsidian-day-planner:app:link-day-planner-to-note": [
+    {
+      "modifiers": [
+        "Mod"
+      ],
+      "key": "*"
+    }
   ]
 }
