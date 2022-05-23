@@ -8,8 +8,11 @@ kanban-plugin: basic
 
 - [ ] Chinese 5-7 notes
 - [ ] Chinese prac
-- [ ] english task
-- [ ] math homework all
+- [x] english task
+- [x] math homework all
+- [ ] Math practice test
+- [ ] Econ IA info
+- [ ] ee meeting
 
 
 ## Shit I need to finish
@@ -37,15 +40,15 @@ kanban-plugin: basic
 
 - [ ] all chinese hw
 - [ ] Econ Notes
-- [ ] Passenger train model finish
-- [ ] Engine train model finish
 - [ ] Math practice 1st
+- [ ] Passenger train model finish
 
 
 ## Week 3 (23~29)
 
 - [ ] Physics notes
 - [ ] Math practice 2nd
+- [ ] Engine train model finish
 
 
 ## Week 4 (30~5)
