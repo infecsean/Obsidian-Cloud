@@ -1,8 +1,10 @@
+# Bioaccumilation & Biomagnification
+---
 Instructions:  
-  
-  
+
+
 Guiding Question: In what ways are the language and images used in this text typical and effective features of its genre?  
-  
+
 
 -   Study the infographic.
 -   Do a GAPS analysis.

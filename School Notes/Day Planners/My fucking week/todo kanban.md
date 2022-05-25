@@ -6,17 +6,17 @@ kanban-plugin: basic
 
 ## Shit i need to finish fast
 
-- [ ] Chinese 5-7 notes
 - [ ] Chinese prac
-- [x] english task
-- [x] math homework all
+- [ ] english task
 - [ ] Math practice test
 - [ ] Econ IA info
 - [ ] ee meeting
+- [ ] tok meeting
 
 
 ## Shit I need to finish
 
+- [ ] Chinese 5-7 notes
 - [ ] SAT Prac
 - [ ] 6/22 stay at home
 - [ ] 6/24 stay at home? but i mean we already done with them exams

@@ -1,4 +1,4 @@
-## Day Planner
+%%%%## Day Planner
 
 Me plan for today:
 1. Morning

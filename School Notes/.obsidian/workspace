@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "DP English LL/Advertisements/Bioaccumilation.md",
+            "file": "DP English LL/Advertisements/rachael carson ad.md",
             "mode": "source",
             "source": false
           }
@@ -53,8 +53,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 309,
-    "collapsed": true
+    "width": 309
   },
   "right": {
     "id": "d6f61973bf5b2b3f",
@@ -70,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "DP English LL/Advertisements/Bioaccumilation.md",
+                "file": "DP English LL/Advertisements/rachael carson ad.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -118,15 +117,15 @@
   },
   "active": "115a81636f16974f",
   "lastOpenFiles": [
+    "DP English LL/Advertisements/rachael carson ad.md",
+    "Day Planners/My fucking week/todo kanban.md",
+    "Day Planners/Day Planner-20220518.md",
+    "Day Planners/Calculating available time.md",
     "DP English LL/Advertisements/Bioaccumilation.md",
     "DP English LL/Attachments/bioaccumulation.jpg",
-    "Day Planners/My fucking week/todo kanban.md",
     "Day Planners/Week Planner.md",
     "Day Planners/Task List.md",
     "Day Planners/End of Year.md",
-    "Day Planners/Day Planner-20220518.md",
-    "Day Planners/Calculating available time.md",
-    "Day Planners/Day Planner-20220517.md",
-    "Day Planners/Day Planner-20220516.md"
+    "Day Planners/Day Planner-20220517.md"
   ]
 }
