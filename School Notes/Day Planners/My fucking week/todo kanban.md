@@ -7,9 +7,9 @@ kanban-plugin: basic
 ## Shit i need to finish fast
 
 - [ ] Chinese prac
-- [ ] english task
-- [ ] Math practice test
-- [ ] Econ IA info
+- [x] english task
+- [x] Math practice test
+- [x] Econ IA info
 - [ ] ee meeting
 - [ ] tok meeting
 
