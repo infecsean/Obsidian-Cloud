@@ -97,6 +97,7 @@ Events:
 - Different emotions have different effects on visual elements, outlined with neon shader with emotional colors
 - 6x (success pun) (i have gone absolutely mental)
 - lie detector/emotion detector event
+- "You do something everyone does, youre nobody. You do some fucked up shit, people will tell your story to their grandchildren"
  
 When school and mind convulge:
 - Like the arcane jinx mental breakdown scenes
