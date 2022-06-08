@@ -7,9 +7,11 @@
         "id": "115a81636f16974f",
         "type": "leaf",
         "state": {
-          "type": "kanban",
+          "type": "markdown",
           "state": {
-            "file": "Day Planners/My fucking week/todo kanban.md"
+            "file": "Day Planners/End of Year.md",
+            "mode": "source",
+            "source": false
           }
         }
       }
@@ -67,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Day Planners/My fucking week/todo kanban.md",
+                "file": "Day Planners/End of Year.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,14 +117,14 @@
   },
   "active": "115a81636f16974f",
   "lastOpenFiles": [
+    "Day Planners/End of Year.md",
+    "Day Planners/self help or some shit.md",
     "Day Planners/My fucking week/todo kanban.md",
     "Day Planners/My fucking week/Sunday.md",
     "Life/Game Dev/Projects/kool idea.md",
     "Life/Game Dev/Projects/CAS/Storyline V2.md",
     "DP English LL/Advertisements/rachael carson ad.md",
-    "Day Planners/self help or some shit.md",
     "Day Planners/Task List.md",
-    "Day Planners/End of Year.md",
     "Life/Game Dev/Projects/CAS/Locations.md",
     "Life/Game Dev/Projects/CAS/Menu UI Design.md"
   ]
