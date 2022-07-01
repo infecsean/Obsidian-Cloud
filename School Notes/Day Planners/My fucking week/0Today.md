@@ -8,9 +8,9 @@ por la manana
 por la tarde
 - [ ] [1-2] 
 - [ ] [2~3] 
-- [ ] [3~4] 
-- [ ] [4~5] 
-- [ ] [5~6] 
+- [ ] [3~4] ee
+- [ ] [4~5] plan the week / give lori college stuff
+- [ ] [5~6] give lori college stuff / start learning concept art
 
 por la noche
 - [ ] [7-8] 

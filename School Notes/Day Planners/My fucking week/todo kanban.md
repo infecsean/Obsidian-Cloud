@@ -4,24 +4,6 @@ kanban-plugin: basic
 
 ---
 
-## Shit i need to finish fast
-
-- [ ] Chinese prac
-- [x] english task
-- [x] Math practice test
-- [x] Econ IA info
-- [ ] ee meeting
-- [ ] tok meeting
-
-
-## Shit I need to finish
-
-- [ ] Chinese 5-7 notes
-- [ ] SAT Prac
-- [ ] 6/22 stay at home
-- [ ] 6/24 stay at home? but i mean we already done with them exams
-
-
 ## game dev
 
 - [ ] XNode Dialogue
@@ -36,32 +18,19 @@ kanban-plugin: basic
 - [ ] Houdini Udemy course lmak
 
 
-## Week 2 (16~22)
+## Due date
 
-- [ ] all chinese hw
-- [ ] Econ Notes
-- [ ] Math practice 1st
-- [ ] Passenger train model finish
-
-
-## Week 3 (23~29)
-
-- [ ] Physics notes
-- [ ] Math practice 2nd
-- [ ] Engine train model finish
+- [ ] Econ IA 1 @{2022-07-08}
+- [ ] Econ IA 2 @{2022-07-08}
+- [ ] CAS Meeting @{2022-07-18} @@{09:45}
 
 
-## Week 4 (30~5)
+## Shit i need to finish fast
 
 
 
-## Week 5 (6~12)
+## Shit I need to finish
 
-- [ ] Econ Past papers
-- [ ] CS past papers
-- [ ] CS pseudocode
-- [ ] Math past papers
-- [ ] Physics past papers
 
 
 ## Shit i need to finish this month
@@ -72,16 +41,15 @@ kanban-plugin: basic
 
 
 
-## shit i wanna do
+***
 
-- [ ] Proko youtube channel - human anatomy
-- [ ] Obsidian make all future notes and Link them together to be more organized
+## Archive
 
-
-
+- [x] 2022-07-01 16:14 EE Draft @{2022-07-01}
+- [ ] 2022-07-01 16:15 arc
 
 %% kanban:settings
 ```
-{"kanban-plugin":"basic","show-checkboxes":true}
+{"kanban-plugin":"basic","show-checkboxes":true,"hide-tags-in-title":true,"show-relative-date":true,"hide-date-in-title":true,"prepend-archive-date":true}
 ```
 %%

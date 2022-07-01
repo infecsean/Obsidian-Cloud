@@ -1,10 +1,7 @@
 # Fat Fuck Friday
 ---
 ==Important shit==:
-- [ ] Unity movement test
-- [ ] Train concept
-- [ ] ligma
-- [ ] math hw
+- [ ] 
 
 morning
 - [ ] [shit] 
