@@ -18,10 +18,7 @@
 - [ ] chapter 1 notes
 
 ## Notes
-- [ ] Econ Chapter 10
-- [ ] Econ Chapter 11
-- [ ] Econ Chapter 12
-- [ ] Physics Waves
+- [ ] 
 
 ### Summatives left
 - [x] CS summative
@@ -32,7 +29,27 @@
 - [x] English IO
 
 
+## Academics
+- SAT Weekly Practice
+- Econ IA 1
+- Econ IA 2
+- Cas reflections
+- Website design (7/17)
+- 
+
+
 ## Game Dev
+### Phase 1 (Learning)
+- HOps & Boxcutter (10hrs)
+	- Blender plugin for hard surface modeling
+- Concept art making (2hrs)
+
+### Phase 2 (Prototyping Stage)
+- Campus concept art (map)
+- Town concept art (map)
+- Mind concept art (map)
+
+
 - [ ] Prototype Whole School
 	- [x] Figure out the dimensions of classrooms
 	- [ ] layout of stairs and bathroom placement
@@ -107,5 +124,5 @@
 - [ ] Enemy Model
 - [ ] Hall of shame
 - [ ] Nightmares
-- [ ] Animated skybox i guess
+- [ ] skybox
 - [ ] Cloud shadow i guess
