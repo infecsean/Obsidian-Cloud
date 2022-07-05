@@ -44,10 +44,49 @@
 	- Blender plugin for hard surface modeling
 - Concept art making (2hrs)
 
-### Phase 2 (Prototyping Stage)
+### Phase 2 (Prototyping/Planning Stage)
+- Solidify Storyline & Character arcs and shit
+- Solidify all scenes and art direction
 - Campus concept art (map)
+	- Add sub-concept art
 - Town concept art (map)
+	- Add sub-concept art
 - Mind concept art (map)
+	- Add sub-concept art
+- Mechanics
+	- Emotion
+		- Highlight emotions
+		- Switch emotions
+		- Override emotions
+		- Combat with emotions
+		- Events that control emotions
+		- mixin henessy with emotions
+	- Dialogue
+		- Dialogue tree
+		- choice
+		- emotion connecting to choice
+		- Choice affecting both the emotion and the next dialogue
+	- Movement
+		- import hammo movement
+		- zipline movement
+		- 
+		- (later stage) controlled path when emotion
+	- Interaction
+		- Doors
+		- Buttons
+		- Triggers (cutscenes)
+		- 
+
+
+### Phase 3 (Making stage)
+
+
+### Phase 4 (Post-Production)
+- [ ] Alpha Testing
+- [ ] Beta Testing
+- [ ] Sigma Testing brah
+
+### Phase 5 (Marketing)
 
 
 - [ ] Prototype Whole School

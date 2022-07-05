@@ -1,4 +1,6 @@
-# Week Planner
+# Page to let me write shit down
 ---
-## This weekend
-- [ ] 
+13 weeks until semester begin
+
+Tasks:
+- Enter Phase
