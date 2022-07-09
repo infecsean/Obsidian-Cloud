@@ -1,6 +1,10 @@
 # Page to let me write shit down
 ---
-13 weeks until semester begin
+7 weeks until semester begin
 
 Tasks:
-- Enter Phase
+- Practice SAT every week
+- CAS reflections
+- EE
+- IAs
+- 
