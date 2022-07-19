@@ -36,3 +36,25 @@ refine and apply texture on model
 - Block out the stuff in unity to test movement and the rest of the system
 - Enter making process i guess
 	- eg. making all the 3d models, fmod shit, audio, characters
+
+thats the writing process lol
+![[Pasted image 20220713203633.png]]
+
+###### Problems im goin thru
+- Is my acccountability plan working out
+	- my plan so far: achieved, but i dont feel enough stress over me
+	- xNode isnt done, if i had spent more time on it, i wouldve finished a while ago
+	- hammo stuff isnt easy to interpret i assume, so this week will have to be squeezed to finish both the xnode system and the hammo movement AND cs club movement will have to be done tomorrow
+	- SAT and college stuff and math is not even touched, been playing too much horizon
+
+###### Movemint
+- What are natural 45 degree angles?
+	- Theres an island![[Pasted image 20220716132700.png]]
+	- bridges ![[Pasted image 20220716132711.png]]
+	- rooftops
+	- mountains
+![[Pasted image 20220717145517.png]]
+
+- more volunteer
+- try to target more learning outcome
+

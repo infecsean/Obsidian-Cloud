@@ -4,14 +4,12 @@
     "type": "split",
     "children": [
       {
-        "id": "873d7969f4a6fde6",
+        "id": "f404960c1b354176",
         "type": "leaf",
         "state": {
-          "type": "markdown",
+          "type": "kanban",
           "state": {
-            "file": "Day Planners/write thoughts.md",
-            "mode": "source",
-            "source": false
+            "file": "Day Planners/My fucking week/todo kanban.md"
           }
         }
       }
@@ -69,7 +67,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Day Planners/write thoughts.md",
+                "file": "Day Planners/My fucking week/todo kanban.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -108,24 +106,24 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
     "width": 370.3333435058594,
     "collapsed": true
   },
-  "active": "873d7969f4a6fde6",
+  "active": "f404960c1b354176",
   "lastOpenFiles": [
-    "Day Planners/write thoughts.md",
-    "Day Planners/My fucking week/todo kanban.md",
-    "Day Planners/Week Planner.md",
-    "Day Planners/End of Year.md",
-    "DP Economics/4. Government Intervention/Subsidies/Subsidies Impacts.md",
-    "DP Economics/4. Government Intervention/Subsidies/Subsidies.md",
-    "DP Economics/4. Government Intervention/Stakeholder/stakeholder analysis for indirect taxes.md",
-    "DP Economics/4. Government Intervention/Stakeholder/stakeholder analysis for price ceilings.md",
-    "DP Economics/4. Government Intervention/Stakeholder/stakeholder analysis for price floors.md",
-    "DP Economics/4. Government Intervention/Stakeholder/stakeholder analysis for subsidies.md"
+    "2022-07-19.md",
+    "DP Economics/4. Government Intervention/Market/Government Intervention.md",
+    "DP Economics/4. Government Intervention/Indirect Tax/Indirect Tax Impacts.md",
+    "DP Economics/4. Government Intervention/Price Controls/Price Ceilings/Consequences of price ceilings/consequences of price ceilings.md",
+    "DP Economics/2. Supply/Non-Price Determinants of Supply.md",
+    "DP Economics/Fundamental concepts/Market.md",
+    "DP Economics/Econ Resources.md",
+    "DP Economics/4. Government Intervention/Price Controls/Price Ceilings/Consequences of price ceilings/Rise of illegal trade.md",
+    "Life/Game Dev/Projects/CAS/Project Task List.md",
+    "Life/Game Dev/Projects/CAS/CAS game kanban.md"
   ]
 }

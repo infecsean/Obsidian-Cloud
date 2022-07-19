@@ -20,9 +20,6 @@ kanban-plugin: basic
 
 ## Due date
 
-- [x] Econ IA 1 @{2022-07-08}
-- [x] Econ IA 2 @{2022-07-08}
-- [ ] CAS Meeting @{2022-07-18} @@{09:45}
 
 
 ## Schedule
