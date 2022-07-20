@@ -215,7 +215,7 @@ You look at your horrible test score, you walk the walk of shame.
 =="Insanity, is doing the same fucking thing over and over again, and expecting shit to change"== 
 
 - travel to walk of shame where everybody is enlarged and turned into scary figures and you have to walk thru the entire thing
-- inspiration: ![[nightmare artist walk of shame.jpeg|400]]
+- inspiration: ![[Life/Game Dev/Projects/CAS/Attachments/nightmare artist walk of shame.jpeg|400]]
 everybody looks at you, laughs
 (unsure) the announcer announces your scores, you hear everything
 you look at your future, there is no light ahead.

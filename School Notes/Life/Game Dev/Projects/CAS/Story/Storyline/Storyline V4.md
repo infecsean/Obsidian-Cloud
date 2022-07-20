@@ -1,5 +1,11 @@
-# Storyline V3
+# Storyline V4
 ---
+
+Opening need to teach the player main mechanics, create mystery or pull that make the player keep playing.
+As story goes on, mc has to face off his emotions and prevent the destruction of his inner world by the toxic education system
+He gets a lot of depression from family, education, social,
+
+
 ### Intro
 School starts, you enter the first chapter
 
@@ -71,9 +77,8 @@ A stack of books, weights, and waaaaay on top of that, is your diploma.
 
 ### Chapter 3, At mind
 ```Context
-The player gets to make their first choice, to pick up the dark egg or to leave it.
-Decides whether or not the player will embrace and acknowledge depression and anxiety
-Setting: dimension filled with books
+The player gets to make their first choice.
+Setting: Inner World
 ```
 
 Amongst the giant pile of books, you begin to feel hopelessness.
@@ -133,7 +138,7 @@ You look at your horrible test score, you walk the walk of shame.
 =="Insanity, is doing the same fucking thing over and over again, and expecting shit to change"== 
 
 - travel to walk of shame where everybody is enlarged and turned into scary figures and you have to walk thru the entire thing
-- inspiration: ![[nightmare artist walk of shame.jpeg|400]]
+- inspiration: ![[Life/Game Dev/Projects/CAS/Attachments/nightmare artist walk of shame.jpeg|400]]
 everybody looks at you, laughs
 (unsure) the announcer announces your scores, you hear everything
 you look at your future, there is no light ahead.
@@ -145,7 +150,7 @@ You cry and run home to your parents, looking for comfort
 
 ### Chapter 7, Comfort
 ```Context
-You walk back home
+You take the bus home
 Setting: Home
 ```
 You meet with your parents
@@ -158,13 +163,16 @@ Your parents says its nonsense
 "if you cant be strong now, how the fuck are you going to survive out there?"
 "dont find excuses for your mistakes"
 "EXCUSES, EXCUSES, EXCUSES"
-They are angry, they say you are having too much fun (insert parent depriving you of everything that is keeping you alive at the moment)(for instance your mask)
 "GO TO YOUR ROOM"
+With each phrase your parents throw at you, a knife hits before your foot
+Their Emotional circles start to grow from a pink that symbolizes love
+To RED that symbolizes ANGER
 
-Your family becomes demons (requires you to wear mask)
-you go to your room
-- New objective: Find a knife
+You now need to wear mask (no comfort) to get close to your family
 
+They tell you to go to your room
+
+You now go to the only place you can find comfort - Inside
 
 
 ### Chapter 9, dock cock
@@ -172,34 +180,39 @@ you go to your room
 You desparately try to find a way out
 Setting: A small dock, where a boat and person is
 ```
-Behind you is the depression, in front is a light, a boat which you can just sail and leave depression. But no.
-Your boat is crushed, the announcer "you think you can just leave?"
-The darkness fills in, the sun bleeds black, the water full of red eyes
-Your only way is to the side, uphill
+Inside, your home symbolic of peace is now gone, corrupted by books
+You see the dock
+==would be really convenient if a dock symbolism or foreshadow is setted up before hand==
+You run to the dock, but you see the knives throwing down and the books flying down
+One crushes the boat, and you are forced to find new hope (color)
+Without anywhere else to go, there is suddenly a boom and you look at it and the volcano is erupted
 
 ### Chapter 10, Up
 ```Context
 You start running up
 Setting: Bookland volcano
 ```
-You run through to bookland
-You start running up to the top
-On the way, you rip (like between dimensions) between stairs and bookland
-~~On top, you see light
-You are given a dark matter gun~~
-On one hand, you are running from depression,
-On the other hand, you are running from school stress,
+everything seems to be colorless, corrupted with books
+You see the volcano, color emits from the center of it
+You start climbing the volcano
+You arrive at the top and you see the tree of knowledge
+{an angry wall of spikes pierced up because of your anger}
+{you try to control and put on happy mask}
+with the happy mask, you feel hope, you see the thin rope that leads directly to the tree
+==Somehow it need to lead to you falling down into the lava and losing hope==
 
-The ending is that you fully embrace darkness, let is consume you
+Start the 1 stages of grief
 
-### Chapter 11, Kill
+### Chapter 11, Denial (need fix)
 ```Context
-Darkness catches up
-Setting: You need to kill announcer
+You need to find a way back inside
+Setting: You need IT TO END
 ```
-The door that leads to white space is right in front of you
-You can grab the diploma, but you can only open it with an empty hand, so you unequip the diploma, but the door tells you to kill your pet. (You cant get thru school without killing yourself).
-You either shoot the pet (yourself) and die or destroy the diploma and embrace darkness.
+You are promted to go to school and find any trace of hope
+You go to the library, where the bookshelf is removed
+You go to the bathroom, but the colors are gone
+You go to the 
+
 
 ### Chapter 12, Blank
 ```Context
