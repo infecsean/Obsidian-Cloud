@@ -36,6 +36,7 @@ Problems
 	- When you enter a depressing environment you feel sad
 		- Great way (i think) of presenting change of how character interprets the world
 	- When you overhear a conversation you can get 
+	- When you see something terrifying/exciting
 - Masking stuff out
 	- Q: wouldnt masking be tedious for all 8 emotions?
 		- A: solution: use more common emotions for masking (Joy/Sad, Fear/Anger)

@@ -4,12 +4,12 @@
     "type": "split",
     "children": [
       {
-        "id": "ca3fac10da6b0df6",
+        "id": "1a8bc73db547e5c8",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Life/Game Dev/Projects/CAS/Mood System/Mood System.md",
+            "file": "Life/Game Dev/Projects/CAS/Mood System/Mood State Machine/JoyMaskState.md",
             "mode": "source",
             "source": false
           }
@@ -21,7 +21,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Life/Game Dev/Projects/CAS/Mood System/Masking System.md",
+            "file": "Life/Game Dev/Projects/CAS/Mood System/Mood State Machine/MaskBaseState.md",
             "mode": "source",
             "source": false
           }
@@ -81,7 +81,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Life/Game Dev/Projects/CAS/Mood System/Mood System.md",
+                "file": "Life/Game Dev/Projects/CAS/Mood System/Mood State Machine/JoyMaskState.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,17 +127,17 @@
     "width": 370.3333435058594,
     "collapsed": true
   },
-  "active": "ca3fac10da6b0df6",
+  "active": "1a8bc73db547e5c8",
   "lastOpenFiles": [
-    "Life/Game Dev/Projects/CAS/Mood System/Masking System.md",
+    "Life/Game Dev/Projects/CAS/Mood System/Mood State Machine/MaskBaseState.md",
+    "Life/Game Dev/Projects/CAS/Mood System/Mood State Machine/JoyMaskState.md",
+    "Life/Game Dev/Projects/CAS/Mood System/Mood State Machine/MaskManager.md",
     "Life/Game Dev/Projects/CAS/Mood System/Mood System.md",
+    "Life/Game Dev/Projects/CAS/Mood System/Masking System.md",
     "Life/Game Dev/Projects/CAS/Mood System/Emotion Theory.md",
     "Life/Game Dev/Projects/CAS/Items.md",
     "Life/Game Dev/Projects/CAS/School Layout.md",
     "Life/Game Dev/Projects/CAS/Post production checklist.md",
-    "Life/Game Dev/Projects/CAS/Planning Stage.md",
-    "Life/Game Dev/Projects/CAS/Project Structure.md",
-    "Life/Game Dev/Projects/CAS/Project Task List.md",
-    "Life/Game Dev/Projects/CAS/Locations.md"
+    "Life/Game Dev/Projects/CAS/Planning Stage.md"
   ]
 }
