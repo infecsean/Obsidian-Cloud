@@ -32,6 +32,7 @@ Problems
 >- ![[Pasted image 20220720141609.png|400]]
 
 ### Features
+Q: Question | A: Answer | E: Extension | C: Conclusion
 - Interact with environment
 	- When you enter a depressing environment you feel sad
 		- Great way (i think) of presenting change of how character interprets the world
@@ -42,7 +43,14 @@ Problems
 		- A: solution: use more common emotions for masking (Joy/Sad, Fear/Anger)
 		- Q: What about the other 4? (trust/disgust, surprise/anticipation)
 			- A: might need a clever approach to this such as a **hidden system** or sumthn
-
+- Mood and its limit
+	- When certain mood is under the limit, can change mask freely
+	- When overwhelmed (over the limit), cant control mask
+- How players can change moods?
+	- A: Full control over Dialogue options. What you give others is what you lose.
+- What options do the players have?
+	- A: For masks, players can choose between two dominant moods, either joy/sad or fear/anger
+		- E: 
 
 
 ### Citation

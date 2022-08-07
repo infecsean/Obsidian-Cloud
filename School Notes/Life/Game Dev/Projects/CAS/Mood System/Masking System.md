@@ -82,5 +82,7 @@ Alt-mood: Disgust/Trust, Surprise/Anticipation
 			- Example: If you were informed of what to expect at school, which you cannot fully, cus scripted, you wont feel anxious
 		- ==C: Trust/Disgust will be based on subjects. Surprise/Anticipation will be a bool based on information and choices made by the player.==
 
+Alt-moods will scale the severity of the pair if it is paired with a main mood.
+
 
 ### Conclusion

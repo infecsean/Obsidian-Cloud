@@ -58,4 +58,33 @@ thats the writing process lol
 - more volunteer
 - try to target more learning outcome
 
-[[asdasdasdsadasda]]
+- Main Menu
+	- Play
+		- Load
+		- New Save
+	- Settings (@me if you need details)
+		- Graphics
+		- Sounds
+		- Key Binds
+	- Matchmaking (if co-op content is separate)
+	- Friends (overkill?)
+	- ?Credits?
+	- Quit Game
+- Pause Menu
+	- Resume
+	- Settings
+	- Quit (To main menu/to desktop)
+- Battle System menu
+	- Not finalized, tho
+	- Health (Player/enemy)
+- Dialogue Menu
+	- Subject
+	- (optional) subject sprite
+	- dialogue options
+- ?Inventory?
+	- idk so spare me
+- HUD
+	- Game functions not fully developed, but probably menu spite icons and corresponding opening keybinds(tho we could make it diegetic)
+
+- "**Midazolam is a drug that creates temporary anterograde amnesia**"
+

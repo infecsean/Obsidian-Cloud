@@ -22,16 +22,25 @@ kanban-plugin: basic
 
 
 
+## CAS Game
+
+- [ ] Fix surfing and w-spam movement @{2022-08-30}
+
+
 ## Schedule
 
-- [ ] Solidify concepts and direction (Phase 1)
-- [ ] Learn Concept Art Course 2hrs (Phase 0)
-- [ ] Learn HOps & Boxcutter 10hrs (Phase 0)
-- [ ] Make factory floor plan again (Phase 1)
 - [ ] Practice SAT
 - [ ] Ctrl + P Tutorials
 - [ ] Learn FMOD (Phase 5)
 - [ ] Learn Composer course (Phase 5)
+
+
+## Phase 1
+
+- [ ] Learn Concept Art Course 2hrs (Phase 0)
+- [ ] Learn HOps & Boxcutter 10hrs (Phase 0)
+- [ ] Solidify concepts and direction (Phase 1)
+- [ ] Make factory floor plan again (Phase 1)
 
 
 ## Phase 2 (Prototype)
@@ -39,10 +48,6 @@ kanban-plugin: basic
 - [ ] XNode Dialogue Tree
 - [ ] Block out structures
 - [ ] Remake train model
-
-
-## Phase 1
-
 
 
 ## Shit i need to finish fast

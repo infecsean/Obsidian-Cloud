@@ -1,8 +1,10 @@
 # JoyMaskState
 ---
+inherits from [[MaskBaseState]]
 ```cs
 public override class JoyMaskState : MaskBaseState
 {
+	
 	public override void EnterState(MaskManager mask)
 	{
 		

@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Life/Game Dev/Projects/CAS/Mood System/Mood State Machine/JoyMaskState.md",
+            "file": "Life/Game Dev/Projects/CAS/Mood System/Mood State Machine/MaskManager.md",
             "mode": "source",
             "source": false
           }
@@ -21,7 +21,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Life/Game Dev/Projects/CAS/Mood System/Mood State Machine/MaskBaseState.md",
+            "file": "Day Planners/write thoughts.md",
             "mode": "source",
             "source": false
           }
@@ -65,7 +65,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 309
+    "width": 309,
+    "collapsed": true
   },
   "right": {
     "id": "d6f61973bf5b2b3f",
@@ -81,7 +82,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Life/Game Dev/Projects/CAS/Mood System/Mood State Machine/JoyMaskState.md",
+                "file": "Day Planners/write thoughts.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,17 +128,17 @@
     "width": 370.3333435058594,
     "collapsed": true
   },
-  "active": "1a8bc73db547e5c8",
+  "active": "dbe7737650cc3209",
   "lastOpenFiles": [
-    "Life/Game Dev/Projects/CAS/Mood System/Mood State Machine/MaskBaseState.md",
-    "Life/Game Dev/Projects/CAS/Mood System/Mood State Machine/JoyMaskState.md",
     "Life/Game Dev/Projects/CAS/Mood System/Mood State Machine/MaskManager.md",
+    "Day Planners/write thoughts.md",
+    "Day Planners/My fucking week/todo kanban.md",
+    "Day Planners/Week Planner.md",
     "Life/Game Dev/Projects/CAS/Mood System/Mood System.md",
+    "Life/Game Dev/Projects/CAS/Project Task List.md",
+    "Life/Game Dev/Projects/CAS/Story/Storyline/Storyline V2.md",
+    "Life/Game Dev/Projects/CAS/Story/Storyline/Storyline.md",
     "Life/Game Dev/Projects/CAS/Mood System/Masking System.md",
-    "Life/Game Dev/Projects/CAS/Mood System/Emotion Theory.md",
-    "Life/Game Dev/Projects/CAS/Items.md",
-    "Life/Game Dev/Projects/CAS/School Layout.md",
-    "Life/Game Dev/Projects/CAS/Post production checklist.md",
-    "Life/Game Dev/Projects/CAS/Planning Stage.md"
+    "Life/Game Dev/Projects/CAS/Mood System/Emotion Theory.md"
   ]
 }
