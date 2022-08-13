@@ -57,7 +57,7 @@ Game Features:
 - Maybe ==main villain== is school system, well, the big villain at least
 	- ==Supporting enemies== are students - while also casually suicidal, also a social being, induces social anxiety
 - MAKE A SPOTIFY PLAYLIST FOR EACH CHARACTER LMAO
-- 
+- TOWN NAME?: Lockes town, Bridgeham Town (after carl brigham), 
 
 Mind:
 - You are only given a small amount of time to be mentally there, cus school takes up a that much time. So when the player are sent to the dimension, intentionally design the time limit so that they cant reach a deep enough part (underlying darkness, strange fruit) maybe do [this](https://www.youtube.com/watch?v=eqlHpPzS22U&t=74s&ab_channel=Brackeys)
@@ -97,7 +97,34 @@ Events:
 - Different emotions have different effects on visual elements, outlined with neon shader with emotional colors
 - 6x (success pun) (i have gone absolutely mental)
 - lie detector/emotion detector event
+	- "inquiry" room 
 - "You do something everyone does, youre nobody. You do some fucked up shit, people will tell your story to their grandchildren"
+- SAT satire shit i guess
+	- AAA (*A+++!*) - Academic Absorptance Assessment
+	- SEP - Student Excellence Program
+	- [therealcollegeboard](https://www.therealcollegeboard.org/finance)
+	- APP - Academic Precedence Program
+
+- 3 Levels
+	- Apparent Truth (Similar to statistics, choosing ==marketable information== that is crucial to consumers, then ensuring it at all ==costs==, often bad ones)
+		- Student Happiness
+			- Information: Students are happy | Cost: Drugs, Daily Score Policy (evaluates based on daily behaviour and results effect grades (sold in the form of statistics to keep students "happy": "Statistics show that sad students score BAD!", realistically controlled by school))
+		- College Success
+			- Information: Ensure safe passage for future | Cost: Heavy workload and just everything about the school
+	- Hypocrisy (Instead of solving problems, compensate the effects it has, motivated by desire to maintain a good status quo)
+		- increased use of technology raise job barriers
+			- Problem: High Job Barrier | Compensation: Speed Up student learning process | Status Quo: Robot Teachers are cheaper and tech makes a lot more money
+		- overwhelm students with homework and claim "student freedom"
+			- Problem: Conflicting goals of Efficient learning, time management, and student rights
+			- Compensation: Claim the workload as "Time management training"
+			- Status Quo: Efficiency is maximized, any change will reduce efficiency
+		- protect students by putting nets
+			- Problem: Students suicide
+			- Compensation: Nets to prevent suicide
+			- Status Quo: No mental counselor bcus expensive
+	- Outright Illegal Lies
+		- Non-profit organization
+
  
 When school and mind convulge:
 - Like the arcane jinx mental breakdown scenes
