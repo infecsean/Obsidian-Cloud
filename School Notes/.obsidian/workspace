@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Life/Game Dev/Projects/CAS/Story/Storyline/Storyline V2.md",
+            "file": "Daily/write thoughts.md",
             "mode": "source",
             "source": false
           }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Life/Game Dev/Projects/CAS/Story/Storyline/Storyline V2.md",
+                "file": "Daily/write thoughts.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -117,15 +117,15 @@
   },
   "active": "dbe7737650cc3209",
   "lastOpenFiles": [
-    "Life/Game Dev/Projects/CAS/Story/Storyline/Storyline V2 Breakdown.md",
-    "Life/University/University.md",
-    "Life/Game Dev/Projects/CAS/Mood System/Mood State Machine/MaskManager.md",
-    "Day Planners/write thoughts.md",
-    "Day Planners/My fucking week/todo kanban.md",
-    "Day Planners/Week Planner.md",
-    "Life/Game Dev/Projects/CAS/Mood System/Mood System.md",
-    "Life/Game Dev/Projects/CAS/Project Task List.md",
-    "Life/Game Dev/Projects/CAS/Story/Storyline/Storyline V2.md",
-    "Life/Game Dev/Projects/CAS/Story/Storyline/Storyline.md"
+    "Daily/My fucking week/todo kanban.md",
+    "Daily/Task List.md",
+    "Daily/write thoughts.md",
+    "Life/Game Dev/General/Enemies.md",
+    "Life/Game Dev/General/Diegesis.md",
+    "Life/Game Dev/General/Flow State.md",
+    "Life/Game Dev/General/Creating Fear.md",
+    "Life/Game Dev/General/Choices.md",
+    "Life/Game Dev/General/Barriers.md",
+    "Life/Game Dev/General/Bad Beginnings.md"
   ]
 }

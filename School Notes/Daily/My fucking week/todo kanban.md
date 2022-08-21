@@ -20,6 +20,8 @@ kanban-plugin: basic
 
 ## Due date
 
+- [ ] Fill out daiban form @{2022-08-21} @@{12:00}
+- [ ] SAT Reading mistake < 5 @{2022-08-21} @@{18:00}
 
 
 ## CAS Game
@@ -50,12 +52,18 @@ kanban-plugin: basic
 - [ ] Remake train model
 
 
-## Shit i need to finish fast
-
-
-
 ## Shit I need to finish
 
+- [ ] Finish Essays
+- [ ] Commonapp essay and account
+
+
+## Shit i need to finish later
+
+- [ ] Level Design
+- [ ] Map Design
+- [ ] Block out map in unity
+- [ ] CS Club Menu
 
 
 ## Shit i need to finish this month

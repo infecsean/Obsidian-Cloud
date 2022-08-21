@@ -18,7 +18,7 @@ Things to consider: If there’s a talent or skill that you’re proud of, this 
 
 Does the talent come naturally or have you worked hard to develop this skill or talent? Does your talent or skill allow you opportunities in or outside the classroom? If so, what are they and how do they fit into your schedule?
 
-
+My curiosity often drives me to do things that seem bizarre. I often pour hours in front of the computer trying to learn more about an interesting topic, and as a result, I've expanded my arsenal to the point where I would be invited to all the meetings in a group project, discussing artstyles, product designs, and video production. Sometimes, I just want to see what would happen; however, this is somewhat of a double-edged sword. On one hand, I 
 
 
 4. Describe how you have taken advantage of a significant educational opportunity or worked to overcome an educational barrier you have faced.

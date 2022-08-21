@@ -99,6 +99,7 @@ Events:
 - lie detector/emotion detector event
 	- "inquiry" room 
 - "You do something everyone does, youre nobody. You do some fucked up shit, people will tell your story to their grandchildren"
+- FAILING YOUR PERSONALITY TEST LMAO
 - SAT satire shit i guess
 	- AAA (*A+++!*) - Academic Absorptance Assessment
 	- SEP - Student Excellence Program
@@ -110,7 +111,7 @@ Events:
 		- Student Happiness
 			- Information: Students are happy | Cost: Drugs, Daily Score Policy (evaluates based on daily behaviour and results effect grades (sold in the form of statistics to keep students "happy": "Statistics show that sad students score BAD!", realistically controlled by school))
 		- College Success
-			- Information: Ensure safe passage for future | Cost: Heavy workload and just everything about the school
+			- Information: Ensure safe passage for future through tech-assisted learning | Cost: Heavy workload and just everything about the school
 	- Hypocrisy (Instead of solving problems, compensate the effects it has, motivated by desire to maintain a good status quo)
 		- increased use of technology raise job barriers
 			- Problem: High Job Barrier | Compensation: Speed Up student learning process | Status Quo: Robot Teachers are cheaper and tech makes a lot more money
