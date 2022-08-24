@@ -1,5 +1,8 @@
 # thoughts
 ---
+What is considered nostalgia-inducing and gaming addiction?
+What separates emotional motifs in art and emotional manipulation?
+
 ###### To finish environments, i would need
 if im gonna finish environment smoothly, i would need to finish:
 - Learning environment design
@@ -57,7 +60,8 @@ thats the writing process lol
 		- Shooters
 			- Driven by mission from higher-ups
 			- Objective: Escape, Destroy, Sabotage, Hold off, Take out
-			- 
+		- My game
+			- Driven by self
 
 ###### What's the ideal enemy type?
 - What's the ideal *BOSS* in my game?
@@ -72,6 +76,13 @@ thats the writing process lol
 			- Different enemies require player to approach in different angles
 			- Enemies dont even have to be defeated, the player can use them to gain advantage
 
+###### Characters
+- Caretaker
+	- Formal Atire
+	- Sleeveless for extended arm
+	- leads to special-made uniforms for caretakers
+		- Idea: Buttons all the way to the shoulders, act also as a lock for extended arm
+- 
 
 ###### Problems im goin thru
 - Is my acccountability plan working out
@@ -127,6 +138,11 @@ thats the writing process lol
 		- Critical Constraints
 			- What is the level's story, theme, and plot?
 			- What flashy scenes (set-pieces) are there?
+				- Dark room, only can use mood to guide you
+				- (end sequence probs) emotional overload, your mood controls you, you can only suppress the emotions with opposite moods
+				- Emotion create stuff (angry volcano scene red spike pierce up)
+				- Hide other people (more common) and objects (to complete parkours)
+				- 
 			- What are technical constraints?
 				- Character speed so jump gaps, height so ceilings
 			- What action stuff will be present?

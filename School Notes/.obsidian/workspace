@@ -4,7 +4,7 @@
     "type": "split",
     "children": [
       {
-        "id": "dbe7737650cc3209",
+        "id": "c83f1d1cc97b15d2",
         "type": "leaf",
         "state": {
           "type": "markdown",
@@ -115,17 +115,17 @@
     "width": 370.3333435058594,
     "collapsed": true
   },
-  "active": "dbe7737650cc3209",
+  "active": "c83f1d1cc97b15d2",
   "lastOpenFiles": [
-    "Daily/My fucking week/todo kanban.md",
-    "Daily/Task List.md",
+    "Life/Game Dev/Projects/CAS/Planning/Environmental Planning.md",
+    "Life/Game Dev/Projects/CAS/Planning/Untitled.md",
     "Daily/write thoughts.md",
-    "Life/Game Dev/General/Enemies.md",
-    "Life/Game Dev/General/Diegesis.md",
-    "Life/Game Dev/General/Flow State.md",
-    "Life/Game Dev/General/Creating Fear.md",
-    "Life/Game Dev/General/Choices.md",
-    "Life/Game Dev/General/Barriers.md",
-    "Life/Game Dev/General/Bad Beginnings.md"
+    "Life/Game Dev/Projects/CAS/Items.md",
+    "Life/Game Dev/Projects/CAS/Planning/Locations.md",
+    "Life/Game Dev/Projects/CAS/Planning/Planning Stage.md",
+    "Life/Game Dev/Projects/CAS/Music Stuff.md",
+    "Life/Game Dev/Projects/CAS/Menu UI Design.md",
+    "Daily/Week Planner.md",
+    "Daily/My fucking week/todo kanban.md"
   ]
 }

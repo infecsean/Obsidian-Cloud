@@ -20,8 +20,8 @@ kanban-plugin: basic
 
 ## Due date
 
-- [ ] Fill out daiban form @{2022-08-21} @@{12:00}
-- [ ] SAT Reading mistake < 5 @{2022-08-21} @@{18:00}
+- [ ] Review SAT Math @{2022-08-23} @@{23:45}
+- [ ] Finish Game Levels Figma @{2022-08-31} @@{22:45}
 
 
 ## CAS Game
