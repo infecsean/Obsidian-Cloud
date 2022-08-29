@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Daily/write thoughts.md",
+            "file": "DP English LL/Summer HW/Lame Deer.md",
             "mode": "source",
             "source": false
           }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Daily/write thoughts.md",
+                "file": "DP English LL/Summer HW/Lame Deer.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -117,15 +117,15 @@
   },
   "active": "c83f1d1cc97b15d2",
   "lastOpenFiles": [
+    "DP English LL/Paper 2 outline.md",
+    "DP English LL/Paper 1 notes.md",
+    "DP English LL/English Placeholder.md",
+    "Daily/write thoughts.md",
     "Life/Game Dev/Projects/CAS/Planning/Environmental Planning.md",
     "Life/Game Dev/Projects/CAS/Planning/Untitled.md",
-    "Daily/write thoughts.md",
     "Life/Game Dev/Projects/CAS/Items.md",
     "Life/Game Dev/Projects/CAS/Planning/Locations.md",
     "Life/Game Dev/Projects/CAS/Planning/Planning Stage.md",
-    "Life/Game Dev/Projects/CAS/Music Stuff.md",
-    "Life/Game Dev/Projects/CAS/Menu UI Design.md",
-    "Daily/Week Planner.md",
-    "Daily/My fucking week/todo kanban.md"
+    "Life/Game Dev/Projects/CAS/Music Stuff.md"
   ]
 }

@@ -164,9 +164,10 @@ thats the writing process lol
 		- Load
 		- New Save
 	- Settings (@me if you need details)
-		- Graphics
-		- Sounds
-		- Key Binds
+		- Resolution
+		- Fullscreen
+		- Volume
+		- Controls
 	- Matchmaking (if co-op content is separate)
 	- Friends (overkill?)
 	- ?Credits?
