@@ -4,51 +4,38 @@ kanban-plugin: basic
 
 ---
 
-## game dev
-
-- [ ] XNode Dialogue
-- [ ] Factory plan
-- [ ] Ctrl+P tutorials
-- [ ] Classroom
-- [ ] Composer course
-- [ ] Learn FMOD
-- [ ] Unity Learn
-- [ ] Discord
-- [ ] tiktok marketing
-- [ ] Houdini Udemy course lmak
-
-
 ## Due date
 
-- [ ] Review SAT Math @{2022-08-23} @@{23:45}
-- [ ] Finish Game Levels Figma @{2022-08-31} @@{22:45}
-
-
-## CAS Game
-
-- [ ] Fix surfing and w-spam movement @{2022-08-30}
 
 
 ## Schedule
 
-- [ ] Practice SAT
-- [ ] Ctrl + P Tutorials
-- [ ] Learn FMOD (Phase 5)
-- [ ] Learn Composer course (Phase 5)
+
+
+## CAS Game
+
+- [ ] Finish Game Levels Figma @{2022-08-31} @@{22:45}
+- [ ] Fix surfing and w-spam movement @{2022-08-30}
 
 
 ## Phase 1
 
-- [ ] Learn Concept Art Course 2hrs (Phase 0)
-- [ ] Learn HOps & Boxcutter 10hrs (Phase 0)
-- [ ] Solidify concepts and direction (Phase 1)
-- [ ] Make factory floor plan again (Phase 1)
+- [ ] Learn Concept Art Course
+- [ ] Learn HOps & Boxcutter
+- [ ] Learn FMOD
+- [ ] Learn Composer course
 
 
 ## Phase 2 (Prototype)
 
 - [ ] XNode Dialogue Tree
 - [ ] Block out structures
+- [ ] Solidify concepts and direction (Phase 1)
+- [ ] Make factory floor plan again (Phase 1)
+
+
+## Phase 3 (Production)
+
 - [ ] Remake train model
 
 
@@ -66,11 +53,21 @@ kanban-plugin: basic
 - [ ] CS Club Menu
 
 
+## game dev
+
+- [ ] XNode Dialogue
+- [ ] Factory plan
+- [ ] Ctrl+P tutorials
+- [ ] Classroom
+- [ ] Composer course
+- [ ] Learn FMOD
+- [ ] Unity Learn
+- [ ] Discord
+- [ ] tiktok marketing
+- [ ] Houdini Udemy course lmak
+
+
 ## Shit i need to finish this month
-
-
-
-## Summatives
 
 
 
