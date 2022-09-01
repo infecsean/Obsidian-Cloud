@@ -105,6 +105,7 @@ Events:
 	- SEP - Student Excellence Program
 	- [therealcollegeboard](https://www.therealcollegeboard.org/finance)
 	- APP - Academic Precedence Program
+- Procedurally generated exams - Equality, have all the students compete at an equal level
 
 - 3 Levels
 	- Apparent Truth (Similar to statistics, choosing ==marketable information== that is crucial to consumers, then ensuring it at all ==costs==, often bad ones)

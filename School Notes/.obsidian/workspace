@@ -4,14 +4,12 @@
     "type": "split",
     "children": [
       {
-        "id": "0b1138dadb555d82",
+        "id": "c83f1d1cc97b15d2",
         "type": "leaf",
         "state": {
-          "type": "markdown",
+          "type": "kanban",
           "state": {
-            "file": "Life/Game Dev/Projects/CAS/Planning/Environmental Planning.md",
-            "mode": "source",
-            "source": false
+            "file": "Daily/My fucking week/Kanban of Life.md"
           }
         }
       }
@@ -40,7 +38,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#article",
+                "query": "tag:#FIX",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -69,7 +67,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Life/Game Dev/Projects/CAS/Planning/Environmental Planning.md",
+                "file": "Daily/My fucking week/Kanban of Life.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -108,24 +106,24 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
     "width": 370.3333435058594,
     "collapsed": true
   },
-  "active": "0b1138dadb555d82",
+  "active": "c83f1d1cc97b15d2",
   "lastOpenFiles": [
-    "Life/Game Dev/Projects/CAS/Planning/Environmental Planning.md",
-    "Life/Game Dev/Projects/CAS/Planning/Locations.md",
-    "Life/Game Dev/Projects/CAS/Planning/Planning Stage.md",
-    "Daily/My fucking week/Kanban of Life.md",
     "Daily/My fucking week/Subject Due Dates.md",
+    "Daily/My fucking week/Kanban of Life.md",
     "Daily/write thoughts.md",
+    "DP Economics/Attachments/DP2/econ preview.jpg",
+    "DP Economics/Attachments/DP2/international.pdf",
+    "DP Computer Science/Internal Assessment/CS IA Brainstorm.md",
+    "Life/Game Dev/Projects/CAS/Story/Storyline/Storyline V2.md",
     "Daily/Task List.md",
-    "Daily/My fucking week/7Sunday.md",
-    "Daily/self help or some shit.md",
-    "Daily/End of Year.md"
+    "Daily/Week Planner.md",
+    "Daily/THE Checklist.md"
   ]
 }

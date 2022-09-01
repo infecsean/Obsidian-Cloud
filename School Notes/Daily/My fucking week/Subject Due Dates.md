@@ -32,7 +32,7 @@ kanban-plugin: basic
 
 ## Computer Science
 
-- [ ] IA Topic @{2022-08-31} ^hhqnof
+- [x] IA Topic @{2022-08-31} ^hhqnof
 
 
 ## CAS
@@ -45,6 +45,13 @@ kanban-plugin: basic
 
 ## EE
 
+- [ ] Draft Due @{2022-09-23}
+
+
+## TOK
+
+- [ ] First Draft @{2022-12-12}
+- [ ] Final Draft @{2023-01-09}
 
 
 

@@ -14,8 +14,8 @@ kanban-plugin: basic
 
 ## CAS Game
 
-- [ ] Finish Game Levels Figma @{2022-08-31} @@{22:45}
-- [ ] Fix surfing and w-spam movement @{2022-08-30}
+- [ ] Finish Game Levels Figma @{2022-09-10} @@{22:45}
+- [ ] Fix surfing and w-spam movement @{2022-10-31}
 
 
 ## Phase 1
@@ -28,7 +28,7 @@ kanban-plugin: basic
 
 ## Phase 2 (Prototype)
 
-- [ ] XNode Dialogue Tree
+- [x] XNode Dialogue Tree
 - [ ] Block out structures
 - [ ] Solidify concepts and direction (Phase 1)
 - [ ] Make factory floor plan again (Phase 1)
