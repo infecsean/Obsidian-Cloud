@@ -51,6 +51,7 @@ Q: Question | A: Answer | E: Extension | C: Conclusion
 - What options do the players have?
 	- A: For masks, players can choose between two dominant moods, either joy/sad or fear/anger
 		- E: 
+- Switching masks have a unique sound for each mood, try to make it appliable to ambient music or deep ambience, so players can analyze everything from the music and stuff
 
 
 ### Citation

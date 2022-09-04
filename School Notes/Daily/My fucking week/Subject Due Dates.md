@@ -6,6 +6,7 @@ kanban-plugin: basic
 
 ## Physics
 
+- [ ] IA 3 Topics Flowchart @{2022-09-04}
 - [ ] IA Draft @{2022-11-28}
 - [ ] IA Final @{2023-01-16}
 
