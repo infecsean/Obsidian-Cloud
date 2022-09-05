@@ -6,7 +6,6 @@ kanban-plugin: basic
 
 ## Physics
 
-- [ ] IA 3 Topics Flowchart @{2022-09-04}
 - [ ] IA Draft @{2022-11-28}
 - [ ] IA Final @{2023-01-16}
 
@@ -38,6 +37,7 @@ kanban-plugin: basic
 
 ## CAS
 
+- [ ] Summer Progress @{2022-09-11}
 - [ ] Ask Kai to be supervisor for AI medical camp @{2022-09-02}
 - [ ] CAS Game Figma Progress #reflection @{2022-09-03}
 - [ ] Life Supporter Meeting notes and booths #reflection @{2022-09-03}
@@ -47,6 +47,7 @@ kanban-plugin: basic
 ## EE
 
 - [ ] Draft Due @{2022-09-23}
+- [ ] EE
 
 
 ## TOK

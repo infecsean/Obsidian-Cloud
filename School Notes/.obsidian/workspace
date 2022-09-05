@@ -4,12 +4,12 @@
     "type": "split",
     "children": [
       {
-        "id": "c83f1d1cc97b15d2",
+        "id": "0b1138dadb555d82",
         "type": "leaf",
         "state": {
           "type": "kanban",
           "state": {
-            "file": "Daily/My fucking week/Kanban of Life.md"
+            "file": "Daily/My fucking week/Subject Due Dates.md"
           }
         }
       }
@@ -38,7 +38,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#FIX",
+                "query": "tag:#article",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -67,7 +67,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Daily/My fucking week/Kanban of Life.md",
+                "file": "Daily/My fucking week/Subject Due Dates.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -106,24 +106,24 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
     "width": 370.3333435058594,
     "collapsed": true
   },
-  "active": "c83f1d1cc97b15d2",
+  "active": "0b1138dadb555d82",
   "lastOpenFiles": [
-    "Life/Game Dev/Projects/CAS/Mood System/Mood System.md",
-    "Daily/My fucking week/Kanban of Life.md",
     "Daily/My fucking week/Subject Due Dates.md",
-    "Life/University/University.md",
+    "Daily/My fucking week/Kanban of Life.md",
     "DP Chinese/Paper 1 notes.md",
-    "DP Physics/IA/Physics IA Resourcces.md",
+    "Life/Game Dev/Projects/CAS/Planning/Environmental Planning.md",
+    "Life/Game Dev/Projects/CAS/Planning/Locations.md",
+    "Life/Game Dev/Projects/CAS/Planning/Planning Stage.md",
     "Daily/write thoughts.md",
-    "DP Economics/Attachments/DP2/econ preview.jpg",
-    "DP Economics/Attachments/DP2/international.pdf",
-    "DP Computer Science/Internal Assessment/CS IA Brainstorm.md"
+    "Daily/Task List.md",
+    "Daily/My fucking week/7Sunday.md",
+    "Daily/self help or some shit.md"
   ]
 }

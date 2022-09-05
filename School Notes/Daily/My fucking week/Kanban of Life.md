@@ -6,11 +6,9 @@ kanban-plugin: basic
 
 ## Gotta do this weekend
 
-- [ ] CS Club UI @{2022-09-02} @@{23:45}
-- [ ] UC Essays @{2022-09-05}
-- [x] Physics IA @{2022-09-05}
-- [x] Math homework @{2022-09-05}
-- [ ] Chinese HW @{2022-09-04} @@{23:45}
+- [ ] UC Essays @{2022-09-06}
+- [ ] Math homework 2 @{2022-09-06}
+- [ ] Chinese HW @{2022-09-05} @@{23:45}
 
 
 ## Gotta do TBD
@@ -20,7 +18,7 @@ kanban-plugin: basic
 
 ## CAS Game
 
-- [ ] Finish Game Levels Figma @{2022-09-04} @@{22:45}
+- [ ] Finish Game Levels Figma @{2022-09-11} @@{22:45}
 - [ ] Fix surfing and w-spam movement @{2022-10-31}
 
 
