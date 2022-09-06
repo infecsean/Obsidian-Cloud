@@ -32,13 +32,11 @@ kanban-plugin: basic
 
 ## Computer Science
 
-- [x] IA Topic @{2022-08-31} ^hhqnof
 
 
 ## CAS
 
 - [ ] Summer Progress @{2022-09-11}
-- [ ] Ask Kai to be supervisor for AI medical camp @{2022-09-02}
 - [ ] CAS Game Figma Progress #reflection @{2022-09-03}
 - [ ] Life Supporter Meeting notes and booths #reflection @{2022-09-03}
 - [ ] Calisthenics Progress #reflection @{2022-09-03}

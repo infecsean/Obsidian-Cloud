@@ -4,14 +4,21 @@ kanban-plugin: basic
 
 ---
 
-## Gotta do this weekend
+## OVERDUE FUCK YOU
 
 - [ ] UC Essays @{2022-09-06}
+
+
+## Gotta do this weekend
+
 - [ ] Math homework 2 @{2022-09-06}
-- [ ] Chinese HW @{2022-09-05} @@{23:45}
+- [ ] Chinese HW @{2022-09-06} @@{23:45}
+- [ ] Finish CAS summer progress @{2022-09-11}
+- [ ] Econ shit
+- [ ] chinese hw 2
 
 
-## Gotta do TBD
+## Gotta do eventually
 
 - [ ] CommonApp Essays
 
