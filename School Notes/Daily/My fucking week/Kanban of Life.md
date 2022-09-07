@@ -4,9 +4,13 @@ kanban-plugin: basic
 
 ---
 
-## Gotta do this weekend
+## OVERDUE FUCK YOU
 
 - [ ] Chinese HW @{2022-09-06} @@{23:45}
+
+
+## Gotta do this weekend
+
 - [ ] Finish CAS summer progress (REFER TO CAS KANBAN) @{2022-09-11}
 - [ ] Econ shit @{2022-09-11}
 - [ ] chinese hw 2 @{2022-09-11}
@@ -16,10 +20,6 @@ kanban-plugin: basic
 ## Gotta do eventually
 
 - [ ] CommonApp Essays
-
-
-## OVERDUE FUCK YOU
-
 
 
 ## CAS Game
