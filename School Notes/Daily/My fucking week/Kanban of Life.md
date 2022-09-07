@@ -4,23 +4,22 @@ kanban-plugin: basic
 
 ---
 
-## OVERDUE FUCK YOU
-
-- [ ] UC Essays @{2022-09-06}
-
-
 ## Gotta do this weekend
 
-- [ ] Math homework 2 @{2022-09-06}
 - [ ] Chinese HW @{2022-09-06} @@{23:45}
-- [ ] Finish CAS summer progress @{2022-09-11}
-- [ ] Econ shit
-- [ ] chinese hw 2
+- [ ] Finish CAS summer progress (REFER TO CAS KANBAN) @{2022-09-11}
+- [ ] Econ shit @{2022-09-11}
+- [ ] chinese hw 2 @{2022-09-11}
+- [ ] UC Essays @{2022-09-11}
 
 
 ## Gotta do eventually
 
 - [ ] CommonApp Essays
+
+
+## OVERDUE FUCK YOU
+
 
 
 ## CAS Game

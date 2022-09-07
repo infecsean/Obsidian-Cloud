@@ -4,12 +4,12 @@
     "type": "split",
     "children": [
       {
-        "id": "0b1138dadb555d82",
+        "id": "7f1ff8a31a6e76ec",
         "type": "leaf",
         "state": {
           "type": "kanban",
           "state": {
-            "file": "Daily/My fucking week/Subject Due Dates.md"
+            "file": "Daily/My fucking week/Kanban of Life.md"
           }
         }
       }
@@ -67,7 +67,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Daily/My fucking week/Subject Due Dates.md",
+                "file": "Daily/My fucking week/Kanban of Life.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,19 +110,20 @@
       }
     ],
     "direction": "horizontal",
-    "width": 370.3333435058594
+    "width": 370.3333435058594,
+    "collapsed": true
   },
-  "active": "0b1138dadb555d82",
+  "active": "7f1ff8a31a6e76ec",
   "lastOpenFiles": [
-    "Daily/My fucking week/Subject Due Dates.md",
     "Daily/My fucking week/Kanban of Life.md",
+    "Daily/write thoughts.md",
+    "Daily/THE Checklist.md",
+    "Daily/Week Planner.md",
+    "Daily/Task List.md",
+    "Daily/My fucking week/Subject Due Dates.md",
     "DP Chinese/Paper 1 notes.md",
     "Life/Game Dev/Projects/CAS/Planning/Environmental Planning.md",
     "Life/Game Dev/Projects/CAS/Planning/Locations.md",
-    "Life/Game Dev/Projects/CAS/Planning/Planning Stage.md",
-    "Daily/write thoughts.md",
-    "Daily/Task List.md",
-    "Daily/My fucking week/7Sunday.md",
-    "Daily/self help or some shit.md"
+    "Life/Game Dev/Projects/CAS/Planning/Planning Stage.md"
   ]
 }
