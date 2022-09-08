@@ -20,6 +20,7 @@ kanban-plugin: basic
 ## Gotta do eventually
 
 - [ ] CommonApp Essays
+- [ ] Ludum Dare 51 @{2022-09-30}
 
 
 ## CAS Game

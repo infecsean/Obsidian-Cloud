@@ -20,6 +20,7 @@ kanban-plugin: basic
 
 ## English
 
+- [ ] Manifesto Reading @{2022-09-14}
 
 
 ## Chinese

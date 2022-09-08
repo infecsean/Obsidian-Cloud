@@ -4,7 +4,7 @@
     "type": "split",
     "children": [
       {
-        "id": "c83f1d1cc97b15d2",
+        "id": "7f1ff8a31a6e76ec",
         "type": "leaf",
         "state": {
           "type": "kanban",
@@ -38,7 +38,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#FIX",
+                "query": "tag:#article",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -113,17 +113,17 @@
     "width": 370.3333435058594,
     "collapsed": true
   },
-  "active": "c83f1d1cc97b15d2",
+  "active": "7f1ff8a31a6e76ec",
   "lastOpenFiles": [
-    "Daily/My fucking week/Subject Due Dates.md",
     "Daily/My fucking week/Kanban of Life.md",
-    "Life/Game Dev/Projects/CAS/Mood System/Mood System.md",
-    "Life/University/University.md",
-    "DP Chinese/Paper 1 notes.md",
-    "DP Physics/IA/Physics IA Resourcces.md",
+    "Daily/THE Checklist.md",
+    "Daily/My fucking week/Subject Due Dates.md",
+    "DP English LL/Summer HW/Lame Deer.md",
+    "Daily/Task List.md",
     "Daily/write thoughts.md",
-    "DP Economics/Attachments/DP2/econ preview.jpg",
-    "DP Economics/Attachments/DP2/international.pdf",
-    "DP Computer Science/Internal Assessment/CS IA Brainstorm.md"
+    "Daily/Week Planner.md",
+    "DP Chinese/Paper 1 notes.md",
+    "Life/Game Dev/Projects/CAS/Planning/Environmental Planning.md",
+    "Life/Game Dev/Projects/CAS/Planning/Locations.md"
   ]
 }
