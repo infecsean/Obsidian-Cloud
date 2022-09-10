@@ -4,23 +4,37 @@ kanban-plugin: basic
 
 ---
 
-## OVERDUE FUCK YOU
+## Afternoon
 
-- [ ] Chinese HW @{2022-09-06} @@{23:45}
+- [ ] UC Essays @{2022-09-11}
+- [x] Econ shit @{2022-09-11}
+- [x] Chinese HW @{2022-09-11} @@{23:45}
+- [x] chinese hw 2 @{2022-09-11}
+
+
+## Tonight
+
+- [ ] CAS Game Figma Progress #reflection
+- [x] AI Medical Camp #reflection
+- [x] Life Supporter Meeting notes and booths #reflection
+- [x] Calisthenics Progress #reflection
 
 
 ## Gotta do this weekend
 
-- [ ] Finish CAS summer progress (REFER TO CAS KANBAN) @{2022-09-11}
-- [ ] Econ shit @{2022-09-11}
-- [ ] chinese hw 2 @{2022-09-11}
-- [ ] UC Essays @{2022-09-11}
+- [ ] Manifesto Reading @{2022-09-14}
+- [ ] Math Problems @{2022-09-12} @@{23:45}
+- [ ] EE Progress? @{2022-09-14}
 
 
 ## Gotta do eventually
 
 - [ ] CommonApp Essays
 - [ ] Ludum Dare 51 @{2022-09-30}
+
+
+## OVERDUE FUCK YOU
+
 
 
 ## CAS Game
@@ -50,20 +64,6 @@ kanban-plugin: basic
 - [ ] Remake train model
 
 
-## Shit I need to finish
-
-- [ ] Finish Essays
-- [ ] Commonapp essay and account
-
-
-## Shit i need to finish later
-
-- [ ] Level Design
-- [ ] Map Design
-- [ ] Block out map in unity
-- [ ] CS Club Menu
-
-
 ## game dev
 
 - [x] XNode Dialogue
@@ -76,10 +76,6 @@ kanban-plugin: basic
 - [ ] Discord
 - [ ] tiktok marketing
 - [ ] Houdini Udemy course lmak
-
-
-## Shit i need to finish this month
-
 
 
 ***

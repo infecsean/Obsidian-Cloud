@@ -20,7 +20,6 @@ kanban-plugin: basic
 
 ## English
 
-- [ ] Manifesto Reading @{2022-09-14}
 
 
 ## Chinese
@@ -37,16 +36,12 @@ kanban-plugin: basic
 
 ## CAS
 
-- [ ] Summer Progress @{2022-09-11}
-- [ ] CAS Game Figma Progress #reflection @{2022-09-03}
-- [ ] Life Supporter Meeting notes and booths #reflection @{2022-09-03}
-- [ ] Calisthenics Progress #reflection @{2022-09-03}
 
 
 ## EE
 
 - [ ] Draft Due @{2022-09-23}
-- [ ] EE
+- [ ] EE Research @{2022-09-14}
 
 
 ## TOK
