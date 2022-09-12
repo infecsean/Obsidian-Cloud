@@ -6,30 +6,27 @@ kanban-plugin: basic
 
 ## Afternoon
 
-- [ ] UC Essays @{2022-09-11}
-- [x] Econ shit @{2022-09-11}
-- [x] Chinese HW @{2022-09-11} @@{23:45}
-- [x] chinese hw 2 @{2022-09-11}
+- [ ] UC Essays @{2022-09-12} @@{23:45}
 
 
 ## Tonight
 
+- [ ] Physics lab safety form @{2022-09-13}
+- [ ] CAS form @{2022-09-13}
 - [ ] CAS Game Figma Progress #reflection
-- [x] AI Medical Camp #reflection
-- [x] Life Supporter Meeting notes and booths #reflection
-- [x] Calisthenics Progress #reflection
+- [ ] Physics Experiment stuf @{2022-09-13}
+- [ ] Math Problems @{2022-09-12} @@{23:45}
 
 
 ## Gotta do this weekend
 
+- [ ] CommonApp Essays
 - [ ] Manifesto Reading @{2022-09-14}
-- [ ] Math Problems @{2022-09-12} @@{23:45}
 - [ ] EE Progress? @{2022-09-14}
 
 
-## Gotta do eventually
+## Gotta do list
 
-- [ ] CommonApp Essays
 - [ ] Ludum Dare 51 @{2022-09-30}
 
 
@@ -53,7 +50,6 @@ kanban-plugin: basic
 
 ## Phase 2 (Prototype)
 
-- [x] XNode Dialogue Tree
 - [ ] Block out structures
 - [ ] Solidify concepts and direction (Phase 1)
 - [ ] Make factory floor plan again (Phase 1)
@@ -66,7 +62,6 @@ kanban-plugin: basic
 
 ## game dev
 
-- [x] XNode Dialogue
 - [ ] Factory plan
 - [ ] Ctrl+P tutorials
 - [ ] Classroom
@@ -84,6 +79,14 @@ kanban-plugin: basic
 
 - [x] 2022-07-01 16:14 EE Draft @{2022-07-01}
 - [ ] 2022-07-01 16:15 arc
+- [x] 2022-09-12 07:51 Econ shit @{2022-09-11}
+- [x] 2022-09-12 07:51 Chinese HW @{2022-09-11} @@{23:45}
+- [x] 2022-09-12 07:51 chinese hw 2 @{2022-09-11}
+- [x] 2022-09-12 07:51 AI Medical Camp #reflection
+- [x] 2022-09-12 07:51 Life Supporter Meeting notes and booths #reflection
+- [x] 2022-09-12 07:51 Calisthenics Progress #reflection
+- [x] 2022-09-12 07:51 XNode Dialogue Tree
+- [x] 2022-09-12 07:51 XNode Dialogue
 
 %% kanban:settings
 ```
