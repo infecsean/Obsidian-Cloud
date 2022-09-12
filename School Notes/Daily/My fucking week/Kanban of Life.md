@@ -11,11 +11,11 @@ kanban-plugin: basic
 
 ## Tonight
 
-- [ ] Physics lab safety form @{2022-09-13}
-- [ ] CAS form @{2022-09-13}
-- [ ] CAS Game Figma Progress #reflection
-- [ ] Physics Experiment stuf @{2022-09-13}
+- [ ] Physics lab safety form #EZ @{2022-09-13}
+- [ ] CAS form #EZ  @{2022-09-13}
 - [ ] Math Problems @{2022-09-12} @@{23:45}
+- [ ] Physics Experiment stuf @{2022-09-13} @@{08:15}
+- [ ] CAS Game Figma Progress #reflection
 
 
 ## Gotta do this weekend
@@ -23,11 +23,13 @@ kanban-plugin: basic
 - [ ] CommonApp Essays
 - [ ] Manifesto Reading @{2022-09-14}
 - [ ] EE Progress? @{2022-09-14}
+- [ ] EE squeeze as many problems as possible @{2022-09-18}
 
 
 ## Gotta do list
 
-- [ ] Ludum Dare 51 @{2022-09-30}
+- [ ] Ludum Dare 51 @{2022-09-30} @@{02:00}
+- [ ] Physics Kognity @{2022-09-18}
 
 
 ## OVERDUE FUCK YOU

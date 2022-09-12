@@ -41,7 +41,6 @@ kanban-plugin: basic
 ## EE
 
 - [ ] Draft Due @{2022-09-23}
-- [ ] EE Research @{2022-09-14}
 
 
 ## TOK
