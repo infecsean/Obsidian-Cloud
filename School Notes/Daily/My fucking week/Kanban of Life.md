@@ -11,10 +11,9 @@ kanban-plugin: basic
 
 ## Tonight
 
-- [ ] Physics lab safety form #EZ @{2022-09-13}
-- [ ] CAS form #EZ  @{2022-09-13}
+- [x] Physics lab safety form #EZ @{2022-09-13}
+- [x] CAS form #EZ  @{2022-09-13}
 - [ ] Math Problems @{2022-09-12} @@{23:45}
-- [ ] Physics Experiment stuf @{2022-09-13} @@{08:15}
 - [ ] CAS Game Figma Progress #reflection
 
 
@@ -30,6 +29,8 @@ kanban-plugin: basic
 
 - [ ] Ludum Dare 51 @{2022-09-30} @@{02:00}
 - [ ] Physics Kognity @{2022-09-18}
+- [ ] SAT Dec @{2022-12-03}
+- [ ] Learn HLSL @{2022-09-30}
 
 
 ## OVERDUE FUCK YOU
