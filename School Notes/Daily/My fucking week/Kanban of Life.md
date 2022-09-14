@@ -12,13 +12,14 @@ kanban-plugin: basic
 ## Tonight
 
 - [ ] Math Problems @{2022-09-12} @@{23:45}
-- [ ] CAS Game Figma Progress #reflection
+- [x] CAS Game Figma Progress #reflection
+- [ ] Physics Kognity @{2022-09-18}
+- [x] Manifesto Reading @{2022-09-14}
 
 
 ## Gotta do this weekend
 
 - [ ] CommonApp Essays
-- [ ] Manifesto Reading @{2022-09-14}
 - [ ] EE Progress? @{2022-09-14}
 - [ ] EE squeeze as many problems as possible @{2022-09-18}
 
@@ -26,7 +27,6 @@ kanban-plugin: basic
 ## Gotta do list
 
 - [ ] Ludum Dare 51 @{2022-09-30} @@{02:00}
-- [ ] Physics Kognity @{2022-09-18}
 - [ ] SAT Dec @{2022-12-03}
 - [ ] Learn HLSL @{2022-09-30}
 
