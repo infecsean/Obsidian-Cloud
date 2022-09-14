@@ -11,8 +11,6 @@ kanban-plugin: basic
 
 ## Tonight
 
-- [x] Physics lab safety form #EZ @{2022-09-13}
-- [x] CAS form #EZ  @{2022-09-13}
 - [ ] Math Problems @{2022-09-12} @@{23:45}
 - [ ] CAS Game Figma Progress #reflection
 
