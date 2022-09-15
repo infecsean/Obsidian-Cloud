@@ -7,19 +7,11 @@
         "id": "aff62f038b027108",
         "type": "leaf",
         "state": {
-          "type": "kanban",
+          "type": "markdown",
           "state": {
-            "file": "Daily/My fucking week/Kanban of Life.md"
-          }
-        }
-      },
-      {
-        "id": "47ccda137792b467",
-        "type": "leaf",
-        "state": {
-          "type": "kanban",
-          "state": {
-            "file": "Daily/My fucking week/Subject Due Dates Kanban.md"
+            "file": "DP Computer Science/EE/EE Brainstorm.md",
+            "mode": "source",
+            "source": false
           }
         }
       }
@@ -61,8 +53,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 309,
-    "collapsed": true
+    "width": 309
   },
   "right": {
     "id": "d6f61973bf5b2b3f",
@@ -78,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Daily/My fucking week/Kanban of Life.md",
+                "file": "DP Computer Science/EE/EE Brainstorm.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -126,8 +117,8 @@
   },
   "active": "aff62f038b027108",
   "lastOpenFiles": [
-    "Daily/My fucking week/Subject Due Dates Kanban.md",
     "Daily/My fucking week/Kanban of Life.md",
+    "Daily/My fucking week/Subject Due Dates Kanban.md",
     "Daily/My fucking week/7Sunday.md",
     "Daily/My fucking week/4Thursday.md",
     "Daily/Task List.md",

@@ -7,7 +7,6 @@ kanban-plugin: basic
 ## Today
 
 - [ ] Math Problems @{2022-09-15} @@{23:45}
-- [ ] remind mom 班親會
 - [ ] Email Jessica to tell her that i wont be fucking there on monday cus i have EEEEEEEE meeting
 
 
@@ -92,6 +91,7 @@ kanban-plugin: basic
 - [x] 2022-09-12 07:51 Calisthenics Progress #reflection
 - [x] 2022-09-12 07:51 XNode Dialogue Tree
 - [x] 2022-09-12 07:51 XNode Dialogue
+- [ ] 2022-09-15 17:26 remind mom 班親會
 
 %% kanban:settings
 ```
