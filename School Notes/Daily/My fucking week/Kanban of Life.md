@@ -8,6 +8,7 @@ kanban-plugin: basic
 
 - [ ] Math Problems @{2022-09-15} @@{23:45}
 - [ ] remind mom 班親會
+- [ ] Email Jessica to tell her that i wont be fucking there on monday cus i have EEEEEEEE meeting
 
 
 ## Gotta do this weekend
