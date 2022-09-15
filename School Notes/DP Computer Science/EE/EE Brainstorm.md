@@ -18,4 +18,8 @@ Big O notation and stuff
 3. Can't reliably compare a simplex noise generated map and a heavily user-implemented parameter-rich map.
 I can't think of a fucking way to fix this
 
-4. 
+4. Major flaws in experiment design
+By my definition in the introduction, teleological algorithms simulate the process of which nature generates its terrain. BY DEFINITION, I would have to simulate all this shit. Its time for a new plan.
+
+
+5. 
