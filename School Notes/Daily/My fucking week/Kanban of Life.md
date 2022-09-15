@@ -6,25 +6,28 @@ kanban-plugin: basic
 
 ## Today
 
-- [ ] Math Problems @{2022-09-12} @@{23:45}
-- [x] CAS Game Figma Progress #reflection
-- [ ] Physics Kognity @{2022-09-18}
-- [x] Manifesto Reading @{2022-09-14}
+- [ ] Math Problems @{2022-09-15} @@{23:45}
+- [ ] remind mom 班親會
 
 
 ## Gotta do this weekend
 
-- [ ] UC Essays @{2022-09-12} @@{23:45}
-- [ ] CommonApp Essays
-- [ ] EE Progress? @{2022-09-14}
-- [ ] EE squeeze as many problems as possible @{2022-09-18}
+- [ ] UC Essays #Priority #Essay  @{2022-09-17} @@{23:45}
+- [ ] EE squeeze as many problems as possible #Essay    @{2022-09-18}
+- [ ] Physics IA Proposal #Priority  @{2022-09-19} @@{12:00}
 
 
 ## Gotta do list
 
+- [ ] EE Draft! #Essay  #Priority @{2022-09-30}
+- [ ] CommonApp Essays #Essay  @{2022-09-30}
+
+
+## Activities
+
 - [ ] Ludum Dare 51 @{2022-09-30} @@{02:00}
-- [ ] SAT Dec @{2022-12-03}
 - [ ] Learn HLSL @{2022-09-30}
+- [ ] SAT Dec @{2022-12-03}
 
 
 ## OVERDUE FUCK YOU

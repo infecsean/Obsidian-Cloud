@@ -16,10 +16,13 @@ kanban-plugin: basic
 
 ## Math
 
+- [ ] Math Homework #Homework @{2022-09-21}
 
 
 ## English
 
+- [ ] English Text analysis #Summative @{2022-09-22}
+- [ ] English IO Proposal #Formative @{2022-09-25}
 
 
 ## Chinese

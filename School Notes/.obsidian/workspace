@@ -12,6 +12,16 @@
             "file": "Daily/My fucking week/Kanban of Life.md"
           }
         }
+      },
+      {
+        "id": "47ccda137792b467",
+        "type": "leaf",
+        "state": {
+          "type": "kanban",
+          "state": {
+            "file": "Daily/My fucking week/Subject Due Dates Kanban.md"
+          }
+        }
       }
     ],
     "direction": "vertical"
@@ -38,8 +48,8 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#FIX",
-                "matchingCase": true,
+                "query": "",
+                "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
                 "extraContext": false,
@@ -51,7 +61,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 309
+    "width": 309,
+    "collapsed": true
   },
   "right": {
     "id": "d6f61973bf5b2b3f",
@@ -67,7 +78,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Daily/My fucking week/Kanban of Life.md",
+                "file": "Daily/My fucking week/Subject Due Dates Kanban.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -106,24 +117,24 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
     "width": 370.3333435058594,
     "collapsed": true
   },
-  "active": "aff62f038b027108",
+  "active": "47ccda137792b467",
   "lastOpenFiles": [
-    "Daily/My fucking week/Subject Due Dates.md",
-    "Daily/THE Checklist.md",
     "Daily/My fucking week/Kanban of Life.md",
+    "Daily/My fucking week/Subject Due Dates Kanban.md",
     "Daily/My fucking week/7Sunday.md",
+    "Daily/My fucking week/4Thursday.md",
+    "Daily/Task List.md",
+    "Daily/THE Checklist.md",
     "Daily/My fucking week/5Friday.md",
     "Daily/Burden.md",
     "Daily/My fucking week/6Saturday.md",
-    "DP English LL/Rhetorical Modes.md",
-    "DP English LL/the video notes.md",
-    "DP Computer Science/Internal Assessment/CS IA Links.md"
+    "DP English LL/Rhetorical Modes.md"
   ]
 }
