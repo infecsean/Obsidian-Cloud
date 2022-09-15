@@ -4,12 +4,7 @@ kanban-plugin: basic
 
 ---
 
-## Afternoon
-
-- [ ] UC Essays @{2022-09-12} @@{23:45}
-
-
-## Tonight
+## Today
 
 - [ ] Math Problems @{2022-09-12} @@{23:45}
 - [x] CAS Game Figma Progress #reflection
@@ -19,6 +14,7 @@ kanban-plugin: basic
 
 ## Gotta do this weekend
 
+- [ ] UC Essays @{2022-09-12} @@{23:45}
 - [ ] CommonApp Essays
 - [ ] EE Progress? @{2022-09-14}
 - [ ] EE squeeze as many problems as possible @{2022-09-18}
@@ -32,6 +28,10 @@ kanban-plugin: basic
 
 
 ## OVERDUE FUCK YOU
+
+
+
+## Afternoon
 
 
 
