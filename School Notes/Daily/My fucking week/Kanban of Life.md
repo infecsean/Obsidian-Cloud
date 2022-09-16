@@ -6,7 +6,6 @@ kanban-plugin: basic
 
 ## Today
 
-- [ ] Math Problems @{2022-09-15} @@{23:45}
 - [ ] Email Jessica to tell her that i wont be fucking there on monday cus i have EEEEEEEE meeting
 
 
