@@ -23,7 +23,7 @@ Pros:
 - Very nice well know well documented algorithm
 Cons:
 - Hard
-- Uses tile based generation instead of full on shitshow
+- Might cause problem in evaluation cus of tile-based generation
 
 2. Agent Based Algorithm
 	- [Terrain Generation](https://ianparberry.com/research/terrain/)
@@ -38,10 +38,24 @@ Cons:
 - [Level Generation](https://www.raywenderlich.com/2425-procedural-level-generation-in-games-using-a-cellular-automaton-part-1)
 - Data Structure: Random
 
+Example:
+```
+A well-known example of cellular automata to many game developers is [Conway’s Game of Life](http://en.wikipedia.org/wiki/Conway%27s_Game_of_Life "Conway's Game of Life"), which is a two-dimensional grid of cells with each cell in a state of either dead or alive. Four transition rules govern the grid:
 
+1.  Any live cell with fewer than two live neighbors dies, as if caused by under-population.
+2.  Any live cell with two or three live neighbors lives on to the next generation.
+3.  Any live cell with more than three live neighbors dies, as if by overcrowding.
+4.  Any dead cell with exactly three live neighbors becomes a live cell, as if by reproduction.
+```
+
+Pros:
+- Good resource tutorial
+Cons:
+- The tutorial is in XCode
 
 4. Binary Space Partioning | Binary Space Tree
 - [Dungeon Generator|Medium](https://medium.com/@guribemontero/dungeon-generation-using-binary-space-trees-47d4a668e2d0)
 - Data Structure: Tree
 
-
+Example
+- Doom used it to generate dungeons
