@@ -1,4 +1,4 @@
-# New EE I guess
+# EE I guess
 ---
 Reasoning: Since Ontogenetic/Teleological algorithms is too broad to simply compare as two "types". At least that's how Im not confident in it. I saw some examples with topics comparing djikstra's algorithm and A* algorithm. 
 

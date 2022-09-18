@@ -6,14 +6,18 @@ kanban-plugin: basic
 
 ## Today
 
-- [ ] Email Jessica to tell her that i wont be fucking there on monday cus i have EEEEEEEE meeting
-
-
-## Gotta do this weekend
-
-- [ ] UC Essays #Priority #Essay  @{2022-09-17} @@{23:45}
+- [x] UC Essays #Priority #Essay  @{2022-09-17} @@{23:45}
+- [x] Physics IA Proposal #Priority  @{2022-09-19} @@{12:00}
 - [ ] EE squeeze as many problems as possible #Essay    @{2022-09-18}
-- [ ] Physics IA Proposal #Priority  @{2022-09-19} @@{12:00}
+- [ ] CS Club HackMD @{2022-09-19}
+
+
+## Upcoming
+
+- [ ] Math Homework #Homework @{2022-09-21}
+- [ ] Paper 1 #Summative  @{2022-09-22}
+- [ ] English Text analysis #Summative @{2022-09-22}
+- [ ] English IO Proposal #Formative @{2022-09-25}
 
 
 ## Gotta do list
@@ -30,10 +34,6 @@ kanban-plugin: basic
 
 
 ## OVERDUE FUCK YOU
-
-
-
-## Afternoon
 
 
 
@@ -91,6 +91,8 @@ kanban-plugin: basic
 - [x] 2022-09-12 07:51 XNode Dialogue Tree
 - [x] 2022-09-12 07:51 XNode Dialogue
 - [ ] 2022-09-15 17:26 remind mom 班親會
+- [ ] 2022-09-18 12:49 Email Jessica to tell her that i wont be fucking there on monday cus i have EEEEEEEE meeting
+- [ ] 2022-09-18 12:53 EE Draft Due @{2022-09-23}
 
 %% kanban:settings
 ```

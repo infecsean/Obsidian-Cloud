@@ -16,18 +16,14 @@ kanban-plugin: basic
 
 ## Math
 
-- [ ] Math Homework #Homework @{2022-09-21}
 
 
 ## English
 
-- [ ] English Text analysis #Summative @{2022-09-22}
-- [ ] English IO Proposal #Formative @{2022-09-25}
 
 
 ## Chinese
 
-- [ ] Paper 1 @{2022-09-22}
 - [ ] Paper 2 @{2022-10-12}
 - [ ] IO @{2022-10-26}
 - [ ] Paper 2 @{2022-11-23}
@@ -43,7 +39,6 @@ kanban-plugin: basic
 
 ## EE
 
-- [ ] Draft Due @{2022-09-23}
 
 
 ## TOK
