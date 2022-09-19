@@ -6,18 +6,17 @@ kanban-plugin: basic
 
 ## Today
 
-- [x] UC Essays #Priority #Essay  @{2022-09-17} @@{23:45}
-- [x] Physics IA Proposal #Priority  @{2022-09-19} @@{12:00}
 - [ ] EE squeeze as many problems as possible #Essay    @{2022-09-18}
-- [ ] CS Club HackMD @{2022-09-19}
+- [ ] Charge your fucking calculator bitch
 
 
 ## Upcoming
 
 - [ ] Math Homework #Homework @{2022-09-21}
-- [ ] Paper 1 #Summative  @{2022-09-22}
+- [ ] Chinese Paper 1 #Summative  @{2022-09-22}
 - [ ] English Text analysis #Summative @{2022-09-22}
 - [ ] English IO Proposal #Formative @{2022-09-25}
+- [ ] UC Essays #Priority #Essay  @{2022-09-24} @@{23:45}
 
 
 ## Gotta do list
@@ -93,6 +92,8 @@ kanban-plugin: basic
 - [ ] 2022-09-15 17:26 remind mom 班親會
 - [ ] 2022-09-18 12:49 Email Jessica to tell her that i wont be fucking there on monday cus i have EEEEEEEE meeting
 - [ ] 2022-09-18 12:53 EE Draft Due @{2022-09-23}
+- [x] 2022-09-19 12:43 Physics IA Proposal #Priority  @{2022-09-19} @@{12:00}
+- [ ] 2022-09-19 12:43 CS Club HackMD @{2022-09-19}
 
 %% kanban:settings
 ```

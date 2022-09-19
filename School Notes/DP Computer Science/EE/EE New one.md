@@ -53,7 +53,7 @@ Pros:
 Cons:
 - The tutorial is in XCode
 
-4. Binary Space Partioning | Binary Space Tree
+4. Binary Space Partitioning | Binary Space Tree
 - [Dungeon Generator|Medium](https://medium.com/@guribemontero/dungeon-generation-using-binary-space-trees-47d4a668e2d0)
 - Data Structure: Tree
 
