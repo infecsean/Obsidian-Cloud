@@ -4,12 +4,14 @@
     "type": "split",
     "children": [
       {
-        "id": "0d8c575bf37b04b8",
+        "id": "f6cf86976c47c0eb",
         "type": "leaf",
         "state": {
-          "type": "kanban",
+          "type": "markdown",
           "state": {
-            "file": "Daily/My fucking week/Kanban of Life.md"
+            "file": "Life/Game Dev/Projects/kool idea.md",
+            "mode": "source",
+            "source": false
           }
         }
       }
@@ -51,8 +53,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 309,
-    "collapsed": true
+    "width": 309
   },
   "right": {
     "id": "d6f61973bf5b2b3f",
@@ -68,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Daily/My fucking week/Kanban of Life.md",
+                "file": "Life/Game Dev/Projects/kool idea.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,17 +115,17 @@
     "width": 370.3333435058594,
     "collapsed": true
   },
-  "active": "0d8c575bf37b04b8",
+  "active": "f6cf86976c47c0eb",
   "lastOpenFiles": [
-    "Daily/THE Checklist.md",
-    "DP Computer Science/EE/EE New one.md",
-    "DP Computer Science/EE/EE Brainstorm.md",
-    "Daily/My fucking week/Subject Due Dates Kanban.md",
+    "Life/Game Dev/Inspiration.md",
     "Daily/My fucking week/Kanban of Life.md",
-    "DP English LL/Oreo Runs Through it/Oreo brainstorm.md",
-    "DP English LL/Oreo Runs Through it/A Rio Runs through it.md",
-    "DP English LL/Attachments/A Rio Runs Through It (Complete).pdf",
+    "DP Computer Science/EE/EE New one.md",
+    "Daily/My fucking week/Subject Due Dates Kanban.md",
+    "DP Computer Science/EE/EE Brainstorm.md",
+    "DP Computer Science/Internal Assessment/CS IA Links.md",
     "Daily/My fucking week/7Sunday.md",
-    "Daily/My fucking week/4Thursday.md"
+    "Daily/My fucking week/4Thursday.md",
+    "Daily/Task List.md",
+    "Daily/THE Checklist.md"
   ]
 }

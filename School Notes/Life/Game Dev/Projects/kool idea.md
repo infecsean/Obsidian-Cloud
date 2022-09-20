@@ -28,3 +28,11 @@
 		- and so all the flies goes to feast on his body, as a sign of "==WORSHIP??==".
 
 KEEP IN MIND, I CURRENTLY HAVE A BUG INFESTATION PROBLEM AND EoY, MY BRAIN IS COMPLETELY FUCKED AND IDC IF THIS IS FUBAR. 6/7 Sean, in physics
+
+2. An NPC becomes the main character in a video game.
+Bro Hoot literally makes awesome shit as inspiration.
+[link here](https://www.youtube.com/watch?v=EzcEcNq0LWY&ab_channel=Hoot)
+
+3. Not really a game but a mechanism
+When refinine or upgrading weapons, to make it more meaningful, let the player and the blacksmith have conversations, let the sword and the player develop relationships (like thor and mjohnir)
+
