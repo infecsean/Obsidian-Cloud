@@ -7,7 +7,6 @@ kanban-plugin: basic
 ## Today
 
 - [ ] EE squeeze as many problems as possible #Essay    @{2022-09-18}
-- [ ] Charge your fucking calculator bitch
 
 
 ## Upcoming
@@ -32,10 +31,6 @@ kanban-plugin: basic
 - [ ] SAT Dec @{2022-12-03}
 
 
-## OVERDUE FUCK YOU
-
-
-
 ## CAS Game
 
 - [ ] Finish Game Levels Figma @{2022-09-11} @@{22:45}
@@ -55,6 +50,10 @@ kanban-plugin: basic
 - [ ] Block out structures
 - [ ] Solidify concepts and direction (Phase 1)
 - [ ] Make factory floor plan again (Phase 1)
+
+
+## OVERDUE FUCK YOU
+
 
 
 ## Phase 3 (Production)
@@ -94,6 +93,7 @@ kanban-plugin: basic
 - [ ] 2022-09-18 12:53 EE Draft Due @{2022-09-23}
 - [x] 2022-09-19 12:43 Physics IA Proposal #Priority  @{2022-09-19} @@{12:00}
 - [ ] 2022-09-19 12:43 CS Club HackMD @{2022-09-19}
+- [ ] 2022-09-20 09:15 Charge your fucking calculator bitch
 
 %% kanban:settings
 ```

@@ -7,11 +7,9 @@
         "id": "0d8c575bf37b04b8",
         "type": "leaf",
         "state": {
-          "type": "markdown",
+          "type": "kanban",
           "state": {
-            "file": "DP Computer Science/EE/EE New one.md",
-            "mode": "source",
-            "source": false
+            "file": "Daily/My fucking week/Kanban of Life.md"
           }
         }
       }
@@ -53,7 +51,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 309
+    "width": 309,
+    "collapsed": true
   },
   "right": {
     "id": "d6f61973bf5b2b3f",
@@ -69,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "DP Computer Science/EE/EE New one.md",
+                "file": "Daily/My fucking week/Kanban of Life.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -117,15 +116,15 @@
   },
   "active": "0d8c575bf37b04b8",
   "lastOpenFiles": [
-    "DP Computer Science/EE/EE Brainstorm.md",
+    "Daily/THE Checklist.md",
     "DP Computer Science/EE/EE New one.md",
+    "DP Computer Science/EE/EE Brainstorm.md",
     "Daily/My fucking week/Subject Due Dates Kanban.md",
     "Daily/My fucking week/Kanban of Life.md",
     "DP English LL/Oreo Runs Through it/Oreo brainstorm.md",
     "DP English LL/Oreo Runs Through it/A Rio Runs through it.md",
     "DP English LL/Attachments/A Rio Runs Through It (Complete).pdf",
     "Daily/My fucking week/7Sunday.md",
-    "Daily/My fucking week/4Thursday.md",
-    "Daily/Task List.md"
+    "Daily/My fucking week/4Thursday.md"
   ]
 }
