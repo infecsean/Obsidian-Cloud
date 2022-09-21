@@ -6,14 +6,15 @@ kanban-plugin: basic
 
 ## Today
 
-- [ ] EE squeeze as many problems as possible #Essay    @{2022-09-18}
+- [ ] sleep 11
+- [ ] Read ELL book devices part @{2022-09-21} @@{23:45}
 
 
 ## Upcoming
 
 - [ ] Math Homework #Homework @{2022-09-21}
 - [ ] Chinese Paper 1 #Summative  @{2022-09-22}
-- [ ] English Text analysis #Summative @{2022-09-22}
+- [ ] English Text analysis #Summative @{2022-09-23}
 - [ ] English IO Proposal #Formative @{2022-09-25}
 - [ ] UC Essays #Priority #Essay  @{2022-09-24} @@{23:45}
 
@@ -22,6 +23,7 @@ kanban-plugin: basic
 
 - [ ] EE Draft! #Essay  #Priority @{2022-09-30}
 - [ ] CommonApp Essays #Essay  @{2022-09-30}
+- [ ] Finish Game Levels Figma @{2022-09-30} @@{22:45}
 
 
 ## Activities
@@ -33,7 +35,6 @@ kanban-plugin: basic
 
 ## CAS Game
 
-- [ ] Finish Game Levels Figma @{2022-09-11} @@{22:45}
 - [ ] Fix surfing and w-spam movement @{2022-10-31}
 
 
@@ -94,6 +95,7 @@ kanban-plugin: basic
 - [x] 2022-09-19 12:43 Physics IA Proposal #Priority  @{2022-09-19} @@{12:00}
 - [ ] 2022-09-19 12:43 CS Club HackMD @{2022-09-19}
 - [ ] 2022-09-20 09:15 Charge your fucking calculator bitch
+- [ ] 2022-09-21 07:36 EE squeeze as many problems as possible #Essay    @{2022-09-18}
 
 %% kanban:settings
 ```

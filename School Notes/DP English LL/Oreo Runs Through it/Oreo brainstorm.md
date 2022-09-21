@@ -26,6 +26,10 @@ Techniques -
 - No form of persuasive language such as rhetorical questions.
 	- Not an argument,
 
+1. Story & Environment & Perspective
+2. Analogies, imageries, 
+3. 
+
 ### Teacher part
 - Lament the tragic demise of the river
 - Profile of a place
@@ -33,3 +37,6 @@ Techniques -
 "Volatile, porous..." - Parataxis
 
 "turbulence that churned..." - Metaphor for the entire story, the border between sea and beach
+
+"Tonkin Gulf" - refering to the Tonkin Gulf incident that got the US in the vietnam war, which they talk about later on
+

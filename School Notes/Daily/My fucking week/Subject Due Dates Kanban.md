@@ -16,6 +16,7 @@ kanban-plugin: basic
 
 ## Math
 
+- [ ] Math IA @{2022-12-01}
 
 
 ## English
