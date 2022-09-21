@@ -191,3 +191,6 @@ thats the writing process lol
 - "**Midazolam is a drug that creates temporary anterograde amnesia**"
 
 
+Stuff
+Finish summatives -> Do EE until background info and research shit -> Do CommonApp & UC Essay and schedule for Cindy for next week -> Indie Game Ligma
+

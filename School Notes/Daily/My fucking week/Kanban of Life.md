@@ -8,11 +8,11 @@ kanban-plugin: basic
 
 - [ ] sleep 11 #task?
 - [ ] Read ELL book devices part #Review @{2022-09-21} @@{23:45}
+- [ ] Chinese Paper 1 #Summative  @{2022-09-22}
 
 
 ## Upcoming
 
-- [ ] Chinese Paper 1 #Summative  @{2022-09-22}
 - [ ] English Text analysis #Summative @{2022-09-23}
 - [ ] English IO Proposal #Formative @{2022-09-25}
 - [ ] UC Essays #Priority #Essay  @{2022-09-24} @@{23:45}
