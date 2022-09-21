@@ -51,8 +51,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 309,
-    "collapsed": true
+    "width": 309
   },
   "right": {
     "id": "d6f61973bf5b2b3f",
@@ -116,15 +115,15 @@
   },
   "active": "f6cf86976c47c0eb",
   "lastOpenFiles": [
-    "Daily/My fucking week/Subject Due Dates Kanban.md",
-    "Daily/My fucking week/Kanban of Life.md",
-    "DP English LL/Oreo Runs Through it/Oreo brainstorm.md",
-    "DP English LL/Oreo Runs Through it/A Rio Runs through it.md",
     "Life/Game Dev/Projects/kool idea.md",
     "Life/Game Dev/Inspiration.md",
+    "Daily/My fucking week/Kanban of Life.md",
     "DP Computer Science/EE/EE New one.md",
+    "Daily/My fucking week/Subject Due Dates Kanban.md",
     "DP Computer Science/EE/EE Brainstorm.md",
     "DP Computer Science/Internal Assessment/CS IA Links.md",
-    "Daily/My fucking week/7Sunday.md"
+    "Daily/My fucking week/7Sunday.md",
+    "Daily/My fucking week/4Thursday.md",
+    "Daily/Task List.md"
   ]
 }
