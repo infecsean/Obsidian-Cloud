@@ -6,13 +6,12 @@ kanban-plugin: basic
 
 ## Today
 
-- [ ] sleep 11
-- [ ] Read ELL book devices part @{2022-09-21} @@{23:45}
+- [ ] sleep 11 #task?
+- [ ] Read ELL book devices part #Review @{2022-09-21} @@{23:45}
 
 
 ## Upcoming
 
-- [ ] Math Homework #Homework @{2022-09-21}
 - [ ] Chinese Paper 1 #Summative  @{2022-09-22}
 - [ ] English Text analysis #Summative @{2022-09-23}
 - [ ] English IO Proposal #Formative @{2022-09-25}
@@ -96,6 +95,7 @@ kanban-plugin: basic
 - [ ] 2022-09-19 12:43 CS Club HackMD @{2022-09-19}
 - [ ] 2022-09-20 09:15 Charge your fucking calculator bitch
 - [ ] 2022-09-21 07:36 EE squeeze as many problems as possible #Essay    @{2022-09-18}
+- [ ] 2022-09-21 15:29 Math Homework #Homework @{2022-09-21}
 
 %% kanban:settings
 ```
