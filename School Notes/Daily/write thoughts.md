@@ -194,3 +194,8 @@ thats the writing process lol
 Stuff
 Finish summatives -> Do EE until background info and research shit -> Do CommonApp & UC Essay and schedule for Cindy for next week -> Indie Game Ligma
 
+
+
+# Thoughts 2
+---
+

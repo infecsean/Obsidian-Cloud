@@ -6,9 +6,8 @@ kanban-plugin: basic
 
 ## Today
 
-- [ ] sleep 11 #task?
-- [ ] Read ELL book devices part #Review @{2022-09-21} @@{23:45}
 - [ ] Chinese Paper 1 #Summative  @{2022-09-22}
+- [ ] EE Draft! #Essay  #Priority @{2022-09-30}
 
 
 ## Upcoming
@@ -16,11 +15,11 @@ kanban-plugin: basic
 - [ ] English Text analysis #Summative @{2022-09-23}
 - [ ] English IO Proposal #Formative @{2022-09-25}
 - [ ] UC Essays #Priority #Essay  @{2022-09-24} @@{23:45}
+- [ ] Maths summative @{2022-10-07}
 
 
 ## Gotta do list
 
-- [ ] EE Draft! #Essay  #Priority @{2022-09-30}
 - [ ] CommonApp Essays #Essay  @{2022-09-30}
 - [ ] Finish Game Levels Figma @{2022-09-30} @@{22:45}
 
@@ -96,6 +95,8 @@ kanban-plugin: basic
 - [ ] 2022-09-20 09:15 Charge your fucking calculator bitch
 - [ ] 2022-09-21 07:36 EE squeeze as many problems as possible #Essay    @{2022-09-18}
 - [ ] 2022-09-21 15:29 Math Homework #Homework @{2022-09-21}
+- [ ] 2022-09-22 07:36 sleep 11 #task?
+- [ ] 2022-09-22 07:36 Read ELL book devices part #Review @{2022-09-21} @@{23:45}
 
 %% kanban:settings
 ```

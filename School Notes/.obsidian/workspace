@@ -7,9 +7,11 @@
         "id": "f6cf86976c47c0eb",
         "type": "leaf",
         "state": {
-          "type": "kanban",
+          "type": "markdown",
           "state": {
-            "file": "Daily/My fucking week/Kanban of Life.md"
+            "file": "DP English LL/Paper 1/Why Stuff is not salvation.md",
+            "mode": "source",
+            "source": false
           }
         }
       }
@@ -67,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Daily/My fucking week/Kanban of Life.md",
+                "file": "DP English LL/Paper 1/Why Stuff is not salvation.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,15 +117,15 @@
   },
   "active": "f6cf86976c47c0eb",
   "lastOpenFiles": [
+    "DP English LL/Oreo Runs Through it/Oreo brainstorm.md",
+    "DP English LL/Oreo Runs Through it/A Rio Runs through it.md",
+    "DP English LL/Paper 1/Why Stuff is not salvation.md",
+    "Daily/My fucking week/Kanban of Life.md",
+    "Daily/write thoughts.md",
+    "Daily/My fucking week/Subject Due Dates Kanban.md",
+    "DP Computer Science/EE/EE New one.md",
     "Life/Game Dev/Projects/kool idea.md",
     "Life/Game Dev/Inspiration.md",
-    "Daily/My fucking week/Kanban of Life.md",
-    "DP Computer Science/EE/EE New one.md",
-    "Daily/My fucking week/Subject Due Dates Kanban.md",
-    "DP Computer Science/EE/EE Brainstorm.md",
-    "DP Computer Science/Internal Assessment/CS IA Links.md",
-    "Daily/My fucking week/7Sunday.md",
-    "Daily/My fucking week/4Thursday.md",
-    "Daily/Task List.md"
+    "DP Computer Science/EE/EE Brainstorm.md"
   ]
 }
