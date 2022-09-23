@@ -16,7 +16,7 @@ In the essay, "Why stuff is not salvation", Anna Quindlen discusses the American
 
 >Forthe first time this month, the number of people on food stamps will exceed the 30 million mark.
 
-- Anecdotes
+- Anecdotes more powerful than statistics
 	- Father getting orange in stocking
 	- Friend sayingwhy did we buy all this stuff? Did anyone really need a flat-screen in the bedroom, or adesigner handbag, or three cars?
 
