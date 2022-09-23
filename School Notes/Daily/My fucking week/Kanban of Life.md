@@ -4,6 +4,12 @@ kanban-plugin: basic
 
 ---
 
+## EE! AAHHHHHAHAHHA
+
+- [ ] EE Research #Priority @{2022-09-23} @@{23:00}
+- [ ] EE Complete Code #Priority @{2022-09-24} @@{23:00}
+
+
 ## Today
 
 - [ ] EE Draft! #Essay  #Priority @{2022-09-25}
