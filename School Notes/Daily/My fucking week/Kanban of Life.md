@@ -6,14 +6,12 @@ kanban-plugin: basic
 
 ## Today
 
-- [ ] Chinese Paper 1 #Summative  @{2022-09-22}
-- [ ] EE Draft! #Essay  #Priority @{2022-09-30}
+- [ ] EE Draft! #Essay  #Priority @{2022-09-25}
+- [ ] English IO Proposal #Formative @{2022-09-25}
 
 
 ## Upcoming
 
-- [ ] English Text analysis #Summative @{2022-09-23}
-- [ ] English IO Proposal #Formative @{2022-09-25}
 - [ ] UC Essays #Priority #Essay  @{2022-09-24} @@{23:45}
 - [ ] Maths summative @{2022-10-07}
 
@@ -97,6 +95,8 @@ kanban-plugin: basic
 - [ ] 2022-09-21 15:29 Math Homework #Homework @{2022-09-21}
 - [ ] 2022-09-22 07:36 sleep 11 #task?
 - [ ] 2022-09-22 07:36 Read ELL book devices part #Review @{2022-09-21} @@{23:45}
+- [ ] 2022-09-23 13:58 Chinese Paper 1 #Summative  @{2022-09-22}
+- [ ] 2022-09-23 13:58 English Text analysis #Summative @{2022-09-23}
 
 %% kanban:settings
 ```
