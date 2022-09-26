@@ -4,16 +4,18 @@ kanban-plugin: basic
 
 ---
 
-## EE! AAHHHHHAHAHHA
-
-- [ ] EE Research #Priority @{2022-09-23} @@{23:00}
-- [ ] EE Complete Code #Priority @{2022-09-24} @@{23:00}
-
-
 ## Today
 
+- [ ] Email Reply Jared
+- [ ] EE All the way
+- [ ] Maybe Sneak in a few essay sessions
+
+
+## EE! AAHHHHHAHAHHA
+
 - [ ] EE Draft! #Essay  #Priority @{2022-09-25}
-- [ ] English IO Proposal #Formative @{2022-09-25}
+- [ ] EE Research #Priority @{2022-09-23} @@{23:00}
+- [ ] EE Complete Code #Priority @{2022-09-24} @@{23:00}
 
 
 ## Upcoming
@@ -103,6 +105,7 @@ kanban-plugin: basic
 - [ ] 2022-09-22 07:36 Read ELL book devices part #Review @{2022-09-21} @@{23:45}
 - [ ] 2022-09-23 13:58 Chinese Paper 1 #Summative  @{2022-09-22}
 - [ ] 2022-09-23 13:58 English Text analysis #Summative @{2022-09-23}
+- [ ] 2022-09-26 01:29 English IO Proposal #Formative @{2022-09-25}
 
 %% kanban:settings
 ```

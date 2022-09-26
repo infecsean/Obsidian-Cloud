@@ -22,10 +22,10 @@ I can't think of a fucking way to fix this
 By my definition in the introduction, teleological algorithms simulate the process of which nature generates its terrain. BY DEFINITION, I would have to simulate all this shit. Its time for a new plan.
 
 
-- Intro: 400
-- Background knowledge: 600
-	- Wave Function Collapse: 300
-	- Binary Space Partitioning: 300
+- Intro: 400 (end 342)
+- Background knowledge: 600 (end 823)
+	- Wave Function Collapse: 300 (end 436)
+	- Binary Space Partitioning: 300 (end 387)
 - Experiment Methodology: 1000
 - Experiment Results: 1000
 - Further Research: 300
