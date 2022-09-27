@@ -7,9 +7,11 @@
         "id": "f6cf86976c47c0eb",
         "type": "leaf",
         "state": {
-          "type": "kanban",
+          "type": "markdown",
           "state": {
-            "file": "Daily/My fucking week/Kanban of Life.md"
+            "file": "DP Physics/12. Particle Physics/Photoelectric Effect.md",
+            "mode": "source",
+            "source": false
           }
         }
       }
@@ -67,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Daily/My fucking week/Kanban of Life.md",
+                "file": "DP Physics/12. Particle Physics/Photoelectric Effect.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,9 +117,9 @@
   },
   "active": "f6cf86976c47c0eb",
   "lastOpenFiles": [
+    "Daily/My fucking week/Kanban of Life.md",
     "DP Physics/12. Particle Physics/Photoelectric Effect.md",
     "DP Computer Science/EE/EE Brainstorm.md",
-    "Daily/My fucking week/Kanban of Life.md",
     "DP Computer Science/EE/EE New one.md",
     "DP Chinese/Paper 1 notes.md",
     "DP English LL/Paper 1/Why Stuff is not salvation.md",

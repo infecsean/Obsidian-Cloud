@@ -13,7 +13,7 @@
 - *cannot be directly observable*
 - it ceases to exist upon observation (? what the fuck?)
 
-$|\psi (x,t)|^2 \delta V$ = probability density = probabolity of finding a particle a distance r from a chosen thing...
+$|\psi (x,t)|^2 \Delta V$ = probability density = probabolity of finding a particle a distance r from a chosen thing...
 
 ![[Screen Shot 2022-09-27 at 2.35.08 PM.png]]
 - in terms of $\psi$ 
