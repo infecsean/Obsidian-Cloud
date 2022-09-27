@@ -30,3 +30,13 @@ By my definition in the introduction, teleological algorithms simulate the proce
 - Experiment Results: 1000
 - Further Research: 300
 - Conclusion: 300
+
+
+what next?
+Fix my algorithm -> give into OCD
+Dont fix it -> have more time to get other shit done
+
+tomorrow stuff
+- Finish EE algorithm BSP hopefully
+- Hopefully get some college essays done
+- 

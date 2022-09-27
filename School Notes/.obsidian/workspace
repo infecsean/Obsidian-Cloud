@@ -7,11 +7,9 @@
         "id": "f6cf86976c47c0eb",
         "type": "leaf",
         "state": {
-          "type": "markdown",
+          "type": "kanban",
           "state": {
-            "file": "DP Computer Science/EE/EE Brainstorm.md",
-            "mode": "source",
-            "source": false
+            "file": "Daily/My fucking week/Kanban of Life.md"
           }
         }
       }
@@ -69,7 +67,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "DP Computer Science/EE/EE Brainstorm.md",
+                "file": "Daily/My fucking week/Kanban of Life.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -117,15 +115,15 @@
   },
   "active": "f6cf86976c47c0eb",
   "lastOpenFiles": [
-    "DP Computer Science/EE/EE New one.md",
+    "DP Physics/12. Particle Physics/Photoelectric Effect.md",
+    "DP Computer Science/EE/EE Brainstorm.md",
     "Daily/My fucking week/Kanban of Life.md",
-    "DP English LL/Advertisements/Bioaccumilation.md",
-    "DP English LL/Advertisements/Documentary No Logo.md",
-    "DP English LL/Advertisements/rachael carson ad.md",
-    "DP English LL/Advertisements/Ad analysis.md",
-    "DP English LL/Paper 2 outline.md",
-    "DP English LL/Paper 1 notes.md",
-    "DP English LL/Summer HW/Lame Deer.md",
-    "DP English LL/Wild Thorns/half io notes.md"
+    "DP Computer Science/EE/EE New one.md",
+    "DP Chinese/Paper 1 notes.md",
+    "DP English LL/Paper 1/Why Stuff is not salvation.md",
+    "DP English LL/Oreo Runs Through it/Oreo brainstorm.md",
+    "DP English LL/Oreo Runs Through it/A Rio Runs through it.md",
+    "Daily/write thoughts.md",
+    "Daily/My fucking week/Subject Due Dates Kanban.md"
   ]
 }

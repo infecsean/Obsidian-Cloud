@@ -4,29 +4,25 @@ kanban-plugin: basic
 
 ---
 
-## Today
-
-- [ ] Email Reply Jared
-- [ ] EE All the way
-- [ ] Maybe Sneak in a few essay sessions
-
-
 ## EE! AAHHHHHAHAHHA
 
 - [ ] EE Draft! #Essay  #Priority @{2022-09-25}
-- [ ] EE Research #Priority @{2022-09-23} @@{23:00}
+
+
+## Today
+
 - [ ] EE Complete Code #Priority @{2022-09-24} @@{23:00}
 
 
 ## Upcoming
 
 - [ ] UC Essays #Priority #Essay  @{2022-09-24} @@{23:45}
+- [ ] CommonApp Essays #Essay  @{2022-09-30}
 - [ ] Maths summative @{2022-10-07}
 
 
 ## Gotta do list
 
-- [ ] CommonApp Essays #Essay  @{2022-09-30}
 - [ ] Finish Game Levels Figma @{2022-09-30} @@{22:45}
 
 
@@ -106,6 +102,10 @@ kanban-plugin: basic
 - [ ] 2022-09-23 13:58 Chinese Paper 1 #Summative  @{2022-09-22}
 - [ ] 2022-09-23 13:58 English Text analysis #Summative @{2022-09-23}
 - [ ] 2022-09-26 01:29 English IO Proposal #Formative @{2022-09-25}
+- [ ] 2022-09-27 14:59 Email Reply Jared
+- [ ] 2022-09-27 14:59 EE All the way
+- [ ] 2022-09-27 14:59 Maybe Sneak in a few essay sessions
+- [ ] 2022-09-27 14:59 EE Research #Priority @{2022-09-23} @@{23:00}
 
 %% kanban:settings
 ```
