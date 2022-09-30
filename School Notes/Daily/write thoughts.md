@@ -199,3 +199,7 @@ Finish summatives -> Do EE until background info and research shit -> Do CommonA
 # Thoughts 2
 ---
 
+free trade protectionism argument against both
+comparative & absolute advantage calculation
+
+Paper 3????

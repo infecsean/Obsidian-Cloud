@@ -7,13 +7,14 @@ kanban-plugin: basic
 ## Today
 
 - [ ] Ludum Dare 51 @{2022-10-01} @@{06:00}
-- [ ] UC Essays #Priority #Essay  @{2022-09-24} @@{23:45}
+- [ ] UC Essays #Priority #Essay  @{2022-10-02} @@{23:45}
 
 
 ## Upcoming
 
 - [ ] CommonApp Essays #Essay  @{2022-09-30}
-- [ ] Maths summative @{2022-10-07}
+- [ ] Maths summative #Summative  @{2022-10-07}
+- [ ] Econ Summative #Summative  @{2022-10-11}
 
 
 ## Gotta do list
