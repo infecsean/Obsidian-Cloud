@@ -13,8 +13,9 @@ kanban-plugin: basic
 ## Upcoming
 
 - [ ] CommonApp Essays #Essay  @{2022-09-30}
-- [ ] Maths summative #Summative  @{2022-10-07}
+- [ ] Maths summative Paper 1 & 2 #Summative  @{2022-10-07}
 - [ ] Econ Summative #Summative  @{2022-10-11}
+- [ ] English "Practice IO" #Summative @{2022-10-28}
 
 
 ## Gotta do list
