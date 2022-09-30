@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "DP Computer Science/EE/EE New one.md",
+            "file": "Daily/Personal Statements Brainstorm.md",
             "mode": "source",
             "source": false
           }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "DP Computer Science/EE/EE New one.md",
+                "file": "Daily/Personal Statements Brainstorm.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -106,9 +106,17 @@
                 "useHierarchy": false
               }
             }
+          },
+          {
+            "id": "eef6d1a03a887351",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {}
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
@@ -117,15 +125,15 @@
   },
   "active": "f6cf86976c47c0eb",
   "lastOpenFiles": [
+    "Daily/write thoughts.md",
+    "Daily/My fucking week/Kanban of Life.md",
     "DP Computer Science/EE/EE Brainstorm.md",
+    "Daily/Burden.md",
+    "DP Computer Science/EE/EE New one.md",
     "DP Computer Science/EE/Absolute Abomination/BSP_40x40_1.png",
     "DP Computer Science/EE/Absolute Abomination/BSP_40x40_2.png",
     "DP Computer Science/EE/Absolute Abomination/BSP_40x40_3.png",
     "DP Computer Science/EE/Absolute Abomination/BSP_150x150_1.png",
-    "DP Computer Science/EE/Absolute Abomination/BSP_150x150_2.png",
-    "DP Computer Science/EE/Absolute Abomination/BSP_WH_3x3_3.png",
-    "DP Computer Science/EE/Absolute Abomination/BSP_WH_3x3_2.png",
-    "DP Computer Science/EE/Absolute Abomination/BSP_WH_3x3_1.png",
-    "DP Computer Science/EE/Absolute Abomination/WFC_10x10.png"
+    "DP Computer Science/EE/Absolute Abomination/BSP_150x150_2.png"
   ]
 }

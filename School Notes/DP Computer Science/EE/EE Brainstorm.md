@@ -39,4 +39,18 @@ Dont fix it -> have more time to get other shit done
 tomorrow stuff
 - Finish EE algorithm BSP hopefully
 - Hopefully get some college essays done
-- 
+
+
+```chart
+type: bar
+labels: [Row 1,Row 2,Row 3]
+series:
+  - title: Column 1
+    data: [1,2,3]
+  - title: Column 2
+    data: [2,4,6]
+  - title: Column 3
+    data: [3,6,9]
+width: 80%
+beginAtZero: true
+```

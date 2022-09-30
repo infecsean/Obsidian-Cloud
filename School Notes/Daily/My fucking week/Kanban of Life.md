@@ -4,19 +4,14 @@ kanban-plugin: basic
 
 ---
 
-## EE! AAHHHHHAHAHHA
-
-- [ ] EE Draft! #Essay  #Priority @{2022-09-25}
-
-
 ## Today
 
-- [ ] EE Complete Code #Priority @{2022-09-24} @@{23:00}
+- [ ] Ludum Dare 51 @{2022-10-01} @@{06:00}
+- [ ] UC Essays #Priority #Essay  @{2022-09-24} @@{23:45}
 
 
 ## Upcoming
 
-- [ ] UC Essays #Priority #Essay  @{2022-09-24} @@{23:45}
 - [ ] CommonApp Essays #Essay  @{2022-09-30}
 - [ ] Maths summative @{2022-10-07}
 
@@ -28,7 +23,6 @@ kanban-plugin: basic
 
 ## Activities
 
-- [ ] Ludum Dare 51 @{2022-09-30} @@{02:00}
 - [ ] Learn HLSL @{2022-09-30}
 - [ ] SAT Dec @{2022-12-03}
 
@@ -106,6 +100,8 @@ kanban-plugin: basic
 - [ ] 2022-09-27 14:59 EE All the way
 - [ ] 2022-09-27 14:59 Maybe Sneak in a few essay sessions
 - [ ] 2022-09-27 14:59 EE Research #Priority @{2022-09-23} @@{23:00}
+- [ ] 2022-09-30 07:59 EE Draft! #Essay  #Priority @{2022-09-25}
+- [ ] 2022-09-30 07:59 EE Complete Code #Priority @{2022-09-24} @@{23:00}
 
 %% kanban:settings
 ```
