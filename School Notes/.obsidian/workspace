@@ -7,9 +7,11 @@
         "id": "f6cf86976c47c0eb",
         "type": "leaf",
         "state": {
-          "type": "kanban",
+          "type": "markdown",
           "state": {
-            "file": "Daily/My fucking week/Kanban of Life.md"
+            "file": "Life/Game Dev/Projects/Ludum Dare/LD51/Game Design Doc.md",
+            "mode": "source",
+            "source": false
           }
         }
       }
@@ -67,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Daily/My fucking week/Kanban of Life.md",
+                "file": "Life/Game Dev/Projects/Ludum Dare/LD51/Game Design Doc.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,17 +106,9 @@
                 "useHierarchy": false
               }
             }
-          },
-          {
-            "id": "eef6d1a03a887351",
-            "type": "leaf",
-            "state": {
-              "type": "advanced-tables-toolbar",
-              "state": {}
-            }
           }
         ],
-        "currentTab": 3
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -123,15 +117,15 @@
   },
   "active": "f6cf86976c47c0eb",
   "lastOpenFiles": [
-    "Daily/Personal Statements Brainstorm.md",
+    "Life/Game Dev/Projects/Ludum Dare/2022/Game Document.md",
+    "Life/Game Dev/Projects/Ludum Dare/2022/What i need to make.md",
+    "Life/Game Dev/Projects/Ludum Dare/LD51/Game Design Doc.md",
     "Daily/My fucking week/Kanban of Life.md",
-    "Daily/THE Checklist.md",
-    "Daily/write thoughts.md",
-    "Daily/My fucking week/Subject Due Dates Kanban.md",
-    "Daily/My fucking week/7Sunday.md",
-    "Daily/My fucking week/4Thursday.md",
-    "Daily/My fucking week/0Today.md",
-    "Daily/My fucking week/2Tuesday.md",
-    "Life/Game Dev/Storytelling/Story Circle.md"
+    "DP Computer Science/EE/EE New one.md",
+    "DP Computer Science/EE/EE Brainstorm.md",
+    "DP English LL/Advertisements/Bioaccumilation.md",
+    "DP English LL/Advertisements/Documentary No Logo.md",
+    "DP English LL/Advertisements/rachael carson ad.md",
+    "DP English LL/Advertisements/Ad analysis.md"
   ]
 }

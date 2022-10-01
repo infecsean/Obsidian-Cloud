@@ -8,6 +8,7 @@ kanban-plugin: basic
 
 - [ ] Ludum Dare 51 @{2022-10-01} @@{06:00}
 - [ ] UC Essays #Priority #Essay  @{2022-10-02} @@{23:45}
+- [ ] tell mom no dinner
 
 
 ## Upcoming
