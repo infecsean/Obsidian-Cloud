@@ -6,9 +6,8 @@ kanban-plugin: basic
 
 ## Today
 
-- [ ] Ludum Dare 51 @{2022-10-01} @@{06:00}
+- [ ] UC first essay
 - [ ] UC Essays #Priority #Essay  @{2022-10-02} @@{23:45}
-- [ ] tell mom no dinner
 
 
 ## Upcoming
@@ -105,6 +104,8 @@ kanban-plugin: basic
 - [ ] 2022-09-27 14:59 EE Research #Priority @{2022-09-23} @@{23:00}
 - [ ] 2022-09-30 07:59 EE Draft! #Essay  #Priority @{2022-09-25}
 - [ ] 2022-09-30 07:59 EE Complete Code #Priority @{2022-09-24} @@{23:00}
+- [ ] 2022-10-04 01:56 tell mom no dinner
+- [ ] 2022-10-04 01:56 Ludum Dare 51 @{2022-10-01} @@{06:00}
 
 %% kanban:settings
 ```
