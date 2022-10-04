@@ -6,8 +6,12 @@ kanban-plugin: basic
 
 ## Today
 
-- [ ] UC first essay
 - [ ] UC Essays #Priority #Essay  @{2022-10-02} @@{23:45}
+- [ ] UC Essay Skill
+- [ ] UC Essay Creativity
+- [ ] UC Essay Transfer
+- [ ] UC Essay Volunteer
+- [ ] LD51 play and rate others
 
 
 ## Upcoming
