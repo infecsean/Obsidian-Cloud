@@ -25,7 +25,6 @@ kanban-plugin: basic
 
 ## Chinese
 
-- [ ] Paper 2 @{2022-10-12}
 - [ ] IO @{2022-10-26}
 - [ ] Paper 2 @{2022-11-23}
 

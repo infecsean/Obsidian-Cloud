@@ -12,6 +12,7 @@ kanban-plugin: basic
 - [ ] UC Essay Transfer
 - [ ] UC Essay Volunteer
 - [ ] LD51 play and rate others
+- [ ] UC Essays before saturday because lori play
 
 
 ## Upcoming
@@ -19,6 +20,7 @@ kanban-plugin: basic
 - [ ] CommonApp Essays #Essay  @{2022-09-30}
 - [ ] Maths summative Paper 1 & 2 #Summative  @{2022-10-07}
 - [ ] Econ Summative #Summative  @{2022-10-11}
+- [ ] Paper 2 @{2022-10-12}
 - [ ] English "Practice IO" #Summative @{2022-10-28}
 
 

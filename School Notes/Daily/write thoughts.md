@@ -203,3 +203,10 @@ free trade protectionism argument against both
 comparative & absolute advantage calculation
 
 Paper 3????
+
+
+# Thoughts 3
+- Friday - after math, focus in english and econ, the rest do UC essays (bonus if finish (to make stuff))
+- Saturday - slack off, finish commonapp essay for the rest of the time
+- Sunday - Review for econ test (fuck) (tuesday)
+- Monday - morning check wake up, after that study econ & chinese

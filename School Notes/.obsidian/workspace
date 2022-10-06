@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Daily/My fucking week/CAS meeting.md",
+            "file": "Daily/write thoughts.md",
             "mode": "source",
             "source": false
           }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Daily/My fucking week/CAS meeting.md",
+                "file": "Daily/write thoughts.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -117,15 +117,15 @@
   },
   "active": "f6cf86976c47c0eb",
   "lastOpenFiles": [
+    "Daily/Task List.md",
     "Daily/My fucking week/Kanban of Life.md",
-    "Life/Game Dev/Projects/Ludum Dare/LD51/Game Design Doc.md",
-    "Life/Game Dev/Projects/CAS/Project Structure.md",
-    "Life/Game Dev/Projects/CAS/Menu UI Design.md",
-    "Life/Game Dev/Projects/Ludum Dare/2022/Game Document.md",
-    "Life/Game Dev/Projects/Ludum Dare/2022/What i need to make.md",
-    "DP Computer Science/EE/EE New one.md",
-    "DP Computer Science/EE/EE Brainstorm.md",
-    "DP English LL/Advertisements/Bioaccumilation.md",
-    "DP English LL/Advertisements/Documentary No Logo.md"
+    "Daily/My fucking week/Subject Due Dates Kanban.md",
+    "Daily/CAS meeting.md",
+    "Daily/Burden.md",
+    "Daily/My fucking week/7Sunday.md",
+    "Daily/Personal Statements Brainstorm.md",
+    "DP Computer Science/Internal Assessment/CS IA Links.md",
+    "DP Computer Science/Internal Assessment/CS IA Brainstorm.md",
+    "Life/Game Dev/Projects/Ludum Dare/LD51/Game Design Doc.md"
   ]
 }
