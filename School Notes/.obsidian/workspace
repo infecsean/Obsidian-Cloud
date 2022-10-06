@@ -7,9 +7,11 @@
         "id": "f6cf86976c47c0eb",
         "type": "leaf",
         "state": {
-          "type": "kanban",
+          "type": "markdown",
           "state": {
-            "file": "Daily/My fucking week/Kanban of Life.md"
+            "file": "Daily/My fucking week/CAS meeting.md",
+            "mode": "source",
+            "source": false
           }
         }
       }
@@ -67,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Daily/My fucking week/Kanban of Life.md",
+                "file": "Daily/My fucking week/CAS meeting.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,12 +117,12 @@
   },
   "active": "f6cf86976c47c0eb",
   "lastOpenFiles": [
+    "Daily/My fucking week/Kanban of Life.md",
     "Life/Game Dev/Projects/Ludum Dare/LD51/Game Design Doc.md",
     "Life/Game Dev/Projects/CAS/Project Structure.md",
     "Life/Game Dev/Projects/CAS/Menu UI Design.md",
     "Life/Game Dev/Projects/Ludum Dare/2022/Game Document.md",
     "Life/Game Dev/Projects/Ludum Dare/2022/What i need to make.md",
-    "Daily/My fucking week/Kanban of Life.md",
     "DP Computer Science/EE/EE New one.md",
     "DP Computer Science/EE/EE Brainstorm.md",
     "DP English LL/Advertisements/Bioaccumilation.md",
