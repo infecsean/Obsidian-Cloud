@@ -13,6 +13,7 @@ kanban-plugin: basic
 - [ ] UC Essay Volunteer
 - [ ] LD51 play and rate others
 - [ ] UC Essays before saturday because lori play
+- [ ] Group 4 Project stuff
 
 
 ## Upcoming

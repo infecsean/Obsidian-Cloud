@@ -74,3 +74,34 @@ What to write?
 - Kitchen and filming crew
 
 I wanna show my family side (4), my intellectual side(3), my art side (2), my volunteer side (7)
+
+Problem solving how: The problem -> how i approached it thru creativity and how its different from other solutions -> how it was resolved -> result -> how i learned from it
+
+What thing am i most creative in: 
+- wanna make games with emotion and no bs and microtransactions
+
+What challenge did i overcome:
+- language barrier
+- Outcome: I was able to learn more in my free time
+
+What academic subject do i love:
+- computer science
+
+What have i done to make my community a better place: kitchen service
+
+What are my best activities?
+- Game development
+	- Commitment
+	- Experience in the field
+	- Versatility
+	- Artistic expression
+	- Competition
+- Kitchen volunteer
+	- Flex my certificate
+	- Cooking as hobby
+- IGEM?
+	- Creative problem solving
+	- Innovative thinking?
+	- FUCK
+- Filming and editing?
+	- 
