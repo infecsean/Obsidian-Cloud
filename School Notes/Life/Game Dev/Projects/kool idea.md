@@ -34,5 +34,10 @@ Bro Hoot literally makes awesome shit as inspiration.
 [link here](https://www.youtube.com/watch?v=EzcEcNq0LWY&ab_channel=Hoot)
 
 3. Not really a game but a mechanism
-When refinine or upgrading weapons, to make it more meaningful, let the player and the blacksmith have conversations, let the sword and the player develop relationships (like thor and mjohnir)
+When refinine or upgrading weapons, to make it more meaningful, let the player and the blacksmith have conversations, let the sword and the player develop relationships (like thor and mjohnir). Dont saturate the process, make it an important step in the journey, so only one upgrade or something. also came from hoot
 
+4. ANOTHER surfing game idea
+- Remember the attack on ba sing se in the last airbender?
+- The waterbender master just brings water and surfs down like a weapon?
+- Yeah that. But we add surfing mechanics to that.
+- Like you have materials to create surf slides, but you can also retract those materials for later use or something.

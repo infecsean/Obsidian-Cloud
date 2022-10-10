@@ -56,7 +56,7 @@ What to write?
 - Why not
 	- could make me sound like an ameteur and not actually someone who has done shit related to game development
 
-### Prompts
+### UC Prompts
 - Remember to show how it makes you stand out
 2. Creative side - show creative side like innovative thinking and problem solving and like art and shit. But focus on one way i guess? 
 - "Creativity" means that you do stuff differently and how it makes you truly unique.
@@ -104,4 +104,58 @@ What are my best activities?
 	- Innovative thinking?
 	- FUCK
 - Filming and editing?
+
+### Commonapp
+
+5.  Discuss an accomplishment, event, or realization that sparked a period of personal growth and a new understanding of yourself or others.
+
+- [ ] Realization - Eating beef made me realize flaws and loopholes
+- [ ] Personal growth how - Explore the previously unexplorable
+- [ ] Old/New understanding of myself - Hard worker/Thinker
+
+(Attempt 1) Theme: Control
+
+- Intro - 100 words
+	- Interesting hook - I never tasted Beef
+	- Set up the status quo
+	- Set up theme - I never got to decide
+	- Why i decided to try beef
+	- What my feelings were when I tried it - soft, tender, juicy, confusing, guilty
 	- 
+- Body 1 - 200/150
+	- First belief i questioned was "am i really stupid?"
+	- I evaluated my situation and transferred to an international school
+	- 
+- Body 2 - 200/150
+	- Next belief I challenged, "What else could I do?"
+	- I learned game dev, I learned art, coding, shit like that
+	- I learned how to cook, 
+- Body 3 - 0/150
+- Conclusion - 100
+
+Critical thinking - 
+
+6. Describe a topic, idea, or concept you find so engaging that it makes you lose all track of time. Why does it captivate you? What or who do you turn to when you want to learn more?
+
+- [ ] Topic/idea/concept
+- [ ] anecdote of losing track of time
+- [ ] Why captivate me
+- [ ] Who do i turn to
+
+Theme: Curiosity
+
+- Intro - 100 words
+	- Interesting hook - I love playing game, but I love making them even more.
+	- 
+	- What my feelings were when I tried it - soft, tender, juicy, confusing, guilty
+	- Throw me into a chain of questioning all my beliefs
+- Body 1 - 200/150
+	- First belief i questioned was "am i really stupid?"
+	- I evaluated my situation and transferred to an international school
+	- Grades rose, time freed, health improved, 
+- Body 2 - 200/150
+	- Next belief I challenged, "What else could I do?"
+	- I learned game dev, I learned art, coding, shit like that
+	- I learned how to cook, 
+- Body 3 - 0/150
+- Conclusion - 100

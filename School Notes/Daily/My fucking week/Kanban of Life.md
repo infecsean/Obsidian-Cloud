@@ -4,22 +4,33 @@ kanban-plugin: basic
 
 ---
 
-## Today
+## Afternoon
 
-- [ ] UC Essays #Priority #Essay  @{2022-10-02} @@{23:45}
+- [ ] Physics Questions
+- [ ] Add CAS Gym
+- [ ] Add Calisthenics CAS
+- [ ] Add LD51 CAS
+
+
+## Night
+
+
+
+## Tomorrow
+
+
+
+## UC Essays
+
 - [ ] UC Essay Skill
 - [ ] UC Essay Creativity
 - [ ] UC Essay Transfer
 - [ ] UC Essay Volunteer
-- [ ] LD51 play and rate others
-- [ ] UC Essays before saturday because lori play
-- [ ] Group 4 Project stuff
 
 
 ## Upcoming
 
-- [ ] CommonApp Essays #Essay  @{2022-09-30}
-- [ ] Maths summative Paper 1 & 2 #Summative  @{2022-10-07}
+- [ ] CommonApp Essays #Essay  @{2022-10-10}
 - [ ] Econ Summative #Summative  @{2022-10-11}
 - [ ] Paper 2 @{2022-10-12}
 - [ ] English "Practice IO" #Summative @{2022-10-28}
@@ -27,7 +38,8 @@ kanban-plugin: basic
 
 ## Gotta do list
 
-- [ ] Finish Game Levels Figma @{2022-09-30} @@{22:45}
+- [ ] Finish Game Levels Figma @{2022-10-10} @@{22:45}
+- [ ] Group 4 Project stuff
 
 
 ## Activities
@@ -113,6 +125,10 @@ kanban-plugin: basic
 - [ ] 2022-09-30 07:59 EE Complete Code #Priority @{2022-09-24} @@{23:00}
 - [ ] 2022-10-04 01:56 tell mom no dinner
 - [ ] 2022-10-04 01:56 Ludum Dare 51 @{2022-10-01} @@{06:00}
+- [ ] 2022-10-08 17:39 UC Essays #Priority #Essay  @{2022-10-02} @@{23:45}
+- [x] 2022-10-08 17:40 Maths summative Paper 1 & 2 #Summative  @{2022-10-07}
+- [x] 2022-10-09 01:12 Finish Event Storyline & Main Storyline
+- [x] 2022-10-10 10:45 Answer econ questions
 
 %% kanban:settings
 ```
