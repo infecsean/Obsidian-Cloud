@@ -4,26 +4,19 @@ kanban-plugin: basic
 
 ---
 
-## Afternoon
-
-- [ ] Physics Questions
-- [ ] Add CAS Gym
-- [ ] Add Calisthenics CAS
-- [ ] Add LD51 CAS
-
-
 ## Night
 
+- [ ] UC Essay Creativity
+- [ ] UC Essay Skill
 
 
 ## Tomorrow
 
+- [ ] Physics Questions
 
 
 ## UC Essays
 
-- [ ] UC Essay Skill
-- [ ] UC Essay Creativity
 - [ ] UC Essay Transfer
 - [ ] UC Essay Volunteer
 
@@ -31,15 +24,13 @@ kanban-plugin: basic
 ## Upcoming
 
 - [ ] CommonApp Essays #Essay  @{2022-10-10}
-- [ ] Econ Summative #Summative  @{2022-10-11}
-- [ ] Paper 2 @{2022-10-12}
+- [ ] Econ Summative #Summative  @{2022-10-19}
 - [ ] English "Practice IO" #Summative @{2022-10-28}
 
 
 ## Gotta do list
 
 - [ ] Finish Game Levels Figma @{2022-10-10} @@{22:45}
-- [ ] Group 4 Project stuff
 
 
 ## Activities
@@ -129,6 +120,12 @@ kanban-plugin: basic
 - [x] 2022-10-08 17:40 Maths summative Paper 1 & 2 #Summative  @{2022-10-07}
 - [x] 2022-10-09 01:12 Finish Event Storyline & Main Storyline
 - [x] 2022-10-10 10:45 Answer econ questions
+- [x] 2022-10-12 08:38 Add CAS Gym
+- [x] 2022-10-12 08:38 Add Calisthenics CAS
+- [x] 2022-10-12 08:38 Add LD51 CAS
+- [ ] 2022-10-12 09:34 Group 4 Project stuff
+- [x] 2022-10-12 16:38 Poetry Anal
+- [x] 2022-10-12 16:38 Paper 2 @{2022-10-12}
 
 %% kanban:settings
 ```

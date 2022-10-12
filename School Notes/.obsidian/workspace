@@ -4,7 +4,7 @@
     "type": "split",
     "children": [
       {
-        "id": "f6cf86976c47c0eb",
+        "id": "c4944c60a4d2f221",
         "type": "leaf",
         "state": {
           "type": "kanban",
@@ -113,17 +113,17 @@
     "width": 370.3333435058594,
     "collapsed": true
   },
-  "active": "f6cf86976c47c0eb",
+  "active": "c4944c60a4d2f221",
   "lastOpenFiles": [
-    "Daily/Personal Statements Brainstorm.md",
+    "Daily/My fucking week/Subject Due Dates Kanban.md",
+    "Daily/Burden.md",
     "Daily/My fucking week/Kanban of Life.md",
-    "Life/Game Dev/Projects/CAS/Story/Storyline/Storyline V2.md",
-    "Life/Game Dev/Projects/CAS/Story/Storyline/Storyline.md",
-    "Life/Game Dev/Projects/CAS/Mood System/Emotion Theory.md",
-    "Life/Game Dev/Projects/CAS/Mood System/Masking System.md",
-    "Life/Game Dev/Projects/CAS/Mood System/Mood System.md",
-    "Life/Game Dev/Projects/CAS/Mood System/Mood State Machine/MaskManager.md",
-    "Life/Game Dev/Projects/CAS/Mood System/Mood State Machine/JoyMaskState.md",
-    "Life/Game Dev/Projects/CAS/Mood System/Mood State Machine/MaskBaseState.md"
+    "DP English LL/Neruda/United Fruit Company.md",
+    "DP English LL/Neruda/The Father.md",
+    "DP English LL/Real IO Notes.md",
+    "DP Chinese/Oct12.md",
+    "DP Chinese/Paper 1 notes.md",
+    "Daily/Personal Statements Brainstorm.md",
+    "Daily/My fucking week/CAS meeting.md"
   ]
 }
