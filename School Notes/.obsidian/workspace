@@ -4,12 +4,14 @@
     "type": "split",
     "children": [
       {
-        "id": "c4944c60a4d2f221",
+        "id": "180c1b6dbfe690b1",
         "type": "leaf",
         "state": {
-          "type": "kanban",
+          "type": "markdown",
           "state": {
-            "file": "Daily/My fucking week/Kanban of Life.md"
+            "file": "DP Chinese/Oct12.md",
+            "mode": "source",
+            "source": false
           }
         }
       }
@@ -67,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Daily/My fucking week/Kanban of Life.md",
+                "file": "DP Chinese/Oct12.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -113,17 +115,17 @@
     "width": 370.3333435058594,
     "collapsed": true
   },
-  "active": "c4944c60a4d2f221",
+  "active": "180c1b6dbfe690b1",
   "lastOpenFiles": [
-    "Daily/My fucking week/Subject Due Dates Kanban.md",
-    "Daily/Burden.md",
-    "Daily/My fucking week/Kanban of Life.md",
-    "DP English LL/Neruda/United Fruit Company.md",
-    "DP English LL/Neruda/The Father.md",
-    "DP English LL/Real IO Notes.md",
-    "DP Chinese/Oct12.md",
-    "DP Chinese/Paper 1 notes.md",
     "Daily/Personal Statements Brainstorm.md",
-    "Daily/My fucking week/CAS meeting.md"
+    "DP Chinese/Oct12.md",
+    "Daily/My fucking week/Kanban of Life.md",
+    "Daily/My fucking week/Subject Due Dates Kanban.md",
+    "Daily/THE Checklist.md",
+    "Daily/write thoughts.md",
+    "Daily/Task List.md",
+    "Calender/Weekly Notes.md",
+    "canban/game kanban.md",
+    "haha.md"
   ]
 }

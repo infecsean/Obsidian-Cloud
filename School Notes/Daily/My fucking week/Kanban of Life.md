@@ -12,20 +12,22 @@ kanban-plugin: basic
 
 ## Tomorrow
 
-- [ ] Physics Questions
-
-
-## UC Essays
-
-- [ ] UC Essay Transfer
-- [ ] UC Essay Volunteer
+- [ ] Finish Fixing all da essays
 
 
 ## Upcoming
 
-- [ ] CommonApp Essays #Essay  @{2022-10-10}
+- [ ] Physics IA @{2022-10-18}
 - [ ] Econ Summative #Summative  @{2022-10-19}
 - [ ] English "Practice IO" #Summative @{2022-10-28}
+- [ ] Cindy Meeting @{2022-10-26}
+
+
+## Pending Essays
+
+- [ ] UC Essay Transfer
+- [ ] UC Essay Volunteer
+- [ ] CommonApp Essays #Essay  @{2022-10-10}
 
 
 ## Gotta do list
@@ -126,6 +128,7 @@ kanban-plugin: basic
 - [ ] 2022-10-12 09:34 Group 4 Project stuff
 - [x] 2022-10-12 16:38 Poetry Anal
 - [x] 2022-10-12 16:38 Paper 2 @{2022-10-12}
+- [ ] 2022-10-13 10:59 Physics Questions
 
 %% kanban:settings
 ```

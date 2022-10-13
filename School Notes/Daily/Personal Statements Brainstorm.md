@@ -105,6 +105,20 @@ What are my best activities?
 	- FUCK
 - Filming and editing?
 
+### Cooking or Film/Editing for creativity question
+- Cooking
+	- Pros
+		- Talk about how I bring new dish to the table to spice things up
+		- Rich background on journey, but deviates from prompt
+	- Cons
+		- Repeats with volunteer prompt but not big overlap
+		- Cant talk about journey because its about expression, meaning I need to focus on how I innovate on cooking
+- Filming
+	- Pros
+		- Youtube channel as a child
+		- More recent experiences like volunteer documentary filming & editing
+		- 
+
 ### Commonapp
 
 5.  Discuss an accomplishment, event, or realization that sparked a period of personal growth and a new understanding of yourself or others.
