@@ -22,6 +22,7 @@ kanban-plugin: basic
 - [ ] Econ Summative #Summative  @{2022-10-19}
 - [ ] English "Practice IO" #Summative @{2022-10-28}
 - [ ] Cindy Meeting @{2022-10-26}
+- [ ] Chinese Paper 1 #Summative @{2022-10-27}
 
 
 ## Pending Essays

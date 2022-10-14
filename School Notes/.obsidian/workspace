@@ -7,9 +7,11 @@
         "id": "180c1b6dbfe690b1",
         "type": "leaf",
         "state": {
-          "type": "kanban",
+          "type": "markdown",
           "state": {
-            "file": "Daily/My fucking week/Kanban of Life.md"
+            "file": "Daily/write thoughts.md",
+            "mode": "source",
+            "source": false
           }
         }
       }
@@ -67,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Daily/My fucking week/Kanban of Life.md",
+                "file": "Daily/write thoughts.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,9 +106,17 @@
                 "useHierarchy": false
               }
             }
+          },
+          {
+            "id": "276de8a73be24f48",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {}
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
@@ -115,9 +125,9 @@
   },
   "active": "180c1b6dbfe690b1",
   "lastOpenFiles": [
+    "Daily/My fucking week/Kanban of Life.md",
     "Daily/Personal Statements Brainstorm.md",
     "DP Chinese/Oct12.md",
-    "Daily/My fucking week/Kanban of Life.md",
     "Daily/My fucking week/Subject Due Dates Kanban.md",
     "Daily/THE Checklist.md",
     "Daily/write thoughts.md",

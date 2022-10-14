@@ -210,3 +210,12 @@ Paper 3????
 - Saturday - slack off, finish commonapp essay for the rest of the time
 - Sunday - Review for econ test (fuck) (tuesday)
 - Monday - morning check wake up, after that study econ & chinese
+
+# Thoughts 4
+Tasks:
+- 
+
+|               | Not Urgent | Urgent |
+| ------------- | ---------- | ------ |
+| Not Important |            |        |
+| Important     |            |        |
