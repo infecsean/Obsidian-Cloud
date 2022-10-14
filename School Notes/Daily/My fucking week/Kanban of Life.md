@@ -7,17 +7,18 @@ kanban-plugin: basic
 ## Night
 
 - [ ] UC Essay Creativity
-- [ ] UC Essay Skill
+- [ ] Finish Fixing all da essays
 
 
 ## Tomorrow
 
-- [ ] Finish Fixing all da essays
+- [ ] Physics Exam LOL AHAHHHAAAA FUCK OFF AHHHHHH #Summative  @{2022-10-17}
+- [ ] CS Summative #Summative  @{2022-10-18}
 
 
 ## Upcoming
 
-- [ ] Physics IA @{2022-10-18}
+- [ ] Physics IA #Summative  @{2022-10-17}
 - [ ] Econ Summative #Summative  @{2022-10-19}
 - [ ] English "Practice IO" #Summative @{2022-10-28}
 - [ ] Cindy Meeting @{2022-10-26}
@@ -25,6 +26,7 @@ kanban-plugin: basic
 
 ## Pending Essays
 
+- [ ] UC Essay Skill
 - [ ] UC Essay Transfer
 - [ ] UC Essay Volunteer
 - [ ] CommonApp Essays #Essay  @{2022-10-10}
