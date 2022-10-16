@@ -127,7 +127,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "DP Computer Science/Databases/PPTs/Databases_A.3_Further_Aspects_of_Database_Management.pdf",
+                "file": "DP Computer Science/Databases/Memori.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -179,7 +179,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "DP Computer Science/Databases/PPTs/Databases_A.3_Further_Aspects_of_Database_Management.pdf"
+                "file": "DP Computer Science/Databases/Memori.md"
               }
             }
           }
@@ -194,8 +194,9 @@
   "ribbon": {
     "mostRecentAction": ""
   },
-  "active": "f79c0ef2c69bccd7",
+  "active": "f3a0a2feec0ae64f",
   "lastOpenFiles": [
+    "DP Computer Science/Databases/PPTs/Databases_A.3_Further_Aspects_of_Database_Management.pdf",
     "DP Computer Science/Databases/PPTs/Databases_A.2_The_Relational_Database_Model__1_.pdf",
     "DP Computer Science/Databases/Memori.md",
     "DP Computer Science/Databases/PPTs/Databases_A.1_Basic_Concepts__1_.pdf",
@@ -204,7 +205,6 @@
     "Daily/My fucking week/Subject Due Dates Kanban.md",
     "Daily/My fucking week/2Tuesday.md",
     "Daily/My fucking week/4Thursday.md",
-    "Daily/My fucking week/5Friday.md",
-    "Daily/My fucking week/7Sunday.md"
+    "Daily/My fucking week/5Friday.md"
   ]
 }

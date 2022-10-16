@@ -180,3 +180,19 @@ Information System
 	- Insert - What happens when inserting a value into foreign key column without corresponding primary key value in parent table.
 	- Update - Controls data modification so foreign value cant be updated to value that doesnt correspond to primary value
 	- Delete - What happens when deleting a row from parent table
+
+#### Database Administrator (DBA)
+- Duties
+	- Installing/upgrading database applicaton
+	- Modifying database structure
+	- Control/monitor user access
+	- Plan for backup/recovery of database
+
+#### Database Recovery
+Causes for errors:
+- User error
+- Statement Failure
+- Process Failure
+- Network Failure
+- Database Instance Failure
+- Media Failure
