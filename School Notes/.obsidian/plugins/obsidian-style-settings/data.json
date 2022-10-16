@@ -1,6 +1,13 @@
 {
-  "shimmering-focus@@show-titlebar": true,
-  "shimmering-focus@@preset-color-scheme": "nord-colors",
   "shimmering-focus@@hide-settings-button": false,
-  "shimmering-focus@@show-ribbons": true
+  "shimmering-focus@@show-ribbon": true,
+  "shimmering-focus@@show-sidebar-header-buttons": true,
+  "shimmering-focus@@normal-header-bar": true,
+  "shimmering-focus@@show-new-tab-button": true,
+  "shimmering-focus@@show-tab-list-button": true,
+  "shimmering-focus@@show-close-buttons": true,
+  "shimmering-focus@@show-search-pane-suggestions": false,
+  "shimmering-focus@@show-starred-nav-buttons": false,
+  "shimmering-focus@@show-file-explorer-navigation": true,
+  "shimmering-focus@@trim-long-filenames": false
 }
