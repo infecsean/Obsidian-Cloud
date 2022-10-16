@@ -64,7 +64,7 @@
             "state": {
               "type": "pdf",
               "state": {
-                "file": "DP Computer Science/Databases/PPTs/Databases_A.2_The_Relational_Database_Model__1_.pdf"
+                "file": "DP Computer Science/Databases/PPTs/Databases_A.3_Further_Aspects_of_Database_Management.pdf"
               }
             }
           }
@@ -127,7 +127,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "DP Computer Science/Databases/Memori.md",
+                "file": "DP Computer Science/Databases/PPTs/Databases_A.3_Further_Aspects_of_Database_Management.pdf",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -179,7 +179,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "DP Computer Science/Databases/Memori.md"
+                "file": "DP Computer Science/Databases/PPTs/Databases_A.3_Further_Aspects_of_Database_Management.pdf"
               }
             }
           }
@@ -194,11 +194,11 @@
   "ribbon": {
     "mostRecentAction": ""
   },
-  "active": "f3a0a2feec0ae64f",
+  "active": "f79c0ef2c69bccd7",
   "lastOpenFiles": [
     "DP Computer Science/Databases/PPTs/Databases_A.2_The_Relational_Database_Model__1_.pdf",
-    "DP Computer Science/Databases/PPTs/Databases_A.1_Basic_Concepts__1_.pdf",
     "DP Computer Science/Databases/Memori.md",
+    "DP Computer Science/Databases/PPTs/Databases_A.1_Basic_Concepts__1_.pdf",
     "Daily/My fucking week/Kanban of Life.md",
     "Daily/Personal Statements Brainstorm.md",
     "Daily/My fucking week/Subject Due Dates Kanban.md",

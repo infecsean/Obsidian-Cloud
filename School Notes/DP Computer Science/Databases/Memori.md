@@ -166,3 +166,17 @@ Information System
 - Join - Combination of tables into a single view.
 
 #### Issues with redundancy
+- Redundancy - duplicaton of data
+- Insertion Anomaly: Cant insert record without inserting unrelated data
+- Update Anomaly: Updating a data may require updating many records
+- Deletion Anomaly: Deleting data may require deletion in many locations
+
+#### Referential Integrity
+- Integrity and usability of relationship by establishing rules/constraints
+- To establish RI
+	- Create primary key in parent table & foreign in dependent
+	- Define what actions are allowed when data is added/modified
+- Rules
+	- Insert - What happens when inserting a value into foreign key column without corresponding primary key value in parent table.
+	- Update - Controls data modification so foreign value cant be updated to value that doesnt correspond to primary value
+	- Delete - What happens when deleting a row from parent table
