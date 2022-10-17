@@ -8,47 +8,49 @@ kanban-plugin: basic
 
 - [ ] CS Summative #Summative  @{2022-10-18}
 - [ ] Physics IA #Summative @{2022-10-18}
-- [ ] Finish UC#4
-- [ ] Econ Summative #Review   @{2022-10-19}
+- [ ] Finish UC#4 @{2022-10-18}
+- [ ] Econ Review #Review   @{2022-10-18}
 
 
 ## Tomorrow (4)
 
-- [ ] Fix CommonApp Essay & other essays
+- [ ] Fix CommonApp Essay & other essays @{2022-10-19}
 - [ ] Chinese IO Stuff #Homework @{2022-10-18} @@{23:00}
+- [ ] Econ Summative #Summative @{2022-10-19}
+- [ ] Dinner wit da boiiiis @{2022-10-23}
 
 
 ## Upcoming
 
-- [ ] English "Practice IO" #Summative @{2022-10-28}
+- [ ] English Poetry IO #Summative @{2022-10-27}
+- [ ] Chinese IO #Summative @{2022-10-27}
 - [ ] Cindy Meeting @{2022-10-26}
-- [ ] Chinese Paper 1 #Summative @{2022-10-27}
-- [ ] Finish Chinese IO Stuff #Summative @{2022-10-19}
+- [ ] Physics Summative #Summative @{2022-10-27}
 
 
 ## Pending Essays
 
 - [ ] UC Essay Creativity
 - [ ] UC Essay Skill
-- [ ] UC Essay Transfer
-- [ ] UC Essay Volunteer
-- [ ] CommonApp Essays #Essay  @{2022-10-10}
+- [x] UC Essay Transfer
+- [x] UC Essay Volunteer
+- [ ] CommonApp Essays #Essay  @{2022-10-31}
 
 
 ## Gotta do list
 
-- [ ] Finish Game Levels Figma @{2022-10-10} @@{22:45}
+- [ ] Finish Game Levels Figma @{2022-11-10} @@{22:45}
 
 
 ## Activities
 
-- [ ] Learn HLSL @{2022-09-30}
+- [ ] Learn HLSL @{2022-11-01}
 - [ ] SAT Dec @{2022-12-03}
 
 
 ## CAS Game
 
-- [ ] Fix surfing and w-spam movement @{2022-10-31}
+- [ ] Fix surfing and w-spam movement @{2022-11-05}
 
 
 ## Phase 1
