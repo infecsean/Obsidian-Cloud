@@ -6,17 +6,15 @@ kanban-plugin: basic
 
 ## Today (4)
 
+- [ ] CS Summative #Summative  @{2022-10-18}
+- [ ] Physics IA #Summative @{2022-10-18}
 - [ ] Finish UC#4
-- [ ] Fix CommonApp Essay & other essays
-- [ ] CS Database #Review @{2022-10-17}@@{21:00}
-- [ ] Reminder: <br>Sign yellow paper<br>Tell mom to let me come home 7,8
+- [ ] Econ Summative #Review   @{2022-10-19}
 
 
 ## Tomorrow (4)
 
-- [ ] CS Summative #Summative  @{2022-10-18}
-- [ ] Physics IA #Summative @{2022-10-18}
-- [ ] Econ Summative #Review   @{2022-10-19}
+- [ ] Fix CommonApp Essay & other essays
 - [ ] Chinese IO Stuff #Homework @{2022-10-18} @@{23:00}
 
 
@@ -138,6 +136,8 @@ kanban-plugin: basic
 - [ ] 2022-10-13 10:59 Physics Questions
 - [ ] 2022-10-16 14:55 Physics IA #Summative  @{2022-10-17}
 - [x] 2022-10-17 12:50 Physics Exam LOL AHAHHHAAAA FUCK OFF AHHHHHH #Summative  @{2022-10-17}
+- [x] 2022-10-18 00:28 CS Database #Review @{2022-10-17}@@{21:00}
+- [x] 2022-10-18 00:28 Reminder: <br>Sign yellow paper<br>Tell mom to let me come home 7,8
 
 %% kanban:settings
 ```
