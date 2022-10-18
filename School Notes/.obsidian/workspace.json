@@ -25,7 +25,7 @@
             "state": {
               "type": "kanban",
               "state": {
-                "file": "Daily/My fucking week/Kanban of Life.md"
+                "file": "Daily/My fucking week/Kanban of Pain.md"
               }
             }
           },
@@ -36,28 +36,6 @@
               "type": "markdown",
               "state": {
                 "file": "Daily/Personal Statements Brainstorm.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "dd4e1feb9d022c77",
-            "type": "leaf",
-            "state": {
-              "type": "mindmapView",
-              "state": {
-                "file": "DP Computer Science/Databases/Database Mindmap.md"
-              }
-            }
-          },
-          {
-            "id": "b4e43d977b98fa9a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "DP Computer Science/Databases/Memori.md",
                 "mode": "source",
                 "source": false
               }
@@ -123,7 +101,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Daily/My fucking week/Kanban of Life.md",
+                "file": "Daily/My fucking week/Kanban of Pain.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -182,11 +160,11 @@
   },
   "active": "1eaa281c0d86d0bd",
   "lastOpenFiles": [
+    "Daily/Personal Statements Brainstorm.md",
     "DP Computer Science/Databases/Database Mindmap.md",
-    "Daily/My fucking week/Kanban of Life.md",
+    "Daily/My fucking week/Kanban of Pain.md",
     "DP Computer Science/Databases/Memori.md",
     "Daily/My fucking week/Subject Due Dates Kanban.md",
-    "Daily/Personal Statements Brainstorm.md",
     "Daily/My fucking week/Untitled Kanban.md",
     "Daily/THE Checklist.md",
     "Daily/write thoughts.md",
