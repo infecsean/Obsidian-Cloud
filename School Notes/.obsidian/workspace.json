@@ -4,7 +4,7 @@
     "type": "split",
     "children": [
       {
-        "id": "79ff8cf9120b31bb",
+        "id": "7a7e9e9e12e06e7d",
         "type": "tabs",
         "children": [
           {
@@ -13,14 +13,24 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Daily/My fucking week/Subject Due Dates Kanban.md",
+                "file": "Daily/write thoughts.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "1eaa281c0d86d0bd",
+            "id": "4442924e34102edc",
+            "type": "leaf",
+            "state": {
+              "type": "kanban",
+              "state": {
+                "file": "Daily/My fucking week/Subject Due Dates Kanban.md"
+              }
+            }
+          },
+          {
+            "id": "05cc0367190602bb",
             "type": "leaf",
             "state": {
               "type": "kanban",
@@ -30,19 +40,27 @@
             }
           },
           {
-            "id": "9d689fe9603b7ed4",
+            "id": "f3a0a2feec0ae64f",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Daily/Personal Statements Brainstorm.md",
+                "file": "DP Computer Science/Databases/Memori.md",
                 "mode": "source",
                 "source": false
               }
             }
+          },
+          {
+            "id": "49c970b4332f5a07",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -121,6 +139,14 @@
             }
           },
           {
+            "id": "83e5f3680cc53e56",
+            "type": "leaf",
+            "state": {
+              "type": "todo",
+              "state": {}
+            }
+          },
+          {
             "id": "8f0baf4685a002b6",
             "type": "leaf",
             "state": {
@@ -140,11 +166,13 @@
             }
           },
           {
-            "id": "53ff54bc94521bd2",
+            "id": "a9d7f665565815c4",
             "type": "leaf",
             "state": {
-              "type": "todo",
-              "state": {}
+              "type": "outline",
+              "state": {
+                "file": "Daily/My fucking week/Kanban of Pain.md"
+              }
             }
           }
         ],
@@ -158,17 +186,17 @@
   "ribbon": {
     "mostRecentAction": ""
   },
-  "active": "1eaa281c0d86d0bd",
+  "active": "05cc0367190602bb",
   "lastOpenFiles": [
-    "Daily/Personal Statements Brainstorm.md",
-    "DP Computer Science/Databases/Database Mindmap.md",
-    "Daily/My fucking week/Kanban of Pain.md",
-    "DP Computer Science/Databases/Memori.md",
     "Daily/My fucking week/Subject Due Dates Kanban.md",
-    "Daily/My fucking week/Untitled Kanban.md",
-    "Daily/THE Checklist.md",
-    "Daily/write thoughts.md",
-    "DP Chinese/Oct12.md",
-    "Daily/Task List.md"
+    "Daily/My fucking week/Kanban of Life.md",
+    "DP Computer Science/Databases/Test Mindmap.md",
+    "DP Computer Science/Databases/Memori.md",
+    "DP Computer Science/Databases/PPTs/Databases_A.3_Further_Aspects_of_Database_Management.pdf",
+    "DP Computer Science/Databases/PPTs/Databases_A.2_The_Relational_Database_Model__1_.pdf",
+    "DP Computer Science/Databases/PPTs/Databases_A.1_Basic_Concepts__1_.pdf",
+    "Daily/Personal Statements Brainstorm.md",
+    "Daily/My fucking week/2Tuesday.md",
+    "Daily/My fucking week/4Thursday.md"
   ]
 }

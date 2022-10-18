@@ -6,10 +6,8 @@ kanban-plugin: basic
 
 ## Today (4)
 
-- [ ] Physics IA #Summative @{2022-10-18}
 - [ ] Finish UC#4 @{2022-10-18}
 - [ ] Econ Review #Review   @{2022-10-18}
-- [ ] failure slip
 
 
 ## Tomorrow (4)
@@ -141,6 +139,8 @@ kanban-plugin: basic
 - [x] 2022-10-18 00:28 CS Database #Review @{2022-10-17}@@{21:00}
 - [x] 2022-10-18 00:28 Reminder: <br>Sign yellow paper<br>Tell mom to let me come home 7,8
 - [ ] 2022-10-18 08:00 CS Summative #Summative  @{2022-10-18}
+- [x] 2022-10-18 22:24 Physics IA #Summative @{2022-10-31}
+- [x] 2022-10-18 22:24 failure slip
 
 %% kanban:settings
 ```
