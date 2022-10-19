@@ -6,15 +6,13 @@ kanban-plugin: basic
 
 ## Today (4)
 
-- [ ] Finish UC#4 @{2022-10-18}
-- [ ] Econ Review #Review   @{2022-10-18}
+- [ ] Chinese IO Stuff #Homework @{2022-10-19} @@{23:00}
 
 
 ## Tomorrow (4)
 
-- [ ] Fix CommonApp Essay & other essays @{2022-10-19}
-- [ ] Chinese IO Stuff #Homework @{2022-10-18} @@{23:00}
-- [ ] Econ Summative #Summative @{2022-10-19}
+- [ ] Finish UC#4 @{2022-10-19}
+- [ ] Fix CommonApp Essay & other essays @{2022-10-20}
 - [ ] Dinner wit da boiiiis @{2022-10-23}
 
 
@@ -141,6 +139,8 @@ kanban-plugin: basic
 - [ ] 2022-10-18 08:00 CS Summative #Summative  @{2022-10-18}
 - [x] 2022-10-18 22:24 Physics IA #Summative @{2022-10-31}
 - [x] 2022-10-18 22:24 failure slip
+- [x] 2022-10-19 07:40 Econ Review #Review   @{2022-10-18}
+- [x] 2022-10-19 16:24 Econ Summative #Summative @{2022-10-19}
 
 %% kanban:settings
 ```
