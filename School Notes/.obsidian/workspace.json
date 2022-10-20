@@ -40,6 +40,28 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "788461e1a259abed",
+            "type": "leaf",
+            "state": {
+              "type": "mindmapView",
+              "state": {
+                "file": "DP English LL/Neruda/Neruda Brainstorm.md"
+              }
+            }
+          },
+          {
+            "id": "603cc125203558bf",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "DP Chinese/哎歐notes.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
         "currentTab": 1
@@ -160,15 +182,15 @@
   },
   "active": "1eaa281c0d86d0bd",
   "lastOpenFiles": [
-    "DP Chinese/Oct19.md",
+    "DP Chinese/哎歐notes.md",
+    "DP Chinese/李子柒東西.md",
     "Daily/My fucking week/Kanban of Pain.md",
     "Daily/Personal Statements Brainstorm.md",
+    "DP English LL/Neruda/Neruda Brainstorm.md",
     "DP Computer Science/Databases/Database Mindmap.md",
+    "DP English LL/Neruda/The Father.md",
     "DP Computer Science/Databases/Memori.md",
     "Daily/My fucking week/Subject Due Dates Kanban.md",
-    "Daily/My fucking week/Untitled Kanban.md",
-    "Daily/THE Checklist.md",
-    "Daily/write thoughts.md",
-    "DP Chinese/Oct12.md"
+    "Daily/My fucking week/Untitled Kanban.md"
   ]
 }

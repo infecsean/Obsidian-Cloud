@@ -7,13 +7,31 @@ kanban-plugin: basic
 ## Today (4)
 
 - [ ] Chinese IO Stuff #Homework @{2022-10-19} @@{23:00}
+- [ ] Finish OUAC App @{2022-10-20}
+- [ ] Finish UC#4 @{2022-10-21}
 
 
 ## Tomorrow (4)
 
-- [ ] Finish UC#4 @{2022-10-19}
-- [ ] Fix CommonApp Essay & other essays @{2022-10-20}
+- [ ] Fix CommonApp Essay & other essays @{2022-10-23}
 - [ ] Dinner wit da boiiiis @{2022-10-23}
+- [ ] CommonApp Information @{2022-10-23}
+
+
+## Universities
+
+- [ ] University of Pennsylvania
+- [ ] University of California (LA, SD, SC, SB)
+- [ ] Carnegie Melon University
+- [ ] Rochester Institude of Technology
+- [ ] University of Utah
+- [ ] University of Toronto
+- [ ] University of Washington
+- [ ] University of British Columbia (Vancouver)
+- [ ] Ohio State University, Columbus
+- [ ] Boston University
+- [ ] University of Conneticut
+- [ ] University of Arizona
 
 
 ## Upcoming
