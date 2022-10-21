@@ -6,16 +6,16 @@ kanban-plugin: basic
 
 ## Today (4)
 
-- [ ] Chinese IO Stuff #Homework @{2022-10-19} @@{23:00}
-- [ ] Finish OUAC App @{2022-10-20}
 - [ ] Finish UC#4 @{2022-10-21}
+- [ ] English Poetry Prep @{2022-10-22}
 
 
 ## Tomorrow (4)
 
+- [ ] Chinese IO Stuff #Homework @{2022-10-19} @@{23:00}
 - [ ] Fix CommonApp Essay & other essays @{2022-10-23}
-- [ ] Dinner wit da boiiiis @{2022-10-23}
 - [ ] CommonApp Information @{2022-10-23}
+- [ ] Dinner wit da boiiiis @{2022-10-23}
 
 
 ## Universities
@@ -24,8 +24,8 @@ kanban-plugin: basic
 - [ ] University of California (LA, SD, SC, SB)
 - [ ] Carnegie Melon University
 - [ ] Rochester Institude of Technology
-- [ ] University of Utah
-- [ ] University of Toronto
+- [x] University of Utah
+- [x] University of Toronto
 - [ ] University of Washington
 - [ ] University of British Columbia (Vancouver)
 - [ ] Ohio State University, Columbus
@@ -159,6 +159,7 @@ kanban-plugin: basic
 - [x] 2022-10-18 22:24 failure slip
 - [x] 2022-10-19 07:40 Econ Review #Review   @{2022-10-18}
 - [x] 2022-10-19 16:24 Econ Summative #Summative @{2022-10-19}
+- [x] 2022-10-21 11:24 Finish OUAC App @{2022-10-20}
 
 %% kanban:settings
 ```

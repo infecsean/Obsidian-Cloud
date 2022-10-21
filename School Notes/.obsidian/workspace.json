@@ -42,16 +42,6 @@
             }
           },
           {
-            "id": "788461e1a259abed",
-            "type": "leaf",
-            "state": {
-              "type": "mindmapView",
-              "state": {
-                "file": "DP English LL/Neruda/Neruda Brainstorm.md"
-              }
-            }
-          },
-          {
             "id": "603cc125203558bf",
             "type": "leaf",
             "state": {
@@ -62,9 +52,31 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "b35a78a84a9ede2a",
+            "type": "leaf",
+            "state": {
+              "type": "mindmapView",
+              "state": {
+                "file": "DP English LL/Neruda/Neruda Brainstorm.md"
+              }
+            }
+          },
+          {
+            "id": "e217e01b0a7c2a98",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "DP English LL/Neruda/IO Notes.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -106,8 +118,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 309,
-    "collapsed": true
+    "width": 309
   },
   "right": {
     "id": "d6f61973bf5b2b3f",
@@ -123,7 +134,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Daily/My fucking week/Kanban of Pain.md",
+                "file": "DP English LL/Neruda/IO Notes.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -180,17 +191,17 @@
   "ribbon": {
     "mostRecentAction": ""
   },
-  "active": "1eaa281c0d86d0bd",
+  "active": "e217e01b0a7c2a98",
   "lastOpenFiles": [
-    "DP Chinese/哎歐notes.md",
-    "DP Chinese/李子柒東西.md",
-    "Daily/My fucking week/Kanban of Pain.md",
-    "Daily/Personal Statements Brainstorm.md",
     "DP English LL/Neruda/Neruda Brainstorm.md",
-    "DP Computer Science/Databases/Database Mindmap.md",
+    "Daily/Personal Statements Brainstorm.md",
+    "DP Chinese/哎歐notes.md",
+    "Daily/My fucking week/Kanban of Pain.md",
+    "DP English LL/Neruda/United Fruit Company.md",
     "DP English LL/Neruda/The Father.md",
-    "DP Computer Science/Databases/Memori.md",
-    "Daily/My fucking week/Subject Due Dates Kanban.md",
-    "Daily/My fucking week/Untitled Kanban.md"
+    "DP Math/Latex test.md",
+    "DP Chinese/李子柒東西.md",
+    "DP Computer Science/Databases/Database Mindmap.md",
+    "DP Computer Science/Databases/Memori.md"
   ]
 }
