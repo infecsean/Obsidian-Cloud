@@ -173,3 +173,23 @@ Theme: Curiosity
 	- I learned how to cook, 
 - Body 3 - 0/150
 - Conclusion - 100
+
+### UW PS
+1.  Essay Prompt (Max 650)
+Tell a story from your life, describing an experience that either demonstrates your character or helped to shape it.
+
+
+
+2.  Short Response (Max 300)
+Our families and communities often define us and our individual worlds. Community might refer to your cultural group, extended family, religious group, neighborhood or school, sports team or club, co-workers, etc. Describe the world you come from and how you, as a product of it, might add to the diversity of the UW. 
+
+Tip: Keep in mind that the UW strives to create a community of students richly diverse in cultural backgrounds, experiences, values and viewpoints.
+
+Define my community (50):
+Define my uniqueness and diversity (50):
+Show examples of what I do to show that uniqueness(100):
+Extend those examples to what I could add to the UW(100):
+
+### Other
+
+### Activities to add
