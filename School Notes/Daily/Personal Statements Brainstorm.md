@@ -123,9 +123,9 @@ What are my best activities?
 
 5.  Discuss an accomplishment, event, or realization that sparked a period of personal growth and a new understanding of yourself or others.
 
-- [ ] Realization - Eating beef made me realize flaws and loopholes
-- [ ] Personal growth how - Explore the previously unexplorable
-- [ ] Old/New understanding of myself - Hard worker/Thinker
+- [ ] Realization - 
+- [ ] Personal growth how - Get into game development, start going further and into game jams
+- [ ] Old/New understanding of myself - person who dont like to try/stepping out of comfort zone
 
 (Attempt 1) Theme: Control
 

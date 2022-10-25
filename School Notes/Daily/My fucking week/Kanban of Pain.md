@@ -6,16 +6,14 @@ kanban-plugin: basic
 
 ## Today (4)
 
-- [x] English Poetry Email @{2022-10-22}
+- [x] CommonApp Information @{2022-10-23}
 - [ ] Fix CommonApp Essay & other essays @{2022-10-23}
-- [ ] Finish UC#4 @{2022-10-21}
+- [ ] Chinese IO Stuff #Homework @{2022-10-19} @@{23:00}
 
 
 ## Tomorrow (4)
 
-- [ ] Chinese IO Stuff #Homework @{2022-10-19} @@{23:00}
-- [ ] CommonApp Information @{2022-10-23}
-- [x] Dinner wit da boiiiis @{2022-10-23}
+- [ ] Finish UC#4 @{2022-10-21}
 
 
 ## Universities
@@ -161,6 +159,8 @@ kanban-plugin: basic
 - [x] 2022-10-19 16:24 Econ Summative #Summative @{2022-10-19}
 - [x] 2022-10-21 11:24 Finish OUAC App @{2022-10-20}
 - [x] 2022-10-23 17:06 Send SAT TOEFL
+- [x] 2022-10-24 14:42 English Poetry Email @{2022-10-22}
+- [x] 2022-10-24 14:42 Dinner wit da boiiiis @{2022-10-23}
 
 %% kanban:settings
 ```
