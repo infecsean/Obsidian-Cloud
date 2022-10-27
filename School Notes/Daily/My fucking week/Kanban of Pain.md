@@ -6,13 +6,14 @@ kanban-plugin: basic
 
 ## Today (4)
 
-- [ ] Fix CommonApp Essay & other essays @{2022-10-23}
+- [ ] Chinese IO #Summative @{2022-10-27}
+- [ ] Physics Summative #Summative @{2022-10-27}
 - [ ] Chinese IO Stuff #Homework @{2022-10-19} @@{23:00}
-- [ ] Cindy Meeting @{2022-10-26}
 
 
 ## Tomorrow (4)
 
+- [ ] Fix CommonApp Essay & other essays @{2022-10-23}
 - [ ] Finish UC#4 @{2022-10-21}
 
 
@@ -34,8 +35,6 @@ kanban-plugin: basic
 
 ## Upcoming
 
-- [ ] Chinese IO #Summative @{2022-10-27}
-- [ ] Physics Summative #Summative @{2022-10-27}
 - [ ] Real Chinese IO frfr #Summative @{2022-11-07}
 - [ ] Math Probability&Statistics P1&P2 #Summative @{2022-11-18}
 - [ ] Math P3 #Summative @{2022-11-22}

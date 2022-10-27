@@ -11,16 +11,14 @@
             "id": "180c1b6dbfe690b1",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "kanban",
               "state": {
-                "file": "Daily/My fucking week/Subject Due Dates Kanban.md",
-                "mode": "source",
-                "source": false
+                "file": "Daily/My fucking week/Subject Due Dates Kanban.md"
               }
             }
           },
           {
-            "id": "1eaa281c0d86d0bd",
+            "id": "a5fbe47a7916f13f",
             "type": "leaf",
             "state": {
               "type": "kanban",
@@ -42,7 +40,7 @@
             }
           },
           {
-            "id": "603cc125203558bf",
+            "id": "a2a8fe06e9ae94f1",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -52,9 +50,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "61076184bb41c1c3",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "DP English LL/Neruda/IO Notes.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -113,7 +123,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Daily/My fucking week/Kanban of Pain.md",
+                "file": "DP Chinese/哎歐notes.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -158,6 +168,16 @@
               "type": "todo",
               "state": {}
             }
+          },
+          {
+            "id": "fc48f5fe5bb85295",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "DP Chinese/哎歐notes.md"
+              }
+            }
           }
         ],
         "currentTab": 1
@@ -170,17 +190,17 @@
   "ribbon": {
     "mostRecentAction": ""
   },
-  "active": "1eaa281c0d86d0bd",
+  "active": "a2a8fe06e9ae94f1",
   "lastOpenFiles": [
-    "DP Chinese/哎歐notes.md",
-    "DP English LL/Neruda/Neruda Brainstorm.md",
     "DP English LL/Neruda/IO Notes.md",
+    "DP Chinese/哎歐notes.md",
     "Daily/Personal Statements Brainstorm.md",
     "Daily/My fucking week/Kanban of Pain.md",
-    "DP English LL/Neruda/United Fruit Company.md",
-    "DP English LL/Neruda/The Father.md",
-    "DP Math/Latex test.md",
-    "DP Chinese/李子柒東西.md",
-    "DP Computer Science/Databases/Database Mindmap.md"
+    "Daily/My fucking week/Subject Due Dates Kanban.md",
+    "Daily/Commonapp Activities.md",
+    "Life/Gaming/Gaming n Stuff.md",
+    "DP English LL/Neruda/Keeping Quiety.md",
+    "Life/Gaming/Vaorant/Improvement Checklist.md",
+    "DP Chinese/Oct19.md"
   ]
 }
