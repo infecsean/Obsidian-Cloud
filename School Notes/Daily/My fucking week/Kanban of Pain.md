@@ -6,14 +6,14 @@ kanban-plugin: basic
 
 ## Today (4)
 
-- [ ] Chinese IO #Summative @{2022-10-27}
-- [ ] Physics Summative #Summative @{2022-10-27}
-- [ ] Chinese IO Stuff #Homework @{2022-10-19} @@{23:00}
+- [ ] Fix CommonApp Essay & other essays @{2022-10-23}
+- [ ] UW Essays
+- [ ] UofT application @{2022-11-15}
 
 
 ## Tomorrow (4)
 
-- [ ] Fix CommonApp Essay & other essays @{2022-10-23}
+- [ ] Chinese IO #Summative @{2022-10-27}
 - [ ] Finish UC#4 @{2022-10-21}
 
 
@@ -39,6 +39,7 @@ kanban-plugin: basic
 - [ ] Math Probability&Statistics P1&P2 #Summative @{2022-11-18}
 - [ ] Math P3 #Summative @{2022-11-22}
 - [ ] Real English IO frfr #Summative  @{2022-11-22}
+- [ ] Physics IA #Summative
 
 
 ## Pending Essays
@@ -164,6 +165,7 @@ kanban-plugin: basic
 - [x] 2022-10-24 14:42 Dinner wit da boiiiis @{2022-10-23}
 - [x] 2022-10-26 10:30 CommonApp Information @{2022-10-23}
 - [x] 2022-10-26 10:30 English Poetry IO #Summative @{2022-10-27}
+- [x] 2022-10-28 00:41 Physics Summative #Summative @{2022-10-27}
 
 %% kanban:settings
 ```
