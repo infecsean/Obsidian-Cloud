@@ -6,19 +6,22 @@
       {
         "id": "79ff8cf9120b31bb",
         "type": "tabs",
+        "dimension": 99.99999999999999,
         "children": [
           {
             "id": "180c1b6dbfe690b1",
             "type": "leaf",
             "state": {
-              "type": "kanban",
+              "type": "markdown",
               "state": {
-                "file": "Daily/My fucking week/Subject Due Dates Kanban.md"
+                "file": "Daily/My fucking week/Subject Due Dates Kanban.md",
+                "mode": "source",
+                "source": false
               }
             }
           },
           {
-            "id": "a5fbe47a7916f13f",
+            "id": "1eaa281c0d86d0bd",
             "type": "leaf",
             "state": {
               "type": "kanban",
@@ -38,33 +41,9 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "a2a8fe06e9ae94f1",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "DP Chinese/哎歐notes.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "61076184bb41c1c3",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "DP English LL/Neruda/IO Notes.md",
-                "mode": "source",
-                "source": false
-              }
-            }
           }
         ],
-        "currentTab": 3
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -123,7 +102,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "DP Chinese/哎歐notes.md",
+                "file": "Daily/My fucking week/Kanban of Pain.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -168,16 +147,6 @@
               "type": "todo",
               "state": {}
             }
-          },
-          {
-            "id": "fc48f5fe5bb85295",
-            "type": "leaf",
-            "state": {
-              "type": "outline",
-              "state": {
-                "file": "DP Chinese/哎歐notes.md"
-              }
-            }
           }
         ],
         "currentTab": 1
@@ -190,17 +159,17 @@
   "ribbon": {
     "mostRecentAction": ""
   },
-  "active": "a2a8fe06e9ae94f1",
+  "active": "1eaa281c0d86d0bd",
   "lastOpenFiles": [
-    "Daily/My fucking week/Kanban of Pain.md",
-    "DP Chinese/哎歐notes.md",
-    "DP English LL/Neruda/IO Notes.md",
     "Daily/Personal Statements Brainstorm.md",
-    "Daily/My fucking week/Subject Due Dates Kanban.md",
-    "Daily/Commonapp Activities.md",
-    "Life/Gaming/Gaming n Stuff.md",
-    "DP English LL/Neruda/Keeping Quiety.md",
-    "Life/Gaming/Vaorant/Improvement Checklist.md",
-    "DP Chinese/Oct19.md"
+    "DP Chinese/IO/節選1.pdf",
+    "Daily/My fucking week/Kanban of Pain.md",
+    "DP Chinese/IO/Chinese IO 截選 (1).pdf",
+    "DP Chinese/IO/哎歐notes.md",
+    "DP Chinese/IO/Chinese IO Sean 1202.pdf",
+    "DP Chinese/IO/Chinese IO Sean 1202 (1).pdf",
+    "DP English LL/Neruda/Neruda Brainstorm.md",
+    "DP English LL/Neruda/IO Notes.md",
+    "DP English LL/Neruda/United Fruit Company.md"
   ]
 }

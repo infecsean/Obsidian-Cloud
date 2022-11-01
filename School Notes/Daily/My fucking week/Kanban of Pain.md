@@ -6,15 +6,15 @@ kanban-plugin: basic
 
 ## Today (4)
 
-- [ ] Fix CommonApp Essay & other essays @{2022-10-23}
-- [ ] UW Essays
-- [ ] UofT application @{2022-11-15}
+- [ ] Charge your Calculator
+- [ ] Review Econ #Summative @{2022-11-02}
+- [ ] NEW Chinese IO #Summative @{2022-11-03}
+- [ ] UW#2
 
 
 ## Tomorrow (4)
 
-- [ ] Chinese IO #Summative @{2022-10-27}
-- [ ] Finish UC#4 @{2022-10-21}
+- [ ] Fix CommonApp Essay & other essays @{2022-10-23}
 
 
 ## Universities
@@ -23,14 +23,12 @@ kanban-plugin: basic
 - [ ] University of California (LA, SD, SC, SB)
 - [ ] Carnegie Melon University
 - [ ] Rochester Institude of Technology
-- [ ] University of Utah
 - [ ] University of Toronto
 - [ ] University of Washington
 - [ ] University of British Columbia (Vancouver)
 - [ ] Ohio State University, Columbus
 - [ ] Boston University
 - [ ] University of Conneticut
-- [ ] University of Arizona
 
 
 ## Upcoming
@@ -166,6 +164,12 @@ kanban-plugin: basic
 - [x] 2022-10-26 10:30 CommonApp Information @{2022-10-23}
 - [x] 2022-10-26 10:30 English Poetry IO #Summative @{2022-10-27}
 - [x] 2022-10-28 00:41 Physics Summative #Summative @{2022-10-27}
+- [x] 2022-11-01 10:42 UofT application @{2022-11-15}
+- [x] 2022-11-01 10:42 Chinese IO #Summative @{2022-10-27}
+- [x] 2022-11-01 10:42 UW Essays
+- [x] 2022-11-01 10:42 Finish UC#4 @{2022-10-21}
+- [x] 2022-11-01 10:42 University of Utah
+- [x] 2022-11-01 10:42 University of Arizona
 
 %% kanban:settings
 ```
