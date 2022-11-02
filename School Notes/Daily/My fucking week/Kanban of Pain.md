@@ -6,15 +6,14 @@ kanban-plugin: basic
 
 ## Today (4)
 
-- [ ] Charge your Calculator
+- [ ] UW#2
 - [ ] Review Econ #Summative @{2022-11-02}
 - [ ] NEW Chinese IO #Summative @{2022-11-03}
-- [ ] UW#2
 
 
 ## Tomorrow (4)
 
-- [ ] Fix CommonApp Essay & other essays @{2022-10-23}
+- [ ] UBC Essays @{2022-11-06}
 
 
 ## Universities
@@ -34,9 +33,10 @@ kanban-plugin: basic
 ## Upcoming
 
 - [ ] Real Chinese IO frfr #Summative @{2022-11-07}
+- [ ] English IO extracts/outline due @{2022-11-14}
 - [ ] Math Probability&Statistics P1&P2 #Summative @{2022-11-18}
+- [ ] Real English IO frfr #Summative  @{2022-11-21}
 - [ ] Math P3 #Summative @{2022-11-22}
-- [ ] Real English IO frfr #Summative  @{2022-11-22}
 - [ ] Physics IA #Summative
 
 
@@ -170,6 +170,8 @@ kanban-plugin: basic
 - [x] 2022-11-01 10:42 Finish UC#4 @{2022-10-21}
 - [x] 2022-11-01 10:42 University of Utah
 - [x] 2022-11-01 10:42 University of Arizona
+- [x] 2022-11-02 07:35 Charge your Calculator
+- [ ] 2022-11-02 13:36 Fix CommonApp Essay & other essays @{2022-10-23}
 
 %% kanban:settings
 ```
