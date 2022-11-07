@@ -6,13 +6,12 @@ kanban-plugin: basic
 
 ## Today (4)
 
-- [ ] NEW Chinese IO #Summative @{2022-11-03}
-- [ ] UC essays finalize @{2022-11-06}
 
 
 ## Tomorrow (4)
 
 - [ ] Finish Chinese IO #Summative  @{2022-11-07}
+- [ ] UC essays finalize @{2022-11-06}
 - [ ] UBC Essays @{2022-11-06}
 
 
@@ -174,6 +173,7 @@ kanban-plugin: basic
 - [ ] 2022-11-02 13:36 Fix CommonApp Essay & other essays @{2022-10-23}
 - [x] 2022-11-03 07:41 UW#2
 - [x] 2022-11-03 07:41 Review Econ #Summative @{2022-11-02}
+- [x] 2022-11-07 12:32 NEW Chinese IO #Summative @{2022-11-03}
 
 %% kanban:settings
 ```
