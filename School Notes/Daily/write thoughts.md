@@ -225,7 +225,7 @@ Do at school:
 - English IO: cus same efficiency as at home
 - Physics IA: cus i wont even touch it at home pls
 - EE fix: should be easy, doesnt take much mental
-- 
+- TOK outline: cant be bothered to do at home
 
 Neither:
 - Please find a way to fucking force yourself to do these
