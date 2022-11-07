@@ -25,7 +25,6 @@ kanban-plugin: basic
 
 ## Chinese
 
-- [ ] IO @{2022-10-26}
 - [ ] Paper 2 @{2022-11-23}
 
 
@@ -47,7 +46,11 @@ kanban-plugin: basic
 - [ ] Final Draft @{2023-01-09}
 
 
+***
 
+## Archive
+
+- [ ] IO @{2022-10-26}
 
 %% kanban:settings
 ```

@@ -12,11 +12,9 @@
             "id": "180c1b6dbfe690b1",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "kanban",
               "state": {
-                "file": "Daily/My fucking week/Subject Due Dates Kanban.md",
-                "mode": "source",
-                "source": false
+                "file": "Daily/My fucking week/Subject Due Dates Kanban.md"
               }
             }
           },
@@ -37,6 +35,18 @@
               "type": "markdown",
               "state": {
                 "file": "Daily/Personal Statements Brainstorm.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "fcd6162984130830",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Daily/write thoughts.md",
                 "mode": "source",
                 "source": false
               }
@@ -161,15 +171,15 @@
   },
   "active": "ac8f5d390c2f96b8",
   "lastOpenFiles": [
-    "DP Chinese/IO/哎歐notes.md",
-    "Physics.md",
+    "Daily/write thoughts.md",
     "Daily/My fucking week/Kanban of Pain.md",
     "Daily/My fucking week/Subject Due Dates Kanban.md",
+    "DP Chinese/IO/哎歐notes.md",
+    "Physics.md",
     "Daily/Personal Statements Brainstorm.md",
     "DP Chinese/IO/節選1.pdf",
     "DP Chinese/IO/Chinese IO 截選 (1).pdf",
     "DP Chinese/IO/Chinese IO Sean 1202.pdf",
-    "DP Chinese/IO/Chinese IO Sean 1202 (1).pdf",
-    "DP English LL/Neruda/Neruda Brainstorm.md"
+    "DP Chinese/IO/Chinese IO Sean 1202 (1).pdf"
   ]
 }

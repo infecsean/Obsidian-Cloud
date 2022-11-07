@@ -4,16 +4,24 @@ kanban-plugin: basic
 
 ---
 
-## Today (4)
+## Pre-Chinese IO
 
 - [ ] Print chinese IO
+- [ ] Finish Chinese IO #Summative  @{2022-11-07}
+
+
+## Post-Chinese IO
+
+- [ ] UC essays finalize @{2022-11-11}
+- [ ] UBC Essays @{2022-11-11}
+
+
+## Today (4)
+
 
 
 ## Tomorrow (4)
 
-- [ ] Finish Chinese IO #Summative  @{2022-11-07}
-- [ ] UC essays finalize @{2022-11-11}
-- [ ] UBC Essays @{2022-11-11}
 
 
 ## Universities

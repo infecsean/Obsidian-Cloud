@@ -212,10 +212,23 @@ Paper 3????
 - Monday - morning check wake up, after that study econ & chinese
 
 # Thoughts 4
-Tasks:
+
+Do at home:
+- Learning HLSL (15 hours, not including follow along| x1.25 speed 11 hours)
+	- home have big chunger
+- UC essays (2 hours)
+	- Cus essays need focus and no embarassment?
+- HAHHAHahhHAHAHHAHAHAHHA FUCK
+
+Do at school:
+- learn HLSL: until need to follow along
+- English IO: cus same efficiency as at home
+- Physics IA: cus i wont even touch it at home pls
+- EE fix: should be easy, doesnt take much mental
 - 
 
-|               | Not Urgent | Urgent |
-| ------------- | ---------- | ------ |
-| Not Important |            |        |
-| Important     |            |        |
+Neither:
+- Please find a way to fucking force yourself to do these
+	- Math review cus fuck that
+	- Math IA cus i havent found a good idea
+	- 
