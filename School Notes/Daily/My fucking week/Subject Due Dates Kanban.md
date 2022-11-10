@@ -30,6 +30,7 @@ kanban-plugin: basic
 
 ## Computer Science
 
+- [ ] IA @{2022-12-19}
 
 
 ## CAS

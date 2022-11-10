@@ -4,24 +4,15 @@ kanban-plugin: basic
 
 ---
 
-## Pre-Chinese IO
-
-- [ ] Print chinese IO
-- [ ] Finish Chinese IO #Summative  @{2022-11-07}
-- [ ] UC essays finalize @{2022-11-11}
-
-
-## Post-Chinese IO
-
-- [ ] UBC Essays @{2022-11-11}
-
-
 ## Today (4)
 
+- [ ] English IO draft
+- [ ] UC essays finalize @{2022-11-10}
 
 
 ## Tomorrow (4)
 
+- [ ] UBC Essays @{2022-11-11}
 
 
 ## Universities
@@ -40,7 +31,6 @@ kanban-plugin: basic
 
 ## Upcoming
 
-- [ ] Real Chinese IO frfr #Summative @{2022-11-07}
 - [ ] English IO extracts/outline due @{2022-11-14}
 - [ ] Math Probability&Statistics P1&P2 #Summative @{2022-11-18}
 - [ ] Real English IO frfr #Summative  @{2022-11-21}
@@ -55,6 +45,8 @@ kanban-plugin: basic
 - [ ] UC Essay Transfer
 - [ ] UC Essay Volunteer
 - [ ] CommonApp Essays #Essay  @{2022-10-31}
+- [ ] UW Essay 2
+- [ ] UBC Essays
 
 
 ## Gotta do list
@@ -95,6 +87,7 @@ kanban-plugin: basic
 ## Phase 3 (Production)
 
 - [ ] Remake train model
+- [ ] Actually demonstrate what all those anti-aliasing/game dev term mumbo jumbo means unlike other big game companies that sounds like a great idea innit??
 
 
 ## game dev
@@ -183,6 +176,9 @@ kanban-plugin: basic
 - [x] 2022-11-03 07:41 UW#2
 - [x] 2022-11-03 07:41 Review Econ #Summative @{2022-11-02}
 - [x] 2022-11-07 12:32 NEW Chinese IO #Summative @{2022-11-03}
+- [x] 2022-11-08 09:17 Print chinese IO
+- [x] 2022-11-09 10:44 Finish Chinese IO #Summative  @{2022-11-07}
+- [x] 2022-11-10 08:33 Real Chinese IO frfr #Summative @{2022-11-07}
 
 %% kanban:settings
 ```

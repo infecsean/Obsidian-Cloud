@@ -51,9 +51,33 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "8856a938d7766729",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "DP English LL/Real IO Notes.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "e65af5b569fed888",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "DP English LL/Neruda/IO Notes.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 3
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -112,7 +136,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Daily/write thoughts.md",
+                "file": "DP English LL/Neruda/IO Notes.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -169,17 +193,17 @@
   "ribbon": {
     "mostRecentAction": ""
   },
-  "active": "fcd6162984130830",
+  "active": "e65af5b569fed888",
   "lastOpenFiles": [
-    "Daily/My fucking week/Subject Due Dates Kanban.md",
-    "Daily/Personal Statements Brainstorm.md",
+    "DP English LL/Real IO Notes.md",
+    "DP English LL/Neruda/IO Notes.md",
     "Daily/My fucking week/Kanban of Pain.md",
+    "DP English LL/Neruda/United Fruit Company.md",
+    "DP English LL/IO frfr no cap.md",
+    "Daily/My fucking week/Subject Due Dates Kanban.md",
     "Daily/write thoughts.md",
+    "Daily/Personal Statements Brainstorm.md",
     "DP Chinese/IO/哎歐notes.md",
-    "Physics.md",
-    "DP Chinese/IO/節選1.pdf",
-    "DP Chinese/IO/Chinese IO 截選 (1).pdf",
-    "DP Chinese/IO/Chinese IO Sean 1202.pdf",
-    "DP Chinese/IO/Chinese IO Sean 1202 (1).pdf"
+    "Physics.md"
   ]
 }
