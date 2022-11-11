@@ -77,7 +77,7 @@
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -136,7 +136,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "DP English LL/Neruda/IO Notes.md",
+                "file": "DP English LL/Real IO Notes.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -193,8 +193,10 @@
   "ribbon": {
     "mostRecentAction": ""
   },
-  "active": "e65af5b569fed888",
+  "active": "8856a938d7766729",
   "lastOpenFiles": [
+    "DP English LL/Oreo Runs Through it/Oreo brainstorm.md",
+    "DP English LL/Oreo Runs Through it/A Rio Runs through it.md",
     "DP English LL/Real IO Notes.md",
     "DP English LL/Neruda/IO Notes.md",
     "Daily/My fucking week/Kanban of Pain.md",
@@ -202,8 +204,6 @@
     "DP English LL/IO frfr no cap.md",
     "Daily/My fucking week/Subject Due Dates Kanban.md",
     "Daily/write thoughts.md",
-    "Daily/Personal Statements Brainstorm.md",
-    "DP Chinese/IO/哎歐notes.md",
-    "Physics.md"
+    "Daily/Personal Statements Brainstorm.md"
   ]
 }
