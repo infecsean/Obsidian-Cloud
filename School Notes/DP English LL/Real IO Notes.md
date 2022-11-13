@@ -6,9 +6,8 @@ Global Issue: The obstacles people face when discovering their identity
 
 ### Intro
 - Define: People often feel uncomfortable discussing topics such as existence or identity, as not every question has an answer. This oral will be discussing two works that tackle different aspects regarding identity.
-	- A literary work: RAGAD, a play by the british playwright and screenwriter Tom Stoppard, is a parody built upon two side characters in Hamlet, Rosencrantz and Guildenstern. Combining the comedic nature of parodies and the unique singular identity of these two seemingly individual characters, Stoppard masterfully sugarcoats the difficult topic of individual identity behind the story of RAG's journey.
-	- The non-literary work: Who am I?, by the English writer and speaker Alan Watts, is 
-	- the author presents a lecture on his perspective of identity, discussing not only his own views, but also a view that resembles more of a public opinion.
+	- A literary work: RAGAD, a play by the british playwright and screenwriter Tom Stoppard, is a parody built upon two side characters in Hamlet, Rosencrantz and Guildenstern. Combining the comedic nature of parodies and the unique singular identity of these two seemingly individual characters. The obstacle being the existence of RAG being only RAG from when they came to existence, in Hamlet, to their end, in Hamlet, and their identity of RAG and not individuals.
+	- The non-literary work: Who am I?, by the English writer and speaker Alan Watts, is a speech from a larger work, "The Tao of Philosophy", where he talks about different culture's views on different aspects of philosophy. In particular, he talks about how culture has shaped different communities and their view of identity. The obstacle being their culture.
 
 ### Ragad
 - Author: Tom Stoppard
@@ -71,6 +70,18 @@ Global Issue: The obstacles people face when discovering their identity
 - Author Style:
 - Body of work: Other speeches which also touches upon his view on life and philosophy
 - Bullet Points:
+	- Metaphors
+		- "this whole sensation that we are brought up to have of being an island of consciousness locked up in a bag of skin"
+			- Conveys his understanding of collective public view of identity, that we are raised to understand that what defines us, is our body. Use of "Locked up" makes it seem that we are restrained within our body
+			- He conveys that the audience's way of thinking is an obstacle formed by how they were raised, and presents his own view to the audience.
+		- "Supposing this world is a tree. Are you leaves on its branches or are you a bunch of birds that settled on a dead old tree?" 
+			- He uses this metaphor of a tree to ask the audience about their identity, in the context of this metaphor. This kind of direct questioning allows the audience, whether or not they have thought of identity, to rethink, within this context of a metaphor.
+			- Unlike Stoppard, he directly addresses the topic of identity to the audience with questions. His use of this metaphor helps the audience understand his way of thinking and therefore, can have an easier time coming up with answers.
+		- His metaphors usually include some sort of visual elements, using imagery, he lets his audience participate in this discussion by allowing them to imagine what he is describing. "bag of skin" and the world being a tree, help the audience to understand what he is saying.
+	- Generalization of different cultures
+		- Western culture is generalized as viewing the world around them as artifacts, being made. He extends this view through the repetition of "all things – all events, all people, all mountains, all stars, all flowers, all grasshoppers, all worms, everything – are artifacts; they have been made."
+			- He repeats this "all" to emphasize the extent that Western Culture perceives the world around them
+		- He juxtaposes western culture with Chinese culture. His professional background allows him to understand many different cultures and thus present different views on identity and share them with his audience.
 
 
 Stuff I wanna talk about:
@@ -82,5 +93,5 @@ Stuff I wanna talk about:
 	- Sugarcoating the topic especially when it applies to everybody
 - Switching of perspectives. From a collective Society POV, to his own opinions POV
 - Rhetorical questions
-	- provokes thoughts (but then again, other devices do this too)
+	- provokes thoughts
 - Play on words
