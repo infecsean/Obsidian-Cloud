@@ -8,6 +8,7 @@ kanban-plugin: basic
 
 - [ ] English IO draft
 - [ ] UC essays finalize @{2022-11-10}
+- [ ] FINISH UW APPLICATION URGENT!!!!! #URGENT
 
 
 ## Tomorrow (4)
