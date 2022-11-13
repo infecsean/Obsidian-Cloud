@@ -6,7 +6,6 @@
       {
         "id": "79ff8cf9120b31bb",
         "type": "tabs",
-        "dimension": 99.99999999999999,
         "children": [
           {
             "id": "180c1b6dbfe690b1",
@@ -181,6 +180,16 @@
               "type": "todo",
               "state": {}
             }
+          },
+          {
+            "id": "df5d302446d8c612",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "DP English LL/Real IO Notes.md"
+              }
+            }
           }
         ],
         "currentTab": 1
@@ -189,9 +198,6 @@
     "direction": "horizontal",
     "width": 370.3333435058594,
     "collapsed": true
-  },
-  "ribbon": {
-    "mostRecentAction": ""
   },
   "active": "8856a938d7766729",
   "lastOpenFiles": [
