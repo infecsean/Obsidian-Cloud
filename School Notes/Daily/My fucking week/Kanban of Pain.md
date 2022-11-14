@@ -6,8 +6,8 @@ kanban-plugin: basic
 
 ## Today (4)
 
+- [ ] English IO extracts/outline due @{2022-11-14}
 - [ ] English IO draft
-- [ ] UC essays finalize @{2022-11-10}
 - [ ] FINISH UW APPLICATION URGENT!!!!! #URGENT
 
 
@@ -32,7 +32,6 @@ kanban-plugin: basic
 
 ## Upcoming
 
-- [ ] English IO extracts/outline due @{2022-11-14}
 - [ ] Math Probability&Statistics P1&P2 #Summative @{2022-11-18}
 - [ ] Real English IO frfr #Summative  @{2022-11-21}
 - [ ] Math P3 #Summative @{2022-11-22}
@@ -180,6 +179,7 @@ kanban-plugin: basic
 - [x] 2022-11-08 09:17 Print chinese IO
 - [x] 2022-11-09 10:44 Finish Chinese IO #Summative  @{2022-11-07}
 - [x] 2022-11-10 08:33 Real Chinese IO frfr #Summative @{2022-11-07}
+- [x] 2022-11-14 08:40 UC essays finalize @{2022-11-10}
 
 %% kanban:settings
 ```

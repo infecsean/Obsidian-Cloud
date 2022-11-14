@@ -218,7 +218,7 @@ Do at home:
 	- home have big chunger
 - UC essays (2 hours)
 	- Cus essays need focus and no embarassment?
-- HAHHAHahhHAHAHHAHAHAHHA FUCK
+- HAHHAHahhHAHAHHAHAHAHHA
 
 Do at school:
 - learn HLSL: until need to follow along

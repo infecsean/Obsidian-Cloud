@@ -16,7 +16,8 @@ kanban-plugin: basic
 
 ## Math
 
-- [ ] Math IA @{2022-12-01}
+- [ ] Math IA Draft @{2022-12-02}
+- [ ] Math IA Final @{2023-02-10}
 
 
 ## English
@@ -30,7 +31,8 @@ kanban-plugin: basic
 
 ## Computer Science
 
-- [ ] IA @{2022-12-19}
+- [ ] IA Draft @{2022-12-19}
+- [ ] IA Final @{2023-01-12}
 
 
 ## CAS

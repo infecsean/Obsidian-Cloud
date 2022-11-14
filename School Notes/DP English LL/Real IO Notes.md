@@ -7,7 +7,7 @@ Global Issue: The obstacles people face when discovering their identity
 ### Intro
 - Define: People often feel uncomfortable discussing topics such as existence or identity, as not every question has an answer. This oral will be discussing two works that tackle different aspects regarding identity.
 	- A literary work: RAGAD, a play by the british playwright and screenwriter Tom Stoppard, is a parody built upon two side characters in Hamlet, Rosencrantz and Guildenstern. Combining the comedic nature of parodies and the unique singular identity of these two seemingly individual characters. The obstacle being the existence of RAG being only RAG from when they came to existence, in Hamlet, to their end, in Hamlet, and their identity of RAG and not individuals.
-	- The non-literary work: Who am I?, by the English writer and speaker Alan Watts, is a speech from a larger work, "The Tao of Philosophy", where he talks about different culture's views on different aspects of philosophy. In particular, he talks about how culture has shaped different communities and their view of identity. The obstacle being their culture.
+	- The non-literary work: Who am I?, by the English writer and speaker Alan Watts, is a speech from a larger work, "The Tao of Philosophy", where he talks about different culture's views on identity and symbolic thinking. The obstacle being the limits of culture.
 
 ### Ragad
 - Author: Tom Stoppard
@@ -50,9 +50,12 @@ Global Issue: The obstacles people face when discovering their identity
 	- RAG
 		- Symbolizes everybody, but just vague enough through parody since they are an already existing character, but also because of that, makes us think that they are, like us, existing.
 		- Their struggles of discovering identity is different from ours because of their unique ambiguous identity being RAG.
+		- Theater of the absurd
+			- Where the characters' actions serve only to show that their existence can't be changed. In this case, rosencrantz and guildenstern's determination to find their identity
+			- Linking to the broader work, Stoppard uses this style of writing to his advantage, and throughout the play, we see that the two characters make countless technological breakthroughs on their own, depicted comically to emphasize the absurdity of the world
 	- Player
 		- Symbolizes wisdom, the all-knowing. Though we know that he is one of the characters, he exists just to drive the narrative plot forward. He is, in a way, representative of the universe, as actors, they become masters of acting, and with such a central theme of identity, they should logically be the ones that know everything to identity, and therefore be logically the all-knowing.
-		- Yet in the end, when they ask him, one last time, "Who are we?". He replies with "You are rosencrantz and guildenstern, that is enough"
+		- Yet in the end, when they ask him, one last time, "Who are we?". He replies with "You are rosencrantz and guildenstern, that is enough" *which brings me to the next point*
 	- Rhetorical Questions
 		- "Which is which?"
 		- Asked throughout the play, to not only remind the audience of the central thme of the struggle to find identity, but also ask the audience that question of "Who am I" or what can a name serve to the existence of a person, but just that, a name. Rosencrantz and Guildenstern were not denied an explaination of their identity, their individual existence just wasn't significant enough to call for clarification. The player is the all-knowing, and that persists, because he knows that rosencrantz and guildenstern exists only in fiction, to be together, and die together. Their identity exists as rosencrantz and guildenstern. They were never "individuals" as we know them from Hamlet because they never gone beyond being RAG, only until RAGAD, that they were given individuality for this purpose. 
@@ -60,14 +63,14 @@ Global Issue: The obstacles people face when discovering their identity
 		- Linking to the broader work, This play on questions is also comically depicted through a game that they played called "questions".
 	- Analogy
 		- The boat analogy is presented through one of the philosophical monologues by one of rosencrantz and guildenstern.
-		- There was one flaw in that analogy, in the first sentence "Where we went wrong was getting on a boat", this is an analogy for life, and life as we know it, isn't a choice. We don't get to choose whether or not to get on the boat, or in other words, to live.
-		- This analogy otherwise sums up their sitation. If they are the passengers on the boat, then the wind and current is just that, the world. Stoppard uses this to his advantage, being a theatre of the absurd, they do seem too absurd to our world, but it serves to ask us the question: What if this isn't absurd?
+		- "Where we went wrong was getting on a boat", this is an analogy for life, and life as we know it, isn't a choice. We don't get to choose whether or not to get on the boat, or in other words, to live. Off of this, we can see the root of their struggle, this false dilemma of being able to tell each other apart.
+		- This analogy otherwise sums up their sitation. If they are the passengers on the boat, then the wind and current is just that, the world. Stoppard uses this to his advantage, being a theatre of the absurd, they do seem too absurd to our world, but it serves to ask us the question: What if this isn't absurd?.
 		- Even as they accept that they can't change their fate, unless avoiding existence in the first place, they still can't accept that they are denied an explaination for their identity.
 		- Stoppard ultimately still uses the last of their existence to ask the audience further: we can't change our fate, but can we at least change who we are?
 
 ### Who am I?
 - Author: Alan Watts
-- Author Style:
+- Author Style: He is one of the first to interpret eastern thinking for a western audience
 - Body of work: Other speeches which also touches upon his view on life and philosophy
 - Bullet Points:
 	- Metaphors
@@ -84,14 +87,14 @@ Global Issue: The obstacles people face when discovering their identity
 		- He juxtaposes western culture with Chinese culture. His professional background allows him to understand many different cultures and thus present different views on identity and share them with his audience.
 
 
-Stuff I wanna talk about:
-- The nature of his speech
-	- metaphors can be reinforced with tone to more clearly communicate abstract concepts
-		- "island of consciousness locked up in a bag of skin" analyze this
-	- He often includes the audience in the discussion on identity by using a more collective way of addressing selves"we".
-- Humor
-	- Sugarcoating the topic especially when it applies to everybody
-- Switching of perspectives. From a collective Society POV, to his own opinions POV
-- Rhetorical questions
-	- provokes thoughts
-- Play on words
+- Stuff I wanna talk about:
+	- The nature of his speech
+		- metaphors can be reinforced with tone to more clearly communicate abstract concepts
+			- "island of consciousness locked up in a bag of skin" analyze this
+		- He often includes the audience in the discussion on identity by using a more collective way of addressing selves"we".
+	- Humor
+		- Sugarcoating the topic especially when it applies to everybody
+	- Switching of perspectives. From a collective Society POV, to his own opinions POV
+	- Rhetorical questions
+		- provokes thoughts
+	- Play on words
