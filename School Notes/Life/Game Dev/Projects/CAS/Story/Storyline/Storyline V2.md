@@ -59,6 +59,7 @@ Game Features:
 - MAKE A SPOTIFY PLAYLIST FOR EACH CHARACTER LMAO
 - TOWN NAME?: Lockes town, Bridgeham Town (after carl brigham), 
 - There are 4 bars for each emotion, the bars will be revealed as bottles being put upside down (the top part with the cap is hidden under UI). used for metaphor "bottle up your emotions"
+- UI is just a book that Noah draws on to both become diagetic AND show his creativity
 
 Mind:
 - You are only given a small amount of time to be mentally there, cus school takes up a that much time. So when the player are sent to the dimension, intentionally design the time limit so that they cant reach a deep enough part (underlying darkness, strange fruit) maybe do [this](https://www.youtube.com/watch?v=eqlHpPzS22U&t=74s&ab_channel=Brackeys)

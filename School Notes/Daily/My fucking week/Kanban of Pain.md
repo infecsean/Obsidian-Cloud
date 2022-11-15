@@ -6,14 +6,13 @@ kanban-plugin: basic
 
 ## Today (4)
 
-- [ ] English IO extracts/outline due @{2022-11-14}
-- [ ] English IO draft
-- [ ] FINISH UW APPLICATION URGENT!!!!! #URGENT
+- [ ] Bring Chungus to school tomorow/ practice HLSL
 
 
 ## Tomorrow (4)
 
 - [ ] UBC Essays @{2022-11-11}
+- [ ] Math Probability&Statistics P1&P2 #Summative @{2022-11-18}
 
 
 ## Universities
@@ -23,7 +22,6 @@ kanban-plugin: basic
 - [ ] Carnegie Melon University
 - [ ] Rochester Institude of Technology
 - [ ] University of Toronto
-- [ ] University of Washington
 - [ ] University of British Columbia (Vancouver)
 - [ ] Ohio State University, Columbus
 - [ ] Boston University
@@ -32,7 +30,6 @@ kanban-plugin: basic
 
 ## Upcoming
 
-- [ ] Math Probability&Statistics P1&P2 #Summative @{2022-11-18}
 - [ ] Real English IO frfr #Summative  @{2022-11-21}
 - [ ] Math P3 #Summative @{2022-11-22}
 - [ ] Physics IA #Summative
@@ -180,6 +177,10 @@ kanban-plugin: basic
 - [x] 2022-11-09 10:44 Finish Chinese IO #Summative  @{2022-11-07}
 - [x] 2022-11-10 08:33 Real Chinese IO frfr #Summative @{2022-11-07}
 - [x] 2022-11-14 08:40 UC essays finalize @{2022-11-10}
+- [x] 2022-11-15 07:42 English IO extracts/outline due @{2022-11-14}
+- [x] 2022-11-15 07:42 English IO draft
+- [x] 2022-11-15 07:42 FINISH UW APPLICATION URGENT!!!!! #URGENT
+- [x] 2022-11-15 07:42 University of Washington
 
 %% kanban:settings
 ```

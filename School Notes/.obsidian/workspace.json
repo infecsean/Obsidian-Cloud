@@ -4,28 +4,8 @@
     "type": "split",
     "children": [
       {
-        "id": "0769abee517baaa4",
-        "type": "tabs",
-        "dimension": 50,
-        "children": [
-          {
-            "id": "8856a938d7766729",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "DP English LL/Real IO Notes.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          }
-        ]
-      },
-      {
         "id": "79ff8cf9120b31bb",
         "type": "tabs",
-        "dimension": 50,
         "children": [
           {
             "id": "180c1b6dbfe690b1",
@@ -72,19 +52,19 @@
             }
           },
           {
-            "id": "6136b2053d73d1ec",
+            "id": "8856a938d7766729",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "DP English LL/Real IO BulletPoints.md",
+                "file": "DP English LL/Real IO Notes.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -143,7 +123,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "DP English LL/Real IO BulletPoints.md",
+                "file": "Daily/My fucking week/Kanban of Pain.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -200,17 +180,17 @@
   "ribbon": {
     "mostRecentAction": ""
   },
-  "active": "6136b2053d73d1ec",
+  "active": "ac8f5d390c2f96b8",
   "lastOpenFiles": [
+    "Life/Game Dev/Projects/CAS/Story/Storyline/Storyline V2.md",
+    "Life/Game Dev/Projects/CAS/Story/Storyline/Storyline.md",
+    "Daily/My fucking week/Kanban of Pain.md",
+    "Daily/My fucking week/Subject Due Dates Kanban.md",
     "DP English LL/Real IO Notes.md",
     "DP English LL/Real IO BulletPoints.md",
-    "Daily/My fucking week/Kanban of Pain.md",
     "Daily/write thoughts.md",
-    "Daily/My fucking week/Subject Due Dates Kanban.md",
     "DP English LL/Oreo Runs Through it/Oreo brainstorm.md",
     "DP English LL/Oreo Runs Through it/A Rio Runs through it.md",
-    "DP English LL/Neruda/IO Notes.md",
-    "DP English LL/Neruda/United Fruit Company.md",
-    "DP English LL/IO frfr no cap.md"
+    "DP English LL/Neruda/IO Notes.md"
   ]
 }

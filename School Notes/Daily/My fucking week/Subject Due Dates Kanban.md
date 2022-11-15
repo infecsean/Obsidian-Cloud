@@ -10,18 +10,10 @@ kanban-plugin: basic
 - [ ] IA Final @{2023-01-16}
 
 
-## Economics
-
-
-
 ## Math
 
 - [ ] Math IA Draft @{2022-12-02}
 - [ ] Math IA Final @{2023-02-10}
-
-
-## English
-
 
 
 ## Chinese
@@ -35,18 +27,26 @@ kanban-plugin: basic
 - [ ] IA Final @{2023-01-12}
 
 
+## TOK
+
+- [ ] First Draft @{2022-12-12}
+- [ ] Final Draft @{2023-01-09}
+
+
+## Economics
+
+
+
+## English
+
+
+
 ## CAS
 
 
 
 ## EE
 
-
-
-## TOK
-
-- [ ] First Draft @{2022-12-12}
-- [ ] Final Draft @{2023-01-09}
 
 
 ***
