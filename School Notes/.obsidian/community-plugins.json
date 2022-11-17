@@ -2,7 +2,6 @@
   "obsidian-admonition",
   "calendar",
   "obsidian-emoji-toolbar",
-  "sliding-panes-obsidian",
   "periodic-notes",
   "templater-obsidian",
   "obsidian-kanban",
@@ -11,9 +10,10 @@
   "cmenu-plugin",
   "table-editor-obsidian",
   "obsidian-enhancing-mindmap",
-  "cm-editor-syntax-highlight-obsidian",
   "better-word-count",
   "obsidian-annotator",
   "obsidian-style-settings",
-  "obsidian-charts"
+  "obsidian-charts",
+  "cm-editor-syntax-highlight-obsidian",
+  "highlightr-plugin"
 ]

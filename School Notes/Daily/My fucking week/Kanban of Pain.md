@@ -33,6 +33,7 @@ kanban-plugin: basic
 - [ ] Real English IO frfr #Summative  @{2022-11-21}
 - [ ] Math P3 #Summative @{2022-11-22}
 - [ ] Physics IA #Summative
+- [ ] semester end @{2023-01-19}
 
 
 ## Pending Essays

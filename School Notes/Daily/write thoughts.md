@@ -232,3 +232,41 @@ Neither:
 	- Math review cus fuck that
 	- Math IA cus i havent found a good idea
 	- 
+
+### Calculating classes
+
+Stuff
+- Semester 111-1 From August 30 -> January 18 = 141 days
+- aprox. 20 weeks
+
+##### What the FUCK is spreadsheet
+- I wanna get the total count of times I've been absent from a class
+- i need to count the sum of class that arent blank in a certain 
+- friday maths
+	- count the number of cells that are NOT BLANK, ON FRIDAY, ON PERIOD 1&2
+
+
+#### Chinese
+- 5 c/w
+- 100 c/sem
+#### English
+- 5 c/w
+- 100 c/sem
+#### Math
+- 5 c/w
+- 100 c/sem
+#### Physics 
+- 5 c/w
+- 100 c/sem
+#### Econ
+- 5 c/w
+- 100 c/sem
+#### CS
+- 5 c/w
+- 100 c/sem
+#### H&N
+- 1 c/w each
+- 20 c/sem
+#### TOK
+- 2 c/w
+- 40 c/sem
