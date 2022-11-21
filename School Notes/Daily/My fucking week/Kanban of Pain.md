@@ -33,9 +33,11 @@ kanban-plugin: basic
 ## Upcoming
 
 - [ ] Physics IA #Summative
-- [ ] Math IA #Summative @{2022-12-02}
 - [ ] Chinese Paper 2 #Summative @{2022-12-01}
+- [ ] Math IA #Summative @{2022-12-02}
+- [ ] SAT Dec @{2022-12-03}
 - [ ] EE Final @{2022-12-05}
+- [ ] CS IA @{2022-12-19}
 - [ ] semester end @{2023-01-19}
 
 
@@ -57,8 +59,6 @@ kanban-plugin: basic
 
 ## Activities
 
-- [ ] Learn HLSL @{2022-11-01}
-- [ ] SAT Dec @{2022-12-03}
 
 
 ## CAS Game
@@ -188,6 +188,7 @@ kanban-plugin: basic
 - [x] 2022-11-21 08:48 Math Probability&Statistics P1&P2 #Summative @{2022-11-18}
 - [x] 2022-11-21 08:48 Real English IO frfr #Summative  @{2022-11-21}
 - [x] 2022-11-21 08:50 Bring Chungus to school tomorow/ practice HLSL
+- [x] 2022-11-21 09:16 Learn HLSL @{2022-11-01}
 
 %% kanban:settings
 ```

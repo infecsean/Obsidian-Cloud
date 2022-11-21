@@ -88,7 +88,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -147,7 +147,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Daily/My fucking week/Kanban of Pain.md",
+                "file": "Daily/write thoughts.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -199,28 +199,28 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Daily/My fucking week/Kanban of Pain.md"
+                "file": "Daily/write thoughts.md"
               }
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
     "width": 370.3333435058594,
     "collapsed": true
   },
-  "active": "ac8f5d390c2f96b8",
+  "active": "fcd6162984130830",
   "lastOpenFiles": [
-    "Life/Game Dev/Projects/CAS/Story/Discussion on Satire.md",
     "DP Computer Science/Internal Assessment/CS IA foughts.md",
+    "Daily/My fucking week/Kanban of Pain.md",
+    "Daily/My fucking week/Subject Due Dates Kanban.md",
+    "Life/Game Dev/Projects/CAS/Story/Discussion on Satire.md",
     "Life/Game Dev/Projects/CAS/Story/Storyline/Storyline V2.md",
     "Daily/write thoughts.md",
-    "Daily/My fucking week/Kanban of Pain.md",
     "DP Computer Science/Internal Assessment/CS IA Brainstorm.md",
     "Life/Game Dev/Projects/CAS/Story/Storyline/Storyline.md",
-    "Daily/My fucking week/Subject Due Dates Kanban.md",
     "DP English LL/Real IO Notes.md",
     "DP English LL/Real IO BulletPoints.md"
   ]

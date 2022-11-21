@@ -1,6 +1,6 @@
 # Finkin about foughts
 ---
-### Assumptions
+### Set things
 - Doing something with shaders
 
 ### Problems
@@ -43,6 +43,7 @@
 			- being able to tweak variables to CHANGE WEATHER
 		- purpose/win condition
 			- relax??? fun even??/ NONE! ADD SOME knife rain or something
+			- need to be a direct result of player's efforts
 		- algorithmic thinking
 			- player-variable interaction, shader changes, 
 - Conclusion

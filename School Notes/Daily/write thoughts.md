@@ -270,3 +270,25 @@ Stuff
 #### TOK
 - 2 c/w
 - 40 c/sem
+
+# Thoughts 5????
+Theory: I need enough energy to do stuff i can handle
+- Lets say that every activity i do can be evaluated in stress/intensity levels
+- Maybe I cant force myself to do work at home because i have no energy left to do high intensity work
+	- of course, with the exception of "due tomorrow" work that breaks the pattern because its not completely a willpower thing
+- Lets define intensity level as the amount of energy needed to do a task
+- It goes from -1 to 1, -1 as those that restore energy, 1 as those that drain energy
+
+| Task            | Energy Level | Satirical comments                         |
+| --------------- | ------------ | ------------------------------------------ |
+| SAT             | 1            | Cus 4 hours                                |
+| Sleeping        | -1           | literally meta                             |
+| IAs             | 0.7          | Not hard, just painful                     |
+| College Essay   | 0.6          | Talk about myself, often takes a while     |
+| Valorant        | -0.5~0.2     | good game, bad game, nuff said             |
+| other games     | -0.5         | might as well sleep                        |
+| Cas game        | 0.4          | Though i love it, its still hard sometimes |
+| CAS reflections | 0.1          | Minor inconvenience, can say whatever      |
+|                 |              |                                            |
+|                 |              |                                            |
+
