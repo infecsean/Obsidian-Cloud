@@ -6,13 +6,15 @@ kanban-plugin: basic
 
 ## Today (4)
 
-- [ ] Bring Chungus to school tomorow/ practice HLSL
+- [ ] Math P3 #Summative @{2022-11-22}
+- [ ] U of Toronto stuff
 
 
 ## Tomorrow (4)
 
 - [ ] UBC Essays @{2022-11-11}
-- [ ] Math Probability&Statistics P1&P2 #Summative @{2022-11-18}
+- [ ] practice english io
+- [ ] chinese paper 2
 
 
 ## Universities
@@ -30,9 +32,10 @@ kanban-plugin: basic
 
 ## Upcoming
 
-- [ ] Real English IO frfr #Summative  @{2022-11-21}
-- [ ] Math P3 #Summative @{2022-11-22}
 - [ ] Physics IA #Summative
+- [ ] Math IA #Summative @{2022-12-02}
+- [ ] Chinese Paper 2 #Summative @{2022-12-01}
+- [ ] EE Final @{2022-12-05}
 - [ ] semester end @{2023-01-19}
 
 
@@ -182,6 +185,9 @@ kanban-plugin: basic
 - [x] 2022-11-15 07:42 English IO draft
 - [x] 2022-11-15 07:42 FINISH UW APPLICATION URGENT!!!!! #URGENT
 - [x] 2022-11-15 07:42 University of Washington
+- [x] 2022-11-21 08:48 Math Probability&Statistics P1&P2 #Summative @{2022-11-18}
+- [x] 2022-11-21 08:48 Real English IO frfr #Summative  @{2022-11-21}
+- [x] 2022-11-21 08:50 Bring Chungus to school tomorow/ practice HLSL
 
 %% kanban:settings
 ```
