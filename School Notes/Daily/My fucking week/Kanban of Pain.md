@@ -6,7 +6,6 @@ kanban-plugin: basic
 
 ## Today (4)
 
-- [ ] Math P3 #Summative @{2022-11-22}
 - [ ] U of Toronto stuff
 
 
@@ -22,10 +21,8 @@ kanban-plugin: basic
 - [ ] University of Pennsylvania
 - [ ] University of California (LA, SD, SC, SB)
 - [ ] Carnegie Melon University
-- [ ] Rochester Institude of Technology
 - [ ] University of Toronto
 - [ ] University of British Columbia (Vancouver)
-- [ ] Ohio State University, Columbus
 - [ ] Boston University
 - [ ] University of Conneticut
 
@@ -189,6 +186,9 @@ kanban-plugin: basic
 - [x] 2022-11-21 08:48 Real English IO frfr #Summative  @{2022-11-21}
 - [x] 2022-11-21 08:50 Bring Chungus to school tomorow/ practice HLSL
 - [x] 2022-11-21 09:16 Learn HLSL @{2022-11-01}
+- [x] 2022-11-22 11:52 Rochester Institude of Technology
+- [x] 2022-11-22 11:52 Ohio State University, Columbus
+- [x] 2022-11-22 11:52 Math P3 #Summative @{2022-11-22}
 
 %% kanban:settings
 ```
