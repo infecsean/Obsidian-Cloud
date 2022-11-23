@@ -7,19 +7,19 @@ kanban-plugin: basic
 ## Today (4)
 
 - [ ] U of Toronto stuff
+- [ ] practice english io
 
 
 ## Tomorrow (4)
 
-- [ ] UBC Essays @{2022-11-11}
-- [ ] practice english io
+- [ ] University of California (LA, SD, SC, SB)
 - [ ] chinese paper 2
+- [ ] Physics IA Draft @{2022-11-28} #Summative
 
 
 ## Universities
 
 - [ ] University of Pennsylvania
-- [ ] University of California (LA, SD, SC, SB)
 - [ ] Carnegie Melon University
 - [ ] University of Toronto
 - [ ] University of British Columbia (Vancouver)
@@ -29,10 +29,10 @@ kanban-plugin: basic
 
 ## Upcoming
 
-- [ ] Physics IA #Summative
 - [ ] Chinese Paper 2 #Summative @{2022-12-01}
 - [ ] Math IA #Summative @{2022-12-02}
 - [ ] SAT Dec @{2022-12-03}
+- [ ] UBC Essays @{2022-12-05}
 - [ ] EE Final @{2022-12-05}
 - [ ] CS IA @{2022-12-19}
 - [ ] semester end @{2023-01-19}
@@ -40,13 +40,7 @@ kanban-plugin: basic
 
 ## Pending Essays
 
-- [ ] UC Essay Creativity
-- [ ] UC Essay Skill
-- [ ] UC Essay Transfer
-- [ ] UC Essay Volunteer
 - [ ] CommonApp Essays #Essay  @{2022-10-31}
-- [ ] UW Essay 2
-- [ ] UBC Essays
 
 
 ## Gotta do list
@@ -189,6 +183,12 @@ kanban-plugin: basic
 - [x] 2022-11-22 11:52 Rochester Institude of Technology
 - [x] 2022-11-22 11:52 Ohio State University, Columbus
 - [x] 2022-11-22 11:52 Math P3 #Summative @{2022-11-22}
+- [x] 2022-11-23 15:16 UC Essay Creativity
+- [x] 2022-11-23 15:16 UC Essay Skill
+- [x] 2022-11-23 15:16 UC Essay Transfer
+- [x] 2022-11-23 15:16 UC Essay Volunteer
+- [x] 2022-11-23 15:16 UW Essay 2
+- [x] 2022-11-23 15:16 UBC Essays
 
 %% kanban:settings
 ```

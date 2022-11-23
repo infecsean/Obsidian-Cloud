@@ -18,7 +18,7 @@ kanban-plugin: basic
 
 ## Chinese
 
-- [ ] Paper 2 @{2022-11-23}
+- [ ] Paper 2 @{2022-12-01}
 
 
 ## Computer Science
