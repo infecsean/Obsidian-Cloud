@@ -6,15 +6,13 @@ kanban-plugin: basic
 
 ## Today (4)
 
+- [ ] chinese paper 2
 - [ ] U of Toronto stuff
-- [ ] practice english io
 
 
 ## Tomorrow (4)
 
-- [ ] University of California (LA, SD, SC, SB)
-- [ ] chinese paper 2
-- [ ] Physics IA Draft @{2022-11-28} #Summative
+- [ ] University of California (LA, SD, SC, SB) @{2022-11-25}
 
 
 ## Universities
@@ -33,6 +31,7 @@ kanban-plugin: basic
 - [ ] Math IA #Summative @{2022-12-02}
 - [ ] SAT Dec @{2022-12-03}
 - [ ] UBC Essays @{2022-12-05}
+- [ ] Physics IA Draft @{2022-12-14} #Summative
 - [ ] EE Final @{2022-12-05}
 - [ ] CS IA @{2022-12-19}
 - [ ] semester end @{2023-01-19}
@@ -189,6 +188,7 @@ kanban-plugin: basic
 - [x] 2022-11-23 15:16 UC Essay Volunteer
 - [x] 2022-11-23 15:16 UW Essay 2
 - [x] 2022-11-23 15:16 UBC Essays
+- [x] 2022-11-24 13:00 practice english io
 
 %% kanban:settings
 ```

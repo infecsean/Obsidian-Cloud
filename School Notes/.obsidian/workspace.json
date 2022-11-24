@@ -52,24 +52,24 @@
             }
           },
           {
-            "id": "8856a938d7766729",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "DP English LL/Real IO Notes.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "8f34b23e84a4f901",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
                 "file": "DP Computer Science/Internal Assessment/CS IA foughts.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "c0b761c58b6fc160",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Life/Game Dev/Projects/CAS/Story/Discussion on Satire.md",
                 "mode": "source",
                 "source": false
               }
@@ -114,7 +114,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -182,7 +183,7 @@
             }
           },
           {
-            "id": "f01607e7ed5312f5",
+            "id": "3732fd247df18d58",
             "type": "leaf",
             "state": {
               "type": "outline",
@@ -199,17 +200,17 @@
     "width": 370.3333435058594,
     "collapsed": true
   },
-  "active": "ac8f5d390c2f96b8",
+  "active": "1625584834bf44de",
   "lastOpenFiles": [
+    "Daily/write thoughts.md",
     "DP English LL/Real IO Notes.md",
+    "DP Computer Science/Internal Assessment/CS IA foughts.md",
     "Daily/My fucking week/Kanban of Pain.md",
     "Daily/My fucking week/Subject Due Dates Kanban.md",
-    "Daily/Personal Statements Brainstorm.md",
-    "Daily/write thoughts.md",
-    "DP Computer Science/Internal Assessment/CS IA foughts.md",
-    "Life/Game Dev/Projects/CAS/Story/Storyline/Storyline V4.md",
-    "Life/Game Dev/Projects/CAS/Story/Storyline/Storyline V5.md",
+    "Life/Game Dev/Projects/CAS/Story/Discussion on Satire.md",
+    "Life/Game Dev/Projects/CAS/Story/Storyline/Storyline V2.md",
+    "DP Computer Science/Internal Assessment/CS IA Brainstorm.md",
     "Life/Game Dev/Projects/CAS/Story/Storyline/Storyline.md",
-    "Life/Game Dev/Projects/CAS/Story/Storyline/Storyline brainstorms.md"
+    "DP English LL/Real IO BulletPoints.md"
   ]
 }
