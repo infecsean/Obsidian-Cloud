@@ -6,21 +6,22 @@ kanban-plugin: basic
 
 ## Today (4)
 
-- [ ] chinese paper 2
-- [ ] U of Toronto stuff
+- [ ] University of California (LA, SD, SC, SB) @{2022-11-25}
+- [ ] University of Pennsylvania
+- [ ] Carnegie Melon University
+- [ ] University of British Columbia (Vancouver)
+- [ ] 9pm livestream
 
 
 ## Tomorrow (4)
 
-- [ ] University of California (LA, SD, SC, SB) @{2022-11-25}
+- [ ] U of Toronto stuff
+- [ ] chinese paper 2
 
 
 ## Universities
 
-- [ ] University of Pennsylvania
-- [ ] Carnegie Melon University
 - [ ] University of Toronto
-- [ ] University of British Columbia (Vancouver)
 - [ ] Boston University
 - [ ] University of Conneticut
 

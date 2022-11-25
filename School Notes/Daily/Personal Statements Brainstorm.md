@@ -191,5 +191,33 @@ Show examples of what I do to show that uniqueness(100):
 Extend those examples to what I could add to the UW(100):
 
 ### Other
+- UPenn
+- [ ] Thank you
+- [x] Explore community
+- [ ] Explore academics
+- CMU
+- [x] Passion
+- [x] Successful college experience
+- [x] Highlight
+- UBC
+- [ ] Who i am (214~375 words)
+- [ ] What is important (214~375 words)
+- [ ] 5 Activities
+- [ ] Elaborate on 1~2 activities (300~525 words)
 
 ### Activities to add
+
+### UPenn
+1. Who should I thank?
+- no idea
+- 
+2. How will I explore the community at UPenn?
+- Through clubs
+- Making friends with people with the same interests
+3. How do I intend on exploring the academic and intellectual interests at UPenn?
+
+### CMU
+- Passion
+- Successful college experience
+	- I want to start by explaining my mindset of being able to find resources on my own online, so I want to go to college with the mindset of first and foremost, making friends, and second of all, force myself to swallow a hard pill. 
+
