@@ -221,3 +221,18 @@ Extend those examples to what I could add to the UW(100):
 - Successful college experience
 	- I want to start by explaining my mindset of being able to find resources on my own online, so I want to go to college with the mindset of first and foremost, making friends, and second of all, force myself to swallow a hard pill. 
 
+### UBC
+- Who i am
+	- Who am I
+	- How do others describe me
+	- Something I am proud of
+		- I am most proud of my imagination, which has both helped me within my journey creating games, and also learn to be ambitious. 
+			- This shows them that I am imaginative
+		- I am proud of my ability to learn virtually anything I want using the internet, as long as I want to
+			- This shows them that I am passionate to learn, but also show them that I can learn by myself
+- What is important
+	- What is important to me
+	- Why
+- Activities
+	- 5 activities (500 chars max each)
+	- Details on 1/2 of them (2100 chars max)
