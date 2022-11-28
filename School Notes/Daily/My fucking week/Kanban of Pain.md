@@ -6,21 +6,18 @@ kanban-plugin: basic
 
 ## Today (4)
 
-- [ ] University of California (LA, SD, SC, SB) @{2022-11-25}
-- [ ] University of Pennsylvania
-- [ ] Carnegie Melon University
-- [ ] University of British Columbia (Vancouver)
-- [ ] 9pm livestream
+- [ ] Cancel SAT
 
 
 ## Tomorrow (4)
 
-- [ ] U of Toronto stuff
-- [ ] chinese paper 2
+- [ ] Dentist
 
 
 ## Universities
 
+- [ ] University of British Columbia (Vancouver)
+- [ ] University of Pennsylvania
 - [ ] University of Toronto
 - [ ] Boston University
 - [ ] University of Conneticut
@@ -28,19 +25,18 @@ kanban-plugin: basic
 
 ## Upcoming
 
-- [ ] Chinese Paper 2 #Summative @{2022-12-01}
-- [ ] Math IA #Summative @{2022-12-02}
 - [ ] SAT Dec @{2022-12-03}
 - [ ] UBC Essays @{2022-12-05}
+- [ ] Math IA #Summative @{2022-12-09}
 - [ ] Physics IA Draft @{2022-12-14} #Summative
 - [ ] EE Final @{2022-12-05}
 - [ ] CS IA @{2022-12-19}
+- [ ] Chinese Paper 2 #Summative @{2022-12-30}
 - [ ] semester end @{2023-01-19}
 
 
 ## Pending Essays
 
-- [ ] CommonApp Essays #Essay  @{2022-10-31}
 
 
 ## Gotta do list
@@ -190,6 +186,12 @@ kanban-plugin: basic
 - [x] 2022-11-23 15:16 UW Essay 2
 - [x] 2022-11-23 15:16 UBC Essays
 - [x] 2022-11-24 13:00 practice english io
+- [x] 2022-11-28 07:30 University of California (LA, SD, SC, SB) @{2022-11-25}
+- [x] 2022-11-28 07:30 Carnegie Melon University
+- [x] 2022-11-28 07:30 9pm livestream
+- [ ] 2022-11-28 07:44 CommonApp Essays #Essay  @{2022-10-31}
+- [x] 2022-11-28 07:45 chinese paper 2
+- [x] 2022-11-28 07:47 U of Toronto stuff
 
 %% kanban:settings
 ```

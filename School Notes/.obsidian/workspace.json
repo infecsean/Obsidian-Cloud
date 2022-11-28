@@ -18,7 +18,7 @@
             }
           },
           {
-            "id": "c6b3ac50a5bfbbb9",
+            "id": "ac8f5d390c2f96b8",
             "type": "leaf",
             "state": {
               "type": "kanban",
@@ -52,18 +52,6 @@
             }
           },
           {
-            "id": "8856a938d7766729",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "DP English LL/Real IO Notes.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "8f34b23e84a4f901",
             "type": "leaf",
             "state": {
@@ -74,9 +62,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "c0b761c58b6fc160",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Life/Game Dev/Projects/CAS/Story/Discussion on Satire.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -135,7 +135,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Daily/Personal Statements Brainstorm.md",
+                "file": "Daily/My fucking week/Kanban of Pain.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -182,12 +182,12 @@
             }
           },
           {
-            "id": "f01607e7ed5312f5",
+            "id": "3732fd247df18d58",
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {
-                "file": "Daily/Personal Statements Brainstorm.md"
+                "file": "Daily/My fucking week/Kanban of Pain.md"
               }
             }
           }
@@ -199,17 +199,17 @@
     "width": 370.3333435058594,
     "collapsed": true
   },
-  "active": "9d689fe9603b7ed4",
+  "active": "17b4489c7a4ab860",
   "lastOpenFiles": [
-    "Daily/My fucking week/Kanban of Pain.md",
     "Daily/Personal Statements Brainstorm.md",
-    "Daily/My fucking week/Subject Due Dates Kanban.md",
-    "DP English LL/Real IO Notes.md",
-    "Daily/write thoughts.md",
     "DP Computer Science/Internal Assessment/CS IA foughts.md",
-    "Life/Game Dev/Projects/CAS/Story/Storyline/Storyline V4.md",
-    "Life/Game Dev/Projects/CAS/Story/Storyline/Storyline V5.md",
-    "Life/Game Dev/Projects/CAS/Story/Storyline/Storyline.md",
-    "Life/Game Dev/Projects/CAS/Story/Storyline/Storyline brainstorms.md"
+    "Daily/write thoughts.md",
+    "Daily/My fucking week/Kanban of Pain.md",
+    "DP English LL/Real IO Notes.md",
+    "Daily/My fucking week/Subject Due Dates Kanban.md",
+    "Life/Game Dev/Projects/CAS/Story/Discussion on Satire.md",
+    "Life/Game Dev/Projects/CAS/Story/Storyline/Storyline V2.md",
+    "DP Computer Science/Internal Assessment/CS IA Brainstorm.md",
+    "Life/Game Dev/Projects/CAS/Story/Storyline/Storyline.md"
   ]
 }
