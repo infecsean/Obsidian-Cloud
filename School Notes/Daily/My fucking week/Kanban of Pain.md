@@ -6,32 +6,29 @@ kanban-plugin: basic
 
 ## Today (4)
 
-- [ ] Cancel SAT
+- [ ] Dentist
 
 
 ## Tomorrow (4)
 
-- [ ] Dentist
+- [ ] University of Toronto
+- [ ] University of British Columbia (Vancouver)
+- [ ] UBC Essays @{2022-12-05}
 
 
 ## Universities
 
-- [ ] University of British Columbia (Vancouver)
 - [ ] University of Pennsylvania
-- [ ] University of Toronto
 - [ ] Boston University
-- [ ] University of Conneticut
 
 
 ## Upcoming
 
-- [ ] SAT Dec @{2022-12-03}
-- [ ] UBC Essays @{2022-12-05}
+- [ ] EE Final @{2022-12-05}
 - [ ] Math IA #Summative @{2022-12-09}
 - [ ] Physics IA Draft @{2022-12-14} #Summative
-- [ ] EE Final @{2022-12-05}
 - [ ] CS IA @{2022-12-19}
-- [ ] Chinese Paper 2 #Summative @{2022-12-30}
+- [ ] Chinese Paper 2 #Summative @{2022-12-21}
 - [ ] semester end @{2023-01-19}
 
 
@@ -192,6 +189,9 @@ kanban-plugin: basic
 - [ ] 2022-11-28 07:44 CommonApp Essays #Essay  @{2022-10-31}
 - [x] 2022-11-28 07:45 chinese paper 2
 - [x] 2022-11-28 07:47 U of Toronto stuff
+- [x] 2022-11-29 08:38 Cancel SAT
+- [x] 2022-11-29 08:38 University of Conneticut
+- [x] 2022-11-29 08:38 SAT Dec @{2022-12-03}
 
 %% kanban:settings
 ```
