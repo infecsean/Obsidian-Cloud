@@ -196,6 +196,36 @@ Finish summatives -> Do EE until background info and research shit -> Do CommonA
 
 
 
+# Thoughts 1?? (omg)
+What does minami have that my mum dont?
+- Unconditional love
+- Being there when I need her
+- Always available
+- I've been there for them
+- Emotional support each other
+
+"I am busy but I still put you as priority"
+- I know and I appreciate that.
+- However, you are too ignorant of my problems for example
+
+"You have problem, you talk to us and we can help"
+- I tried, every time i get "you need to solve this", "you need to sort out your emotions", "if this problem can be solved this way, do it", you always speak of me in terms of "problems". I just want someone to help me solve my problems.
+- I ask you this and that, you respond with "ive done what i could", i may not need dr zhao but if we cant solve this problem by communicating, then i need a therapist
+
+- You see the problem, but instead of helping me fight it and solve it, you tell me why i need to solve it and leave me alone to solve it by myself
+
+Everything is still about you, and what you want, not me.
+- Everything you think is in my best interest, is only because its in your best interest
+
+- just some thoughts
+	- illusion of a happy household
+		- we try so hard to make it seem like we are living a happy life, we travel around the world, we go watch movies.
+		- I needed none of that, i only wanted you to ask me how im doing
+			- by that, i dont mean "whats your problem? when are you going to move on", but "how are you doing? you can talk to me about anything i promise ill still love you, whatever it is we can solve it together" at least that gives me the illusion of comfort
+	- "am i worth something to you"
+		- idk why but i legit cried, imagining asking them this question.
+
+
 # Thoughts 2
 ---
 
@@ -291,4 +321,5 @@ Theory: I need enough energy to do stuff i can handle
 | CAS reflections | 0.1          | Minor inconvenience, can say whatever      |
 |                 |              |                                            |
 |                 |              |                                            |
+
 

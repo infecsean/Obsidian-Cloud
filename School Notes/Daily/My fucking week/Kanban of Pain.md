@@ -6,7 +6,7 @@ kanban-plugin: basic
 
 ## Today (4)
 
-- [ ] Dentist
+- [x] Dentist
 
 
 ## Tomorrow (4)
