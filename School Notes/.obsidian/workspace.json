@@ -21,34 +21,8 @@
             "id": "ac8f5d390c2f96b8",
             "type": "leaf",
             "state": {
-              "type": "kanban",
-              "state": {
-                "file": "Daily/My fucking week/Kanban of Pain.md"
-              }
-            }
-          },
-          {
-            "id": "d0dc3cec4e3b42a2",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Life/Game Dev/Projects/kool idea.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "cd646518fd5c3cfd",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Life/Game Dev/Projects/Project Flies/PF Introduction.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           },
           {
@@ -85,6 +59,22 @@
                 "mode": "source",
                 "source": false
               }
+            }
+          },
+          {
+            "id": "5cd4eb50b86f0594",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          },
+          {
+            "id": "8f5ca9719b1a8743",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
             }
           }
         ],
@@ -147,7 +137,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Daily/My fucking week/Kanban of Pain.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -198,9 +187,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Daily/My fucking week/Kanban of Pain.md"
-              }
+              "state": {}
             }
           }
         ],
@@ -213,15 +200,15 @@
   },
   "active": "ac8f5d390c2f96b8",
   "lastOpenFiles": [
-    "Life/Game Dev/Projects/Project Flies/PF Introduction.md",
-    "Life/Game Dev/Projects/kool idea.md",
-    "Life/Game Dev/Unity/HLSL Practice.md",
+    "DP Math/Math IA Brainterns.md",
+    "DP Computer Science/Internal Assessment/CS IA foughts.md",
     "Daily/My fucking week/Kanban of Pain.md",
     "Daily/Personal Statements Brainstorm.md",
-    "DP Computer Science/Internal Assessment/CS IA foughts.md",
-    "Daily/write thoughts.md",
-    "DP English LL/Real IO Notes.md",
+    "Life/Game Dev/Projects/CAS/Story/Creating the mood.md",
     "Daily/My fucking week/Subject Due Dates Kanban.md",
-    "Life/Game Dev/Projects/CAS/Story/Discussion on Satire.md"
+    "Daily/write thoughts.md",
+    "Life/Game Dev/Projects/CAS/Story/Discussion on Satire.md",
+    "DP English LL/Real IO Notes.md",
+    "Life/Game Dev/Projects/CAS/Story/Storyline/Storyline V2.md"
   ]
 }
