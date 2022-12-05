@@ -6,29 +6,24 @@ kanban-plugin: basic
 
 ## Today (4)
 
-- [x] Dentist
+- [ ] Math IA learn about bezier curves
+- [ ] University of British Columbia (Vancouver)
 
 
 ## Tomorrow (4)
 
-- [ ] University of Toronto
-- [ ] University of British Columbia (Vancouver)
-- [ ] UBC Essays @{2022-12-05}
-
-
-## Universities
-
-- [ ] University of Pennsylvania
-- [ ] Boston University
+- [ ] CS IA continue
+- [ ] Chinese read the stuff
 
 
 ## Upcoming
 
-- [ ] EE Final @{2022-12-05}
+- [ ] University of Pennsylvania
 - [ ] Math IA #Summative @{2022-12-09}
-- [ ] Physics IA Draft @{2022-12-14} #Summative
+- [ ] TOK DEAD line @{2022-12-12}
 - [ ] CS IA @{2022-12-19}
 - [ ] Chinese Paper 2 #Summative @{2022-12-21}
+- [ ] Physics IA Draft @{2023-01-01} #Summative
 - [ ] semester end @{2023-01-19}
 
 
@@ -192,6 +187,11 @@ kanban-plugin: basic
 - [x] 2022-11-29 08:38 Cancel SAT
 - [x] 2022-11-29 08:38 University of Conneticut
 - [x] 2022-11-29 08:38 SAT Dec @{2022-12-03}
+- [x] 2022-12-05 07:37 Dentist
+- [x] 2022-12-05 07:37 University of Toronto
+- [x] 2022-12-05 07:37 UBC Essays @{2022-12-05}
+- [x] 2022-12-05 07:37 Boston University
+- [x] 2022-12-05 09:04 EE Final @{2022-12-05}
 
 %% kanban:settings
 ```

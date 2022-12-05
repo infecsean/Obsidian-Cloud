@@ -28,6 +28,30 @@
             }
           },
           {
+            "id": "d0dc3cec4e3b42a2",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Life/Game Dev/Projects/kool idea.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "cd646518fd5c3cfd",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Life/Game Dev/Projects/Project Flies/PF Introduction.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "9d689fe9603b7ed4",
             "type": "leaf",
             "state": {
@@ -189,15 +213,15 @@
   },
   "active": "ac8f5d390c2f96b8",
   "lastOpenFiles": [
-    "Daily/My fucking week/Subject Due Dates Kanban.md",
+    "Life/Game Dev/Projects/Project Flies/PF Introduction.md",
+    "Life/Game Dev/Projects/kool idea.md",
+    "Life/Game Dev/Unity/HLSL Practice.md",
     "Daily/My fucking week/Kanban of Pain.md",
     "Daily/Personal Statements Brainstorm.md",
-    "Daily/write thoughts.md",
     "DP Computer Science/Internal Assessment/CS IA foughts.md",
-    "Life/Game Dev/Projects/CAS/Story/Discussion on Satire.md",
+    "Daily/write thoughts.md",
     "DP English LL/Real IO Notes.md",
-    "Life/Game Dev/Projects/CAS/Story/Storyline/Storyline V2.md",
-    "DP Computer Science/Internal Assessment/CS IA Brainstorm.md",
-    "Life/Game Dev/Projects/CAS/Story/Storyline/Storyline.md"
+    "Daily/My fucking week/Subject Due Dates Kanban.md",
+    "Life/Game Dev/Projects/CAS/Story/Discussion on Satire.md"
   ]
 }
