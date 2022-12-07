@@ -23,7 +23,7 @@ kanban-plugin: basic
 - [ ] TOK DEAD line @{2022-12-12}
 - [ ] CS IA @{2022-12-19}
 - [ ] Chinese Paper 2 #Summative @{2022-12-21}
-- [ ] Physics IA Draft @{2023-01-01} #Summative
+- [ ] Physics IA Draft @{2023-01-19} #Summative
 - [ ] semester end @{2023-01-19}
 
 
