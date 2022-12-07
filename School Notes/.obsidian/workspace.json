@@ -21,8 +21,46 @@
             "id": "ac8f5d390c2f96b8",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "kanban",
+              "state": {
+                "file": "Daily/My fucking week/Kanban of Pain.md"
+              }
+            }
+          },
+          {
+            "id": "fcca95d5a40c5feb",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Life/Game Dev/Projects/Project Flies/PF Pre Discussion.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "b47036051bb6bfb1",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Life/Game Dev/Projects/Project Flies/PF Storyline Planning.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "8f1e15bdda74e486",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Life/Game Dev/Projects/Project Flies/PF Level Design Brainstorm.md",
+                "mode": "source",
+                "source": false
+              }
             }
           },
           {
@@ -60,25 +98,9 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "5cd4eb50b86f0594",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {}
-            }
-          },
-          {
-            "id": "8f5ca9719b1a8743",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {}
-            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -137,6 +159,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Life/Game Dev/Projects/Project Flies/PF Level Design Brainstorm.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -187,7 +210,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Life/Game Dev/Projects/Project Flies/PF Level Design Brainstorm.md"
+              }
             }
           }
         ],
@@ -198,17 +223,17 @@
     "width": 370.3333435058594,
     "collapsed": true
   },
-  "active": "ac8f5d390c2f96b8",
+  "active": "8f1e15bdda74e486",
   "lastOpenFiles": [
-    "DP Math/Math IA Brainterns.md",
-    "DP Computer Science/Internal Assessment/CS IA foughts.md",
-    "Daily/My fucking week/Kanban of Pain.md",
     "Daily/Personal Statements Brainstorm.md",
-    "Life/Game Dev/Projects/CAS/Story/Creating the mood.md",
+    "Life/Game Dev/Projects/Project Flies/PF Level Design Brainstorm.md",
+    "Life/Game Dev/Projects/Project Flies/PF Storyline Planning.md",
+    "Life/Game Dev/Projects/Project Flies/PF Pre Discussion.md",
+    "Daily/My fucking week/Kanban of Pain.md",
+    "Life/Game Dev/Projects/Project Flies/PF Design Doc.md",
     "Daily/My fucking week/Subject Due Dates Kanban.md",
     "Daily/write thoughts.md",
-    "Life/Game Dev/Projects/CAS/Story/Discussion on Satire.md",
-    "DP English LL/Real IO Notes.md",
-    "Life/Game Dev/Projects/CAS/Story/Storyline/Storyline V2.md"
+    "DP Computer Science/Internal Assessment/CS IA foughts.md",
+    "DP Math/Math IA Brainterns.md"
   ]
 }
