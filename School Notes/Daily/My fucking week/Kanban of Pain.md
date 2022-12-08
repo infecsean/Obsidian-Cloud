@@ -7,11 +7,11 @@ kanban-plugin: basic
 ## Today (4)
 
 - [ ] Math IA learn about bezier curves
-- [ ] University of British Columbia (Vancouver)
 
 
 ## Tomorrow (4)
 
+- [ ] University of British Columbia (Vancouver)
 - [ ] CS IA continue
 - [ ] Chinese read the stuff
 
@@ -23,6 +23,7 @@ kanban-plugin: basic
 - [ ] TOK DEAD line @{2022-12-12}
 - [ ] CS IA @{2022-12-19}
 - [ ] Chinese Paper 2 #Summative @{2022-12-21}
+- [ ] Econ IA SOON HAHAHAHHAHA
 - [ ] Physics IA Draft @{2023-01-19} #Summative
 - [ ] semester end @{2023-01-19}
 

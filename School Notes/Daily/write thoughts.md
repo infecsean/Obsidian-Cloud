@@ -323,3 +323,24 @@ Theory: I need enough energy to do stuff i can handle
 |                 |              |                                            |
 
 
+# Thoughts 6
+$$ \iint_R 1 \,dx\,dy $$
+$$ \oint_C x \,dy = -\oint_C y \,dx = \tfrac 12 \oint_C (x \,dy - y \,dx) $$
+$$ \int_{0}^{1} x(t) \, y'(t) \,dt $$
+
+Math IA structure:
+- Title page
+- Intro
+	- Rationale
+		- personal engagement
+		- leading to clear goal
+	- Aim
+		- 
+- Process of finding the amount of ink for each letter (explain part)
+	- Define a bezier curve and the function of it (Bernstein thing)
+	- Shoelace formula
+		- explain the problem of curved lines
+	- Standard formula that finds coordinates
+		- C(t), linearly interpolate through t values to get precise measurements in curve
+	- New shoelace formula that calculate the coords
+- Actual calculation
