@@ -33,4 +33,4 @@ Objectives
 		- Worship of good food
 		- Endless unquestioning faith
 	- Food
-		- 
+		- Food as houses, nests, new flies, larvae, eggs, and enemies
