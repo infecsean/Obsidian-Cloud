@@ -344,3 +344,12 @@ Math IA structure:
 		- C(t), linearly interpolate through t values to get precise measurements in curve
 	- New shoelace formula that calculate the coords
 - Actual calculation
+
+$$ z(t) = \sum_{i=0}^n {n\choose i}t^i(1-t)^{n-i} . P_i, \space t\in[1,0]$$
+
+$$ z(t) = \sum_{i=0}^2 {2 \choose i}t^i(1-t)^{2-1}\times P_i $$
+$$z(t) = {2\choose 0}t^0(t-1)^{2-0}.P_0\space+{2\choose 1}t^1(t-1)^{2-1}.P_1\space+{2\choose 2}t^2(t-1)^{2-2}.P_2$$
+$$z(t) = (t-1)^2.P_0\space+2t(t-1).P_1\space+t^2.P_2$$
+$$area = {1\over 2} |\sum_{i=1}^n x_iy_{i+1}-x_{i+1}y_i|$$
+
+

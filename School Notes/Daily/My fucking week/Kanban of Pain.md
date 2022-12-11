@@ -6,7 +6,7 @@ kanban-plugin: basic
 
 ## Today (4)
 
-- [ ] Math IA learn about bezier curves
+- [x] Math IA learn about bezier curves
 
 
 ## Tomorrow (4)
