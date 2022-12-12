@@ -6,24 +6,21 @@ kanban-plugin: basic
 
 ## Today (4)
 
-- [x] Math IA learn about bezier curves
+- [ ] CS IA continue
+- [ ] University of British Columbia (Vancouver)
 
 
 ## Tomorrow (4)
 
-- [ ] University of British Columbia (Vancouver)
-- [ ] CS IA continue
 - [ ] Chinese read the stuff
 
 
 ## Upcoming
 
 - [ ] University of Pennsylvania
-- [ ] Math IA #Summative @{2022-12-09}
-- [ ] TOK DEAD line @{2022-12-12}
 - [ ] CS IA @{2022-12-19}
 - [ ] Chinese Paper 2 #Summative @{2022-12-21}
-- [ ] Econ IA SOON HAHAHAHHAHA
+- [ ] Econ IA
 - [ ] Physics IA Draft @{2023-01-19} #Summative
 - [ ] semester end @{2023-01-19}
 
@@ -59,10 +56,6 @@ kanban-plugin: basic
 - [ ] Block out structures
 - [ ] Solidify concepts and direction (Phase 1)
 - [ ] Make factory floor plan again (Phase 1)
-
-
-## OVERDUE FUCK YOU
-
 
 
 ## Phase 3 (Production)
@@ -193,6 +186,9 @@ kanban-plugin: basic
 - [x] 2022-12-05 07:37 UBC Essays @{2022-12-05}
 - [x] 2022-12-05 07:37 Boston University
 - [x] 2022-12-05 09:04 EE Final @{2022-12-05}
+- [x] 2022-12-12 07:45 Math IA learn about bezier curves
+- [x] 2022-12-12 07:45 Math IA #Summative @{2022-12-09}
+- [x] 2022-12-12 07:45 TOK DEAD line @{2022-12-12}
 
 %% kanban:settings
 ```

@@ -12,7 +12,6 @@ kanban-plugin: basic
 
 ## Math
 
-- [ ] Math IA Draft @{2022-12-02}
 - [ ] Math IA Final @{2023-02-10}
 
 
@@ -29,7 +28,6 @@ kanban-plugin: basic
 
 ## TOK
 
-- [ ] First Draft @{2022-12-12}
 - [ ] Final Draft @{2023-01-09}
 
 
@@ -54,6 +52,8 @@ kanban-plugin: basic
 ## Archive
 
 - [ ] IO @{2022-10-26}
+- [x] Math IA Draft @{2022-12-02}
+- [x] First Draft @{2022-12-12}
 
 %% kanban:settings
 ```

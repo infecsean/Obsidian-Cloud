@@ -3,6 +3,9 @@
 
 > Have Preferably 3 Acts
 
+Preferably an open world - an apartment
+- Calendar to get a sense of time
+
 > Act# | Title of level | Setting | When
 
 ### Act 1  |  Introduction | Tube of kitchen sink | Born
