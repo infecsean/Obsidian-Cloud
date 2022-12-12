@@ -88,7 +88,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -147,7 +147,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Life/Game Dev/Projects/Project Flies/PF Storyline Planning.md",
+                "file": "Daily/My fucking week/Kanban of Pain.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -199,7 +199,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Life/Game Dev/Projects/Project Flies/PF Storyline Planning.md"
+                "file": "Daily/My fucking week/Kanban of Pain.md"
               }
             }
           }
@@ -211,11 +211,11 @@
     "width": 370.3333435058594,
     "collapsed": true
   },
-  "active": "d0dc3cec4e3b42a2",
+  "active": "ac8f5d390c2f96b8",
   "lastOpenFiles": [
     "Life/Game Dev/Projects/Project Flies/PF Level Design Brainstorm.md",
-    "Life/Game Dev/Projects/Project Flies/PF Storyline Planning.md",
     "Daily/My fucking week/Kanban of Pain.md",
+    "Life/Game Dev/Projects/Project Flies/PF Storyline Planning.md",
     "Daily/write thoughts.md",
     "Daily/My fucking week/Subject Due Dates Kanban.md",
     "Life/Game Dev/Projects/Project Flies/PF Pre Discussion.md",
