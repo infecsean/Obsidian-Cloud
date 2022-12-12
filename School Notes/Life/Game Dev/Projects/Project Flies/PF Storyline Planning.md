@@ -32,7 +32,7 @@ life, a game, fly's game
 		- Difference between sleep and death
 - Purpose of progression
 	- Usually used to show that there is a purpose to your actions beyond a direct benefit from others
-	- However, a fly's purpose is clear - to consume. What will this mean for a fly? How does he progress and grow in a world where you cannot grow mentally
+	- However, a fly's purpose is clear - to consume. What will this mean for a fly? How does he progress and grow in a world where you cannot grow mentally? Story-wise this is an easy problem to solve, he simply change the world around him. 
 - Stop going on about themes, the set piece of this game is its story
 	- Just make sure theres a storyline that the player can focus on - fly. And a storyline for the dude - relationships n shit. Only sprinkle that philosophical dust sparingly.
 
