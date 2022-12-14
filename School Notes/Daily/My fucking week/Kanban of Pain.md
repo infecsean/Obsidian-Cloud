@@ -7,16 +7,18 @@ kanban-plugin: basic
 ## Today (4)
 
 - [ ] rember to take tomorow
+- [ ] Finish SA x1 & events x2
 
 
 ## Tomorrow (4)
 
 - [ ] Chinese half
+- [ ] Create Scene
+- [ ] Grass Sway shader
 
 
 ## CS IA
 
-- [ ] Grass Sway shader
 - [ ] Tree sway shader
 - [ ] Lightning lighting shader
 - [ ] Rain Shader
