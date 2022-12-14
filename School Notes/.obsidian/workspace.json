@@ -28,30 +28,6 @@
             }
           },
           {
-            "id": "d0dc3cec4e3b42a2",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Life/Game Dev/Projects/Project Flies/PF Storyline Planning.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "c14874cbc494a5b6",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Life/Game Dev/Projects/Project Flies/PF Level Design Brainstorm.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "9d689fe9603b7ed4",
             "type": "leaf",
             "state": {
@@ -214,14 +190,14 @@
   "active": "ac8f5d390c2f96b8",
   "lastOpenFiles": [
     "Life/Game Dev/Projects/Project Flies/PF Level Design Brainstorm.md",
-    "Daily/My fucking week/Kanban of Pain.md",
     "Life/Game Dev/Projects/Project Flies/PF Storyline Planning.md",
+    "DP Computer Science/Internal Assessment/CS IA foughts.md",
+    "Daily/My fucking week/Kanban of Pain.md",
     "Daily/write thoughts.md",
     "Daily/My fucking week/Subject Due Dates Kanban.md",
     "Life/Game Dev/Projects/Project Flies/PF Pre Discussion.md",
     "Life/Game Dev/Projects/Project Flies/PF Design Doc.md",
     "Life/Game Dev/Projects/kool idea.md",
-    "Daily/Personal Statements Brainstorm.md",
-    "DP Computer Science/Internal Assessment/CS IA foughts.md"
+    "Daily/Personal Statements Brainstorm.md"
   ]
 }

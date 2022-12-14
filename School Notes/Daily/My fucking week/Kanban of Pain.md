@@ -6,21 +6,31 @@ kanban-plugin: basic
 
 ## Today (4)
 
-- [ ] CS IA continue
-- [ ] University of British Columbia (Vancouver)
+- [ ] rember to take tomorow
 
 
 ## Tomorrow (4)
 
-- [ ] Chinese read the stuff
+- [ ] Chinese half
+
+
+## CS IA
+
+- [ ] Grass Sway shader
+- [ ] Tree sway shader
+- [ ] Lightning lighting shader
+- [ ] Rain Shader
+- [ ] Fog Shader
+- [ ] [Optional] Water shader
 
 
 ## Upcoming
 
+- [ ] University of British Columbia (Vancouver)
 - [ ] University of Pennsylvania
 - [ ] CS IA @{2022-12-19}
 - [ ] Chinese Paper 2 #Summative @{2022-12-21}
-- [ ] Econ IA
+- [ ] Econ IA @{2022-12-31}
 - [ ] Physics IA Draft @{2023-01-19} #Summative
 - [ ] semester end @{2023-01-19}
 
