@@ -6,15 +6,13 @@ kanban-plugin: basic
 
 ## Today (4)
 
-- [ ] rember to take tomorow
-- [ ] Finish SA x1 & events x2
+- [ ] Chinese half
+- [ ] Create Scene
+- [ ] Grass Sway shader
 
 
 ## Tomorrow (4)
 
-- [ ] Chinese half
-- [ ] Create Scene
-- [ ] Grass Sway shader
 
 
 ## CS IA
@@ -201,6 +199,8 @@ kanban-plugin: basic
 - [x] 2022-12-12 07:45 Math IA learn about bezier curves
 - [x] 2022-12-12 07:45 Math IA #Summative @{2022-12-09}
 - [x] 2022-12-12 07:45 TOK DEAD line @{2022-12-12}
+- [x] 2022-12-15 10:43 rember to take tomorow
+- [x] 2022-12-15 10:43 Finish SA x1 & events x2
 
 %% kanban:settings
 ```
