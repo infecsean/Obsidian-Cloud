@@ -118,7 +118,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 309
+    "width": 309,
+    "collapsed": true
   },
   "right": {
     "id": "d6f61973bf5b2b3f",
@@ -200,14 +201,14 @@
   },
   "active": "568bea2de2d5249d",
   "lastOpenFiles": [
-    "Daily/My fucking week/Subject Due Dates Kanban.md",
+    "Daily/write thoughts.md",
+    "DP Computer Science/Internal Assessment/CS IA foughts.md",
     "Daily/My fucking week/Kanban of Pain.md",
+    "Daily/My fucking week/Subject Due Dates Kanban.md",
     "Daily/My fucking week/7Sunday.md",
     "Life/Game Dev/Projects/kool idea.md",
     "Daily/My fucking week/2Tuesday.md",
-    "Daily/write thoughts.md",
     "Daily/Personal Statements Brainstorm.md",
-    "DP Computer Science/Internal Assessment/CS IA foughts.md",
     "Life/Game Dev/Projects/Project Flies/PF Introduction.md",
     "Life/Game Dev/Unity/HLSL Practice.md"
   ]

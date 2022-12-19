@@ -6,21 +6,18 @@ kanban-plugin: basic
 
 ## Today (4)
 
-- [ ] Chinese half
-- [ ] Create Scene
-- [ ] Grass Sway shader
+- [ ] Documentation
+- [ ] Chinese Paper 2
 
 
 ## Tomorrow (4)
 
+- [ ] Lightning lighting shader
+- [ ] Fog Shader
 
 
 ## CS IA
 
-- [ ] Tree sway shader
-- [ ] Lightning lighting shader
-- [ ] Rain Shader
-- [ ] Fog Shader
 - [ ] [Optional] Water shader
 
 
@@ -201,6 +198,12 @@ kanban-plugin: basic
 - [x] 2022-12-12 07:45 TOK DEAD line @{2022-12-12}
 - [x] 2022-12-15 10:43 rember to take tomorow
 - [x] 2022-12-15 10:43 Finish SA x1 & events x2
+- [x] 2022-12-17 19:47 Chinese half
+- [x] 2022-12-17 19:47 Create Scene
+- [x] 2022-12-17 19:47 Grass Sway shader
+- [x] 2022-12-20 00:09 Tree sway shader
+- [x] 2022-12-20 00:09 Rain Shader
+- [x] 2022-12-20 00:09 GPU instancing cus many same mesh
 
 %% kanban:settings
 ```

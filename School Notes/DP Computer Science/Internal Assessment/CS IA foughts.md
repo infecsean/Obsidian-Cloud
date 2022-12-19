@@ -68,3 +68,5 @@
 			- lightning - lighting changes, audio, lightning particle/mesh?, storm factor?
 			- day/night cycle - lighting changes, global illumination?, sun light ray physics
 	- all of these contribute to overcomplicating my cs IA for the sake of fulfilling my insecurities. maybe just stop being a bitch lmao
+
+
