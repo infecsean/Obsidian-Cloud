@@ -6,18 +6,17 @@ kanban-plugin: basic
 
 ## Today (4)
 
-- [ ] Chinese Paper 2
-- [ ] covid sign
+- [ ] Documentation
+- [ ] BU Money thing
+- [ ] Edutainment slippy
 
 
 ## Tomorrow (4)
 
-- [ ] Thursday vacc
 
 
 ## CS IA
 
-- [ ] Documentation
 - [ ] Lightning lighting shader
 - [ ] Fog Shader
 - [ ] [Optional] Water shader
@@ -207,6 +206,9 @@ kanban-plugin: basic
 - [x] 2022-12-20 00:09 Tree sway shader
 - [x] 2022-12-20 00:09 Rain Shader
 - [x] 2022-12-20 00:09 GPU instancing cus many same mesh
+- [x] 2022-12-22 09:03 Chinese Paper 2
+- [x] 2022-12-22 09:03 covid sign
+- [x] 2022-12-22 09:03 Thursday vacc
 
 %% kanban:settings
 ```
