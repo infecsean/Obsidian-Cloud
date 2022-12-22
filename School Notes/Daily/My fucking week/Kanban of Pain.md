@@ -6,7 +6,6 @@ kanban-plugin: basic
 
 ## Today (4)
 
-- [ ] Documentation
 - [ ] BU Money thing
 - [ ] Edutainment slippy
 
@@ -17,17 +16,15 @@ kanban-plugin: basic
 
 ## CS IA
 
-- [ ] Lightning lighting shader
-- [ ] Fog Shader
-- [ ] [Optional] Water shader
+- [ ] Documentation
 
 
 ## Upcoming
 
-- [ ] University of British Columbia (Vancouver)
-- [ ] University of Pennsylvania
+- [ ] CMU @{2023-01-03}
+- [ ] University of Pennsylvania @{2023-01-05}
+- [ ] University of British Columbia (Vancouver) @{2023-01-15}
 - [ ] CS IA @{2022-12-26}
-- [ ] Chinese Paper 2 #Summative @{2022-12-21}
 - [ ] physics test @{2022-12-29}
 - [ ] Econ IA @{2022-12-31}
 - [ ] Physics IA Draft @{2023-01-19} #Summative
@@ -209,6 +206,10 @@ kanban-plugin: basic
 - [x] 2022-12-22 09:03 Chinese Paper 2
 - [x] 2022-12-22 09:03 covid sign
 - [x] 2022-12-22 09:03 Thursday vacc
+- [x] 2022-12-22 15:44 Chinese Paper 2 #Summative @{2022-12-21}
+- [x] 2022-12-22 15:45 Lightning lighting shader
+- [x] 2022-12-22 15:45 Fog Shader
+- [x] 2022-12-22 15:45 [Optional] Water shader
 
 %% kanban:settings
 ```
