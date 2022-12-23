@@ -25,9 +25,9 @@
               "state": {
                 "file": "Daily/My fucking week/Life Canvas.canvas",
                 "viewState": {
-                  "x": 34,
-                  "y": -9,
-                  "zoom": 0,
+                  "x": -18.94665161949355,
+                  "y": 35.98410904553887,
+                  "zoom": -0.5,
                   "snapToGrid": false
                 }
               }
@@ -92,7 +92,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -150,7 +150,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Daily/My fucking week/Kanban of Pain.md",
+                "file": "Daily/My fucking week/Life Canvas.canvas",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -202,7 +202,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Daily/My fucking week/Kanban of Pain.md"
+                "file": "Daily/My fucking week/Life Canvas.canvas"
               }
             }
           }
@@ -226,15 +226,15 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "ebd34e8d56878c71",
+  "active": "ac8f5d390c2f96b8",
   "lastOpenFiles": [
-    "Daily/My fucking week/Life Canvas.canvas",
+    "DP Computer Science/Internal Assessment/CS IA foughts.md",
+    "Daily/write thoughts.md",
+    "Daily/Personal Statements Brainstorm.md",
     "Daily/My fucking week/Kanban of Pain.md",
+    "Daily/My fucking week/Life Canvas.canvas",
     "DP Physics/Fields.md",
     "Daily/My fucking week/Subject Due Dates Kanban.md",
-    "Daily/Personal Statements Brainstorm.md",
-    "Daily/write thoughts.md",
-    "DP Computer Science/Internal Assessment/CS IA foughts.md",
     "Life/Game Dev/Projects/Project Flies/PF Level Design Brainstorm.md",
     "Life/Game Dev/Projects/Project Flies/PF Storyline Planning.md",
     "Life/Game Dev/Projects/Project Flies/PF Pre Discussion.md"

@@ -29,6 +29,7 @@ kanban-plugin: basic
 - [ ] Econ IA @{2022-12-31}
 - [ ] Physics IA Draft @{2023-01-19} #Summative
 - [ ] semester end @{2023-01-19}
+- [ ] semester start @{2023-02-13}
 
 
 ## Pending Essays

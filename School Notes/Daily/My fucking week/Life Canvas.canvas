@@ -1,6 +1,48 @@
 {
 	"nodes":[
-		{"id":"d61a75677962c413","x":-157,"y":-292,"width":250,"height":60,"type":"text","text":"WOAHHHHHHH CANVAS SLAPPPPPSSS"}
+		{"id":"19b1f27f2ee6a1ae","x":-209,"y":-333,"width":250,"height":60,"type":"text","text":"Morning [3 hours]"},
+		{"id":"5c6787e9585352eb","x":-209,"y":-413,"width":250,"height":60,"type":"text","text":"8 wake up, 9 start working"},
+		{"id":"849d1952505290d5","x":104,"y":-413,"width":250,"height":60,"type":"text","text":"English 2 period"},
+		{"id":"3f8fb3fef280ea60","x":104,"y":-333,"width":250,"height":60,"type":"text","text":"Afternoon [2 hours]"},
+		{"id":"d61a75677962c413","x":-576,"y":-333,"width":250,"height":60,"type":"text","text":"Time Schedule today i guess\n"},
+		{"id":"93cd56f269091caa","x":-1274,"y":49,"width":250,"height":60,"type":"text","text":"CS IA"},
+		{"id":"00da7add887ba040","x":-576,"y":-229,"width":250,"height":60,"type":"text","text":"Define Problem"},
+		{"id":"18ae447f9b200178","x":-576,"y":-153,"width":250,"height":60,"type":"text","text":"Rationale"},
+		{"id":"30a9ac27fc118522","x":-576,"y":-71,"width":250,"height":60,"type":"text","text":"Success Criteria"},
+		{"id":"7e3a3ad69df2a76f","x":-901,"y":-153,"width":250,"height":60,"type":"text","text":"Criteria A"},
+		{"id":"c54af5729fb8e455","x":-209,"y":-153,"width":250,"height":60,"type":"text","text":"1 hour"},
+		{"id":"6444af1bc6c20710","x":-901,"y":149,"width":250,"height":60,"type":"text","text":"Criteria B"},
+		{"id":"cefe3fdaa57d7875","x":-901,"y":373,"width":250,"height":60,"type":"text","text":"Criteria C"},
+		{"id":"4c5b644c8c0f586c","x":-901,"y":473,"width":250,"height":60,"type":"text","text":"Criteria D"},
+		{"id":"2e55f02281400cfb","x":-576,"y":33,"width":250,"height":60,"type":"text","text":"GUI Prototype"},
+		{"id":"68cd00bc870a6737","x":-576,"y":109,"width":250,"height":60,"type":"text","text":"Psuedocode"},
+		{"id":"443f3c2f0c55f132","x":-576,"y":179,"width":250,"height":60,"type":"text","text":"Input/Output"},
+		{"id":"3c8e6f18ac3634cb","x":-576,"y":249,"width":250,"height":60,"type":"text","text":"Class Diagrams"},
+		{"id":"19c2c4e2ff0acdba","x":-209,"y":-497,"width":250,"height":55,"type":"text","text":"fuuck i woke up at 9"},
+		{"id":"4198948a330548b2","x":-226,"y":249,"width":250,"height":60,"type":"text","text":"Classes:\nWeather State Machine\nSystem Centralized script\n"},
+		{"id":"1a0d2292c2499c3c","x":-226,"y":33,"width":250,"height":60,"type":"text","text":"Using idk photoshop?"}
 	],
-	"edges":[]
+	"edges":[
+		{"id":"c54cf9a0ef1f4da4","fromNode":"d61a75677962c413","fromSide":"right","toNode":"19b1f27f2ee6a1ae","toSide":"left"},
+		{"id":"84f424d0232c1480","fromNode":"19b1f27f2ee6a1ae","fromSide":"right","toNode":"3f8fb3fef280ea60","toSide":"left"},
+		{"id":"8f77056464bff633","fromNode":"93cd56f269091caa","fromSide":"right","toNode":"7e3a3ad69df2a76f","toSide":"left"},
+		{"id":"826282921d56fe5e","fromNode":"93cd56f269091caa","fromSide":"right","toNode":"6444af1bc6c20710","toSide":"left"},
+		{"id":"1767c9b0c70fd470","fromNode":"93cd56f269091caa","fromSide":"right","toNode":"cefe3fdaa57d7875","toSide":"left"},
+		{"id":"1d8219bd8ed480c8","fromNode":"93cd56f269091caa","fromSide":"right","toNode":"4c5b644c8c0f586c","toSide":"left"},
+		{"id":"9c9b069952e56d10","fromNode":"7e3a3ad69df2a76f","fromSide":"right","toNode":"00da7add887ba040","toSide":"left"},
+		{"id":"c187bb2d0acb6427","fromNode":"7e3a3ad69df2a76f","fromSide":"right","toNode":"18ae447f9b200178","toSide":"left"},
+		{"id":"9980826edc05fcf1","fromNode":"7e3a3ad69df2a76f","fromSide":"right","toNode":"30a9ac27fc118522","toSide":"left"},
+		{"id":"f1f5b659b2db6748","fromNode":"18ae447f9b200178","fromSide":"right","toNode":"c54af5729fb8e455","toSide":"left"},
+		{"id":"79f451285daeb3c3","fromNode":"00da7add887ba040","fromSide":"right","toNode":"c54af5729fb8e455","toSide":"left"},
+		{"id":"3672789adf786c84","fromNode":"30a9ac27fc118522","fromSide":"right","toNode":"c54af5729fb8e455","toSide":"left"},
+		{"id":"bc081d211ed49f2d","fromNode":"19b1f27f2ee6a1ae","fromSide":"bottom","toNode":"c54af5729fb8e455","toSide":"top","label":"2 hours"},
+		{"id":"27c4859b945373f4","fromNode":"6444af1bc6c20710","fromSide":"right","toNode":"2e55f02281400cfb","toSide":"left"},
+		{"id":"4b7cb0bb490b6ad0","fromNode":"6444af1bc6c20710","fromSide":"right","toNode":"68cd00bc870a6737","toSide":"left"},
+		{"id":"8d0b6d3ef92eaf81","fromNode":"6444af1bc6c20710","fromSide":"right","toNode":"443f3c2f0c55f132","toSide":"left"},
+		{"id":"10ba892f2ef39674","fromNode":"6444af1bc6c20710","fromSide":"right","toNode":"3c8e6f18ac3634cb","toSide":"left"},
+		{"id":"4cde715154e1de7f","fromNode":"2e55f02281400cfb","fromSide":"right","toNode":"1a0d2292c2499c3c","toSide":"left"},
+		{"id":"f722673b1589dce5","fromNode":"3c8e6f18ac3634cb","fromSide":"right","toNode":"4198948a330548b2","toSide":"left"},
+		{"id":"53fbff9806b167ff","fromNode":"5c6787e9585352eb","fromSide":"top","toNode":"19c2c4e2ff0acdba","toSide":"bottom"},
+		{"id":"9863cdd70a9999c5","fromNode":"19c2c4e2ff0acdba","fromSide":"left","toNode":"19b1f27f2ee6a1ae","toSide":"left"}
+	]
 }
