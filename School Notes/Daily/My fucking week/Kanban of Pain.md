@@ -6,34 +6,28 @@ kanban-plugin: basic
 
 ## Today (4)
 
-- [ ] BU Money thing
-- [ ] Edutainment slippy
+- [ ] University of Pennsylvania @{2023-01-05}
 
 
 ## Tomorrow (4)
 
+- [ ] Math Paper 3 @{2023-01-04}
 
 
-## CS IA
+## urgent
 
-- [ ] Documentation
+- [ ] Econ summative @{2023-01-07}
+- [ ] Math Paper 1 @{2023-01-06}
+- [ ] Math Paper 2 @{2023-01-06}
 
 
 ## Upcoming
 
-- [ ] CMU @{2023-01-03}
-- [ ] University of Pennsylvania @{2023-01-05}
 - [ ] University of British Columbia (Vancouver) @{2023-01-15}
-- [ ] CS IA @{2022-12-26}
-- [ ] physics test @{2022-12-29}
-- [ ] Econ IA @{2022-12-31}
+- [ ] English Paper 1 NOT SURE ABOUT DATE @{2023-01-09}
 - [ ] Physics IA Draft @{2023-01-19} #Summative
 - [ ] semester end @{2023-01-19}
 - [ ] semester start @{2023-02-13}
-
-
-## Pending Essays
-
 
 
 ## Gotta do list
@@ -88,6 +82,11 @@ kanban-plugin: basic
 
 ## Archive
 
+- [ ] 2023-01-01 15:36 sudocode
+- [ ] 2023-01-01 15:36 flowchart
+- [ ] 2023-01-01 15:36 uml diagram
+- [ ] 2023-01-01 15:36 development stuff
+- [ ] 2023-01-01 15:36 evaluation
 - [x] 2022-07-01 16:14 EE Draft @{2022-07-01}
 - [ ] 2022-07-01 16:15 arc
 - [x] 2022-09-12 07:51 Econ shit @{2022-09-11}
@@ -211,6 +210,13 @@ kanban-plugin: basic
 - [x] 2022-12-22 15:45 Lightning lighting shader
 - [x] 2022-12-22 15:45 Fog Shader
 - [x] 2022-12-22 15:45 [Optional] Water shader
+- [x] 2022-12-27 11:52 BU Money thing
+- [x] 2022-12-29 13:33 Edutainment slippy
+- [x] 2022-12-29 13:47 physics test @{2022-12-29}
+- [x] 2022-12-29 13:48 Documentation
+- [x] 2023-01-01 15:36 CS IA @{2022-12-26}
+- [x] 2023-01-01 20:53 CMU @{2023-01-03}
+- [x] 2023-01-03 08:32 Econ IA @{2022-12-31}
 
 %% kanban:settings
 ```

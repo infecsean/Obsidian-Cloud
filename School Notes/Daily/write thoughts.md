@@ -353,3 +353,17 @@ $$z(t) = (t-1)^2.P_0\space+2t(t-1).P_1\space+t^2.P_2$$
 $$area = {1\over 2} |\sum_{i=1}^n x_iy_{i+1}-x_{i+1}y_i|$$
 
 
+# Thoughts 7? (new update)
+L'Hôpital's rule is a mathematical tool that can be used to evaluate limits of the form $\frac{0}{0}$ or $\frac{\infty}{\infty}$, which may not be easily evaluated using other techniques. It is named after the French mathematician Guillaume de l'Hôpital, who introduced the rule in the 18th century.
+
+L'Hôpital's rule states that if the limit of a function f(x) as x approaches a is of the form $\frac{0}{0}$ or $\frac{\infty}{\infty}$, and if the function f(x) and its derivative f'(x) are both defined and have finite values in a neighborhood of a (excluding a), then the limit of f(x) as x approaches a is equal to the limit of f'(x) as x approaches a.
+
+The rule can be written mathematically as:
+
+$\lim_{x \to a} \frac{f(x)}{g(x)} = \lim_{x \to a} \frac{f'(x)}{g'(x)}$
+
+where f(x) and g(x) are functions, and a is a real number.
+
+L'Hôpital's rule can be used to evaluate limits that cannot be found using other
+
+# Thoughts 8? unreleased

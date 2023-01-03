@@ -15,5 +15,6 @@
   "obsidian-style-settings",
   "obsidian-charts",
   "cm-editor-syntax-highlight-obsidian",
-  "highlightr-plugin"
+  "highlightr-plugin",
+  "obsidian-textgenerator-plugin"
 ]
