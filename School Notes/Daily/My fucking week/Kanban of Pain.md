@@ -6,24 +6,25 @@ kanban-plugin: basic
 
 ## Today (4)
 
+- [ ] Math Paper 3 @{2023-01-04}
 - [ ] University of Pennsylvania @{2023-01-05}
 
 
 ## Tomorrow (4)
 
-- [ ] Math Paper 3 @{2023-01-04}
-
-
-## urgent
-
-- [ ] Econ summative @{2023-01-07}
 - [ ] Math Paper 1 @{2023-01-06}
 - [ ] Math Paper 2 @{2023-01-06}
 
 
-## Upcoming
+## urgent
 
 - [ ] University of British Columbia (Vancouver) @{2023-01-15}
+- [ ] Econ summative @{2023-01-07}
+- [ ] TOK Final Draft @{2023-01-09}
+
+
+## Upcoming
+
 - [ ] English Paper 1 NOT SURE ABOUT DATE @{2023-01-09}
 - [ ] Physics IA Draft @{2023-01-19} #Summative
 - [ ] semester end @{2023-01-19}
@@ -42,6 +43,7 @@ kanban-plugin: basic
 ## CAS Game
 
 - [ ] Fix surfing and w-spam movement @{2022-11-05}
+- [ ] Trailer (Remember derek lieu, look for his emails and yt)
 
 
 ## Phase 1

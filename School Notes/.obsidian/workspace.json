@@ -25,9 +25,9 @@
               "state": {
                 "file": "Daily/My fucking week/Life Canvas.canvas",
                 "viewState": {
-                  "x": 3670.297605032854,
-                  "y": 436.2816167376004,
-                  "zoom": -0.5,
+                  "x": 1008.2713638125119,
+                  "y": 345.1432077445843,
+                  "zoom": -1.5,
                   "snapToGrid": false
                 }
               }
@@ -92,7 +92,7 @@
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -151,7 +151,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Daily/write thoughts.md",
+                "file": "Daily/My fucking week/Life Canvas.canvas",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -203,7 +203,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Daily/write thoughts.md"
+                "file": "Daily/My fucking week/Life Canvas.canvas"
               }
             }
           }
@@ -224,19 +224,19 @@
       "canvas:Create new canvas": false,
       "command-palette:Open command palette": false,
       "markdown-importer:Open format converter": false,
-      "periodic-notes:Open today": false,
       "obsidian-textgenerator-plugin:Generate Text!": false,
-      "obsidian-textgenerator-plugin:Text Generator: Templates Packages Manager": false
+      "obsidian-textgenerator-plugin:Text Generator: Templates Packages Manager": false,
+      "periodic-notes:Open today": false
     }
   },
-  "active": "fcd6162984130830",
+  "active": "ac8f5d390c2f96b8",
   "lastOpenFiles": [
     "Daily/My fucking week/Kanban of Pain.md",
+    "Daily/write thoughts.md",
     "Daily/My fucking week/Life Canvas.canvas",
     "Daily/Personal Statements Brainstorm.md",
     "DP Computer Science/Internal Assessment/Crib.md",
     "DP Computer Science/Internal Assessment/CS IA foughts.md",
-    "Daily/write thoughts.md",
     "Daily/My fucking week/Subject Due Dates Kanban.md",
     "DP Physics/Fields.md",
     "Life/Game Dev/Projects/Project Flies/PF Level Design Brainstorm.md",
