@@ -6,29 +6,25 @@ kanban-plugin: basic
 
 ## Today (4)
 
-- [ ] Math Paper 3 @{2023-01-04}
-- [ ] University of Pennsylvania @{2023-01-05}
 
 
 ## Tomorrow (4)
 
-- [ ] Math Paper 1 @{2023-01-06}
-- [ ] Math Paper 2 @{2023-01-06}
+- [ ] TOK Final Draft @{2023-01-09}
 
 
 ## urgent
 
 - [ ] University of British Columbia (Vancouver) @{2023-01-15}
-- [ ] Econ summative @{2023-01-07}
-- [ ] TOK Final Draft @{2023-01-09}
+- [ ] Physics IA Draft @{2023-01-19} #Summative
 
 
 ## Upcoming
 
-- [ ] English Paper 1 NOT SURE ABOUT DATE @{2023-01-09}
-- [ ] Physics IA Draft @{2023-01-19} #Summative
+- [ ] English Paper 1 NOT SURE ABOUT DATE @{2023-01-13}
 - [ ] semester end @{2023-01-19}
 - [ ] semester start @{2023-02-13}
+- [ ] Fix Math IA @ next semester
 
 
 ## Gotta do list
@@ -36,8 +32,18 @@ kanban-plugin: basic
 - [ ] Finish Game Levels Figma @{2022-11-10} @@{22:45}
 
 
-## Activities
+## LD52
 
+- [ ] Security Guard NPC
+- [ ] Friend NPC
+- [ ] Phone Behaviour
+- [ ] Shop Menu
+- [ ] Wiki Menu
+- [ ] Bank UI
+- [ ] Organ quality & decay & behavious
+- [ ] Inventory
+- [ ] Cutscene???
+- [ ] Dialogue system
 
 
 ## CAS Game
@@ -219,6 +225,11 @@ kanban-plugin: basic
 - [x] 2023-01-01 15:36 CS IA @{2022-12-26}
 - [x] 2023-01-01 20:53 CMU @{2023-01-03}
 - [x] 2023-01-03 08:32 Econ IA @{2022-12-31}
+- [x] 2023-01-06 07:55 Math Paper 3 @{2023-01-04}
+- [x] 2023-01-06 07:55 University of Pennsylvania @{2023-01-05}
+- [x] 2023-01-06 15:35 Math Paper 1 @{2023-01-06}
+- [x] 2023-01-06 15:35 Math Paper 2 @{2023-01-06}
+- [x] 2023-01-08 17:15 Econ summative @{2023-01-07}
 
 %% kanban:settings
 ```
