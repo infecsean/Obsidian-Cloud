@@ -100,7 +100,7 @@
 		{"id":"8c1dccb1de567597","x":2824,"y":1372,"width":366,"height":534,"type":"text","text":"Player\n\n- Money\n- Inventory (Organs)\n\t- For every organ\n\t\t- Get base organ stats\n\t\t- Apply tool multipliers\n\t\t- Apply NPC multipliers\n- Inventory (Tools)"},
 		{"id":"07f47a1b2a42490c","x":3376,"y":1354,"width":250,"height":100,"type":"text","text":"Shop UI\n\n- Tools List"},
 		{"id":"36253355add00eea","x":3641,"y":1910,"width":170,"height":277,"type":"text","text":"Tools SO\n\n- Sprite\n- Owned (canbuy)\n- Sharpness\n- Qualilty\n- Ergonomics\n- Price"},
-		{"id":"020a7eb5c6c8d86e","x":3872,"y":1191,"width":250,"height":293,"type":"text","text":"Transactions\n\n- Market Price (Organ set price) (Sum)\n- Tax (Scaled to progress)\n- Smuggling fee\n- Partner fee\n- Corruption fee\n- Money Earned"},
+		{"id":"020a7eb5c6c8d86e","x":3872,"y":1191,"width":250,"height":293,"type":"text","text":"Transactions\n\n- Market Price (Organ set price) (Sum)\n- Tax (Scaled to progress)\n- Smuggling fee\n- Bank fee\n- Money Earned"},
 		{"id":"090c7f7074e5c3c6","x":3835,"y":1583,"width":385,"height":241,"type":"text","text":"Current Level\n\n- Level number\n- Spawn NPC Prefab\n- Tax Scale\n- Smuggling Fee\n- Delivery Time"},
 		{"id":"608614b841a0e734","x":2909,"y":2014,"width":196,"height":232,"type":"text","text":"Organ SO\n\n- Sprite\n- Name\n- Preserve Time\n- Market Price\n- Success Rate"},
 		{"id":"6c6f79b1711fc379","x":3186,"y":2014,"width":190,"height":232,"type":"text","text":"NPC SO\n\n- Sprite\n- Organ List\n- Organ Quality\n- Organ Life"}

@@ -10,40 +10,33 @@ kanban-plugin: basic
 
 ## Tomorrow (4)
 
-- [ ] TOK Final Draft @{2023-01-09}
+- [ ] University of British Columbia (Vancouver) @{2023-01-15}
+- [ ] Physics IA Draft @{2023-01-19} #Summative
+- [ ] LD52 Rating ends @{2023-01-27}
 
 
 ## urgent
 
-- [ ] University of British Columbia (Vancouver) @{2023-01-15}
-- [ ] Physics IA Draft @{2023-01-19} #Summative
 
 
 ## Upcoming
 
-- [ ] English Paper 1 NOT SURE ABOUT DATE @{2023-01-13}
 - [ ] semester end @{2023-01-19}
+- [ ] Fix Math IA @{2023-02-10}
 - [ ] semester start @{2023-02-13}
-- [ ] Fix Math IA @ next semester
+- [ ] ALL IAs
+
+
+## LD52
+
+- [ ] Fix Dashing through wall
+- [ ] Fix Cashing out system
+- [ ] Improve item drop system (Drop indicator)
 
 
 ## Gotta do list
 
 - [ ] Finish Game Levels Figma @{2022-11-10} @@{22:45}
-
-
-## LD52
-
-- [ ] Security Guard NPC
-- [ ] Friend NPC
-- [ ] Phone Behaviour
-- [ ] Shop Menu
-- [ ] Wiki Menu
-- [ ] Bank UI
-- [ ] Organ quality & decay & behavious
-- [ ] Inventory
-- [ ] Cutscene???
-- [ ] Dialogue system
 
 
 ## CAS Game
@@ -230,6 +223,18 @@ kanban-plugin: basic
 - [x] 2023-01-06 15:35 Math Paper 1 @{2023-01-06}
 - [x] 2023-01-06 15:35 Math Paper 2 @{2023-01-06}
 - [x] 2023-01-08 17:15 Econ summative @{2023-01-07}
+- [x] 2023-01-12 07:37 TOK Final Draft @{2023-01-09}
+- [x] 2023-01-12 07:37 English Paper 1 NOT SURE ABOUT DATE @{2023-01-13}
+- [x] 2023-01-12 07:40 Security Guard NPC
+- [x] 2023-01-12 07:40 Friend NPC
+- [x] 2023-01-12 07:40 Phone Behaviour
+- [x] 2023-01-12 07:40 Shop Menu
+- [x] 2023-01-12 07:40 Wiki Menu
+- [x] 2023-01-12 07:40 Bank UI
+- [x] 2023-01-12 07:40 Organ quality & decay & behavious
+- [x] 2023-01-12 07:40 Inventory
+- [x] 2023-01-12 07:40 Cutscene???
+- [x] 2023-01-12 07:40 Dialogue system
 
 %% kanban:settings
 ```
