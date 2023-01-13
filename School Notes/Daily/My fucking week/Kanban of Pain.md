@@ -12,6 +12,7 @@ kanban-plugin: basic
 
 - [ ] University of British Columbia (Vancouver) @{2023-01-15}
 - [ ] Physics IA Draft @{2023-01-19} #Summative
+- [ ] Finish LD52 @{2023-01-16}
 - [ ] LD52 Rating ends @{2023-01-27}
 
 
@@ -30,8 +31,10 @@ kanban-plugin: basic
 ## LD52
 
 - [ ] Fix Dashing through wall
+- [ ] Fix transactions
 - [ ] Fix Cashing out system
 - [ ] Improve item drop system (Drop indicator)
+- [ ] Fix being stuck on walls and movement overall
 
 
 ## Gotta do list

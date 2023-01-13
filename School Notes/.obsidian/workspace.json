@@ -8,16 +8,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "180c1b6dbfe690b1",
-            "type": "leaf",
-            "state": {
-              "type": "kanban",
-              "state": {
-                "file": "Daily/My fucking week/Subject Due Dates Kanban.md"
-              }
-            }
-          },
-          {
             "id": "ac8f5d390c2f96b8",
             "type": "leaf",
             "state": {
@@ -25,9 +15,9 @@
               "state": {
                 "file": "Daily/My fucking week/Life Canvas.canvas",
                 "viewState": {
-                  "x": 2368.3403358598935,
-                  "y": 1737.9796263970843,
-                  "zoom": -1.480923214231928,
+                  "x": 3512.4998157736377,
+                  "y": 1637.1036810555102,
+                  "zoom": -0.5,
                   "snapToGrid": false
                 }
               }
@@ -68,18 +58,6 @@
             }
           },
           {
-            "id": "9d689fe9603b7ed4",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Daily/Personal Statements Brainstorm.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "fcd6162984130830",
             "type": "leaf",
             "state": {
@@ -90,21 +68,9 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "8f34b23e84a4f901",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "DP Computer Science/Internal Assessment/CS IA foughts.md",
-                "mode": "source",
-                "source": false
-              }
-            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -243,15 +209,15 @@
   },
   "active": "ebd34e8d56878c71",
   "lastOpenFiles": [
-    "Daily/My fucking week/Life Canvas.canvas",
     "DP English LL/Paper 1/Remix.md",
     "Daily/My fucking week/Kanban of Pain.md",
+    "Daily/My fucking week/Life Canvas.canvas",
+    "Daily/My fucking week/Subject Due Dates Kanban.md",
     "DP English LL/Paper 1/Scenic Drives Practice.md",
     "DP Computer Science/Internal Assessment/Crib.md",
     "Daily/write thoughts.md",
     "Daily/Personal Statements Brainstorm.md",
     "DP Computer Science/Internal Assessment/CS IA foughts.md",
-    "Daily/My fucking week/Subject Due Dates Kanban.md",
     "DP Physics/Fields.md"
   ]
 }
