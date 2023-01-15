@@ -10,10 +10,26 @@ kanban-plugin: basic
 
 ## Tomorrow (4)
 
-- [ ] University of British Columbia (Vancouver) @{2023-01-15}
 - [ ] Physics IA Draft @{2023-01-19} #Summative
-- [ ] Finish LD52 @{2023-01-16}
 - [ ] LD52 Rating ends @{2023-01-27}
+
+
+## Physics IA
+
+- [x] Intro
+- [x] Background
+- [x] Hypothesus
+- [x] Variables
+- [ ] Materials/Apparatus
+- [ ] Procedure
+- [ ] Risk assessment/Safety measures
+- [ ] --------BREAK TIME ----------
+- [ ] Data Collection
+- [ ] Data Processing
+- [ ] Data Analysis
+- [ ] Conclusion
+- [ ] Evaluation
+- [ ] Citations
 
 
 ## urgent
@@ -26,15 +42,6 @@ kanban-plugin: basic
 - [ ] Fix Math IA @{2023-02-10}
 - [ ] semester start @{2023-02-13}
 - [ ] ALL IAs
-
-
-## LD52
-
-- [ ] Fix Dashing through wall
-- [ ] Fix transactions
-- [ ] Fix Cashing out system
-- [ ] Improve item drop system (Drop indicator)
-- [ ] Fix being stuck on walls and movement overall
 
 
 ## Gotta do list
@@ -238,6 +245,13 @@ kanban-plugin: basic
 - [x] 2023-01-12 07:40 Inventory
 - [x] 2023-01-12 07:40 Cutscene???
 - [x] 2023-01-12 07:40 Dialogue system
+- [x] 2023-01-14 15:25 University of British Columbia (Vancouver) @{2023-01-15}
+- [x] 2023-01-14 15:25 Finish LD52 @{2023-01-16}
+- [x] 2023-01-14 15:25 Fix Dashing through wall
+- [x] 2023-01-14 15:25 Fix transactions
+- [x] 2023-01-14 15:25 Fix Cashing out system
+- [x] 2023-01-14 15:25 Improve item drop system (Drop indicator)
+- [x] 2023-01-14 15:25 Fix being stuck on walls and movement overall
 
 %% kanban:settings
 ```
