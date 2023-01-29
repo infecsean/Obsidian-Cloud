@@ -20,9 +20,22 @@ Am I trying to escape from my excessively planned cas game? maybe. Do I think I 
 		- This, I am scared of.
 - Quite a pain to have to explain in CAS reflection
 
+### Living things that i wanna include
+- Flies
+- Spiders
+- Ants
+- Pet Dog (for existential questioning)
+- Rats
+- cockroaches (i cant not include it or else complaints)
+- HUMAN
 
+- Flies
+- Spiders
+- Ants
+- Rats
+- cockroaches
 
-### Fly fax
+### Fly fax (Overthinking)
 - Can live around 15 days, 2~3 days without food
 - Attracted to blue color, deterred from warms like yellow
 - Sleep for 800~1100 mins a day (IKR??), they usually find a safe place before sunset

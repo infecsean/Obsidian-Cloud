@@ -10,26 +10,7 @@ kanban-plugin: basic
 
 ## Tomorrow (4)
 
-- [ ] Physics IA Draft @{2023-01-19} #Summative
 - [ ] LD52 Rating ends @{2023-01-27}
-
-
-## Physics IA
-
-- [x] Intro
-- [x] Background
-- [x] Hypothesus
-- [x] Variables
-- [ ] Materials/Apparatus
-- [ ] Procedure
-- [ ] Risk assessment/Safety measures
-- [ ] --------BREAK TIME ----------
-- [ ] Data Collection
-- [ ] Data Processing
-- [ ] Data Analysis
-- [ ] Conclusion
-- [ ] Evaluation
-- [ ] Citations
 
 
 ## urgent
@@ -38,10 +19,14 @@ kanban-plugin: basic
 
 ## Upcoming
 
-- [ ] semester end @{2023-01-19}
 - [ ] Fix Math IA @{2023-02-10}
+- [ ] CS IA @{2023-02-13}
+- [ ] Physics IA @{2023-02-13}
+- [ ] Econ IA @{2023-02-13}
 - [ ] semester start @{2023-02-13}
-- [ ] ALL IAs
+- [ ] CAS Project revamp
+- [ ] Physics Invevstigation
+- [ ] Chinese read 雷雨
 
 
 ## Gotta do list
@@ -93,6 +78,20 @@ kanban-plugin: basic
 
 ## Archive
 
+- [x] 2023-01-26 20:49 Intro
+- [x] 2023-01-26 20:49 Background
+- [x] 2023-01-26 20:49 Hypothesus
+- [x] 2023-01-26 20:49 Variables
+- [ ] 2023-01-26 20:49 Materials/Apparatus
+- [ ] 2023-01-26 20:49 Procedure
+- [ ] 2023-01-26 20:49 Risk assessment/Safety measures
+- [ ] 2023-01-26 20:49 --------BREAK TIME ----------
+- [ ] 2023-01-26 20:49 Data Collection
+- [ ] 2023-01-26 20:49 Data Processing
+- [ ] 2023-01-26 20:49 Data Analysis
+- [ ] 2023-01-26 20:49 Conclusion
+- [ ] 2023-01-26 20:49 Evaluation
+- [ ] 2023-01-26 20:49 Citations
 - [ ] 2023-01-01 15:36 sudocode
 - [ ] 2023-01-01 15:36 flowchart
 - [ ] 2023-01-01 15:36 uml diagram
@@ -252,6 +251,9 @@ kanban-plugin: basic
 - [x] 2023-01-14 15:25 Fix Cashing out system
 - [x] 2023-01-14 15:25 Improve item drop system (Drop indicator)
 - [x] 2023-01-14 15:25 Fix being stuck on walls and movement overall
+- [x] 2023-01-26 20:50 Physics IA Draft @{2023-01-19} #Summative
+- [x] 2023-01-26 20:50 semester end @{2023-01-19}
+- [x] 2023-01-26 20:50 ALL IAs
 
 %% kanban:settings
 ```
