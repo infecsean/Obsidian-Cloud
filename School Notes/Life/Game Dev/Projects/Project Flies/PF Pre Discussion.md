@@ -23,17 +23,17 @@ Am I trying to escape from my excessively planned cas game? maybe. Do I think I 
 ### Living things that i wanna include
 - Flies
 - Spiders
-- Ants
+~~- Ants~~
 - Pet Dog (for existential questioning)
 - Rats
-- cockroaches (i cant not include it or else complaints)
+~~- cockroaches (i cant not include it or else complaints)~~
 - HUMAN
 
-- Flies
-- Spiders
-- Ants
-- Rats
-- cockroaches
+- During the storyline, have the guy bring out papers and shit (a form of text in games) to either bring lore, or story
+
+### Traditions
+- Honor the passing of others by consuming the dead.
+- Worship or respect is conveyed through consumption
 
 ### Fly fax (Overthinking)
 - Can live around 15 days, 2~3 days without food
@@ -44,7 +44,8 @@ Am I trying to escape from my excessively planned cas game? maybe. Do I think I 
 - Short-sighted (2 meters?) (source says "A FEW YARDS" fuck you)
 - Rub hands to stay clean
 - Innate Phototaxis
-- Can fly for hours without resting (prolly like 2)
+==- Can fly for minutes before resting==
+==- From starving to completely full takes several minutes==
 - Love rotten meat
 - Experience time 4x
 - Need to eat 2 microliters of food a day

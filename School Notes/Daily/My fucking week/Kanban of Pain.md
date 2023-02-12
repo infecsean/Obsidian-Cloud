@@ -6,11 +6,14 @@ kanban-plugin: basic
 
 ## Today (4)
 
+- [ ] Check Camera Phone functionality
+- [ ] PF Stuff
+- [ ] Workout
+- [ ] Math IA stuff
 
 
 ## Tomorrow (4)
 
-- [ ] LD52 Rating ends @{2023-01-27}
 
 
 ## urgent
@@ -21,7 +24,7 @@ kanban-plugin: basic
 
 - [ ] Fix Math IA @{2023-02-10}
 - [ ] CS IA @{2023-02-13}
-- [ ] Physics IA @{2023-02-13}
+- [ ] Physics IA @{2023-02-18}
 - [ ] Econ IA @{2023-02-13}
 - [ ] semester start @{2023-02-13}
 - [ ] CAS Project revamp
@@ -31,11 +34,12 @@ kanban-plugin: basic
 
 ## Gotta do list
 
-- [ ] Finish Game Levels Figma @{2022-11-10} @@{22:45}
 
 
 ## CAS Game
 
+- [ ] Finish Game Levels Figma @{2022-11-10} @@{22:45}
+- [ ] 
 - [ ] Fix surfing and w-spam movement @{2022-11-05}
 - [ ] Trailer (Remember derek lieu, look for his emails and yt)
 
@@ -254,6 +258,8 @@ kanban-plugin: basic
 - [x] 2023-01-26 20:50 Physics IA Draft @{2023-01-19} #Summative
 - [x] 2023-01-26 20:50 semester end @{2023-01-19}
 - [x] 2023-01-26 20:50 ALL IAs
+- [x] 2023-02-08 01:23 UPenn Questions & Plans
+- [x] 2023-02-08 01:23 LD52 Rating ends @{2023-01-27}
 
 %% kanban:settings
 ```

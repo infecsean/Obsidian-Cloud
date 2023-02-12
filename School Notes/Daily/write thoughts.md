@@ -367,3 +367,43 @@ where f(x) and g(x) are functions, and a is a real number.
 L'Hôpital's rule can be used to evaluate limits that cannot be found using other
 
 # Thoughts 8? unreleased
+
+Interview Questions:
+-   Can you tell me a little about yourself?
+	- Name
+	- Student
+	- Age
+	- Aspiring game dev
+-   What’s important to you?
+	- In what sense?
+	- general
+		- family
+		- happiness
+		- money
+	- myself and future
+		- creativity and imagination
+-   What are your current academic and/or extracurricular interests?
+	- academically, i am not deeply into many specific subjects, but maybe sometimes math because i can apply that to something i often do
+	- speaking of which, i do game development for my extracurriculars
+-   What led you to apply to Penn?
+	- originally, it was the DMD (digital media design) major, which i think mixes cs with art, which i also have an interest in. Now i applied just because i heard it has a very good cs major
+-   What classes, programs, and activities on Penn’s campus are exciting to you?
+	- just the general classes, meeting new people, potential clubs, new places
+-   What plans do you have for your future?
+	- i want to become a game developer
+- "Why do u wanna become a game developer?"
+	- Its a funny story, because it was always kind of a joke. make games in class to play games in class cus thats your job.
+	- but no direction or starting point. so when someone told me about self learning, i immediately started digging into game dev, and specifically, blender.
+
+My questions:
+- What was your major?
+- What was your experience as a ________ Major?
+- What was your worst experience there?
+- Professors good?
+- Has UPenn prepared you for your future?
+- What resources does UPenn have for you?
+- Why did you choose UPenn?
+- Do you have any memorable projects or times at UPenn?
+- How is the UPenn community?
+
+- too old
