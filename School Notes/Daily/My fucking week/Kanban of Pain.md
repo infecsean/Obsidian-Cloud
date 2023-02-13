@@ -6,10 +6,8 @@ kanban-plugin: basic
 
 ## Today (4)
 
-- [ ] Check Camera Phone functionality
 - [ ] PF Stuff
 - [ ] Workout
-- [ ] Math IA stuff
 
 
 ## Tomorrow (4)
@@ -18,18 +16,18 @@ kanban-plugin: basic
 
 ## urgent
 
+- [ ] Check Camera Phone functionality
 
 
 ## Upcoming
 
-- [ ] Fix Math IA @{2023-02-10}
-- [ ] CS IA @{2023-02-13}
+- [ ] CS IA @{2023-03-01}
 - [ ] Physics IA @{2023-02-18}
 - [ ] Econ IA @{2023-02-13}
-- [ ] semester start @{2023-02-13}
 - [ ] CAS Project revamp
 - [ ] Physics Invevstigation
 - [ ] Chinese read 雷雨
+- [ ] Mock @{2023-03-22}
 
 
 ## Gotta do list
@@ -260,6 +258,9 @@ kanban-plugin: basic
 - [x] 2023-01-26 20:50 ALL IAs
 - [x] 2023-02-08 01:23 UPenn Questions & Plans
 - [x] 2023-02-08 01:23 LD52 Rating ends @{2023-01-27}
+- [x] 2023-02-13 10:56 Math IA stuff
+- [x] 2023-02-13 10:56 Fix Math IA @{2023-02-10}
+- [x] 2023-02-13 10:57 semester start @{2023-02-13}
 
 %% kanban:settings
 ```

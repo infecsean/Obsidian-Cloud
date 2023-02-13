@@ -6,16 +6,16 @@ kanban-plugin: basic
 
 ## Tmr
 
+- [ ] Procedural Ground Movement
 
 
 ## Art
 
 - [ ] Test Kinect Functionality
 - [ ] IPI soft test
-- [ ] Draw apartment floor plan
 - [ ] Fly
 - [ ] THE ENTIRE APARTMENT
-- [ ] Learn How to animate a fucking DOG AHAHHAHH
+- [ ] Learn How to animate a cat
 
 
 ## Mechanisms - Gameplay
@@ -31,13 +31,13 @@ kanban-plugin: basic
 
 - [ ] Flying movement
 - [ ] Food system
-- [ ] Procedural Ground Movement
 
 
 ## DONE
 
 - [x] Pixel art shader
 - [x] Test if pixel art shader or just low-res
+- [x] Draw apartment floor plan
 
 
 
