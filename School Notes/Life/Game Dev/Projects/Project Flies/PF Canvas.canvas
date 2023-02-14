@@ -77,8 +77,12 @@
 		{"id":"cbbefb2f13ee7b0e","x":4837,"y":-1902,"width":185,"height":60,"color":"4","type":"text","text":"Black Magic Wizard"},
 		{"id":"689eb0f2d307dad8","x":5610,"y":-2053,"width":131,"height":60,"color":"1","type":"text","text":"Purpose"},
 		{"id":"8eafe3e064294e97","x":6279,"y":-1579,"width":250,"height":60,"type":"text","text":"Human's suffering"},
-		{"id":"32d27fe34b7baba7","x":5163,"y":-1579,"width":250,"height":73,"type":"text","text":"Flies population grow"},
-		{"id":"4f11c813b0b3a30d","x":5326,"y":-2194,"width":123,"height":60,"color":"1","type":"text","text":"Consume"}
+		{"id":"4f11c813b0b3a30d","x":5326,"y":-2194,"width":123,"height":60,"color":"1","type":"text","text":"Consume"},
+		{"id":"32d27fe34b7baba7","x":5250,"y":-1579,"width":250,"height":73,"type":"text","text":"Flies population grow"},
+		{"id":"8f3fb0fdff2b565f","x":4742,"y":-1434,"width":126,"height":60,"type":"text","text":"Upgrades"},
+		{"id":"355636ac517ae157","x":4744,"y":-1579,"width":124,"height":60,"type":"text","text":"Stamina"},
+		{"id":"0cfa0171f8b4966f","x":4580,"y":-1579,"width":131,"height":60,"type":"text","text":"Flight Speed"},
+		{"id":"31e63d0f5cbc9ddf","x":4900,"y":-1579,"width":141,"height":60,"type":"text","text":"Carry Weight"}
 	],
 	"edges":[
 		{"id":"9cc9468a4368a99e","fromNode":"49893ad268a4301c","fromSide":"bottom","toNode":"029c9d023f8170be","toSide":"top","color":"1"},
@@ -130,6 +134,9 @@
 		{"id":"fe99c882b59d0bfa","fromNode":"689eb0f2d307dad8","fromSide":"left","toNode":"4f11c813b0b3a30d","toSide":"right","color":"5"},
 		{"id":"3a4f47510b3caf0c","fromNode":"4f11c813b0b3a30d","fromSide":"left","toNode":"051e4d6523b74d2b","toSide":"bottom"},
 		{"id":"0beadc22b577f40f","fromNode":"4f11c813b0b3a30d","fromSide":"top","toNode":"db9624c4c5fcc750","toSide":"bottom"},
-		{"id":"616419a2def36bba","fromNode":"db9624c4c5fcc750","fromSide":"top","toNode":"afc111a8103469f4","toSide":"left"}
+		{"id":"616419a2def36bba","fromNode":"db9624c4c5fcc750","fromSide":"top","toNode":"afc111a8103469f4","toSide":"left"},
+		{"id":"83c6926d3548756b","fromNode":"8f3fb0fdff2b565f","fromSide":"top","toNode":"355636ac517ae157","toSide":"bottom"},
+		{"id":"635165d0ec66dae0","fromNode":"8f3fb0fdff2b565f","fromSide":"top","toNode":"0cfa0171f8b4966f","toSide":"bottom"},
+		{"id":"29608bb0a0bf2576","fromNode":"8f3fb0fdff2b565f","fromSide":"top","toNode":"31e63d0f5cbc9ddf","toSide":"bottom"}
 	]
 }
