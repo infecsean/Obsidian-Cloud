@@ -15,7 +15,7 @@ kanban-plugin: basic
 - [ ] IPI soft test
 - [ ] Fly
 - [ ] THE ENTIRE APARTMENT
-- [ ] Learn How to animate a cat
+- [ ] Learn How to animate a dog
 
 
 ## Mechanisms - Gameplay
