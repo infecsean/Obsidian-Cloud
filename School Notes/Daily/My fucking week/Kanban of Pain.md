@@ -27,7 +27,7 @@ kanban-plugin: basic
 - [ ] CAS Project revamp
 - [ ] Physics Invevstigation
 - [ ] Chinese read 雷雨
-- [ ] Mock @{2023-03-22}
+- [ ] Mock cock @{2023-03-22}
 
 
 ## Gotta do list
