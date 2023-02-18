@@ -8,6 +8,7 @@ kanban-plugin: basic
 
 - [ ] PF Stuff
 - [ ] Workout
+- [ ] CS IA @{2023-03-01}
 
 
 ## Tomorrow (4)
@@ -16,16 +17,12 @@ kanban-plugin: basic
 
 ## urgent
 
-- [ ] Check Camera Phone functionality
 
 
 ## Upcoming
 
-- [ ] CS IA @{2023-03-01}
-- [ ] Physics IA @{2023-02-18}
-- [ ] Econ IA @{2023-02-13}
-- [ ] CAS Project revamp
 - [ ] Physics Invevstigation
+- [ ] Econ IA @{2023-02-13}
 - [ ] Chinese read 雷雨
 - [ ] Mock cock @{2023-03-22}
 
@@ -261,6 +258,9 @@ kanban-plugin: basic
 - [x] 2023-02-13 10:56 Math IA stuff
 - [x] 2023-02-13 10:56 Fix Math IA @{2023-02-10}
 - [x] 2023-02-13 10:57 semester start @{2023-02-13}
+- [x] 2023-02-18 17:04 Physics IA @{2023-02-18}
+- [x] 2023-02-18 17:04 CAS Project revamp
+- [x] 2023-02-18 17:05 Check Camera Phone functionality
 
 %% kanban:settings
 ```

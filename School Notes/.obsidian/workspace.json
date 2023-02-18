@@ -47,8 +47,8 @@
               "state": {
                 "file": "Life/Game Dev/Projects/Project Flies/PF Canvas.canvas",
                 "viewState": {
-                  "x": 6950.620385768033,
-                  "y": -1996.5837937086603,
+                  "x": 6995.313119094456,
+                  "y": -2187.769375160582,
                   "zoom": -0.31204337348540623,
                   "snapToGrid": false
                 }
@@ -89,8 +89,7 @@
               }
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "vertical"
@@ -149,7 +148,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Life/Game Dev/Projects/Project Flies/PF Canvas.canvas",
+                "file": "Daily/My fucking week/Kanban of Pain.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -201,7 +200,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Life/Game Dev/Projects/Project Flies/PF Canvas.canvas"
+                "file": "Daily/My fucking week/Kanban of Pain.md"
               }
             }
           }
@@ -227,12 +226,12 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "54a0c39c53d5ba5a",
+  "active": "9499adfb261f3188",
   "lastOpenFiles": [
+    "Life/Game Dev/Projects/Project Flies/PF Canvas.canvas",
     "Life/Game Dev/Projects/Project Flies/PF Kanban.md",
     "Life/Game Dev/Projects/Project Flies/PF Pre Discussion.md",
     "Life/Game Dev/Projects/Project Flies/PF Storyline Planning.md",
-    "Life/Game Dev/Projects/Project Flies/PF Canvas.canvas",
     "Life/Game Dev/Projects/Project Flies/PF Level Design Brainstorm.md",
     "Daily/My fucking week/Workout Kanban.md",
     "Daily/My fucking week/Kanban of Pain.md",

@@ -90,7 +90,8 @@
 		{"id":"a5004c431504c2d8","x":6665,"y":-2143,"width":250,"height":66,"type":"text","text":"Flies take this as a sign of love from their saviour"},
 		{"id":"9aa4cd58fade9d04","x":5828,"y":-3258,"width":127,"height":60,"color":"3","type":"text","text":"Gameplay"},
 		{"id":"089fb54554731299","x":5975,"y":-3258,"width":165,"height":60,"color":"4","type":"text","text":"Worldbuilding"},
-		{"id":"af9e7ba09000ee48","x":5892,"y":-3379,"width":92,"height":60,"color":"5","type":"text","text":"Flies"}
+		{"id":"af9e7ba09000ee48","x":5892,"y":-3379,"width":92,"height":60,"color":"5","type":"text","text":"Flies"},
+		{"id":"9a6ebc0e6757fec7","x":7420,"y":-2205,"width":250,"height":333,"type":"text","text":"Unreliable storytelling:\nI use emotional attachment as if the flies are actually building a relationship with the human. Real emotions, but player knows the truth."}
 	],
 	"edges":[
 		{"id":"9cc9468a4368a99e","fromNode":"49893ad268a4301c","fromSide":"bottom","toNode":"029c9d023f8170be","toSide":"top","color":"1"},
