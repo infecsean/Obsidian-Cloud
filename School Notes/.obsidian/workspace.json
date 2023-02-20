@@ -47,9 +47,9 @@
               "state": {
                 "file": "Life/Game Dev/Projects/Project Flies/PF Canvas.canvas",
                 "viewState": {
-                  "x": 6995.313119094456,
-                  "y": -2187.769375160582,
-                  "zoom": -0.31204337348540623,
+                  "x": 7691.971501996637,
+                  "y": 15.337490277314632,
+                  "zoom": -0.5,
                   "snapToGrid": false
                 }
               }
@@ -89,7 +89,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -148,7 +149,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Daily/My fucking week/Kanban of Pain.md",
+                "file": "Life/Game Dev/Projects/Project Flies/PF Canvas.canvas",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -200,7 +201,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Daily/My fucking week/Kanban of Pain.md"
+                "file": "Life/Game Dev/Projects/Project Flies/PF Canvas.canvas"
               }
             }
           }
@@ -226,17 +227,17 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "9499adfb261f3188",
+  "active": "54a0c39c53d5ba5a",
   "lastOpenFiles": [
+    "Life/Game Dev/Projects/Project Flies/PF Storyline.md",
     "Life/Game Dev/Projects/Project Flies/PF Canvas.canvas",
+    "Life/Game Dev/Projects/Project Flies/PF Storyline Planning.md",
     "Life/Game Dev/Projects/Project Flies/PF Kanban.md",
     "Life/Game Dev/Projects/Project Flies/PF Pre Discussion.md",
-    "Life/Game Dev/Projects/Project Flies/PF Storyline Planning.md",
+    "Daily/My fucking week/Kanban of Pain.md",
     "Life/Game Dev/Projects/Project Flies/PF Level Design Brainstorm.md",
     "Daily/My fucking week/Workout Kanban.md",
-    "Daily/My fucking week/Kanban of Pain.md",
     "Daily/write thoughts.md",
-    "Daily/My fucking week/Life Canvas.canvas",
-    "Daily/My fucking week/Subject Due Dates Kanban.md"
+    "Daily/My fucking week/Life Canvas.canvas"
   ]
 }
