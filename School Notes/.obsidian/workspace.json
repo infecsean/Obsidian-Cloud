@@ -47,10 +47,9 @@
               "state": {
                 "file": "Life/Game Dev/Projects/Project Flies/PF Canvas.canvas",
                 "viewState": {
-                  "x": 7691.971501996637,
-                  "y": 15.337490277314632,
-                  "zoom": -0.5,
-                  "snapToGrid": false
+                  "x": 8193.621336841612,
+                  "y": 733.1620662788398,
+                  "zoom": -0.5
                 }
               }
             }
@@ -88,9 +87,21 @@
                 "file": "Life/Game Dev/Projects/Project Flies/PF Kanban.md"
               }
             }
+          },
+          {
+            "id": "1a092a6c2aa964a0",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "DP English LL/Articles/Glenn Greenwald.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 3
+        "currentTab": 7
       }
     ],
     "direction": "vertical"
@@ -149,7 +160,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Life/Game Dev/Projects/Project Flies/PF Canvas.canvas",
+                "file": "DP English LL/Articles/Glenn Greenwald.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -201,7 +212,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Life/Game Dev/Projects/Project Flies/PF Canvas.canvas"
+                "file": "DP English LL/Articles/Glenn Greenwald.md"
               }
             }
           }
@@ -227,17 +238,18 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "54a0c39c53d5ba5a",
+  "active": "1a092a6c2aa964a0",
   "lastOpenFiles": [
-    "Life/Game Dev/Projects/Project Flies/PF Storyline.md",
-    "Life/Game Dev/Projects/Project Flies/PF Canvas.canvas",
-    "Life/Game Dev/Projects/Project Flies/PF Storyline Planning.md",
-    "Life/Game Dev/Projects/Project Flies/PF Kanban.md",
-    "Life/Game Dev/Projects/Project Flies/PF Pre Discussion.md",
-    "Daily/My fucking week/Kanban of Pain.md",
-    "Life/Game Dev/Projects/Project Flies/PF Level Design Brainstorm.md",
-    "Daily/My fucking week/Workout Kanban.md",
     "Daily/write thoughts.md",
-    "Daily/My fucking week/Life Canvas.canvas"
+    "Life/Game Dev/Projects/Project Flies/PF Canvas.canvas",
+    "Daily/My fucking week/Kanban of Pain.md",
+    "Daily/My fucking week/Workout Kanban.md",
+    "Life/Game Dev/Projects/Project Flies/PF Kanban.md",
+    "DP English LL/Articles/Glenn Greenwald.md",
+    "DP Computer Science/EE/CSEE Viva voce.md",
+    "Life/Game Dev/Projects/Project Flies/PF Level Design Brainstorm.md",
+    "Life/Game Dev/Projects/Project Flies/PF Storyline.md",
+    "Life/Game Dev/Projects/Project Flies/PF Storyline Planning.md",
+    "Life/Game Dev/Projects/Project Flies/PF Pre Discussion.md"
   ]
 }
