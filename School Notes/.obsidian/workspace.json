@@ -92,16 +92,31 @@
             "id": "1a092a6c2aa964a0",
             "type": "leaf",
             "state": {
+              "type": "canvas",
+              "state": {
+                "file": "Daily/My fucking week/Life Canvas.canvas",
+                "viewState": {
+                  "x": 1814.3785805154596,
+                  "y": -1374.551778128724,
+                  "zoom": -0.7342682670656306
+                }
+              }
+            }
+          },
+          {
+            "id": "a2e1a7507e7eae6b",
+            "type": "leaf",
+            "state": {
               "type": "markdown",
               "state": {
-                "file": "DP English LL/Articles/Glenn Greenwald.md",
+                "file": "DP Computer Science/Internal Assessment/CriD.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 7
+        "currentTab": 8
       }
     ],
     "direction": "vertical"
@@ -160,7 +175,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "DP English LL/Articles/Glenn Greenwald.md",
+                "file": "DP Computer Science/Internal Assessment/CriD.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -212,7 +227,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "DP English LL/Articles/Glenn Greenwald.md"
+                "file": "DP Computer Science/Internal Assessment/CriD.md"
               }
             }
           }
@@ -238,14 +253,16 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "1a092a6c2aa964a0",
+  "active": "a2e1a7507e7eae6b",
   "lastOpenFiles": [
+    "Daily/My fucking week/Life Canvas.canvas",
+    "DP Computer Science/Internal Assessment/CriD.md",
+    "DP English LL/Articles/Glenn Greenwald.md",
+    "Daily/My fucking week/Kanban of Pain.md",
     "Daily/write thoughts.md",
     "Life/Game Dev/Projects/Project Flies/PF Canvas.canvas",
-    "Daily/My fucking week/Kanban of Pain.md",
     "Daily/My fucking week/Workout Kanban.md",
     "Life/Game Dev/Projects/Project Flies/PF Kanban.md",
-    "DP English LL/Articles/Glenn Greenwald.md",
     "DP Computer Science/EE/CSEE Viva voce.md",
     "Life/Game Dev/Projects/Project Flies/PF Level Design Brainstorm.md",
     "Life/Game Dev/Projects/Project Flies/PF Storyline.md",
