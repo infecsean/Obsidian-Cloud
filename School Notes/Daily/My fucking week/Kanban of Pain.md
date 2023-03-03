@@ -8,15 +8,33 @@ kanban-plugin: basic
 
 - [ ] PF Stuff
 - [ ] Workout
-- [ ] CS IA @{2023-03-01}
 
 
 ## Tomorrow (4)
 
 
 
-## urgent
+## Reviews
 
+- [ ] Math Reveiw
+- [ ] Physics Review alosaldlsaodas
+- [ ] Chinese Summative @{2023-03-08}
+- [ ] Mock cock @{2023-03-22}
+- [ ] CH LL P1 at Fulai Hall @{2023-03-22} @@{13:40}
+- [ ] CH LL P2 at Fulai Hall @{2023-03-23} @@{08:40}
+- [ ] Physics P1 at 7-9 @{2023-03-23} @@{13:45}
+- [ ] Physics P3 at 7-9 @{2023-03-23} @@{13:45}
+- [ ] Physics P2 at 7-9 @{2023-03-24} @@{08:45}
+- [ ] ELL P1 at Fulai Hall @{2023-03-24} @@{13:45}
+- [ ] ELL P2 at Fulai Hall @{2023-03-25} @@{14:45}
+- [ ] Econ P1 at Fulai Hall @{2023-03-28} @@{13:45}
+- [ ] Econ P3 at Fulai Hall @{2023-03-28} @@{13:45}
+- [ ] Econ P2 at Fulai Hall @{2023-03-29} @@{14:45}
+- [ ] Math P1 at Fulai Hall @{2023-03-30} @@{14:45}
+- [ ] Math P2 at Fulai Hall @{2023-03-31} @@{13:45}
+- [ ] Math P3 at Fulai Hall @{2023-03-31} @@{13:45}
+- [ ] CS P1 at 7-4 @{2023-04-06} @@{13:45}
+- [ ] CS P2 at 7-4 @{2023-04-07} @@{08:45}
 
 
 ## Upcoming
@@ -24,11 +42,13 @@ kanban-plugin: basic
 - [ ] Physics Invevstigation
 - [ ] Econ IA @{2023-02-13}
 - [ ] Chinese read 雷雨
-- [ ] Mock cock @{2023-03-22}
 
 
-## Gotta do list
+## University
 
+- [ ] UW Out @{2023-03-09}
+- [ ] UCSB Out @{2023-03-21}
+- [ ] BU Out @{2023-03-25}
 
 
 ## CAS Game
@@ -261,6 +281,7 @@ kanban-plugin: basic
 - [x] 2023-02-18 17:04 Physics IA @{2023-02-18}
 - [x] 2023-02-18 17:04 CAS Project revamp
 - [x] 2023-02-18 17:05 Check Camera Phone functionality
+- [x] 2023-03-02 13:47 CS IA @{2023-03-01}
 
 %% kanban:settings
 ```
