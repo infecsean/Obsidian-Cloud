@@ -4,9 +4,10 @@ kanban-plugin: basic
 
 ---
 
-## Tmr
+## some time soon i guess
 
 - [ ] Procedural Ground Movement
+- [ ] Find script pattern for sonar
 
 
 ## Art
@@ -35,6 +36,7 @@ kanban-plugin: basic
 
 ## DONE
 
+- [x] Sonar thing
 - [x] Pixel art shader
 - [x] Test if pixel art shader or just low-res
 - [x] Draw apartment floor plan
