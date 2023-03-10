@@ -18,7 +18,6 @@ kanban-plugin: basic
 
 - [ ] Math Reveiw
 - [ ] Physics Review alosaldlsaodas
-- [ ] Chinese Summative @{2023-03-08}
 - [ ] Mock cock @{2023-03-22}
 - [ ] CH LL P1 at Fulai Hall @{2023-03-22} @@{13:40}
 - [ ] CH LL P2 at Fulai Hall @{2023-03-23} @@{08:40}
@@ -40,13 +39,10 @@ kanban-plugin: basic
 ## Upcoming
 
 - [ ] Physics Invevstigation
-- [ ] Econ IA @{2023-02-13}
-- [ ] Chinese read 雷雨
 
 
 ## University
 
-- [ ] UW Out @{2023-03-09}
 - [ ] UCSB Out @{2023-03-21}
 - [ ] BU Out @{2023-03-25}
 
@@ -54,7 +50,6 @@ kanban-plugin: basic
 ## CAS Game
 
 - [ ] Finish Game Levels Figma @{2022-11-10} @@{22:45}
-- [ ] 
 - [ ] Fix surfing and w-spam movement @{2022-11-05}
 - [ ] Trailer (Remember derek lieu, look for his emails and yt)
 
@@ -282,6 +277,11 @@ kanban-plugin: basic
 - [x] 2023-02-18 17:04 CAS Project revamp
 - [x] 2023-02-18 17:05 Check Camera Phone functionality
 - [x] 2023-03-02 13:47 CS IA @{2023-03-01}
+- [x] 2023-03-06 08:25
+- [x] 2023-03-08 13:28 Econ IA @{2023-02-13}
+- [x] 2023-03-08 13:28 Chinese read 雷雨
+- [x] 2023-03-10 14:51 Chinese Summative @{2023-03-08}
+- [x] 2023-03-10 14:51 UW Out @{2023-03-09}
 
 %% kanban:settings
 ```

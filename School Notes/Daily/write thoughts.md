@@ -407,3 +407,20 @@ My questions:
 - How is the UPenn community?
 
 - too old
+
+# Thoughts part 9 omg (IX) (fuck)
+Ok what the fuck is my nights doing why cant be i productive much?
+- You kinda fucked
+
+
+
+# Though 10 wow he missed a "t"
+
+
+
+
+
+
+
+
+
