@@ -6,45 +6,28 @@ kanban-plugin: basic
 
 ## Today (4)
 
-- [ ] PF Stuff
 - [ ] Workout
 
 
 ## Tomorrow (4)
 
+- [ ] Buy Ipad
+- [ ] Utah housing sort out
+- [ ] Physics electromagnetic
 
 
 ## Reviews
 
-- [ ] Math Reveiw
-- [ ] Physics Review alosaldlsaodas
-- [ ] Mock cock @{2023-03-22}
-- [ ] CH LL P1 at Fulai Hall @{2023-03-22} @@{13:40}
-- [ ] CH LL P2 at Fulai Hall @{2023-03-23} @@{08:40}
-- [ ] Physics P1 at 7-9 @{2023-03-23} @@{13:45}
-- [ ] Physics P3 at 7-9 @{2023-03-23} @@{13:45}
-- [ ] Physics P2 at 7-9 @{2023-03-24} @@{08:45}
-- [ ] ELL P1 at Fulai Hall @{2023-03-24} @@{13:45}
-- [ ] ELL P2 at Fulai Hall @{2023-03-25} @@{14:45}
-- [ ] Econ P1 at Fulai Hall @{2023-03-28} @@{13:45}
-- [ ] Econ P3 at Fulai Hall @{2023-03-28} @@{13:45}
-- [ ] Econ P2 at Fulai Hall @{2023-03-29} @@{14:45}
-- [ ] Math P1 at Fulai Hall @{2023-03-30} @@{14:45}
-- [ ] Math P2 at Fulai Hall @{2023-03-31} @@{13:45}
-- [ ] Math P3 at Fulai Hall @{2023-03-31} @@{13:45}
 - [ ] CS P1 at 7-4 @{2023-04-06} @@{13:45}
 - [ ] CS P2 at 7-4 @{2023-04-07} @@{08:45}
 
 
 ## Upcoming
 
-- [ ] Physics Invevstigation
 
 
 ## University
 
-- [ ] UCSB Out @{2023-03-21}
-- [ ] BU Out @{2023-03-25}
 
 
 ## CAS Game
@@ -282,6 +265,34 @@ kanban-plugin: basic
 - [x] 2023-03-08 13:28 Chinese read 雷雨
 - [x] 2023-03-10 14:51 Chinese Summative @{2023-03-08}
 - [x] 2023-03-10 14:51 UW Out @{2023-03-09}
+- [x] 2023-03-14 11:33 Econ micro vid
+- [x] 2023-03-14 11:33 suck copious amounts of penis
+- [x] 2023-03-15 15:05 Econ macro vid
+- [x] 2023-03-20 16:54 Math
+- [x] 2023-03-26 10:27 UCSB Out @{2023-03-21}
+- [x] 2023-03-26 10:27 BU Out @{2023-03-25}
+- [x] 2023-04-02 13:39 Max out inventory space
+- [x] 2023-04-02 13:39 Buy oxygen periodically
+- [x] 2023-04-02 13:39 Distress signals
+- [x] 2023-04-02 13:40 Math Reveiw
+- [x] 2023-04-02 13:40 Physics Review alosaldlsaodas
+- [x] 2023-04-02 13:40 Mock cock @{2023-03-22}
+- [x] 2023-04-02 13:40 CH LL P1 at Fulai Hall @{2023-03-22} @@{13:40}
+- [x] 2023-04-02 13:40 CH LL P2 at Fulai Hall @{2023-03-23} @@{08:40}
+- [x] 2023-04-02 13:40 Physics P1 at 7-9 @{2023-03-23} @@{13:45}
+- [x] 2023-04-02 13:40 Physics P3 at 7-9 @{2023-03-23} @@{13:45}
+- [x] 2023-04-02 13:40 Physics P2 at 7-9 @{2023-03-24} @@{08:45}
+- [x] 2023-04-02 13:40 ELL P1 at Fulai Hall @{2023-03-24} @@{13:45}
+- [x] 2023-04-02 13:40 ELL P2 at Fulai Hall @{2023-03-25} @@{14:45}
+- [x] 2023-04-02 13:40 Econ P1 at Fulai Hall @{2023-03-28} @@{13:45}
+- [x] 2023-04-02 13:40 Econ P3 at Fulai Hall @{2023-03-28} @@{13:45}
+- [x] 2023-04-02 13:40 Econ P2 at Fulai Hall @{2023-03-29} @@{14:45}
+- [x] 2023-04-02 13:40 Math P1 at Fulai Hall @{2023-03-30} @@{14:45}
+- [x] 2023-04-02 13:40 Math P2 at Fulai Hall @{2023-03-31} @@{13:45}
+- [x] 2023-04-02 13:40 Math P3 at Fulai Hall @{2023-03-31} @@{13:45}
+- [x] 2023-04-10 15:39 Physics Invevstigation
+- [x] 2023-04-10 15:39 PF Stuff
+- [x] 2023-04-11 08:22 Utah accept
 
 %% kanban:settings
 ```

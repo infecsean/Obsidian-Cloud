@@ -47,9 +47,9 @@
               "state": {
                 "file": "Life/Game Dev/Projects/Project Flies/PF Canvas.canvas",
                 "viewState": {
-                  "x": 7068.850092689712,
-                  "y": -886.2493281967512,
-                  "zoom": -0.5
+                  "x": 11200.972791930308,
+                  "y": -4606.328827491189,
+                  "zoom": 0
                 }
               }
             }
@@ -61,18 +61,6 @@
               "type": "markdown",
               "state": {
                 "file": "Life/Game Dev/Projects/Project Flies/PF Storyline Planning.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "4c7de83b589f9c32",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Life/Game Dev/Projects/Project Flies/PF Pre Discussion.md",
                 "mode": "source",
                 "source": false
               }
@@ -108,15 +96,14 @@
               "state": {
                 "file": "Daily/My fucking week/Life Canvas.canvas",
                 "viewState": {
-                  "x": 3393.8096558616962,
-                  "y": -1624.2501457919727,
-                  "zoom": -0.5
+                  "x": 4086.7527496190123,
+                  "y": -739.8045255823047,
+                  "zoom": -2.5
                 }
               }
             }
           }
-        ],
-        "currentTab": 8
+        ]
       }
     ],
     "direction": "vertical"
@@ -175,7 +162,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Daily/My fucking week/Life Canvas.canvas",
+                "file": "Daily/My fucking week/Kanban of Pain.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -227,7 +214,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Daily/My fucking week/Life Canvas.canvas"
+                "file": "Daily/My fucking week/Kanban of Pain.md"
               }
             }
           }
@@ -253,17 +240,19 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "221cc1f35825412c",
+  "active": "9499adfb261f3188",
   "lastOpenFiles": [
-    "Daily/write thoughts.md",
-    "Daily/My fucking week/Life Canvas.canvas",
-    "Daily/My fucking week/Kanban of Pain.md",
-    "Life/Game Dev/Projects/Project Flies/PF Canvas.canvas",
-    "Life/Game Dev/Projects/Project Flies/PF Pre Discussion.md",
-    "Life/Game Dev/Projects/Project Flies/PF Storyline Planning.md",
-    "Life/Game Dev/Projects/Project Flies/PF Level Design Brainstorm.md",
     "Daily/My fucking week/Workout Kanban.md",
+    "DP English LL/Paper 1/Skateboard.md",
+    "Daily/My fucking week/Kanban of Pain.md",
+    "Daily/My fucking week/Life Canvas.canvas",
+    "Life/Game Dev/Projects/Project Flies/PF Canvas.canvas",
     "Life/Game Dev/Projects/Project Flies/PF Kanban.md",
+    "Daily/write thoughts.md",
+    "Life/Game Dev/Projects/Project Flies/PF Level Design Brainstorm.md",
+    "DP English LL/Paper 1/Addiction Practice.md",
+    "Life/Game Dev/Projects/Project Flies/PF Storyline Planning.md",
+    "Life/Game Dev/Projects/Project Flies/PF Pre Discussion.md",
     "DP Computer Science/Internal Assessment/CriD.md",
     "DP English LL/Articles/Glenn Greenwald.md",
     "DP Computer Science/EE/CSEE Viva voce.md",
