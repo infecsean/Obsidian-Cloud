@@ -11,15 +11,11 @@ kanban-plugin: basic
 
 ## Tomorrow (4)
 
-- [ ] Buy Ipad
 - [ ] Utah housing sort out
-- [ ] Physics electromagnetic
 
 
 ## Reviews
 
-- [ ] CS P1 at 7-4 @{2023-04-06} @@{13:45}
-- [ ] CS P2 at 7-4 @{2023-04-07} @@{08:45}
 
 
 ## Upcoming
@@ -293,6 +289,10 @@ kanban-plugin: basic
 - [x] 2023-04-10 15:39 Physics Invevstigation
 - [x] 2023-04-10 15:39 PF Stuff
 - [x] 2023-04-11 08:22 Utah accept
+- [x] 2023-04-17 11:37 Buy Ipad
+- [x] 2023-04-17 11:37 Physics electromagnetic
+- [x] 2023-04-17 11:37 CS P1 at 7-4 @{2023-04-06} @@{13:45}
+- [x] 2023-04-17 11:37 CS P2 at 7-4 @{2023-04-07} @@{08:45}
 
 %% kanban:settings
 ```
