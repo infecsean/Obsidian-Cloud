@@ -1,0 +1,88 @@
+{
+  "userAdmonitions": {
+    "definition": {
+      "type": "definition",
+      "color": "225, 177, 45",
+      "icon": {
+        "name": "book-open",
+        "type": "font-awesome"
+      },
+      "command": false,
+      "title": "Definition"
+    },
+    "Resources": {
+      "type": "Resources",
+      "color": "122, 255, 156",
+      "icon": {
+        "name": "tree",
+        "type": "font-awesome"
+      },
+      "command": false,
+      "title": "Resource"
+    },
+    "noexp": {
+      "type": "noexp",
+      "color": "147, 95, 6",
+      "icon": {
+        "name": "trash-alt",
+        "type": "font-awesome"
+      },
+      "command": false,
+      "title": "The book didnt fucking explain"
+    },
+    "noone": {
+      "type": "noone",
+      "color": "255, 0, 0",
+      "icon": {
+        "name": "dripping-knife",
+        "type": "rpg"
+      },
+      "command": false,
+      "title": "Nobody Asked"
+    },
+    "res": {
+      "type": "res",
+      "color": "231, 194, 255",
+      "icon": {
+        "name": "bookmark",
+        "type": "font-awesome"
+      },
+      "command": false,
+      "title": "Books"
+    },
+    "voc": {
+      "type": "voc",
+      "color": "243, 148, 255",
+      "icon": {
+        "name": "grin-tongue",
+        "type": "font-awesome"
+      },
+      "command": false,
+      "title": "Vocabulary",
+      "injectColor": true,
+      "noTitle": false
+    },
+    "tldr": {
+      "type": "tldr",
+      "color": "255, 139, 61",
+      "icon": {
+        "name": "mining-diamonds",
+        "type": "rpg"
+      },
+      "command": false,
+      "title": "too long, didnt read",
+      "injectColor": true,
+      "noTitle": false
+    }
+  },
+  "syntaxHighlight": false,
+  "copyButton": true,
+  "version": "6.8.0",
+  "autoCollapse": false,
+  "defaultCollapseType": "open",
+  "syncLinks": true,
+  "enableMarkdownProcessor": false,
+  "injectColor": true,
+  "parseTitles": true,
+  "allowMSSyntax": true
+}

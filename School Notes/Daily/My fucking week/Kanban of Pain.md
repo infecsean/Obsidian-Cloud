@@ -11,7 +11,6 @@ kanban-plugin: basic
 
 ## Tomorrow (4)
 
-- [ ] Utah housing sort out
 
 
 ## Reviews
@@ -293,6 +292,7 @@ kanban-plugin: basic
 - [x] 2023-04-17 11:37 Physics electromagnetic
 - [x] 2023-04-17 11:37 CS P1 at 7-4 @{2023-04-06} @@{13:45}
 - [x] 2023-04-17 11:37 CS P2 at 7-4 @{2023-04-07} @@{08:45}
+- [x] 2023-08-21 17:58 Utah housing sort out
 
 %% kanban:settings
 ```

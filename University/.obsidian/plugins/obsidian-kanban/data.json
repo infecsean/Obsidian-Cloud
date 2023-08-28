@@ -1,0 +1,29 @@
+{
+  "show-relative-date": true,
+  "show-checkboxes": true,
+  "date-colors": [
+    {
+      "isToday": false,
+      "distance": 3,
+      "unit": "days",
+      "direction": "after",
+      "color": "rgba(242, 139, 22, 1)"
+    },
+    {
+      "distance": 1,
+      "unit": "days",
+      "direction": "after",
+      "isToday": true,
+      "color": "rgba(233, 20, 20, 1)"
+    },
+    {
+      "isToday": false,
+      "distance": 1,
+      "unit": "months",
+      "direction": "after",
+      "color": "rgba(41, 207, 24, 1)"
+    }
+  ],
+  "hide-date-display": false,
+  "hide-date-in-title": true
+}
