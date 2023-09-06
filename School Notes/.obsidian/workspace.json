@@ -11,9 +11,11 @@
             "id": "9499adfb261f3188",
             "type": "leaf",
             "state": {
-              "type": "kanban",
+              "type": "markdown",
               "state": {
-                "file": "Daily/My fucking week/Kanban of Pain.md"
+                "file": "Life/Game Dev/Game Dev Resources.md",
+                "mode": "preview",
+                "source": false
               }
             }
           },
@@ -37,8 +39,8 @@
               "state": {
                 "file": "Life/Game Dev/Projects/Project Flies/PF Canvas.canvas",
                 "viewState": {
-                  "x": 1538.6474385875802,
-                  "y": -2089.506454565398,
+                  "x": 2547.4529979913937,
+                  "y": -2529.3268724634313,
                   "zoom": -1.5
                 }
               }
@@ -66,7 +68,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -133,7 +136,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Daily/My fucking week/Kanban of Pain.md",
+                "file": "Life/Game Dev/Projects/Project Flies/PF Kanban.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -185,7 +188,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Daily/My fucking week/Kanban of Pain.md"
+                "file": "Life/Game Dev/Projects/Project Flies/PF Kanban.md"
               }
             }
           }
@@ -211,15 +214,17 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "9499adfb261f3188",
+  "active": "ebd34e8d56878c71",
   "lastOpenFiles": [
+    "Life/Game Dev/Projects/Project Flies/PF Pre Discussion.md",
+    "Life/Game Dev/Projects/Project Flies/PF Kanban.md",
     "Life/Game Dev/Projects/Project Flies/PF Canvas.canvas",
     "Life/Game Dev/Projects/Project Flies/PF Level Design Brainstorm.md",
+    "Life/Game Dev/Game Dev Resources.md",
+    "Life/Game Dev/Inspiration.md",
     "Daily/My fucking week/Kanban of Pain.md",
     "Daily/My fucking week/Workout Kanban.md",
-    "Life/Game Dev/Projects/Project Flies/PF Kanban.md",
     "Daily/My fucking week/Life Canvas.canvas",
-    "Life/Game Dev/Projects/Project Flies/PF Pre Discussion.md",
     "Daily/write thoughts.md",
     "Life/Game Dev/Projects/Project Flies/PF Storyline Planning.md",
     "DP English LL/Paper 1/Skateboard.md",

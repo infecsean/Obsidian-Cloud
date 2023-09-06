@@ -4,20 +4,31 @@
     "type": "split",
     "children": [
       {
-        "id": "7d15e531e9a15f21",
+        "id": "edc1e9523a0e55c9",
         "type": "tabs",
         "children": [
           {
-            "id": "3995f951696f65dd",
+            "id": "d1e18985ee91455c",
             "type": "leaf",
             "state": {
               "type": "kanban",
               "state": {
-                "file": "Life/To do Kanban.md"
+                "file": "Life/Life Kanban.md"
+              }
+            }
+          },
+          {
+            "id": "af0f772ada79818f",
+            "type": "leaf",
+            "state": {
+              "type": "kanban",
+              "state": {
+                "file": "Life/Academic Kanban (HELP).md"
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -67,7 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 284.5
+    "width": 245.5
   },
   "right": {
     "id": "3a050af41fe3cfc4",
@@ -83,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Life/To do Kanban.md",
+                "file": "Life/Academic Kanban (HELP).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -100,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Life/To do Kanban.md",
+                "file": "Life/Academic Kanban (HELP).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -123,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Life/To do Kanban.md"
+                "file": "Life/Academic Kanban (HELP).md"
               }
             }
           },
@@ -163,10 +174,11 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "3995f951696f65dd",
+  "active": "af0f772ada79818f",
   "lastOpenFiles": [
+    "Life/Life Kanban.md",
+    "Life/Academic Kanban (HELP).md",
     "Semester 1/Econ 1740/Week 1 Quiz @{2023-08-25}.md",
-    "Life/To do Kanban.md",
     "Life/Untitled.md",
     "Life",
     "Semester 1/Econ 1740",
