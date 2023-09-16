@@ -67,6 +67,16 @@
                 "file": "Life/Game Dev/Projects/Project Flies/PF Kanban.md"
               }
             }
+          },
+          {
+            "id": "eb78cab28f5f49e0",
+            "type": "leaf",
+            "state": {
+              "type": "kanban",
+              "state": {
+                "file": "Life/Game Dev/Projects/CAS/CAS game kanban.md"
+              }
+            }
           }
         ],
         "currentTab": 4
@@ -119,8 +129,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 309,
-    "collapsed": true
+    "width": 309
   },
   "right": {
     "id": "d6f61973bf5b2b3f",
@@ -191,6 +200,16 @@
                 "file": "Life/Game Dev/Projects/Project Flies/PF Kanban.md"
               }
             }
+          },
+          {
+            "id": "4d5c0db2403e8d0c",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency"
+              }
+            }
           }
         ],
         "currentTab": 3
@@ -216,11 +235,25 @@
   },
   "active": "ebd34e8d56878c71",
   "lastOpenFiles": [
-    "Life/Game Dev/Projects/Project Flies/PF Pre Discussion.md",
-    "Life/Game Dev/Projects/Project Flies/PF Kanban.md",
+    "Life/Game Dev/Projects/CAS/CAS game kanban.md",
+    "Life/Game Dev/Projects/CAS/Colors Game Design.md",
+    "Life/Game Dev/Projects/CAS/Enemy designing.md",
+    "Life/Game Dev/Projects/CAS/Items.md",
+    "Life/Game Dev/Projects/CAS/Menu UI Design.md",
+    "Life/Game Dev/Projects/CAS/PTSD Experiment.md",
+    "Life/Game Dev/Projects/CAS/Project Task List.md",
+    "Life/Game Dev/Projects/CAS/Project Structure.md",
+    "Life/Game Dev/Projects/CAS/Music Stuff.md",
     "Life/Game Dev/Projects/Project Flies/PF Canvas.canvas",
-    "Life/Game Dev/Projects/Project Flies/PF Level Design Brainstorm.md",
+    "Life/Game Dev/Projects/Project Flies/PF Design Doc.md",
+    "Life/Game Dev/Projects/Ludum Dare/LD52/LD52 Canvas.canvas",
+    "Life/Game Dev/Projects/Ludum Dare/LD51/Game Design Doc.md",
+    "Life/Game Dev/Projects/Ludum Dare/2022/What i need to make.md",
+    "Life/Game Dev/Projects/Ludum Dare/2022/Game Document.md",
     "Life/Game Dev/Game Dev Resources.md",
+    "Life/Game Dev/Projects/Project Flies/PF Kanban.md",
+    "Life/Game Dev/Projects/Project Flies/PF Pre Discussion.md",
+    "Life/Game Dev/Projects/Project Flies/PF Level Design Brainstorm.md",
     "Life/Game Dev/Inspiration.md",
     "Daily/My fucking week/Kanban of Pain.md",
     "Daily/My fucking week/Workout Kanban.md",
@@ -230,8 +263,6 @@
     "DP English LL/Paper 1/Skateboard.md",
     "DP English LL/Paper 1/Addiction Practice.md",
     "DP Computer Science/Internal Assessment/CriD.md",
-    "DP English LL/Articles/Glenn Greenwald.md",
-    "DP Computer Science/EE/CSEE Viva voce.md",
-    "Life/Game Dev/Projects/Project Flies/PF Storyline.md"
+    "DP English LL/Articles/Glenn Greenwald.md"
   ]
 }

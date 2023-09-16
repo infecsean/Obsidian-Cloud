@@ -14,10 +14,8 @@ kanban-plugin: basic
 
 ## Econ 1740
 
-- [ ] Read Ch1-2 @{2023-09-6}
-- [ ] Read Ch3-4 @{2023-09-10}
-- [ ] BYU Utah soccer game quiz @{2023-09-11} @@{23:45}
-- [ ] Week 3 Quiz @{2023-09-11} @@{23:45}
+- [ ] Read Ch5-6 @{2023-09-15}
+- [ ] Read Ch7-8 @{2023-09-18} @@{23:45}
 - [ ] Week 4 Quiz @{2023-09-18} @@{23:45}
 - [ ] Week 5 Quiz @{2023-09-25} @@{23:45}
 - [ ] Week 6 Quiz (Ch1-4 Gordon) @{2023-10-02} @@{23:45}
@@ -25,19 +23,12 @@ kanban-plugin: basic
 
 ## GLBL 1600
 
-- [ ] Read Ch2 @{2023-09-07} @@{23:45}
-- [ ] Read [this](https://openeducationalberta.ca/settlement/chapter/improving-intercultural-competence/#:~:text=Overall%2C%20the%20DMIS%20describes%20how,to%20seeking%20differences%20(ethnorelativism).) @{2023-09-08} @@{16:45}
-- [ ] Ch2 Quiz @{2023-09-08} @@{16:45}
-- [ ] Complete Discussion 2 @{2023-09-08} @@{16:45}
-- [ ] Complete reflection assignment @{2023-09-08} @@{16:45}
+- [x] Discussion: Barriers to intercultural communication @{2023-09-15} @@{23:45}
+- [ ] Implicit Bias Test @{2023-09-17} @@{23:45}
 
 
 ## Math 1210
 
-- [ ] Webwork HW 2 @{2023-09-08} @@{23:45}
-- [ ] Practice Test Ch1 @{2023-09-09} @@{23:45}
-- [ ] Practice extra problems Ch1 @{2023-09-09} @@{23:45}
-- [ ] Ch1 Math Exam @{2023-09-11}
 - [ ] Webwork HW 3 @{2023-09-19} @@{23:45}
 - [ ] Webwork HW 4 @{2023-09-26} @@{23:45}
 - [ ] Webwork HW 5 @{2023-10-04} @@{23:45}
@@ -49,17 +40,16 @@ kanban-plugin: basic
 
 ## PRT 1110
 
-- [ ] Signature Strength Survey @{2023-09-06} @@{23:45}
-- [ ] Quiz: Theory of well-being and flourishing @{2023-09-11} @@{23:45}
+- [ ] Read: Authentic Happiness Ch1 & Ch4 @{2023-09-18} @@{23:45}
+- [ ] Read: Layous @{2023-09-18} @@{23:45}
+- [ ] Seven Gauges @{2023-09-19}
 - [ ] Experience Exercise 1 @{2023-09-27} @@{23:45}
 - [ ] Exam 1 (Respondus lockdown browser) @{2023-10-05} @@{23:45}
 
 
 ## Writing 1009
 
-- [ ] Reading: Self Writing @{2023-09-06} @@{23:45}
-- [ ] Reading: They Say I Say Intro & Ch1 @{2023-09-11} @@{23:45}
-- [ ] Reading: They Say I Say Ch2 - 5 @{2023-09-13} @@{23:45}
+- [ ] Write a paragraph for each section + new stuff @{2023-09-15} @@{23:45}
 
 
 ***
@@ -92,6 +82,27 @@ kanban-plugin: basic
 - [x] Science of happiness Ch1 @{2023-09-04} @@{23:45}
 - [x] Designing your life Ch1 @{2023-09-04} @@{23:45}
 - [x] Reading: Edmundson @{2023-09-04} @@{23:45}
+- [x] Read Ch2 @{2023-09-07} @@{23:45}
+- [x] Read [this](https://openeducationalberta.ca/settlement/chapter/improving-intercultural-competence/#:~:text=Overall%2C%20the%20DMIS%20describes%20how,to%20seeking%20differences%20(ethnorelativism).) @{2023-09-08} @@{16:45}
+- [x] Ch2 Quiz @{2023-09-08} @@{16:45}
+- [x] Complete Discussion 2 @{2023-09-08} @@{16:45}
+- [x] Complete reflection assignment @{2023-09-08} @@{16:45}
+- [x] Signature Strength Survey @{2023-09-06} @@{23:45}
+- [x] Reading: Self Writing @{2023-09-06} @@{23:45}
+- [x] Read Ch1-2 @{2023-09-6}
+- [x] BYU Utah soccer game quiz @{2023-09-11} @@{23:45}
+- [x] Week 3 Quiz @{2023-09-11} @@{23:45}
+- [x] Webwork HW 2 @{2023-09-11} @@{23:45}
+- [x] Practice Test Ch1 @{2023-09-11} @@{23:45}
+- [x] Practice extra problems Ch1 @{2023-09-11} @@{23:45}
+- [x] Ch1 Math Exam @{2023-09-13}
+- [x] Quiz: Theory of well-being and flourishing @{2023-09-11} @@{23:45}
+- [x] Reading: They Say I Say Intro & Ch1 @{2023-09-11} @@{23:45}
+- [x] Read Ch3-4 @{2023-09-11}
+- [x] Read: Flourish Ch1 & 4 @{2023-09-13} @@{23:45}
+- [x] Read: Science of happiness Ch13 @{2023-09-14} @@{12:00}
+- [x] Read: Designing your life Ch2 @{2023-09-14} @@{12:00}
+- [x] Reading: They Say I Say Ch2 - 5 @{2023-09-14} @@{23:45}
 
 %% kanban:settings
 ```

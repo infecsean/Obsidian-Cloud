@@ -18,7 +18,7 @@
             }
           },
           {
-            "id": "af0f772ada79818f",
+            "id": "ba13a2b3313a6a80",
             "type": "leaf",
             "state": {
               "type": "kanban",
@@ -153,6 +153,16 @@
               "type": "todo",
               "state": {}
             }
+          },
+          {
+            "id": "e4ab47bc97f775e3",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency"
+              }
+            }
           }
         ],
         "currentTab": 5
@@ -174,7 +184,7 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "af0f772ada79818f",
+  "active": "ba13a2b3313a6a80",
   "lastOpenFiles": [
     "Life/Life Kanban.md",
     "Life/Academic Kanban (HELP).md",

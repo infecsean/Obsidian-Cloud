@@ -6,14 +6,24 @@ kanban-plugin: basic
 
 ## Stuff to buy once card arrives
 
-- [ ] Pull up Bar
 - [ ] Obsidian subscription
-- [ ] Vacuum cleaner
 - [ ] Speaker
 - [ ] Guitar
 
 
+## Movie night
 
+- [ ] LaLaLand
+- [ ] Groundhog Day
+- [ ] Field of Dreams
+
+
+***
+
+## Archive
+
+- [x] Pull up Bar
+- [x] Vacuum cleaner
 
 %% kanban:settings
 ```
