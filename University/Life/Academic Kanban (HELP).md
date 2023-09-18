@@ -14,17 +14,19 @@ kanban-plugin: basic
 
 ## Econ 1740
 
-- [ ] Read Ch5-6 @{2023-09-15}
 - [ ] Read Ch7-8 @{2023-09-18} @@{23:45}
-- [ ] Week 4 Quiz @{2023-09-18} @@{23:45}
+- [x] Week 4 Quiz @{2023-09-18} @@{23:45}
 - [ ] Week 5 Quiz @{2023-09-25} @@{23:45}
 - [ ] Week 6 Quiz (Ch1-4 Gordon) @{2023-10-02} @@{23:45}
+- [ ] Week 7 Quiz @{2023-10-16} @@{23:45}
+- [ ] Week 8 Quiz @{2023-10-23} @@{23:45}
+- [ ] Midterm @{2023-10-30} @@{23:45}
 
 
 ## GLBL 1600
 
-- [x] Discussion: Barriers to intercultural communication @{2023-09-15} @@{23:45}
-- [ ] Implicit Bias Test @{2023-09-17} @@{23:45}
+- [ ] Read Ch5 @{2023-09-20} @@{12:00}
+- [ ] Ch5 2nd half Quiz @{2023-09-20} @@{23:45}
 
 
 ## Math 1210
@@ -40,16 +42,22 @@ kanban-plugin: basic
 
 ## PRT 1110
 
-- [ ] Read: Authentic Happiness Ch1 & Ch4 @{2023-09-18} @@{23:45}
-- [ ] Read: Layous @{2023-09-18} @@{23:45}
-- [ ] Seven Gauges @{2023-09-19}
+- [ ] Read: Layous @{2023-09-19} @@{12:00}
+- [ ] Designing your life Ch3 @{2023-09-19} @@{12:00}
+- [ ] Goodman: Toxic Positivity Ch1 @{2023-09-20} @@{23:45}
+- [ ] Seven Gauges @{2023-09-23}
+- [ ] Read Finny: Black Faces, White Spaces Ch1 @{2023-09-25} @@{23:45}
+- [ ] Design Your Life Ch4 @{2023-09-25} @@{23:45}
+- [ ] Quiz: Equity @{2023-09-26} @@{23:45}
+- [ ] Read: Diener: Happiness Ch8 @{2023-09-27} @@{23:45}
 - [ ] Experience Exercise 1 @{2023-09-27} @@{23:45}
+- [ ] Review Exam @{2023-10-02}
 - [ ] Exam 1 (Respondus lockdown browser) @{2023-10-05} @@{23:45}
 
 
 ## Writing 1009
 
-- [ ] Write a paragraph for each section + new stuff @{2023-09-15} @@{23:45}
+- [ ] Read: They Say / I Say p 312-323 @{2023-09-18} @@{23:45}
 
 
 ***
@@ -103,6 +111,11 @@ kanban-plugin: basic
 - [x] Read: Science of happiness Ch13 @{2023-09-14} @@{12:00}
 - [x] Read: Designing your life Ch2 @{2023-09-14} @@{12:00}
 - [x] Reading: They Say I Say Ch2 - 5 @{2023-09-14} @@{23:45}
+- [x] Read Ch5-6 @{2023-09-15}
+- [x] Discussion: Barriers to intercultural communication @{2023-09-15} @@{23:45}
+- [x] Implicit Bias Test @{2023-09-17} @@{23:45}
+- [x] Read: Authentic Happiness Ch1 & Ch4 @{2023-09-18} @@{23:45}
+- [x] Write a paragraph for each section + new stuff @{2023-09-15} @@{23:45}
 
 %% kanban:settings
 ```

@@ -18,7 +18,7 @@
             }
           },
           {
-            "id": "ba13a2b3313a6a80",
+            "id": "d90a20569a81a0ea",
             "type": "leaf",
             "state": {
               "type": "kanban",
@@ -184,7 +184,7 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "ba13a2b3313a6a80",
+  "active": "d90a20569a81a0ea",
   "lastOpenFiles": [
     "Life/Life Kanban.md",
     "Life/Academic Kanban (HELP).md",
