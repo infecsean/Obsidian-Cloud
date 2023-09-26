@@ -14,9 +14,7 @@ kanban-plugin: basic
 
 ## Econ 1740
 
-- [ ] Read Ch7-8 @{2023-09-18} @@{23:45}
-- [x] Week 4 Quiz @{2023-09-18} @@{23:45}
-- [ ] Week 5 Quiz @{2023-09-25} @@{23:45}
+- [ ] Read Ch9-10 @{2023-09-25} @@{23:45}
 - [ ] Week 6 Quiz (Ch1-4 Gordon) @{2023-10-02} @@{23:45}
 - [ ] Week 7 Quiz @{2023-10-16} @@{23:45}
 - [ ] Week 8 Quiz @{2023-10-23} @@{23:45}
@@ -25,39 +23,40 @@ kanban-plugin: basic
 
 ## GLBL 1600
 
-- [ ] Read Ch5 @{2023-09-20} @@{12:00}
-- [ ] Ch5 2nd half Quiz @{2023-09-20} @@{23:45}
 
 
 ## Math 1210
 
-- [ ] Webwork HW 3 @{2023-09-19} @@{23:45}
-- [ ] Webwork HW 4 @{2023-09-26} @@{23:45}
-- [ ] Webwork HW 5 @{2023-10-04} @@{23:45}
+- [ ] Webwork HW 4 @{2023-10-05} @@{23:45}
+- [ ] Webwork HW 5 @{2023-10-16} @@{23:45}
 - [ ] Ch2 Math Exam @{2023-10-06}
+- [ ] Webwork HW 6 @{2023-10-27} @@{23:45}
+- [ ] Webwork HW 7 @{2023-11-03} @@{23:45}
 - [ ] Ch3 Math Exam @{2023-11-06}
+- [ ] Webwork HW 8 @{2023-11-10} @@{23:45}
+- [ ] Webwork HW 9 @{2023-11-20} @@{23:45}
 - [ ] Ch4 Math Exam @{2023-11-21}
+- [ ] Webwork HW 10 @{2023-12-01} @@{23:45}
+- [ ] Webwork HW 11 @{2023-12-06} @@{23:45}
 - [ ] Final Math Exam @{2023-12-12}
 
 
 ## PRT 1110
 
-- [ ] Read: Layous @{2023-09-19} @@{12:00}
-- [ ] Designing your life Ch3 @{2023-09-19} @@{12:00}
-- [ ] Goodman: Toxic Positivity Ch1 @{2023-09-20} @@{23:45}
 - [ ] Seven Gauges @{2023-09-23}
 - [ ] Read Finny: Black Faces, White Spaces Ch1 @{2023-09-25} @@{23:45}
 - [ ] Design Your Life Ch4 @{2023-09-25} @@{23:45}
-- [ ] Quiz: Equity @{2023-09-26} @@{23:45}
 - [ ] Read: Diener: Happiness Ch8 @{2023-09-27} @@{23:45}
 - [ ] Experience Exercise 1 @{2023-09-27} @@{23:45}
+- [ ] Quiz: Equity @{2023-10-02} @@{23:45}
 - [ ] Review Exam @{2023-10-02}
 - [ ] Exam 1 (Respondus lockdown browser) @{2023-10-05} @@{23:45}
 
 
 ## Writing 1009
 
-- [ ] Read: They Say / I Say p 312-323 @{2023-09-18} @@{23:45}
+- [ ] Read: Barbara Mellix: From Outside In @{2023-09-28} @@{12:00}
+- [ ] Essay 1 Rough Draft @{2023-10-01} @@{23:45}
 
 
 ***
@@ -116,6 +115,17 @@ kanban-plugin: basic
 - [x] Implicit Bias Test @{2023-09-17} @@{23:45}
 - [x] Read: Authentic Happiness Ch1 & Ch4 @{2023-09-18} @@{23:45}
 - [x] Write a paragraph for each section + new stuff @{2023-09-15} @@{23:45}
+- [x] Week 4 Quiz @{2023-09-18} @@{23:45}
+- [x] Read: They Say / I Say p 312-323 @{2023-09-18} @@{23:45}
+- [x] Read Ch7-8 @{2023-09-18} @@{23:45}
+- [x] Week 5 Quiz @{2023-09-25} @@{23:45}
+- [x] Read Ch5 @{2023-09-20} @@{12:00}
+- [x] Webwork HW 3 @{2023-09-22} @@{23:45}
+- [x] Ch5 2nd half Quiz @{2023-09-25} @@{23:45}
+- [x] Read: Layous @{2023-09-19} @@{12:00}
+- [x] Goodman: Toxic Positivity Ch1 @{2023-09-20} @@{23:45}
+- [x] Read: Gloria Anzaldua: How to Tame a Wild Tongue @{2023-09-26} @@{12:00}
+- [x] Designing your life Ch3 @{2023-09-19} @@{12:00}
 
 %% kanban:settings
 ```
