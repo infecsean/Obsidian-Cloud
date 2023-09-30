@@ -6,19 +6,10 @@
       {
         "id": "edc1e9523a0e55c9",
         "type": "tabs",
+        "dimension": 45.67307692307692,
         "children": [
           {
-            "id": "d1e18985ee91455c",
-            "type": "leaf",
-            "state": {
-              "type": "kanban",
-              "state": {
-                "file": "Life/Life Kanban.md"
-              }
-            }
-          },
-          {
-            "id": "8a45938f1e26afdf",
+            "id": "52ff68773148f939",
             "type": "leaf",
             "state": {
               "type": "kanban",
@@ -26,9 +17,40 @@
                 "file": "Life/Academic Kanban (HELP).md"
               }
             }
+          },
+          {
+            "id": "d1e18985ee91455c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Semester 1/Writing 1009/Essay 1 Outline.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
         "currentTab": 1
+      },
+      {
+        "id": "d0b6c42b53e4ba07",
+        "type": "tabs",
+        "dimension": 54.32692307692307,
+        "children": [
+          {
+            "id": "cd8ff8a57bc42e97",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Semester 1/Writing 1009/Essay 1 Rough Draft.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
       }
     ],
     "direction": "vertical"
@@ -78,7 +100,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 245.5
+    "width": 245.5,
+    "collapsed": true
   },
   "right": {
     "id": "3a050af41fe3cfc4",
@@ -94,7 +117,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Life/Academic Kanban (HELP).md",
+                "file": "Semester 1/Writing 1009/Essay 1 Rough Draft.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +134,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Life/Academic Kanban (HELP).md",
+                "file": "Semester 1/Writing 1009/Essay 1 Rough Draft.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +157,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Life/Academic Kanban (HELP).md"
+                "file": "Semester 1/Writing 1009/Essay 1 Rough Draft.md"
               }
             }
           },
@@ -184,10 +207,28 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "8a45938f1e26afdf",
+  "active": "cd8ff8a57bc42e97",
   "lastOpenFiles": [
-    "Life/Life Kanban.md",
+    "Semester 1/Writing 1009/Essay 1 Outline.md",
+    "Semester 1/Writing 1009/Essay 1 Rough Draft.md",
     "Life/Academic Kanban (HELP).md",
+    "Semester 1/Gobal 1600/Homework/GLBL1600 Discussion 4. Language Biases.md",
+    "Semester 1/Gobal 1600/Homework",
+    "Life/Life Kanban.md",
+    "Semester 1/PRT 1110/Experience Exercise 1.md",
+    "Semester 1/PRT 1110/Attachments/Pasted image 20230926234435.png",
+    "Semester 1/PRT 1110/Attachments/Pasted image 20230927163847.png",
+    "Semester 1/Gobal 1600/In class work/Group Activity 9.27.md",
+    "Semester 1/PRT 1110/Attachments/Pasted image 20230927112805.png",
+    "Semester 1/PRT 1110/Attachments/Pasted image 20230927112727.jpg",
+    "Semester 1/PRT 1110/Attachments/Pasted image 20230927112714.png",
+    "Semester 1/PRT 1110/Attachments/Pasted image 20230927111742.png",
+    "Semester 1/Gobal 1600/In class work",
+    "Semester 1/PRT 1110/Attachments/Pasted image 20230927110047.jpg",
+    "Semester 1/PRT 1110/Attachments/Pasted image 20230927102845.jpg",
+    "Semester 1/PRT 1110/Attachments/Pasted image 20230927102821.jpg",
+    "Semester 1/PRT 1110/Attachments/IMG_0736.jpeg",
+    "Semester 1/PRT 1110/Attachments",
     "Semester 1/Gobal 1600/Who am I Essay.md",
     "Semester 1/Gobal 1600/Who am I Outline.md",
     "Semester 1/Econ 1740/Week 1 Quiz @{2023-08-25}.md",

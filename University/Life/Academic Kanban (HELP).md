@@ -23,6 +23,8 @@ kanban-plugin: basic
 
 ## GLBL 1600
 
+- [ ] Ch6 Quiz @{2023-10-04} @@{17:00}
+- [ ] Discussion 5: Value Dimensions in shows and films @{2023-10-06} @@{17:00}
 
 
 ## Math 1210
@@ -44,18 +46,15 @@ kanban-plugin: basic
 ## PRT 1110
 
 - [ ] Seven Gauges @{2023-09-23}
-- [ ] Read Finny: Black Faces, White Spaces Ch1 @{2023-09-25} @@{23:45}
-- [ ] Design Your Life Ch4 @{2023-09-25} @@{23:45}
-- [ ] Read: Diener: Happiness Ch8 @{2023-09-27} @@{23:45}
-- [ ] Experience Exercise 1 @{2023-09-27} @@{23:45}
 - [ ] Quiz: Equity @{2023-10-02} @@{23:45}
 - [ ] Review Exam @{2023-10-02}
 - [ ] Exam 1 (Respondus lockdown browser) @{2023-10-05} @@{23:45}
+- [ ] Discussion: What would you do if you had more free time? @{2023-10-18} @@{23:45}
+- [ ] Discussion: What did you do with your free time? @{2023-10-23} @@{23:45}
 
 
 ## Writing 1009
 
-- [ ] Read: Barbara Mellix: From Outside In @{2023-09-28} @@{12:00}
 - [ ] Essay 1 Rough Draft @{2023-10-01} @@{23:45}
 
 
@@ -126,6 +125,13 @@ kanban-plugin: basic
 - [x] Goodman: Toxic Positivity Ch1 @{2023-09-20} @@{23:45}
 - [x] Read: Gloria Anzaldua: How to Tame a Wild Tongue @{2023-09-26} @@{12:00}
 - [x] Designing your life Ch3 @{2023-09-19} @@{12:00}
+- [x] 9/26 Class Notes @{2023-09-26} @@{23:45}
+- [x] Read Finny: Black Faces, White Spaces Ch1 @{2023-09-25} @@{23:45}
+- [x] Design Your Life Ch4 @{2023-09-25} @@{23:45}
+- [x] Experience Exercise 1 @{2023-09-27} @@{23:45}
+- [x] Discussion 4: Language Bias & Discrimination @{2023-09-29} @@{17:00}
+- [x] Read: Diener: Happiness Ch8 @{2023-09-27} @@{23:45}
+- [x] Read: Barbara Mellix: From Outside In @{2023-09-28} @@{12:00}
 
 %% kanban:settings
 ```
