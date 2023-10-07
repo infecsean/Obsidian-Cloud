@@ -10,7 +10,7 @@ The Argument Summary is a summary of an essay that does more than just repeat, i
 Put another way: a successful argument summary will do two things: 1) summarize the argument (which is a different task than summarizing the essay) and 2) analyze the essay and thereby give a third-party who hasn’t read the article/essay an overview of the content, but also a sense of the value of the argument—why it is important and how someone might use it.
 
 ### Outline
-- Intro 235
+- Intro 230
 	- Introduce the essay
 		- Introduce the author
 		- Summarize the essay
@@ -19,7 +19,7 @@ Put another way: a successful argument summary will do two things: 1) summarize 
 	- Introduce my arguments/claims
 	- Brief description of how im gonna argue my claims
 		- Using statistics, citing popular news sites (UK Guardian), 
-- Body 1 400
+- Body 1 408
 	- Argument 1: Micro perspective: Why all lives matter is wrong and how it is justified
 	- Why the argument is pretty lit and important in the real world
 	- Techniques the author used to bring the argument to life

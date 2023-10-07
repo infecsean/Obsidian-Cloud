@@ -4,18 +4,21 @@ kanban-plugin: basic
 
 ---
 
-## Urgent
-
-
-
 ## Done
 
+
+
+## Urgent
+
+- [ ] Hold: Advising
+- [ ] Hold: Sexual Assault
+- [ ] Hold: Immunization
+- [ ] Task: Registration Validation
 
 
 ## Econ 1740
 
 - [ ] Read Ch9-10 @{2023-09-25} @@{23:45}
-- [ ] Week 6 Quiz (Ch1-4 Gordon) @{2023-10-02} @@{23:45}
 - [ ] Week 7 Quiz @{2023-10-16} @@{23:45}
 - [ ] Week 8 Quiz @{2023-10-23} @@{23:45}
 - [ ] Midterm @{2023-10-30} @@{23:45}
@@ -23,13 +26,11 @@ kanban-plugin: basic
 
 ## GLBL 1600
 
-- [ ] Ch6 Quiz @{2023-10-04} @@{17:00}
 - [ ] Discussion 5: Value Dimensions in shows and films @{2023-10-06} @@{17:00}
 
 
 ## Math 1210
 
-- [ ] Webwork HW 4 @{2023-10-05} @@{23:45}
 - [ ] Webwork HW 5 @{2023-10-16} @@{23:45}
 - [ ] Ch2 Math Exam @{2023-10-06}
 - [ ] Webwork HW 6 @{2023-10-27} @@{23:45}
@@ -46,16 +47,13 @@ kanban-plugin: basic
 ## PRT 1110
 
 - [ ] Seven Gauges @{2023-09-23}
-- [ ] Quiz: Equity @{2023-10-02} @@{23:45}
-- [ ] Review Exam @{2023-10-02}
-- [ ] Exam 1 (Respondus lockdown browser) @{2023-10-05} @@{23:45}
+- [x] Exam 1 (Respondus lockdown browser) @{2023-10-05} @@{23:45}
 - [ ] Discussion: What would you do if you had more free time? @{2023-10-18} @@{23:45}
 - [ ] Discussion: What did you do with your free time? @{2023-10-23} @@{23:45}
 
 
 ## Writing 1009
 
-- [ ] Essay 1 Rough Draft @{2023-10-01} @@{23:45}
 
 
 ***
@@ -132,6 +130,13 @@ kanban-plugin: basic
 - [x] Discussion 4: Language Bias & Discrimination @{2023-09-29} @@{17:00}
 - [x] Read: Diener: Happiness Ch8 @{2023-09-27} @@{23:45}
 - [x] Read: Barbara Mellix: From Outside In @{2023-09-28} @@{12:00}
+- [x] Week 6 Quiz (Ch1-4 Gordon) @{2023-10-02} @@{23:45}
+- [x] Bring gum and refill snickers
+- [x] Quiz: Equity @{2023-10-02} @@{23:45}
+- [x] Review Exam @{2023-10-02}
+- [x] Essay 1 Rough Draft @{2023-10-01} @@{23:45}
+- [x] Ch6 Quiz @{2023-10-04} @@{17:00}
+- [x] Webwork HW 4 @{2023-10-05} @@{23:45}
 
 %% kanban:settings
 ```

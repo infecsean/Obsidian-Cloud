@@ -4,11 +4,12 @@ kanban-plugin: basic
 
 ---
 
-## Stuff to buy once card arrives
+## Stuff to buy black friday
 
-- [ ] Obsidian subscription
-- [ ] Speaker
 - [ ] Guitar
+- [ ] projector
+- [ ] vr
+- [ ] steering wheel
 
 
 ## Movie night
@@ -16,6 +17,18 @@ kanban-plugin: basic
 - [ ] LaLaLand
 - [ ] Groundhog Day
 - [ ] Field of Dreams
+- [ ] Blue Moon
+- [ ] Karekano (Anime)
+- [ ] I wanna eat your pancreas
+
+
+## Book List
+
+- [ ] Gone Girl
+- [ ] His & Hers
+- [ ] Animal Farm
+- [ ] Brave New World
+- [ ] The Raven Cycle
 
 
 ***
@@ -24,6 +37,8 @@ kanban-plugin: basic
 
 - [x] Pull up Bar
 - [x] Vacuum cleaner
+- [x] Obsidian subscription
+- [x] Speaker
 
 %% kanban:settings
 ```

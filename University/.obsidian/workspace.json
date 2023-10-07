@@ -4,12 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "edc1e9523a0e55c9",
+        "id": "d1f2c8e68c209876",
         "type": "tabs",
-        "dimension": 45.67307692307692,
         "children": [
           {
-            "id": "52ff68773148f939",
+            "id": "ce6f075cd617c18a",
+            "type": "leaf",
+            "state": {
+              "type": "kanban",
+              "state": {
+                "file": "Life/Life Kanban.md"
+              }
+            }
+          },
+          {
+            "id": "56c9c943d3d39865",
             "type": "leaf",
             "state": {
               "type": "kanban",
@@ -17,40 +26,9 @@
                 "file": "Life/Academic Kanban (HELP).md"
               }
             }
-          },
-          {
-            "id": "d1e18985ee91455c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Semester 1/Writing 1009/Essay 1 Outline.md",
-                "mode": "source",
-                "source": false
-              }
-            }
           }
         ],
         "currentTab": 1
-      },
-      {
-        "id": "d0b6c42b53e4ba07",
-        "type": "tabs",
-        "dimension": 54.32692307692307,
-        "children": [
-          {
-            "id": "cd8ff8a57bc42e97",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Semester 1/Writing 1009/Essay 1 Rough Draft.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          }
-        ]
       }
     ],
     "direction": "vertical"
@@ -100,8 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 245.5,
-    "collapsed": true
+    "width": 245.5
   },
   "right": {
     "id": "3a050af41fe3cfc4",
@@ -117,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Semester 1/Writing 1009/Essay 1 Rough Draft.md",
+                "file": "Life/Academic Kanban (HELP).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -134,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Semester 1/Writing 1009/Essay 1 Rough Draft.md",
+                "file": "Life/Academic Kanban (HELP).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -157,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Semester 1/Writing 1009/Essay 1 Rough Draft.md"
+                "file": "Life/Academic Kanban (HELP).md"
               }
             }
           },
@@ -207,14 +184,15 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "cd8ff8a57bc42e97",
+  "active": "56c9c943d3d39865",
   "lastOpenFiles": [
+    "Life/Life Kanban.md",
+    "Life/Academic Kanban (HELP).md",
+    "Life/Life Canvas.canvas",
     "Semester 1/Writing 1009/Essay 1 Outline.md",
     "Semester 1/Writing 1009/Essay 1 Rough Draft.md",
-    "Life/Academic Kanban (HELP).md",
     "Semester 1/Gobal 1600/Homework/GLBL1600 Discussion 4. Language Biases.md",
     "Semester 1/Gobal 1600/Homework",
-    "Life/Life Kanban.md",
     "Semester 1/PRT 1110/Experience Exercise 1.md",
     "Semester 1/PRT 1110/Attachments/Pasted image 20230926234435.png",
     "Semester 1/PRT 1110/Attachments/Pasted image 20230927163847.png",
