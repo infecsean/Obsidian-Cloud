@@ -1,0 +1,3 @@
+Title of the section is “who cares” and the section addresses the problem of writers and speakers not giving the readers/audience a reason to care and therefore to be engaged in what they are reading/listening to.
+
+The example is given in a situation saying “scientists used to think that blah blah blah, but recently, biologists have found that blah blah blah”  and if we remove the former, ie, scientists used to think. It removes the reason for the audience to be engaged since they don’t know who the speaker/writer is addressing.

@@ -4,39 +4,36 @@ kanban-plugin: basic
 
 ---
 
-## Done
+## Events
+
+- [ ] Thanksgiving Day Start @{2023-11-23}
+- [ ] Thanksgiving Break End thurs. - sun. @{2023-11-26}
 
 
-
-## Urgent
+## Misc
 
 - [ ] Hold: Advising
-- [ ] Hold: Sexual Assault
-- [ ] Hold: Immunization
-- [ ] Task: Registration Validation
+- [ ] Plan Thanksgiving @{2023-11-12}
+- [ ] Buy Turkey stuffings @{2023-11-15}
 
 
 ## Econ 1740
 
-- [ ] Read Ch9-10 @{2023-09-25} @@{23:45}
-- [ ] Week 7 Quiz @{2023-10-16} @@{23:45}
-- [ ] Week 8 Quiz @{2023-10-23} @@{23:45}
-- [ ] Midterm @{2023-10-30} @@{23:45}
+- [ ] Quiz Week 11 @{2023-11-13} @@{23:45}
+- [ ] Quiz Week 12 @{2023-11-20} @@{23:45}
+- [ ] Quiz Week 13 @{2023-11-27} @@{23:45}
+- [ ] Quiz Week 14 @{2023-12-04} @@{23:45}
+- [ ] ==FINAL== Available @{2023-12-07} @@{23:45}
+- [ ] ==FINAL== ==DUE== @{2023-12-13} @@{23:45}
 
 
 ## GLBL 1600
 
-- [ ] Discussion 5: Value Dimensions in shows and films @{2023-10-06} @@{17:00}
 
 
 ## Math 1210
 
-- [ ] Webwork HW 5 @{2023-10-16} @@{23:45}
-- [ ] Ch2 Math Exam @{2023-10-06}
-- [ ] Webwork HW 6 @{2023-10-27} @@{23:45}
-- [ ] Webwork HW 7 @{2023-11-03} @@{23:45}
-- [ ] Ch3 Math Exam @{2023-11-06}
-- [ ] Webwork HW 8 @{2023-11-10} @@{23:45}
+- [ ] Webwork HW 8 @{2023-11-17} @@{23:45}
 - [ ] Webwork HW 9 @{2023-11-20} @@{23:45}
 - [ ] Ch4 Math Exam @{2023-11-21}
 - [ ] Webwork HW 10 @{2023-12-01} @@{23:45}
@@ -46,14 +43,20 @@ kanban-plugin: basic
 
 ## PRT 1110
 
-- [ ] Seven Gauges @{2023-09-23}
-- [x] Exam 1 (Respondus lockdown browser) @{2023-10-05} @@{23:45}
-- [ ] Discussion: What would you do if you had more free time? @{2023-10-18} @@{23:45}
-- [ ] Discussion: What did you do with your free time? @{2023-10-23} @@{23:45}
+- [ ] Good times journal @{2023-11-13}
+- [ ] Exam review @{2023-11-16}
+- [ ] Exam 2 @{2023-11-21} @@{15:15}
+- [ ] Designing Your Life @{2023-12-11}
+- [ ] Imagine U Activities @{2023-12-11}
+- [ ] Imagine U Videos & Reflections @{2023-12-11}
 
 
 ## Writing 1009
 
+- [ ] Read: Frankenstein Ch1-7 @{2023-11-13} @@{23:59}
+- [ ] Read: Frankenstein continued @{2023-11-15} @@{23:59}
+- [ ] Read: They Say/I Say Ch9-10 @{2023-11-20} @@{23:59}
+- [ ] Proposal Due @{2023-11-27} @@{23:59}
 
 
 ***
@@ -137,9 +140,62 @@ kanban-plugin: basic
 - [x] Essay 1 Rough Draft @{2023-10-01} @@{23:45}
 - [x] Ch6 Quiz @{2023-10-04} @@{17:00}
 - [x] Webwork HW 4 @{2023-10-05} @@{23:45}
+- [x] Hold: Immunization
+- [x] Discussion 5: Value Dimensions in shows and films @{2023-10-06} @@{17:00}
+- [x] Ch2 Math Exam @{2023-10-06}
+- [x] Exam 1 (Respondus lockdown browser) @{2023-10-05} @@{23:45}
+- [x] Seven Gauges @{2023-09-23}
+- [x] Hold: Sexual Assault
+- [x] Task: Registration Validation
+- [x] Read Ch9-10 @{2023-09-25} @@{23:45}
+- [x] Week 7 Quiz @{2023-10-16} @@{23:45}
+- [x] Ch7 pt1 Quiz @{2023-10-18} @@{23:45}
+- [x] Webwork HW 5 @{2023-10-20} @@{23:45}
+- [x] Read: Fredrick Douglass Ch1-5 @{2023-10-16} @@{23:45}
+- [x] Discussion: What would you do if you had more free time? @{2023-10-18} @@{23:45}
+- [x] Week 8 Quiz @{2023-10-23} @@{23:45}
+- [x] Discussion 6 @{2023-10-20} @@{23:45}
+- [x] Ch7 pt2 Quiz @{2023-10-23} @@{23:45}
+- [x] Discussion: What did you do with your free time? @{2023-10-23} @@{23:45}
+- [x] Read: What would veblen say? @{2023-10-23} @@{23:45}
+- [x] Read: Fredrick Douglass Ch6-11 @{2023-10-18} @@{23:45}
+- [x] Read: Malcom X @{2023-10-23} @@{23:45}
+- [x] Read: Designing your life Ch5 @{2023-10-23} @@{23:45}
+- [x] Enrollment letter
+- [x] Quiz: Take back your time @{2023-10-25} @@{23:45}
+- [x] Revise academic argument @{2023-10-25} @@{23:45}
+- [x] Read: They Say/I Say Ch6-8 @{2023-10-25} @@{23:45}
+- [x] Read: Annoying Ways @{2023-10-25} @@{23:45}
+- [x] Midterm @{2023-10-30} @@{23:45}
+- [x] Field Report @{2023-10-29} @@{23:45}
+- [x] Webwork HW 6 @{2023-10-30} @@{23:45}
+- [x] Deci: Why we do what we do Ch2-4 @{2023-10-25} @@{23:45}
+- [x] Quiz: Self Determination Theory @{2023-10-30} @@{23:45}
+- [x] Read: Fredrick: Love 2.0 @{2023-10-30} @@{23:45}
+- [x] Read: Designing your life Ch6 @{2023-10-30} @@{23:45}
+- [x] Read: Heut @{2023-10-30} @@{23:45}
+- [x] Read: Trout @{2023-10-30} @@{23:45}
+- [x] Read: Nesi, social media @{2023-11-01} @@{23:45}
+- [x] Quiz Week 10 @{2023-11-06} @@{23:45}
+- [x] Read: Poole @{2023-11-01} @@{23:45}
+- [x] Discussion 7 @{2023-11-03} @@{16:00}
+- [x] Webwork HW 7 @{2023-11-05} @@{23:45}
+- [x] Write content to what other ppl are talking about @{2023-11-02} @@{23:00}
+- [x] Write down questions for advising @{2023-11-02} @@{23:45}
+- [x] Research What classes to take @{2023-11-03} @@{23:45}
+- [x] ==DUE== Literacy Narrative @{2023-11-05} @@{23:59}
+- [x] Ch3 Math ==Exam== @{2023-11-06}
+- [x] Quiz: technology and digital leisure @{2023-11-06} @@{23:59}
+- [x] Read: Asma: On Monsters @{2023-11-06} @@{23:59}
+- [x] Read: Healthy nature, healthy people @{2023-11-06} @@{23:45}
+- [x] Read: Savoring in positive psychology @{2023-11-08} @@{23:45}
+- [x] Read: Kearney @{2023-11-08} @@{23:59}
+- [x] Read: Designing your life Ch9 @{2023-11-08} @@{23:45}
+- [x] Discussion 8 Sexual Orientation @{2023-11-10} @@{11:59}
+- [x] ==DUE SUNDAY== Experience Exercise 2 @{2023-11-12} @@{23:45}
 
 %% kanban:settings
 ```
-{"kanban-plugin":"basic"}
+{"kanban-plugin":"basic","date-colors":[{"distance":1,"unit":"days","direction":"after","backgroundColor":"rgba(191, 15, 15, 1)"},{"isToday":false,"distance":1,"unit":"weeks","direction":"after","backgroundColor":"rgba(181, 96, 34, 1)"},{"isToday":false,"distance":1,"unit":"months","direction":"after","backgroundColor":"rgba(44, 158, 35, 1)"}]}
 ```
 %%

@@ -1,0 +1,6 @@
+- Ask about details of CS-EAE (content difference, what does it say on my degree)
+- Ask if I can transfer to CS-EAE (if interested)
+- Ask optimal class choice to not be overwhelmed in the last few semesters
+- Ask about internship opportunities
+- Ask about ssn (unrelated?)
+- 

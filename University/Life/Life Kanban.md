@@ -14,12 +14,14 @@ kanban-plugin: basic
 
 ## Movie night
 
-- [ ] LaLaLand
+- [x] LaLaLand
 - [ ] Groundhog Day
 - [ ] Field of Dreams
 - [ ] Blue Moon
 - [ ] Karekano (Anime)
 - [ ] I wanna eat your pancreas
+- [ ] Ruby sparks (2012)
+- [ ] Norwegian Wood (2010)
 
 
 ## Book List
@@ -29,6 +31,11 @@ kanban-plugin: basic
 - [ ] Animal Farm
 - [ ] Brave New World
 - [ ] The Raven Cycle
+
+
+## Game Dev
+
+- [ ] Brainstorm: Piece yourself together mini game (for idk game)
 
 
 ***

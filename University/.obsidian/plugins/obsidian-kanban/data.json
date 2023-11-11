@@ -10,10 +10,9 @@
       "color": "rgba(242, 139, 22, 1)"
     },
     {
-      "distance": 1,
-      "unit": "days",
+      "distance": 48,
+      "unit": "hours",
       "direction": "after",
-      "isToday": true,
       "color": "rgba(233, 20, 20, 1)"
     },
     {
