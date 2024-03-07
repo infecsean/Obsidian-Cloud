@@ -14,61 +14,69 @@ kanban-plugin: basic
 
 ## CS 1420-001
 
-- [ ] Lab 2 Quiz @{2024-01-16} @@{15:30}
-- [ ] Week 1 Quiz @{2024-01-16} @@{11:59}
-- [ ] Coin Calculator @{2024-01-18}
-- [ ] Week 2 Quiz @{2024-01-22} @@{11:59}
-- [ ] Lucky Number Generator @{2024-01-25}
-- [ ] ==Midterm 1== @{2024-02-07}
+- [ ] Weekly Quiz Due Mondays @{2024-03-11} @@{23:45}
+- [ ] Assignment 7: Gacha Game @{2024-03-14} @@{23:45}
 - [ ] ==Midterm 2== @{2024-03-20}
+- [ ] Assignment 8: Dynamic Arrays @{2024-03-28} @@{23:45}
 - [ ] ==Final== @{2024-04-30} @@{13:00}
 
 
 ## EAE 1050-007
 
-- [ ] Design 1 Line Qualities @{2024-01-22} @@{11:59}
-- [ ] Design 2 Shape and Balance @{2024-01-29} @@{11:59}
-- [ ] Design 3 Perspectives @{2024-02-05} @@{11:59}
-- [ ] Shape Builder Tool @{2024-02-07}
-- [ ] Design 4 Texture Repetition Rhythm @{2024-02-12} @@{11:59}
-- [ ] Design 5 Color Size Readability @{2024-03-04} @@{11:59}
-- [ ] Design 6 Modeling and Texturing Pokeball @{2024-03-18} @@{11:59}
-- [ ] Design 7 Modeling and texturing shield @{2024-04-01} @@{11:59}
+- [ ] Lab Simple Scene in Maya @{2024-03-13} @@{23:45}
+- [ ] Design 6 Modeling and Texturing Pokeball @{2024-03-18} @@{23:45}
+- [ ] Zbrush Quick Sculpt @{2024-03-27} @@{23:45}
+- [ ] Design 7 Modeling and texturing shield @{2024-04-01} @@{23:45}
+- [ ] Design 8 Zbrush Creature @{2024-04-22} @@{23:45}
 
 
 ## MATH 1220-005
 
-- [ ] Week 1 HW @{2024-01-12} @@{11:59}
-- [ ] Week 2 HW @{2024-01-19} @@{11:59}
-- [ ] Week 3 HW @{2024-01-26} @@{11:59}
-- [ ] Week 4 HW @{2024-02-02} @@{11:59}
-- [ ] Week 5 HW @{2024-02-09} @@{11:59}
-- [ ] ==Midterm 1== @{2024-02-14}
-- [ ] Week 6 HW @{2024-02-16} @@{11:59}
-- [ ] Week 7 HW @{2024-02-23} @@{11:59}
-- [ ] Week 8 HW @{2024-03-01} @@{11:59}
-- [ ] Week 9 HW @{2024-03-15} @@{11:59}
-- [ ] Week 10 HW @{2024-03-22} @@{11:59}
+- [ ] Daily Quiz x2 @{2024-03-11} @@{23:45}
+- [ ] Week 9 HW @{2024-03-15} @@{23:45}
+- [ ] Week 10 HW @{2024-03-22} @@{23:45}
 - [ ] ==Midterm 2== @{2024-03-27}
-- [ ] Week 11 HW @{2024-03-29} @@{11:59}
-- [ ] Week 12 HW @{2024-04-05} @@{11:59}
-- [ ] Week 13 HW @{2024-04-12} @@{11:59}
-- [ ] Week 14 HW @{2024-04-19} @@{11:59}
-- [ ] Week 15 HW @{2024-04-26} @@{11:59}
+- [ ] Week 11 HW @{2024-03-29} @@{23:45}
+- [ ] Week 12 HW @{2024-04-05} @@{23:45}
+- [ ] Week 13 HW @{2024-04-12} @@{23:45}
+- [ ] Week 14 HW @{2024-04-19} @@{23:45}
+- [ ] Week 15 HW @{2024-04-26} @@{23:45}
 - [ ] ==Final Exam== at LCB 219 @{2024-04-29} @@{18:00}
 
 
 ## PHIL 1003-001
 
-- [x] QCC 1 @{2024-01-12} @@{03:00}
-- [x] Read Syllabus @{2024-01-12} @@{23:45}
-- [ ] Weekly Quiz 1 @{2024-01-15}
-- [ ] Syllabus Quiz @{2024-01-26} @@{23:45}
+- [ ] Weekly Quiz Due mondays @{2024-03-11} @@{23:45}
+- [ ] QCC 15 Freud @{2024-03-11} @@{23:59}
+- [ ] QCC 16 Heschel @{2024-03-13} @@{23:59}
+- [ ] QCC 17 Johnson @{2024-03-18} @@{23:59}
+- [ ] Unit 2 review @{2024-03-21}
+- [ ] QCC 18 Rachels Relevatism @{2024-03-25} @@{23:59}
+- [ ] QCC 19 Rachels Morality @{2024-03-27} @@{23:59}
+- [ ] QCC 20 Rachels Utilitarian @{2024-04-01} @@{23:59}
+- [ ] QCC 21 Rachels Moral rules @{2024-04-03} @@{23:59}
+- [ ] QCC 22 Le Guin @{2024-04-08} @@{23:59}
+- [ ] QCC 23 Bostrom @{2024-04-10} @@{23:59}
+- [ ] QCC 24 MLK @{2024-04-15} @@{23:59}
+- [ ] QCC 25 Bostrom @{2024-04-17} @@{23:59}
+- [ ] Unit 3 review @{2024-04-23}
 
 
 ## WRTG 2010-092
 
-- [ ] Read Syllabus @{2024-01-12} @@{23:45}
+- [ ] Integrating Sources @{2024-03-13} @@{23:45}
+- [ ] Citation @{2024-03-13} @@{23:45}
+- [ ] Viewpoint Synthesis Rough Draft @{2024-03-17}
+- [ ] Open 2010 Ch1 @{2024-03-21} @@{23:45}
+- [ ] Viewpoint Synthesis Final Draft @{2024-03-24} @@{23:45}
+- [ ] Open 2010 Ch1 Discussion @{2024-03-24} @@{23:45}
+- [ ] Jones Reading Log @{2024-03-26} @@{23:45}
+- [ ] Jones Discussion @{2024-03-31} @@{23:45}
+- [ ] Open 2010 Ch3 Reading Log @{2024-03-31} @@{23:45}
+- [ ] Argument Stasis @{2024-04-07} @@{23:45}
+- [ ] Open 2010 Ch3 Discussion @{2024-04-07} @@{23:45}
+- [ ] Community Researched Argument Rough Draft @{2024-04-21} @@{23:45}
+- [ ] Community Researched Argument Final Draft @{2024-05-03} @@{23:45}
 
 
 ## What to do when
@@ -251,6 +259,81 @@ kanban-plugin: basic
 - [x] DYL Prototype Conversations @{2023-12-08}
 - [x] ==FINAL== ==DUE== @{2023-12-13} @@{23:45}
 - [x] Final Math Exam @{2023-12-12}
+- [x] QCC 1 @{2024-01-12} @@{03:00}
+- [x] Read Syllabus @{2024-01-12} @@{23:45}
+- [x] Read Syllabus @{2024-01-12} @@{23:45}
+- [x] Lab 2 Quiz @{2024-01-16} @@{15:30}
+- [x] Weekly Quiz 1 @{2024-01-15} @@{23:45}
+- [x] QCC 2 Meno @{2024-01-16} @@{10:45}
+- [x] Week 1 Quiz @{2024-01-16} @@{23:45}
+- [x] Coin Calculator @{2024-01-18}
+- [x] Week 1 HW @{2024-01-12} @@{23:45}
+- [x] QCC 3 Republic Bk VI @{2024-01-17} @@{23:45}
+- [x] Learning the symmetry tool @{2024-01-17} @@{23:45}
+- [x] Week 2 HW @{2024-01-19} @@{23:45}
+- [x] Choose a community @{2024-01-19} @@{23:45}
+- [x] Week 2 Quiz @{2024-01-22} @@{23:45}
+- [x] QCC 4 Republic Bk VII @{2024-01-22} @@{23:45}
+- [x] Melzer/Gee Discussion @{2024-01-21} @@{23:45}
+- [x] Design 1 Line Qualities @{2024-01-22} @@{23:45}
+- [x] Daily quiz @{2024-01-22} @@{23:30}
+- [x] Week 1 Video
+- [x] QCC 5 Metaphysics @{2024-01-24} @@{23:45}
+- [x] Week 2 Video @{2024-01-23}
+- [x] Week 3 Video @{2024-01-24}
+- [x] Discourse Community Report Rough Draft @{2024-01-24} @@{23:45}
+- [x] Lucky Number Generator @{2024-01-25} @@{23:45}
+- [x] Syllabus Quiz @{2024-01-26} @@{23:45}
+- [x] Weekly quiz every monday @{2024-01-29}
+- [x] Week 3 Quiz @{2024-01-29} @@{23:45}
+- [x] Discourse Community Report Final Draft @{2024-01-28} @@{23:45}
+- [x] Week 3 HW @{2024-01-26} @@{23:45}
+- [x] Design 2 Shape and Balance @{2024-01-29} @@{23:45}
+- [x] QCC 6 Russell @{2024-01-29} @@{23:45}
+- [x] Carroll Reading Log  @{2024-01-30} @@{23:45}
+- [x] Daily quiz @{2024-01-30} @@{23:30}
+- [x] Driscoll Reading Log @{2024-01-30} @@{23:45}
+- [x] Assignment 3 Grade Predictor @{2024-02-01} @@{23:45}
+- [x] QCC 7 Foucault @{2024-02-01} @@{23:45}
+- [x] 1/31 Daily Quiz @{2024-02-01} @@{23:45}
+- [x] Week 4 HW @{2024-02-02} @@{23:45}
+- [x] Carroll/Driscoll Discussion @{2024-02-04} @@{23:45}
+- [x] Week 4 Quiz @{2024-02-05}
+- [x] Designing/Conducting Interviews @{2024-02-04} @@{23:45}
+- [x] Design 3 Perspectives @{2024-02-05} @@{23:45}
+- [x] QCC 8 Nguyen @{2024-02-05} @@{23:45}
+- [x] On campus job fair @{2024-02-06}
+- [x] ==Midterm 1== @{2024-02-07}
+- [x] Review 1 @{2024-02-08}
+- [x] Roberts Miller Reading Log @{2024-02-07} @@{23:45}
+- [x] Roberts-Miller Discussion @{2024-02-11} @@{23:45}
+- [x] Week 5 HW @{2024-02-09} @@{23:45}
+- [x] Transcription @{2024-02-10} @@{23:45}
+- [x] Design 4 Texture Repetition Rhythm @{2024-02-12} @@{23:45}
+- [x] QCC 9 Plato Phaedo p1-8 @{2024-02-12} @@{23:59}
+- [x] Shape Builder Tool @{2024-02-14}
+- [x] ==Midterm 1== @{2024-02-14}
+- [x] QCC 10 Plato Phaedo p9-22 @{2024-02-14} @@{23:59}
+- [x] Community Rhetorical Analysis Rough Draft @{2024-02-14} @@{23:45}
+- [x] Assignment 4: Method Practice @{2024-02-15}
+- [x] Week 5-6 Quiz @{2024-02-20} @@{23:45}
+- [x] Week 6 HW @{2024-02-18} @@{23:45}
+- [x] QCC 11 Pascal @{2024-02-19} @@{23:59}
+- [x] Assignment 5: Calendar Date and month classes @{2024-02-22} @@{23:45}
+- [x] Carillo Reading Log @{2024-02-21} @@{23:45}
+- [x] Week 7 HW @{2024-02-23} @@{23:45}
+- [x] QCC 12 Hume @{2024-02-21} @@{23:59}
+- [x] Community Rhetorical Analysis Final Draft @{2024-02-25} @@{23:45}
+- [x] Assignment 6: Word Class @{2024-02-29} @@{23:45}
+- [x] QCC 13 Clifford @{2024-02-26} @@{23:59}
+- [x] QCC 14 James @{2024-02-28} @@{23:59}
+- [x] Stedman Reading Log @{2024-02-28} @@{23:45}
+- [x] Stedman Discussion @{2024-03-03} @@{23:45}
+- [x] Daily Quiz x2 @{2024-02-29} @@{23:45}
+- [x] Summary @{2024-03-01}
+- [x] Week 8 HW @{2024-03-01} @@{23:45}
+- [x] Design 5 Color Size Readability @{2024-03-04} @@{23:45}
+- [x] Choose Topic/Issue/RQ @{2024-03-03} @@{23:45}
 
 %% kanban:settings
 ```

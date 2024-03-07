@@ -1,0 +1,5 @@
+- Some parts are vague (thesis)(originally)
+- They say is very clear, I say is lacking
+- the (33) part is wrong due to me correcting off of prof’s response
+- First argument could be clearer
+	- The “I say” part 

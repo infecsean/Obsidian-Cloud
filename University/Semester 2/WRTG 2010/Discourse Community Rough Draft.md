@@ -1,0 +1,21 @@
+Essay 1000~1500 words
+- Introduction 300
+	- Start with hook
+	- Define key terms
+		- Discourse
+		- Discourse community
+		- Literacy
+		- other context specific terms
+	- Introduce my discourse community
+	- Justify my discourse community as a DC
+	- Tell them why I am telling a story
+- Body 1 (350 words ig) (talking about meetings and ways of communication and discord server)
+	- Connect to the existence of expert members
+	- tell a story about intercommunication between members
+	- Connect previous story to next story about how they provide info and feedback
+- Body 2 (350 words) (a game jam)
+	- Tell about different genres in the DC
+	- Tell a story about specialized languages
+	- Tell a story about public goals
+- Conclusion (200 words)
+

@@ -14,7 +14,10 @@ kanban-plugin: basic
 
 ## Movie night
 
+- [ ] Lanthimos Films
 - [x] LaLaLand
+- [x] A whisker Away
+- [x] Portrait of a lady on fire (2019)
 - [ ] Groundhog Day
 - [ ] Field of Dreams
 - [ ] Blue Moon
@@ -22,6 +25,9 @@ kanban-plugin: basic
 - [ ] I wanna eat your pancreas
 - [ ] Ruby sparks (2012)
 - [ ] Norwegian Wood (2010)
+- [ ] Phantom Threads
+- [ ] 500 Days of summer
+- [ ] All about lily chou chou
 
 
 ## Book List
@@ -36,6 +42,8 @@ kanban-plugin: basic
 ## Game Dev
 
 - [ ] Brainstorm: Piece yourself together mini game (for idk game)
+- [ ] Idea: Make a game that hates itself
+- [ ] Idea: Make a game that is generated with AI. (ie. gameplay, textures, all that). ambitious i know, but fuck you.
 
 
 ***

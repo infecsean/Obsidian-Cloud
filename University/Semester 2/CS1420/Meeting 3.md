@@ -1,0 +1,14 @@
+- Infinite Loops
+- Immediately exiting a loop
+	- the keyword ==break== immediately exits a loop
+- for loops
+	- Advantages
+		- counting over specifc range
+		- predictable number of iterations
+- while loops
+	- Advantages
+		- complex repetition
+		- event-driven repetition
+		- an unpredictable number of iterations
+- boolean
+	- combine multiple boolean expressions with || (or) and && (and)

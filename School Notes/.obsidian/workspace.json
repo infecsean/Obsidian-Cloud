@@ -39,8 +39,8 @@
               "state": {
                 "file": "Life/Game Dev/Projects/Project Flies/PF Canvas.canvas",
                 "viewState": {
-                  "x": 11363.426448640548,
-                  "y": -4953.352167968561,
+                  "x": 11254.060714906023,
+                  "y": -5176.326491916594,
                   "zoom": -0.5
                 }
               }
@@ -197,7 +197,9 @@
             "state": {
               "type": "all-properties",
               "state": {
-                "sortOrder": "frequency"
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
               }
             }
           }
@@ -225,12 +227,12 @@
   },
   "active": "ebd34e8d56878c71",
   "lastOpenFiles": [
+    "Life/Game Dev/Projects/Project Flies/PF Canvas.canvas",
+    "Life/Game Dev/Projects/Project Flies/PF Kanban.md",
     "Life/Game Dev/Projects/CAS/CAS game kanban.md",
     "Life/Game Dev/Projects/Project Flies/PF Level Design Brainstorm.md",
     "Life/Game Dev/Game Dev Resources.md",
-    "Life/Game Dev/Projects/Project Flies/PF Canvas.canvas",
     "Life/Game Dev/Projects/Project Flies/PF Pre Discussion.md",
-    "Life/Game Dev/Projects/Project Flies/PF Kanban.md",
     "Life/Game Dev/Projects/CAS/Colors Game Design.md",
     "Life/Game Dev/Projects/CAS/Enemy designing.md",
     "Life/Game Dev/Projects/CAS/Items.md",

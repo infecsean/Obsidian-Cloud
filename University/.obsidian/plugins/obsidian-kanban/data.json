@@ -3,7 +3,6 @@
   "show-checkboxes": true,
   "date-colors": [
     {
-      "isToday": false,
       "distance": 3,
       "unit": "days",
       "direction": "after",

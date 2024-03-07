@@ -18,17 +18,28 @@
             }
           },
           {
-            "id": "16f448c8e9875310",
+            "id": "fd5829f7f8286ba1",
             "type": "leaf",
             "state": {
               "type": "kanban",
               "state": {
-                "file": "Life/Academic Kanban (HELP).md"
+                "file": "Life/Academic Kanban.md"
+              }
+            }
+          },
+          {
+            "id": "feeb180a2f3ed10a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Semester 2/PHIL 1003/QCC 10.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -94,7 +105,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Life/Academic Kanban (HELP).md",
+                "file": "Life/Life Kanban.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +122,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Life/Academic Kanban (HELP).md",
+                "file": "Life/Life Kanban.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +145,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Life/Academic Kanban (HELP).md"
+                "file": "Life/Life Kanban.md"
               }
             }
           },
@@ -160,7 +171,9 @@
             "state": {
               "type": "all-properties",
               "state": {
-                "sortOrder": "frequency"
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
               }
             }
           }
@@ -182,34 +195,42 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "16f448c8e9875310",
+  "active": "ce6f075cd617c18a",
   "lastOpenFiles": [
-    "Semester 1/PRT 1110/Experience exercise 2.md",
-    "Semester 1/Writing 1009/WRTG 1009 11.9 Notes.md",
-    "Semester 1/Writing 1009/Essay 1 Outline.md",
-    "Semester 1/Writing 1009/WRTG 1009 Who cares section.md",
-    "Semester 1/Writing 1009/WRTG 1009 11.2 Homework Respond to each summary.md",
-    "Life/Academic Kanban (HELP).md",
-    "Semester 1/Gobal 1600/Homework/GLOBL 1600 Discussion 8.md",
-    "Semester 1/Gobal 1600/Homework/GLBL1600 Discussion 4. Language Biases.md",
-    "Semester 1/Gobal 1600/Homework/GLOBL 1600 Discussion 7.md",
+    "Life/Academic Kanban.md",
     "Life/Life Kanban.md",
-    "Semester 1/Gobal 1600/In class work/GLOBL 1600 11.8 Writing Activity.md",
-    "Semester 1/Writing 1009/Literacy Narrative Outline.md",
-    "Life/Notes for advising.md",
-    "Life/Class ppplannnig.md",
-    "Semester 1/Gobal 1600/Homework/GLOBL 1600 Field Experience Outline.md",
-    "Semester 1/Gobal 1600/Homework/GLOBL 1600 Field Experience Draft.md",
-    "Semester 1/Gobal 1600/Homework/GLOBL 1600 Field Experience.md",
-    "Semester 1/Writing 1009/Essay 1 Final Draft.md",
-    "Semester 1/Writing 1009/Essay 1 Rough Draft.md",
-    "Semester 1/PRT 1110/10.19 Discussions.md",
+    "Semester 2/PHIL 1003/QCC 10.md",
+    "Life/Apartment Inquiry.md",
+    "Semester 2/PHIL 1003/QCC 9.md",
+    "Semester 2/PHIL 1003/QCC 8.md",
+    "Semester 2/PHIL 1003/QCC 7.md",
+    "Semester 2/PHIL 1003/QCC 6.md",
+    "Semester 2/WRTG 2010/Discourse Community.md",
+    "Semester 2/PHIL 1003/QCC 4.md",
+    "Semester 2/WRTG 2010/Discourse Community Rough Draft.md",
+    "Life/Academic Kanban (HELP).md",
+    "Semester 2/PHIL 1003/QCC 3.md",
+    "Semester 2/WRTG 2010",
+    "Semester 2/CS1420/Meeting 3.md",
+    "Semester 2/CS1420/Trash Compactor 1420.md",
+    "Semester 2/CS1420",
+    "Semester 2/PHIL 1003/QCC 2.md",
+    "Semester 2/PHIL 1003",
+    "Semester 2",
+    "Semester 1/Writing 1009/WRTG 1009 11.2 Homework Respond to each summary.md",
+    "Semester 1/PRT 1110/PRT1110 Good Time Journal Reflections.md",
+    "Semester 1/PRT 1110/PRT1110 Building a compass.md",
+    "Semester 1/Gobal 1600/Homework/GLOBL1600 Final Essay Brainstorm.md",
+    "Semester 1/PRT 1110/PRT1110 Imagine U Reflection.md",
+    "Semester 1/Writing 1009/Final Essay Proposal.md",
+    "Semester 1/Writing 1009/WRTG1009 Peer feedback.md",
+    "Semester 1/Writing 1009/WRTG1009 Final essay notes.md",
+    "Semester 1/Writing 1009/Final essay notes.md",
+    "Semester 1/Writing 1009/WRTG 1009 11.9 Notes.md",
     "Life/Life Canvas.canvas",
     "Semester 1/Gobal 1600/Homework",
-    "Semester 1/PRT 1110/Experience Exercise 1.md",
     "Semester 1/PRT 1110/Attachments/Pasted image 20230926234435.png",
     "Semester 1/PRT 1110/Attachments/Pasted image 20230927163847.png",
-    "Semester 1/Gobal 1600/In class work/Group Activity 9.27.md",
     "Semester 1/PRT 1110/Attachments/Pasted image 20230927112805.png",
     "Semester 1/PRT 1110/Attachments/Pasted image 20230927112727.jpg",
     "Semester 1/PRT 1110/Attachments/Pasted image 20230927112714.png",
@@ -220,16 +241,8 @@
     "Semester 1/PRT 1110/Attachments/Pasted image 20230927102821.jpg",
     "Semester 1/PRT 1110/Attachments/IMG_0736.jpeg",
     "Semester 1/PRT 1110/Attachments",
-    "Semester 1/Gobal 1600/Who am I Essay.md",
-    "Semester 1/Gobal 1600/Who am I Outline.md",
-    "Semester 1/Econ 1740/Week 1 Quiz @{2023-08-25}.md",
-    "Life/Untitled.md",
     "Life",
     "Semester 1/Econ 1740",
-    "Semester 1/PRT 1110",
-    "Semester 1/Writing 1009",
-    "Semester 1/Gobal 1600",
-    "Semester 1/Math 1210",
-    "Semester 1"
+    "Semester 1/PRT 1110"
   ]
 }

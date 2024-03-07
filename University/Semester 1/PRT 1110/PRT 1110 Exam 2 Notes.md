@@ -1,0 +1,163 @@
+- Day 15
+	- Describe the role of meaning and purpose on life
+		- Connection between 2 objects, ideas, entities
+		- Representation of non-physical reality (Can’t touch it)
+		- Generally stable concept
+	- Identify 4 needs for meaning
+		- Purpose: Drawing connection between what you’re doing now and in the future
+			- Goals (Objective outcome) & Fulfillment (Subjective)
+		- Values: Helps determine what is right or wrong
+			- By living with your values, people have less guilt and anxiety and regret
+		- Sense of efficacy: The idea that you can make a difference
+			- The lack of this would lead to feelings of lack of control for
+		- Sense of self worth: The belief that you are good and worthy
+			- Comes from negative downward comparison
+			- Comes also from belonging in a group
+	- Define Value gap and its causes
+		- Definition: Difference between where people would usually find their values and now shifted to finding values internally
+		- Cause: Emphasis on the self
+	- Discuss sources of our values
+	- Discuss how to find meaning in leisure activities
+		- Meaningful experiences often associated with suffering
+	- Meaning making
+		- An active process through which people revise or reappraise an event or series of events
+		- Benefits:
+			- Developing a sense of identity
+			- Reduction in impact of traumatic events
+			- Improved immune system functioning
+- Day 16
+	- Theory of a leisure class
+		- Pursuit of social status hindered the progress of society, emphasizing a need for a shift in societal values
+	- Emulation
+		- Definition: Imitating the consumption patterns and lifestyles of upper class to gain social recognition and climb the social ladder
+	- Conspicuous consumption
+		- Definition: Extravagant spending on goods and services primarily to display social status rather than to meet practical needs
+	- Conspicuous leisure
+		- Definition: Non-productive activities, often time consuming and extravagant, engaged in for the sake of displaying wealth and social status
+		- Purpose: Reinforce social distinctions by demonstrating the ability to engage in useless activities
+	- Effects of consumption on environment and wellbeing 
+		- Environment
+			- Resource depletion
+			- Pollution
+			- Waste generation
+			- Carbon footprint
+			- Impact on creatures
+		- Well being
+			- Materialism
+			- Hedonic treadmill
+			- Relative income hypothesis
+			- Consumer culture
+- Day 18
+	- Self determination theory
+		- Definition: Psychological theory that emphasizes the importance of intrinsic motivation and three basic psychological needs 
+	- Three basic psychological needs
+		- Autonomy
+		- Competence
+		- Relatedness
+	- Six types of motivation
+		- Intrinsic: Activity completed for its inherent joy
+		- Integrated: Activity completed cus it aligns with values
+		- Identified: Activity completed cus its personally important/valuable
+		- Introjected: Activity completed to avoid guilt
+		- Extrinsic: Activity completed to attain external reward
+		- Amotivation: Activity done without any desire or willingness to act
+	- Factors influencing motivation
+		- Autonomy supportive environment
+			- Respect individuals’ choices, enhancing intrinsic motivation
+	- Application of self determination theory
+- Day 19
+	- Relationship between social support and health
+		- Definition: Assistance, resources and emotional help provided by individuals, social networks and communities to aid in addressing life challenges
+			- Emotional support: Empathy, love, trust, care
+			- Instrumental support: Tangible, practical assistance provided in times of need
+			- Informational support: Advice, guidance, info
+		- Relationship
+			- Strong social networks = healthier (when stressed, you have confidence since you have people that can help)
+			- Mental health (buffers against stress, anxiety, depression)
+	- Research between romantic relationships and happiness
+		- Characteristics associated with single people are negative and couples are positive
+		- People in unhappy marriage were 2x likely to have worse health as happily married individuals
+	- Positivity resonance
+		- Sharing one or more positive emotions between you and other
+		- Synchrony between you and the other person’s biochemistry and behavior 
+		- Reflected motive to invest in each other’s well being that brings mutual care
+		- To achieve positivity resonance, we need to feel safe in physical presence
+	- Differences between quality and quantity of relationships
+- Day 20
+	- Trends of tech use over the past decades
+		- Tech use increased
+		- 
+	- Examine risk to health associated with tech use
+		- 2hr+ screen time is linked to depression
+		- Anxiety+
+		- Overweight/obese+
+		- Children have ADHD
+	- Relationship between mental health and tech
+		- Exposure to harm, social isolation, depression, bullying
+		- Social comparison pressure and social isolation after being rejected
+		- Depression, anxiety, suicide
+		- Replace in person interactions -> isolation+
+		- Cyberbullying
+		- Privacy
+	- Benefits of tech use
+		- Allows for social interaction any time
+		- Allows formation of groups for marginalized identities
+		- Depressed people prefer online interactions
+		- People seek help online due to its anonymity 
+- Day 21
+	- Elements of socio-ecological theory
+		- Policy - Federal, state, local
+		- Community - Cities, neighborhoods, resources, norms
+		- Institutional - Organizations, schools, workplaces
+		- Interpersonal - Friends, family, social networks
+		- Individual - Knowledge, attitudes, skills, behaviors
+	- Difference between upstream and downstream interventions
+		- Upstream: Root causes
+		- Downstream: Treating the symptoms
+	- Patterns in time use and time spent outdoors
+		- Total time spend indoors: 86.9%. Outdoors: 7.6%
+	- Define nature
+		- As a physical environment:
+		- As social and cultural construct:
+		- As system or organism
+		- As symbol
+	- Define attention restoration theory
+		- Directed attention during start of task 
+		- Restorative environments
+			- Fascination: attention without effort
+			- Being away: Apart from one’s usual thoughts or concerns
+			- Extent: Immersion and engagement
+			- Compatible: In line with personal preferences
+	- Reintegration of nature in our lives
+- Day 22
+	- Define & Describe savoring
+		- Def: Capacity to attend to, appreciate, and enhance positive experiences 
+		- Preconditions
+			- Being able to connect to present momnt
+			- Freedom from urgent social responsibilities 
+			- Basic physical and psychological needs are covered
+			- Presence of mindfulness
+		- 4 Dimensions
+			- Marveling: losing oneself 
+			- Luxuriating: indulging our senses as we do when we eat good stuff
+			- Basking: focusing on 
+			- Thanksgiving: 
+		- Process
+			- Anticipation: planning it out
+			- Savoring the moment
+			- Reminiscence
+			- Sharing
+	- Experiments with savoring
+- Day 23
+	- Describe process of identity formation
+		- Exploration in breadth
+		- Commitment making
+		- Exploration in depth
+		- Identification with commitment
+		- Me :)
+	- Implications of successful identity formation
+		- 
+	- Define personal identity and alternate and master narratives
+		- Narrative identity: Subjective, constructed, evolving story of how one became
+		- Master narrative: Culturally shared stories that tell us about a given culture and provide guidance for how to be a “good” member of a culture 
+	- Implications of master narratives on personal identities
