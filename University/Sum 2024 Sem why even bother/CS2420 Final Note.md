@@ -1,0 +1,23 @@
+- Priority queue and doubly-ended priority queue ADTs
+- Binary heap (data structure)
+    - structure property
+    - order property
+    - min-heap, max-heap, min-max heap
+    - insert/add, extract/removeMax, peek/findMax operations and their running-time behaviors
+    - buildHeap (aka heapify) operation
+    - largest/smallest-k operation and its running-time behavior
+    - heapsort and its running-time behavior
+- Command-line arguments
+- Grammars
+- Huffman's algorithm for file compression
+    - binary trie
+    - encoding / decoding
+    - overhead costs
+- Self-balancing binary search trees 
+    - AVL trees, balance requirement, rotations
+    - running-time behavior
+- Stable sorts
+- Non-comparison-based sorting algorithms
+    - pigeonhole sort
+    - radix sort
+    - counting sort

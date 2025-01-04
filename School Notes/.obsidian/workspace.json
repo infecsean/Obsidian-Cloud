@@ -62,9 +62,11 @@
             "id": "ebd34e8d56878c71",
             "type": "leaf",
             "state": {
-              "type": "kanban",
+              "type": "markdown",
               "state": {
-                "file": "Life/Game Dev/Projects/Project Flies/PF Kanban.md"
+                "file": "Daily/THE Checklist.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -135,7 +137,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Life/Game Dev/Projects/Project Flies/PF Kanban.md",
+                "file": "Daily/THE Checklist.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -187,7 +189,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Life/Game Dev/Projects/Project Flies/PF Kanban.md"
+                "file": "Daily/THE Checklist.md"
               }
             }
           },
@@ -227,8 +229,11 @@
   },
   "active": "ebd34e8d56878c71",
   "lastOpenFiles": [
-    "Life/Game Dev/Projects/Project Flies/PF Canvas.canvas",
+    "Daily/Personal Statements Brainstorm.md",
+    "Daily/Commonapp Activities.md",
+    "Daily/My fucking week/Life Canvas.canvas",
     "Life/Game Dev/Projects/Project Flies/PF Kanban.md",
+    "Life/Game Dev/Projects/Project Flies/PF Canvas.canvas",
     "Life/Game Dev/Projects/CAS/CAS game kanban.md",
     "Life/Game Dev/Projects/Project Flies/PF Level Design Brainstorm.md",
     "Life/Game Dev/Game Dev Resources.md",
@@ -249,11 +254,9 @@
     "Life/Game Dev/Inspiration.md",
     "Daily/My fucking week/Kanban of Pain.md",
     "Daily/My fucking week/Workout Kanban.md",
-    "Daily/My fucking week/Life Canvas.canvas",
     "Daily/write thoughts.md",
     "Life/Game Dev/Projects/Project Flies/PF Storyline Planning.md",
     "DP English LL/Paper 1/Skateboard.md",
-    "DP English LL/Paper 1/Addiction Practice.md",
-    "DP Computer Science/Internal Assessment/CriD.md"
+    "DP English LL/Paper 1/Addiction Practice.md"
   ]
 }

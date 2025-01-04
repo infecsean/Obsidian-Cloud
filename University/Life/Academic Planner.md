@@ -1,0 +1,16 @@
+Planning for summer classes
+- Phys 2010: general physics I (4 creds)
+	- Available times
+		- Monday-Friday 8am~930am
+	- Discussion
+		- Monday-Friday 10am~1130am
+- Math 2270: Linear Algebra (4 creds) (math 1220 has to be B or above)
+	- Times
+		- MTWF 10am~1110am
+		- FUCk
+- Art 1010?
+- Math 2210:
+	- ![[Pasted image 20240319163011.png]]
+- CS 2420
+	- ![[Pasted image 20240319165020.png]]
+- 

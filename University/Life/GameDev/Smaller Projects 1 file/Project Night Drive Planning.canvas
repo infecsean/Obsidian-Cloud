@@ -1,0 +1,8 @@
+{
+	"nodes":[
+		{"id":"ba3db2b2e88dbcef","x":-497,"y":-282,"width":2057,"height":1562,"type":"group","label":"Scripts"},
+		{"id":"fa28ad01f15c747c","x":-457,"y":-194,"width":717,"height":734,"type":"text","text":"Character Input\n\n- Input Keys\n\t- Centralizes the Control buttons for walking at least\n\t- (Optional) Rebinding function\n\t- List of keys\n\t\t- WASD - Walk\n\t\t- M1 - Use\n\t\t- E - Interact\n\t\t- F - Alt function button\n\t\t\t- Like flicking ash or sumn\n\t\t- Tab - Inventory\n\t\t\t- Two pockets\n\t\t\t- One hand slot\n\t\t\t- One keychain slot\n\t\t- ScrollWheel - Shuffle through keychain\n- Access to Inventory System\n\t- Current Item Held"},
+		{"id":"db766697fd158c24","x":493,"y":-194,"width":647,"height":734,"type":"text","text":"Inventory System\n\n- UI\n\t- Inquiry: Do I put the UI menu toggle visible button here or in the input script?\n- Properties\n\t- Current Item Held\n- "}
+	],
+	"edges":[]
+}

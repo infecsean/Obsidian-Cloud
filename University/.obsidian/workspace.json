@@ -4,39 +4,24 @@
     "type": "split",
     "children": [
       {
-        "id": "d1f2c8e68c209876",
+        "id": "f12de8b4bce8b2b3",
         "type": "tabs",
         "children": [
           {
-            "id": "ce6f075cd617c18a",
+            "id": "e94dfc2abdbafbed",
             "type": "leaf",
             "state": {
-              "type": "kanban",
+              "type": "canvas",
               "state": {
-                "file": "Life/Life Kanban.md"
-              }
-            }
-          },
-          {
-            "id": "fd5829f7f8286ba1",
-            "type": "leaf",
-            "state": {
-              "type": "kanban",
-              "state": {
-                "file": "Life/Academic Kanban.md"
-              }
-            }
-          },
-          {
-            "id": "feeb180a2f3ed10a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Semester 2/PHIL 1003/QCC 10.md",
-                "mode": "source",
-                "source": false
-              }
+                "file": "Life/GameDev/Smaller Projects 1 file/Project Night Drive Planning.canvas",
+                "viewState": {
+                  "x": 505.3073659005789,
+                  "y": 299.552772923298,
+                  "zoom": -0.5
+                }
+              },
+              "icon": "lucide-layout-dashboard",
+              "title": "Project Night Drive Planning"
             }
           }
         ]
@@ -59,7 +44,9 @@
               "type": "file-explorer",
               "state": {
                 "sortOrder": "alphabetical"
-              }
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
             }
           },
           {
@@ -74,7 +61,9 @@
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical"
-              }
+              },
+              "icon": "lucide-search",
+              "title": "Search"
             }
           },
           {
@@ -82,7 +71,9 @@
             "type": "leaf",
             "state": {
               "type": "bookmarks",
-              "state": {}
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
             }
           }
         ]
@@ -105,7 +96,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Life/Life Kanban.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -113,7 +103,9 @@
                 "searchQuery": "",
                 "backlinkCollapsed": false,
                 "unlinkedCollapsed": true
-              }
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks"
             }
           },
           {
@@ -122,10 +114,11 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Life/Life Kanban.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
-              }
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links"
             }
           },
           {
@@ -136,7 +129,9 @@
               "state": {
                 "sortOrder": "frequency",
                 "useHierarchy": true
-              }
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
             }
           },
           {
@@ -145,8 +140,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Life/Life Kanban.md"
-              }
+                "file": "Life/GameDev/Smaller Projects 1 file/Project Night Drive Planning.canvas"
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Project Night Drive Planning"
             }
           },
           {
@@ -154,7 +151,9 @@
             "type": "leaf",
             "state": {
               "type": "calendar",
-              "state": {}
+              "state": {},
+              "icon": "lucide-file",
+              "title": "Plugin no longer active"
             }
           },
           {
@@ -162,7 +161,9 @@
             "type": "leaf",
             "state": {
               "type": "todo",
-              "state": {}
+              "state": {},
+              "icon": "lucide-file",
+              "title": "Plugin no longer active"
             }
           },
           {
@@ -174,11 +175,23 @@
                 "sortOrder": "frequency",
                 "showSearch": false,
                 "searchQuery": ""
-              }
+              },
+              "icon": "lucide-archive",
+              "title": "All properties"
+            }
+          },
+          {
+            "id": "3423ba05150bef26",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {},
+              "icon": "spreadsheet",
+              "title": "Advanced Tables"
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 6
       }
     ],
     "direction": "horizontal",
@@ -192,57 +205,59 @@
       "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
-      "command-palette:Open command palette": false
+      "command-palette:Open command palette": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "ce6f075cd617c18a",
+  "active": "e94dfc2abdbafbed",
   "lastOpenFiles": [
+    "Life/GameDev/Smaller Projects 1 file/Project Night Drive.md",
+    "Life/GameDev/Smaller Projects 1 file/Project Night Drive Planning.canvas",
+    "Transfer/UW.md",
+    "Transfer/Fall 2025/UMich.md",
+    "Transfer/Fall 2025/Northeastern.md",
+    "Transfer/Purdue University.md",
+    "Transfer/Transfer Dates.md",
+    "Transfer/Fall 2025",
+    "Transfer",
+    "Life/GameDev/Smaller Projects 1 file",
     "Life/Academic Kanban.md",
+    "Sum 2024 Sem why even bother/CS2420 Final Note.md",
+    "Life/GameDev/Project Flies/PF Canvas.canvas",
+    "Life/GameDev/Project Flies/PF Pre Discussion.md",
     "Life/Life Kanban.md",
-    "Semester 2/PHIL 1003/QCC 10.md",
-    "Life/Apartment Inquiry.md",
-    "Semester 2/PHIL 1003/QCC 9.md",
-    "Semester 2/PHIL 1003/QCC 8.md",
-    "Semester 2/PHIL 1003/QCC 7.md",
-    "Semester 2/PHIL 1003/QCC 6.md",
-    "Semester 2/WRTG 2010/Discourse Community.md",
-    "Semester 2/PHIL 1003/QCC 4.md",
-    "Semester 2/WRTG 2010/Discourse Community Rough Draft.md",
-    "Life/Academic Kanban (HELP).md",
-    "Semester 2/PHIL 1003/QCC 3.md",
+    "Sum 2024 Sem why even bother/ART1010 Final Outline.md",
+    "Sum 2024 Sem why even bother",
+    "Life/GameDev/Project Flies/PF Design Doc.md",
+    "Life/GameDev/Project Flies/PF Kanban.md",
+    "Life/GameDev/Project Flies/PF Level Design Brainstorm.md",
+    "Life/GameDev/Project Flies/PF Storyline Planning.md",
+    "Semester 2/WRTG 2010/Community researched draft outline.md",
+    "Life/GameDev/Project Flies",
+    "Life/GameDev",
+    "Semester 2/PHIL 1003/QCC 23.md",
+    "Semester 2/PHIL 1003/QCC 20.md",
+    "Semester 2/PHIL 1003/QCC 19.md",
+    "Semester 2/PHIL 1003/QCC 18.md",
+    "Life/Academic Planner.md",
+    "Life/Attachments/Pasted image 20240319165020.png",
+    "Life/Attachments",
+    "Life/Attachments/Pasted image 20240319163011.png",
+    "Semester 2/WRTG 2010/Viewpoint Synthesis Draft.md",
+    "Semester 2/PHIL 1003/QCC 17.md",
+    "Semester 2/PHIL 1003/QCC 16.md",
+    "Semester 2/PHIL 1003/QCC 15.md",
     "Semester 2/WRTG 2010",
-    "Semester 2/CS1420/Meeting 3.md",
-    "Semester 2/CS1420/Trash Compactor 1420.md",
     "Semester 2/CS1420",
-    "Semester 2/PHIL 1003/QCC 2.md",
     "Semester 2/PHIL 1003",
-    "Semester 2",
-    "Semester 1/Writing 1009/WRTG 1009 11.2 Homework Respond to each summary.md",
-    "Semester 1/PRT 1110/PRT1110 Good Time Journal Reflections.md",
-    "Semester 1/PRT 1110/PRT1110 Building a compass.md",
-    "Semester 1/Gobal 1600/Homework/GLOBL1600 Final Essay Brainstorm.md",
-    "Semester 1/PRT 1110/PRT1110 Imagine U Reflection.md",
-    "Semester 1/Writing 1009/Final Essay Proposal.md",
-    "Semester 1/Writing 1009/WRTG1009 Peer feedback.md",
-    "Semester 1/Writing 1009/WRTG1009 Final essay notes.md",
-    "Semester 1/Writing 1009/Final essay notes.md",
-    "Semester 1/Writing 1009/WRTG 1009 11.9 Notes.md",
     "Life/Life Canvas.canvas",
-    "Semester 1/Gobal 1600/Homework",
     "Semester 1/PRT 1110/Attachments/Pasted image 20230926234435.png",
     "Semester 1/PRT 1110/Attachments/Pasted image 20230927163847.png",
     "Semester 1/PRT 1110/Attachments/Pasted image 20230927112805.png",
     "Semester 1/PRT 1110/Attachments/Pasted image 20230927112727.jpg",
     "Semester 1/PRT 1110/Attachments/Pasted image 20230927112714.png",
     "Semester 1/PRT 1110/Attachments/Pasted image 20230927111742.png",
-    "Semester 1/Gobal 1600/In class work",
     "Semester 1/PRT 1110/Attachments/Pasted image 20230927110047.jpg",
-    "Semester 1/PRT 1110/Attachments/Pasted image 20230927102845.jpg",
-    "Semester 1/PRT 1110/Attachments/Pasted image 20230927102821.jpg",
-    "Semester 1/PRT 1110/Attachments/IMG_0736.jpeg",
-    "Semester 1/PRT 1110/Attachments",
-    "Life",
-    "Semester 1/Econ 1740",
-    "Semester 1/PRT 1110"
+    "Semester 1/PRT 1110/Attachments/Pasted image 20230927102845.jpg"
   ]
 }

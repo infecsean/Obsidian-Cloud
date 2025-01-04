@@ -28,6 +28,9 @@ kanban-plugin: basic
 - [ ] Phantom Threads
 - [ ] 500 Days of summer
 - [ ] All about lily chou chou
+- [ ] Lain (From apple tv)
+- [ ] Ergo Proxy
+- [ ] Haibane Renmei
 
 
 ## Book List

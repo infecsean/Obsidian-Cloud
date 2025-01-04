@@ -14,67 +14,32 @@ kanban-plugin: basic
 
 ## CS 1420-001
 
-- [ ] Weekly Quiz Due Mondays @{2024-03-11} @@{23:45}
-- [ ] Assignment 7: Gacha Game @{2024-03-14} @@{23:45}
-- [ ] ==Midterm 2== @{2024-03-20}
-- [ ] Assignment 8: Dynamic Arrays @{2024-03-28} @@{23:45}
+- [ ] Weekly Quiz Due Mondays @{2024-04-22} @@{23:45}
+- [x] Assign 11: Review Score Predictor @{2024-04-18} @@{23:45}
 - [ ] ==Final== @{2024-04-30} @@{13:00}
 
 
 ## EAE 1050-007
 
-- [ ] Lab Simple Scene in Maya @{2024-03-13} @@{23:45}
-- [ ] Design 6 Modeling and Texturing Pokeball @{2024-03-18} @@{23:45}
-- [ ] Zbrush Quick Sculpt @{2024-03-27} @@{23:45}
-- [ ] Design 7 Modeling and texturing shield @{2024-04-01} @@{23:45}
-- [ ] Design 8 Zbrush Creature @{2024-04-22} @@{23:45}
+- [ ] Design 8 Storage Box @{2024-04-22} @@{23:45}
 
 
 ## MATH 1220-005
 
-- [ ] Daily Quiz x2 @{2024-03-11} @@{23:45}
-- [ ] Week 9 HW @{2024-03-15} @@{23:45}
-- [ ] Week 10 HW @{2024-03-22} @@{23:45}
-- [ ] ==Midterm 2== @{2024-03-27}
-- [ ] Week 11 HW @{2024-03-29} @@{23:45}
-- [ ] Week 12 HW @{2024-04-05} @@{23:45}
-- [ ] Week 13 HW @{2024-04-12} @@{23:45}
-- [ ] Week 14 HW @{2024-04-19} @@{23:45}
-- [ ] Week 15 HW @{2024-04-26} @@{23:45}
+- [ ] DQx2 @{2024-04-23} @@{23:45}
+- [ ] Week 13 HW @{2024-04-19} @@{23:45}
+- [ ] Week 14 HW @{2024-04-26} @@{23:45}
 - [ ] ==Final Exam== at LCB 219 @{2024-04-29} @@{18:00}
 
 
 ## PHIL 1003-001
 
-- [ ] Weekly Quiz Due mondays @{2024-03-11} @@{23:45}
-- [ ] QCC 15 Freud @{2024-03-11} @@{23:59}
-- [ ] QCC 16 Heschel @{2024-03-13} @@{23:59}
-- [ ] QCC 17 Johnson @{2024-03-18} @@{23:59}
-- [ ] Unit 2 review @{2024-03-21}
-- [ ] QCC 18 Rachels Relevatism @{2024-03-25} @@{23:59}
-- [ ] QCC 19 Rachels Morality @{2024-03-27} @@{23:59}
-- [ ] QCC 20 Rachels Utilitarian @{2024-04-01} @@{23:59}
-- [ ] QCC 21 Rachels Moral rules @{2024-04-03} @@{23:59}
-- [ ] QCC 22 Le Guin @{2024-04-08} @@{23:59}
-- [ ] QCC 23 Bostrom @{2024-04-10} @@{23:59}
-- [ ] QCC 24 MLK @{2024-04-15} @@{23:59}
-- [ ] QCC 25 Bostrom @{2024-04-17} @@{23:59}
+- [ ] Weekly Quiz Due mondays @{2024-04-22} @@{23:45}
 - [ ] Unit 3 review @{2024-04-23}
 
 
 ## WRTG 2010-092
 
-- [ ] Integrating Sources @{2024-03-13} @@{23:45}
-- [ ] Citation @{2024-03-13} @@{23:45}
-- [ ] Viewpoint Synthesis Rough Draft @{2024-03-17}
-- [ ] Open 2010 Ch1 @{2024-03-21} @@{23:45}
-- [ ] Viewpoint Synthesis Final Draft @{2024-03-24} @@{23:45}
-- [ ] Open 2010 Ch1 Discussion @{2024-03-24} @@{23:45}
-- [ ] Jones Reading Log @{2024-03-26} @@{23:45}
-- [ ] Jones Discussion @{2024-03-31} @@{23:45}
-- [ ] Open 2010 Ch3 Reading Log @{2024-03-31} @@{23:45}
-- [ ] Argument Stasis @{2024-04-07} @@{23:45}
-- [ ] Open 2010 Ch3 Discussion @{2024-04-07} @@{23:45}
 - [ ] Community Researched Argument Rough Draft @{2024-04-21} @@{23:45}
 - [ ] Community Researched Argument Final Draft @{2024-05-03} @@{23:45}
 
@@ -334,6 +299,45 @@ kanban-plugin: basic
 - [x] Week 8 HW @{2024-03-01} @@{23:45}
 - [x] Design 5 Color Size Readability @{2024-03-04} @@{23:45}
 - [x] Choose Topic/Issue/RQ @{2024-03-03} @@{23:45}
+- [x] Daily Quiz x2 @{2024-03-12} @@{23:45}
+- [x] QCC 15 Freud @{2024-03-11} @@{23:59}
+- [x] Integrating Sources @{2024-03-13} @@{23:45}
+- [x] Citation @{2024-03-13} @@{23:45}
+- [x] Assignment 7: Gacha Game @{2024-03-14} @@{23:45}
+- [x] Lab Simple Scene in Maya @{2024-03-13} @@{23:45}
+- [x] Week 9 HW @{2024-03-15} @@{23:45}
+- [x] QCC 16 Heschel @{2024-03-13} @@{23:59}
+- [x] QCC 17 Johnson @{2024-03-18} @@{23:59}
+- [x] Viewpoint Synthesis Rough Draft @{2024-03-17}
+- [x] ==Midterm 2== @{2024-03-20}
+- [x] Design 6 Modeling and Texturing Pokeball @{2024-03-22} @@{23:45}
+- [x] Week 10 HW @{2024-03-22} @@{23:45}
+- [x] Unit 2 review @{2024-03-21}
+- [x] Open 2010 Ch1 @{2024-03-21} @@{23:45}
+- [x] QCC 18 Rachels Relevatism @{2024-03-25} @@{23:59}
+- [x] Viewpoint Synthesis Final Draft @{2024-03-24} @@{23:45}
+- [x] Open 2010 Ch1 Discussion @{2024-03-24} @@{23:45}
+- [x] QCC 19 Rachels Morality @{2024-03-27} @@{23:59}
+- [x] Jones Reading Log @{2024-03-26} @@{23:45}
+- [x] Assignment 8: Dynamic Arrays @{2024-03-28} @@{23:45}
+- [x] ==Midterm 2== @{2024-03-27}
+- [x] Week 11 HW @{2024-03-31} @@{23:45}
+- [x] QCC 20 Rachels Utilitarian @{2024-04-01} @@{23:59}
+- [x] Jones Discussion @{2024-03-31} @@{23:45}
+- [x] Open 2010 Ch3 Reading Log @{2024-03-31} @@{23:45}
+- [x] Assignment 9: Slide puzzle @{2024-04-04} @@{23:45}
+- [x] QCC 21 Rachels Moral rules @{2024-04-03} @@{23:59}
+- [x] Argument Stasis @{2024-04-07} @@{23:45}
+- [x] Open 2010 Ch3 Discussion @{2024-04-07} @@{23:45}
+- [x] Design 7 Modeling and texturing shield @{2024-04-08} @@{23:45}
+- [x] QCC 22 Le Guin @{2024-04-08} @@{23:59}
+- [x] Assignment 10: Paint @{2024-04-11} @@{23:45}
+- [x] Week 12 HW @{2024-04-12} @@{23:45}
+- [x] Week 15 HW @{2024-05-03} @@{23:45}
+- [x] QCC 23 Bostrom @{2024-04-10} @@{23:59}
+- [x] Zbrush Quick Sculpt @{2024-04-10} @@{23:45}
+- [x] QCC 24 MLK @{2024-04-15} @@{23:59}
+- [x] QCC 25 Bostrom @{2024-04-17} @@{23:59}
 
 %% kanban:settings
 ```
